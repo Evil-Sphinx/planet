@@ -1,0 +1,25 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "jest": true
+  },
+  "extends": ["eslint:recommended", "plugin:react/recommended", "plugin:prettier/recommended"],
+  "parserOptions": {
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  },
+  "plugins": ["react"],
+  "rules": {
+    "react/react-in-jsx-scope": "off",
+    "react/prop-types": "off"
+  },
+  "overrides": [
+    {
+      "files": ["**/*.js", "**/*.jsx", "**/*.ts", "**/*.tsx"], // 根据你的文件类型进行调整
+      "env": {
+        "node": true // 表示这些文件是运行在 Node.js 环境中的
+      }
+    }
+  ]
+}

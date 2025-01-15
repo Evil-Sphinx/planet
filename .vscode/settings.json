@@ -1,0 +1,9 @@
+{
+  // 是否在保存时格式化文件, 是，保证 prettier 起作用
+  "editor.formatOnSave": true,
+  // 开启自动修复
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.stylelint": "explicit"
+  }
+}

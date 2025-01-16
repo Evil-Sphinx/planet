@@ -1,7 +1,7 @@
 const menuArr = [
   {
     key: 'qqsg',
-    name: 'QQ三国',
+    name: '消息中心',
     shortName: '三国',
     child: [
       {

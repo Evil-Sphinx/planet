@@ -6,9 +6,11 @@ const { Content } = Layout;
 const Wrapper = (props) => {
   const { children } = props;
   return (
-    <Layout>
+    <Layout className="wrapper">
       <Sidebar />
-      <Content>{React.Children.map(children, (child) => React.cloneElement(child))}</Content>
+      <Content className="main">
+        {React.Children.map(children, (child) => React.cloneElement(child))}
+      </Content>
     </Layout>
   );
 };

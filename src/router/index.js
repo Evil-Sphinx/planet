@@ -26,6 +26,15 @@ const routes = [
     ]
   },
   {
+    path: '/activity',
+    component: lazy(() => import('src/views/activity')),
+    breadcrumb: [
+      {
+        name: '活跃计算'
+      }
+    ]
+  },
+  {
     path: '*',
     component: lazy(() => import('src/views/errorPage'))
   }

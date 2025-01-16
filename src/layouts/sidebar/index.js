@@ -15,7 +15,7 @@ const Sidebar = () => {
         theme="dark"
         //   selectedKeys={[state.highlight || selectedMatched[selectedMatched.length - 1]]}
         mode="inline"
-        //   defaultOpenKeys={this.getDefaultOpenKeys()}
+        defaultOpenKeys={sideMenu.map((i) => i.key)}
         //   onOpenChange={this.handleFooter}
       >
         {sideMenu.map((item) => {

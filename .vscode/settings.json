@@ -5,5 +5,27 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit",
     "source.fixAll.stylelint": "explicit"
-  }
+  },
+  // 开启 stylelint 校验
+  "stylelint.enable": true,
+  // eslint 校验的语言列表
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    {
+      "language": "vue",
+      // 额外配置自动修复
+      "autoFix": true
+    },
+    {
+      "language": "typescript",
+      // 额外配置自动修复
+      "autoFix": true
+    },
+    {
+      "language": "typescriptreact",
+      // 额外配置自动修复
+      "autoFix": true
+    }
+  ]
 }

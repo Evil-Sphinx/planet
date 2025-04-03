@@ -3,9 +3,14 @@ import './index.less';
 import { Card, Input, Table } from 'antd';
 
 import questions from '@/constants/questions';
+import { render } from 'less';
 
+const PAGE_SIZE = 10;
 const Question = () => {
   const [data, setData] = useState(questions);
+
+  const [pageNo, setPageNo] = useState(1);
+  const [pageSize, setPageSize] = useState(PAGE_SIZE);
   const handleSearch = (e) => {
     const value = e.target.value;
 
@@ -20,24 +25,44 @@ const Question = () => {
     setData(filteredQuestions);
   };
 
+  const pagination = {
+    current: pageNo,
+    pageSize: pageSize,
+    total: data ? data.size : 0,
+    hideOnSinglePage: true,
+    onChange: (page, pageSize) => {
+      setPageNo(page);
+      setPageSize(pageSize);
+    }
+  };
+
   const columns = [
     {
       title: '题目',
       dataIndex: 'question',
-      key: 'question'
+      key: 'question',
+      render: (text) => {
+        return <span className="question">{text}</span>;
+      }
     },
     {
       title: '答案',
       dataIndex: 'answer',
-      key: 'answer'
+      key: 'answer',
+      render: (text) => {
+        return <span className="answer">{text}</span>;
+      }
     }
   ];
   return (
     <div className="questionWrap">
       <Input size="large" onChange={handleSearch} />
-      {/* <Card> */}
-      <Table columns={columns} dataSource={data} />
-      {/* </Card> */}
+      <Card
+        style={{
+          marginTop: '20px'
+        }}>
+        <Table columns={columns} dataSource={data} pagination={pagination} />
+      </Card>
     </div>
   );
 };

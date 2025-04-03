@@ -18,7 +18,8 @@ const routes = [
   },
   {
     path: '/index',
-    component: lazy(() => import('src/views/index')),
+    highlight: 'question',
+    component: lazy(() => import('src/views/question')),
     breadcrumb: [
       {
         name: '我的工作台'

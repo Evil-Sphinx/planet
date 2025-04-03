@@ -6,6 +6,7 @@ module.exports = override(
     lessOptions: {
       // 如果需要，可以在这里添加 LESS 的选项
       javascriptEnabled: true,
+      localIdentName: '[local]--[hash:base64:5]',
       modifyVars: { '@primary-color': '#1DA57A' } // 例如，修改主题颜色
     }
   }),

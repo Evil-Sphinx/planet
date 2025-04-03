@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Checkbox, Col, Row, Card } from 'antd';
+import React, { useEffect, useState } from 'react';
+import { Checkbox, Col, Row, Card, Modal, Input, InputNumber, Button } from 'antd';
 import { activity } from '@/constants/activity';
 
 import classNames from 'classnames';
@@ -15,9 +15,11 @@ const CHECK_BOX_NUM_PER_LINE = 3;
 
 const Activity = () => {
   const [playerLevel] = useState(90);
-
   const [doubleActivitys, setDoubleActivitys] = useState([]);
-  // const [currentScore, setCurrentScore] = useState(0);
+  const [completeActivityModalVisible, setCompleteActivityModalVisible] = useState(false);
+  const [completeActivitys, setCompleteActivitys] = useState([]);
+  const [currentScore, setCurrentScore] = useState(0);
+  const [curActivity, setCurActivity] = useState(null);
 
   let score = 0;
 
@@ -31,9 +33,54 @@ const Activity = () => {
     setDoubleActivitys(doubleActivitys);
   };
 
+  useEffect(() => {
+    setCurrentScore(
+      completeActivitys.reduce((pre, cur) => {
+        return pre + (cur.point * cur.times) / cur.totalTimes;
+      }, 0)
+    );
+  }, [completeActivitys]);
+  const handleCompleteActivity = (item) => (e) => {
+    if (e.target.checked) {
+      if (item.times) {
+        setCompleteActivityModalVisible(true);
+        setCurActivity(item);
+        return;
+      }
+
+      setCompleteActivitys([
+        ...completeActivitys,
+        {
+          activityName: e.target.value,
+          times: e.target.checked ? 1 : 0,
+          totalTimes: item.times || 1,
+          point: item.point[playerLevel] * (doubleActivitys.includes(item.activityName) ? 2 : 1)
+        }
+      ]);
+    } else {
+      setCompleteActivitys(
+        completeActivitys.filter((item) => item.activityName !== e.target.value)
+      );
+    }
+  };
+
+  const handleCompleteActivityTimes = (times) => {
+    setCompleteActivitys([
+      ...completeActivitys,
+      {
+        activityName: `_${curActivity.activityName}`,
+        times: times,
+        totalTimes: curActivity.times || 1,
+        point:
+          curActivity.point[playerLevel] *
+          (doubleActivitys.includes(curActivity.activityName) ? 2 : 1)
+      }
+    ]);
+    setCompleteActivityModalVisible(false);
+  };
   return (
     <div className="activityWrap">
-      <div className="pointWrap">350</div>
+      <div className="pointWrap">{currentScore}</div>
       <div className="checkBoxWrap">
         <Card>
           <Group onChange={handleChooseDoubleActivity}>
@@ -52,7 +99,7 @@ const Activity = () => {
                     : item.point[playerLevel]);
                   return (
                     <Col key={index} span={24 / CHECK_BOX_NUM_PER_LINE}>
-                      <Checkbox style={{ fontSize: 'large' }} value={item.activityName}>
+                      <Checkbox value={item.activityName} style={{ fontSize: 'large' }}>
                         <span
                           className={classNames({
                             cold: currentScore < LEVEL_1,
@@ -80,7 +127,10 @@ const Activity = () => {
                         <span className="scoreDes">{currentScore}</span>
                       </Checkbox>
 
-                      <Checkbox value={`_${item.activityName}`} />
+                      <Checkbox
+                        value={`_${item.activityName}`}
+                        onClick={handleCompleteActivity(item)}
+                      />
                     </Col>
                   );
                 })
@@ -88,8 +138,57 @@ const Activity = () => {
             </Row>
           </Group>
         </Card>
+
+        {completeActivityModalVisible && (
+          <CompleteActivityModal
+            visible={completeActivityModalVisible}
+            onOK={handleCompleteActivityTimes}
+            onCancel={() => {
+              setCompleteActivityModalVisible(false);
+            }}
+            maxTimes={curActivity.times}
+          />
+        )}
       </div>
     </div>
+  );
+};
+
+const CompleteActivityModal = (props) => {
+  const { visible, onOK, onCancel, maxTimes } = props;
+
+  const [times, setTimes] = useState(maxTimes);
+
+  const onChange = (value) => {
+    setTimes(Math.min(value, maxTimes));
+  };
+
+  const onOk = () => {
+    onOK(times);
+  };
+
+  return (
+    <Modal
+      centered
+      open={visible}
+      onCancel={onCancel}
+      width={200}
+      footer={null}
+      closable={false}
+      destroyOnClose>
+      <div className="completeModal">
+        <h1>完成次数</h1>
+        <InputNumber onChange={onChange} max={maxTimes} min={1} value={times} />
+        <Button
+          onClick={onOk}
+          type="primary"
+          style={{
+            marginTop: '10px'
+          }}>
+          完成
+        </Button>
+      </div>
+    </Modal>
   );
 };
 

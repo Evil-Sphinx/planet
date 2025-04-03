@@ -1,7 +1,7 @@
 const menuArr = [
   {
     key: 'qqsg',
-    name: '消息中心',
+    name: 'QQ三国',
     shortName: '三国',
     child: [
       {
@@ -10,9 +10,9 @@ const menuArr = [
         url: `#/activity`
       },
       {
-        key: 'answer',
-        name: '答题',
-        url: `#/answer`
+        key: 'question',
+        name: '推举孝廉',
+        url: `#/question`
       }
     ]
   }

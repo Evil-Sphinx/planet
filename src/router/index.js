@@ -27,10 +27,21 @@ const routes = [
   },
   {
     path: '/activity',
+    highlight: 'activity',
     component: lazy(() => import('src/views/activity')),
     breadcrumb: [
       {
         name: '活跃计算'
+      }
+    ]
+  },
+  {
+    path: '/question',
+    highlight: 'question',
+    component: lazy(() => import('src/views/question')),
+    breadcrumb: [
+      {
+        name: '推举孝廉'
       }
     ]
   },

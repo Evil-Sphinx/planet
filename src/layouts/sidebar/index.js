@@ -1,19 +1,29 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 
 import { Layout, Menu } from 'antd';
 
 import sideMenu from 'src/configs/sidemenu';
+import { withRouter } from 'react-router-dom';
 
 const { Sider } = Layout;
 const { SubMenu } = Menu;
 
-const Sidebar = () => {
+const Sidebar = (props) => {
   const [collapsed] = useState(false);
+
+  const { location } = props;
+  const { state = {} } = location;
+  const selectedMatched = location.pathname.split('/');
+
+  useEffect(() => {
+    console.log(props);
+  }, []);
+
   return (
     <Sider collapsed={collapsed}>
       <Menu
         theme="dark"
-        //   selectedKeys={[state.highlight || selectedMatched[selectedMatched.length - 1]]}
+        selectedKeys={[state.highlight || selectedMatched[selectedMatched.length - 1]]}
         mode="inline"
         defaultOpenKeys={sideMenu.map((i) => i.key)}
         //   onOpenChange={this.handleFooter}
@@ -58,4 +68,4 @@ const Sidebar = () => {
   );
 };
 
-export default Sidebar;
+export default withRouter(Sidebar);

@@ -1,0 +1,39827 @@
+export const question = [
+  {
+    answer: '15点-17点',
+    indexes: 'grysedzbsytdsegscmgsclgxssszdssmsj',
+    question: '古人用十二地支表示一天的十二个时辰，每个时辰两个小时，申时指的是什么时间？',
+    id: 17156
+  },
+  {
+    answer: 'F1',
+    indexes: 'xxlzjygangkjjdkjm',
+    question: '想修炼自己,应该按哪个快捷键打开界面?',
+    id: 17157
+  },
+  {
+    answer: '日本',
+    indexes: 'klOKxqyng',
+    question: '卡拉OK兴起于哪国？',
+    id: 17158
+  },
+  {
+    answer: '鲈鳗',
+    indexes: 'wwyyqxxwwjsylsxetkgedmwwynzdwwydxmssmm',
+    question:
+      "娃娃鱼因其形像娃娃，叫声又类似小儿啼哭，故而得名'娃娃鱼'。您知道'娃娃鱼'的学名是什么吗？",
+    id: 17159
+  },
+  {
+    answer: '巴黎',
+    indexes: 'lhgjkwzzzbsznl',
+    question: '联合国教科文组织总部设在哪里？',
+    id: 17160
+  },
+  {
+    answer: '人名',
+    indexes: 'mlsszdsssyg',
+    question: "名落孙山中的'孙山'是一个",
+    id: 17161
+  },
+  {
+    answer: '关羽',
+    indexes: 'wggdwxmzsgyyzszlyggwgzljqlzdqdyxxxzgyxss',
+    question:
+      '我国古典文学名著<三国演义>中塑造了一个过五关斩六将,千里走单骑的英雄形象,这个英雄是谁',
+    id: 17163
+  },
+  {
+    answer: '人约黄昏后',
+    indexes: 'yslstdxyjssm',
+    question: '“月上柳梢头”的下一句是什么？',
+    id: 17164
+  },
+  {
+    answer: '汉武帝',
+    indexes: 'jyswgnyghdsydnh',
+    question: '“建元”是我国哪一个皇帝使用的年号？',
+    id: 17165
+  },
+  {
+    answer: '白桦',
+    indexes: 'mrsdxms',
+    question: '美人树的学名是？',
+    id: 17166
+  },
+  {
+    answer: '柏林',
+    indexes: 'xmngcszdg',
+    question: '下面那个城市在德国?',
+    id: 17167
+  },
+  {
+    answer: '罗贯中',
+    indexes: 'sgyyssdzz',
+    question: '三国演义是谁的著作',
+    id: 17168
+  },
+  {
+    answer: '诸葛亮',
+    indexes: 'kmsz',
+    question: '孔明是指',
+    id: 17169
+  },
+  {
+    answer: '三国演义',
+    indexes: 'ggzjdsslhtjyxsfcbztkqsyjzjdxyhzswgnbwxgdmzdkpc',
+    question:
+      '滚滚长江东逝水,浪花淘尽英雄.是非成败转头空.青山依旧在,几度夕阳红...这是我国哪部文学古典名著的开篇词',
+    id: 17170
+  },
+  {
+    answer: '关羽',
+    indexes: 'syqjjdssdyxgs',
+    question: '水淹七军讲的是谁的英雄故事？',
+    id: 17171
+  },
+  {
+    answer: '杨修',
+    indexes: 'yryhsjdssyccdzdgs',
+    question: '一人一盒酥讲的是谁与曹操斗智的故事',
+    id: 17172
+  },
+  {
+    answer: '魏、蜀、吴',
+    indexes: 'txsfsztxflwnjg',
+    question: "'天下三分'是指天下分裂为哪几国",
+    id: 17173
+  },
+  {
+    answer: '诸葛亮',
+    indexes: 'szqrsgmlhqqmhjdsdgs',
+    question: '舌战群儒、三顾茅庐和七擒孟获讲的谁的故事',
+    id: 17174
+  },
+  {
+    answer: '刘禅',
+    indexes: 'csbzdxdzlbbxz',
+    question: "<出师表>中的'先帝'指刘备,'陛下'指",
+    id: 17175
+  },
+  {
+    answer: '貂婵',
+    indexes: 'lbwlssdz',
+    question: '吕布为了谁杀董卓',
+    id: 17176
+  },
+  {
+    answer: '煮酒论英雄',
+    indexes: 'mchxzqsspyxjsrqjwllyssjybxrszsssdssgyyzlbhccdydgszggss',
+    question:
+      '勉从虎穴暂栖身,说破英雄惊煞人.巧将闻雷来掩饰,随机应变信如神>这首诗说的是<三国演义>中刘备和曹操的一段故事.这个故事是',
+    id: 17177
+  },
+  {
+    answer: '赤壁之战',
+    indexes: 'cywsjbzqdfsgjsgyydsmzyzzydjhgccyqdzbhlzqnbdhcxcyddfdgsyheld',
+    question:
+      "成语'万事俱备,只欠东风'是根据<三国演义>的什么战役中'周瑜定计火攻曹操,一切都准备好了,只缺能把大火吹向曹营的东风.'的故事演化而来的.",
+    id: 17178
+  },
+  {
+    answer: '赤壁之战',
+    indexes: 'zglyzylszhdycyssddzl',
+    question: '诸葛亮与周瑜联手指挥的一场以少胜多的战例',
+    id: 17179
+  },
+  {
+    answer: '言过其实，期期艾艾',
+    indexes: 'yxnlgsysggsygdcyhsy',
+    question: '以下哪两个是与三国故事有关的成语或俗语',
+    id: 17180
+  },
+  {
+    answer: '街亭失守',
+    indexes: 'zglhlzmssywhs',
+    question: '诸葛亮挥泪斩马谡是因为何事.',
+    id: 17181
+  },
+  {
+    answer: '王允',
+    indexes: 'dcdyfss',
+    question: '貂婵的义父是谁？',
+    id: 17182
+  },
+  {
+    answer: '赤壁之战',
+    indexes: 'dmcbszdfbyzlbtqcsseqdjzxdssmzy',
+    question: "杜牧<赤壁>诗中'东风不与周郎便,铜雀春深锁二乔'的句子写的是什么战役;.",
+    id: 17183
+  },
+  {
+    answer: '三打祝家庄',
+    indexes: 'xlgszbssgyyzdyxs',
+    question: '下列故事中不是三国演义中的一项是:',
+    id: 17184
+  },
+  {
+    answer: '张飞',
+    indexes: 'tysjyzsdjljxd',
+    question: '桃园三结义在谁的家里进行的',
+    id: 17185
+  },
+  {
+    answer: '十天',
+    indexes: 'zywmhzglyqqzjtnzcswzj',
+    question: '周瑜为谋害诸葛亮，要求其在几天内造出十万支箭？',
+    id: 17186
+  },
+  {
+    answer: '三十人',
+    indexes: 'ccjjsmzccyjsdsr',
+    question: '草船借箭时，每支草船有军士多少人？',
+    id: 17187
+  },
+  {
+    answer: '赵云',
+    indexes: 'cszdrzzldsyxnw',
+    question: '常山真定人，字子龙的是以下哪位？',
+    id: 17188
+  },
+  {
+    answer: '一千人',
+    indexes: 'zglhsxysmgglbdsrqbhsltmf',
+    question: '诸葛亮火烧新野时，命关公领兵多少人去白河上流头埋伏',
+    id: 17189
+  },
+  {
+    answer: '曹植',
+    indexes: 'tqtzmwhrsq',
+    question: '铜雀台之名为何人所取？',
+    id: 17190
+  },
+  {
+    answer: '刘备',
+    indexes: 'ydxxkhraqxrkzdss',
+    question: '＂一代枭雄，宽厚仁爱，求贤若渴＂指的是谁',
+    id: 17191
+  },
+  {
+    answer: '刘备、张飞、关羽',
+    indexes: 'sgyyztysjydsdxfbssgjdmmszbsmqdmmhsqlyyddmrzsrycs',
+    question:
+      '《三国演义》中桃园三结义的三弟兄分别是双股剑的某某，使丈八蛇矛枪的某某和使青龙偃月刀的某人，这三人依次是',
+    id: 17192
+  },
+  {
+    answer: '许劭',
+    indexes: 'rnygsyplrwdmsplccwzsznclszjxcmss',
+    question: '汝南有个善于评论人物的名士，评论曹操为：“治世之能臣，乱世之奸雄”，此名士是',
+    id: 17193
+  },
+  {
+    answer: '诸葛亮',
+    indexes: 'zzhzhdxzqzgzyrwxqxjsrzyjzjgjczds',
+    question: '＂智者和智慧的象征，清忠耿直，用人唯贤，谦虚、谨慎、认真又尽职、鞠躬尽瘁＂，指的是',
+    id: 17194
+  },
+  {
+    answer: '小说家和戏曲家',
+    indexes: 'sgyydzzlgzsymmcd',
+    question: '三国演义的作者罗贯中，是元末明初的',
+    id: 17195
+  },
+  {
+    answer: '元末明初',
+    indexes: 'zzlgzssmcddr',
+    question: '作者罗贯中是什么朝代的人',
+    id: 17196
+  },
+  {
+    answer: '东汉末年',
+    indexes: 'sgyyjdssmsqdsq',
+    question: '三国演义讲的是什么时期的事情',
+    id: 17197
+  },
+  {
+    answer: '刘备和曹操',
+    indexes: 'sgyyznlwrwqmzjlyx',
+    question: '《三国演义》中哪两位人物青梅煮酒论英雄？',
+    id: 17198
+  },
+  {
+    answer: '曹操、诸葛亮、关羽',
+    indexes: 'sgyyzzyrwzbcsjjjzjyjycs',
+    question: '《三国演义》中主要人物中被称“三绝”：“奸绝”、“智绝”、“义绝”依次是',
+    id: 17199
+  },
+  {
+    answer: '刘备',
+    indexes: 'sqqlrjz',
+    question: '谁娶亲路人皆知',
+    id: 17200
+  },
+  {
+    answer: '小乔',
+    indexes: 'zydqzs',
+    question: '周瑜的妻子是',
+    id: 17201
+  },
+  {
+    answer: '董卓',
+    indexes: 'lbwlmstxlwydhsls',
+    question: '吕布为了美色，听信了王允的话杀了谁',
+    id: 17202
+  },
+  {
+    answer: '吕布',
+    indexes: 'dzrjhsmlmjsyfsdlxddqdlssbz',
+    question: '董卓入京后收买了猛将谁,又废少帝,立献帝,大权独揽,实施暴政。',
+    id: 17203
+  },
+  {
+    answer: '《求贤令》',
+    indexes: 'ccwlxbgddrcdplyjfjdxhmdgdrygldbztclwcsjdyrfzygy210nctxlydsm',
+    question:
+      "曹操为了选拔更多的人才,打破了依据封建德行和门弟高低任用官吏的标准,提出了'唯才是举'的用人方针,于公元210年春天下了一道什么.",
+    id: 17204
+  },
+  {
+    answer: '陈琳',
+    indexes: 'cjtysqcxwmlccdzzsdyssbhgjccds',
+    question: '曾经替袁绍起草檄文,骂了曹操的祖宗三代.袁绍失败后归降曹操的是',
+    id: 17205
+  },
+  {
+    answer: '天下归晋',
+    indexes: 'sgyyxlsggjdxssctysjyzsggjgjllwdsqbshjzldzzlqxgjgdzzcbzzsftxhsm',
+    question:
+      '《三国演义》写了三个国家的兴衰史,从桃园三结义至三国归晋共经历了五大时期,便是黄巾之乱,董卓之乱,群雄割据(官渡之战,赤壁之战),三分天下和什么',
+    id: 17206
+  },
+  {
+    answer: '魏延',
+    indexes: 'zglrwmrsqlesqzsbzjqtexqdsbyrwqnhyfgcrs',
+    question:
+      '诸葛亮认为某人：食其禄而杀其主，是不忠；居其土而献其地，是不义，认为其脑后有反骨，此人是',
+    id: 17207
+  },
+  {
+    answer: '五虎上将',
+    indexes: 'zglqlxclgxssjygzcfw',
+    question: '诸葛亮取了西川，论功行赏时，将有功之臣封为',
+    id: 17208
+  },
+  {
+    answer: '魏延',
+    indexes: 'yxsbszglfdwhsj',
+    question: '以下谁不是诸葛亮封的“五虎上将”',
+    id: 17209
+  },
+  {
+    answer: '杨仪',
+    indexes: 'zglzwzyjdhsstfszcqjgz',
+    question: '诸葛亮在五丈原交代后事时，托付谁主持全局工作',
+    id: 17210
+  },
+  {
+    answer: '姜维',
+    indexes: 'zglzwzyjdhssbbqjjls',
+    question: '诸葛亮在五丈原交代后事时，把兵权交给了谁',
+    id: 17211
+  },
+  {
+    answer: '马岱',
+    indexes: 'wyfhslsjhcdzdyyyqsyyzhhsyyhshlzlwy',
+    question: '魏延放火烧了蜀军回撤的栈道，扬言要擒杀杨仪，最后还是杨仪和谁合力斩了魏延',
+    id: 17212
+  },
+  {
+    answer: '关羽、赵云、张飞、马超、黄忠',
+    indexes: 'yxnxrswhsj',
+    question: '以下哪些人是五虎上将',
+    id: 17213
+  },
+  {
+    answer: '屠户',
+    indexes: 'sgmjzfzydssmcs',
+    question: '三国猛将张飞，字翼德，是什么出身',
+    id: 17214
+  },
+  {
+    answer: '黄忠',
+    indexes: 'szhsxslbhshxslbssrnldzjygszxcbljrjwxfflpzbkby',
+    question:
+      '谁字汉升，先事刘表，后事韩玄。虽两鬓霜色，仍能抡刀斩将，引弓射贼，相传臂力惊人，箭无虚发，非廉颇之辈可比也。',
+    id: 17215
+  },
+  {
+    answer: '鲁肃',
+    indexes: 'ccjjszypsqdtzgldxs',
+    question: '草船借箭时，周瑜派谁去打探诸葛亮的虚实',
+    id: 17216
+  },
+  {
+    answer: '十个',
+    indexes: 'zglgglmyhbxyyxesldglzdgljghscq',
+    question: '诸葛亮“躬耕陇亩”于湖北襄阳以西二十里的古隆中，度过了几个寒暑春秋。',
+    id: 17217
+  },
+  {
+    answer: '徐庶',
+    indexes: 'ssxlbdtjlzgl',
+    question: '是谁向刘备的推荐了诸葛亮',
+    id: 17218
+  },
+  {
+    answer: '四十七岁',
+    indexes: 'lbmzlddyhhdxswlzxnfesqsdzglqjtytxddjslbdd',
+    question:
+      '刘备冒着隆冬的严寒和大雪，三往隆中，向年方二十七岁的诸葛亮请教统一天下的大计时，刘备多大',
+    id: 17219
+  },
+  {
+    answer: '司马懿',
+    indexes: 'kcjszglysbcdxz',
+    question: '空城计是诸葛亮与谁摆出的虚招',
+    id: 17220
+  },
+  {
+    answer: '四川西城',
+    indexes: 'kcjszglzsmdfssdyzhbzj',
+    question: '空城计是诸葛亮在什么地方实施的一招缓兵之计',
+    id: 17221
+  },
+  {
+    answer: '关羽',
+    indexes: 'lbdctmzhclsdzq',
+    question: '吕布的赤兔马最后成了谁的座骑',
+    id: 17222
+  },
+  {
+    answer: '张飞',
+    indexes: 'dmszsdzbsmzx',
+    question: '邓茂死在谁的丈八蛇矛之下',
+    id: 17223
+  },
+  {
+    answer: '蜀国',
+    indexes: 'djszyhzsngdzj',
+    question: '定军山战役黄忠是哪国的主将',
+    id: 17224
+  },
+  {
+    answer: '陈寿',
+    indexes: 'ymmclgzzhmjcshxqhbyjjhsdsgzhpszzdslwclsgyy',
+    question:
+      '元末明初罗贯中综合民间传说和戏曲、话本，以及结合谁的《三国志》和裴松之注的史料完成了三国演义',
+    id: 17225
+  },
+  {
+    answer: '献帝',
+    indexes: 'cchsxcslsytcydgsslyzlzrs',
+    question: '曹操和谁许昌狩猎时，用他曾用的弓射杀了一只鹿，这人是',
+    id: 17226
+  },
+  {
+    answer: '《隋唐志传》',
+    indexes: 'lgzczysgyywhzy',
+    question: '罗贯中除著有《三国演义》外还著有',
+    id: 17227
+  },
+  {
+    answer: '五虎将',
+    indexes: 'yxngbslbdcw',
+    question: '以下哪个不是刘备的称谓',
+    id: 17228
+  },
+  {
+    answer: '长沙攸县',
+    indexes: 'hzyzjzjflbhxrzzljylbczlpgshd',
+    question: '黄忠原在荆州军阀刘表麾下任职中郎将，与刘表从子刘磐共守何地',
+    id: 17229
+  },
+  {
+    answer: '武陵',
+    indexes: 'cbzzhlbzjnsjzstshxgytszfjlltsyjhctsjxyktj',
+    question:
+      '赤壁之战后，刘备征荆南四郡。长沙太守韩玄、桂阳太守赵范及零陵太守，以及何处太守金旋一块投降',
+    id: 17230
+  },
+  {
+    answer: '玄德',
+    indexes: 'lbzsm',
+    question: '刘备字什么',
+    id: 17231
+  },
+  {
+    answer: '刘磐',
+    indexes: 'hzywlbsxshsytzszs',
+    question: '黄忠原为刘表手下时和谁一同镇守长沙',
+    id: 17232
+  },
+  {
+    answer: '袁绍',
+    indexes: 'gy201nccygddzzdbsjengrn',
+    question: '公元201年，曹操于官渡大战中大败谁，进而南攻汝南',
+    id: 17233
+  },
+  {
+    answer: '刘胜',
+    indexes: 'hjbshdkghdxcshjdzzzsjwsdhd',
+    question: '何进备，蜀汉的开国皇帝，相传是汉景帝之子中山靖王谁的后代。',
+    id: 17234
+  },
+  {
+    answer: '韩玄',
+    indexes: 'whjzydhzyssdsx',
+    question: '五虎将之一的黄忠原是谁的手下',
+    id: 17235
+  },
+  {
+    answer: '207年',
+    indexes: 'lbsgmlqdzgljrdclzddzlfzdgszgydsn',
+    question: '刘备三顾茅庐请得诸葛亮加入，得出隆中对的战略方针，大概是在公元多少年',
+    id: 17236
+  },
+  {
+    answer: '项羽射箭－百发百中',
+    indexes: 'xmnjxhybzq',
+    question: '下面哪句歇后语不正确',
+    id: 17237
+  },
+  {
+    answer: '公孙康',
+    indexes: 'jdsrjsccrysyshptzsywzl',
+    question: '借刀杀人计是曹操让袁氏与谁火拼，他坐收渔翁之利',
+    id: 17238
+  },
+  {
+    answer: '声东击西计',
+    indexes: 'ccxbtfzxjgnycbxysccmsbzhjxgczbzjqjzcxbjrczyqjxkdqcysjjjjwzxxsyjzjs',
+    question:
+      '曹操兴兵讨伐张绣，久攻南阳城不下。于是曹操命士兵做好继续攻城准备，自己却假装从西北角入城。这一切贾诩看得清楚，于是将计就计为张绣献上一计，这计是',
+    id: 17239
+  },
+  {
+    answer: '韩遂',
+    indexes: 'ljjsccylljmcysd',
+    question: '离间计是曹操用来离间马超与谁的',
+    id: 17240
+  },
+  {
+    answer: '翁中捉鳖计',
+    indexes: 'cbzzhccyzzxzjhxmslzspmttxxdysxyxssmj',
+    question: '赤壁之战后，曹操一直在寻找机会消灭孙刘，只是怕马腾偷袭许都。于是荀攸献上什么计',
+    id: 17241
+  },
+  {
+    answer: '何进',
+    indexes: 'dhmnwqyhgzdyqgtnlxlddzsdsmqjjjjdmlyybj',
+    question:
+      '东汉末年，外戚与宦官争斗，引起宫廷内乱。西凉的董卓收到谁命其进京救驾的密令，犹豫不决',
+    id: 17242
+  },
+  {
+    answer: '李儒',
+    indexes: 'dhmngtnlsdzdmsslqdzyfzjjwmcjjjdqzq',
+    question: '东汉末年宫廷内乱时，董卓的谋士谁，力劝董卓以“奉诏救驾”为名，趁机进京夺取政权。',
+    id: 17243
+  },
+  {
+    answer: '调虎离山',
+    indexes: 'ccdbzxhmtzxxzlbrgzmylbjsjsqsyhssczzszytjccdcdcgyyhjddbbxrdmd',
+    question:
+      '曹操打败张绣后，矛头指向徐州吕布，如果正面与吕布交手即使取胜也会损失惨重。这时早已投降曹操的陈登成功运用何计，达到兵不血刃的目的。',
+    id: 17244
+  },
+  {
+    answer: '美人计',
+    indexes: 'stwykddzlbjshsztysqssmjrdcljdzlbcerqfzlrhb',
+    question:
+      '司徒王允看到董卓、吕布皆是好色之徒，于是巧使什么计，让貂蝉离间董卓吕布，从而让其父子两人火并',
+    id: 17245
+  },
+  {
+    answer: '蒋干',
+    indexes: 'sddwyszybzyjjjjsccsscmzysjldd',
+    question: '谁到东吴游说周瑜，被周瑜将计就计，使曹操杀死蔡瑁张允水军两都督，',
+    id: 17246
+  },
+  {
+    answer: '黄盖',
+    indexes: 'zyyshylyckrjlrcczjwhldhscclxhmgl',
+    question: '周瑜与谁合演了一场苦肉计来，让曹操中计，为后来的火烧曹船立下汗马功劳。',
+    id: 17247
+  },
+  {
+    answer: '曹操',
+    indexes: 'dsjgzdwysptbjltjptqjs',
+    question: '当时蒋干在东吴遇上庞统，并极力推荐庞统去见谁',
+    id: 17248
+  },
+  {
+    answer: '连环计',
+    indexes: 'ptyxrdwylbqsxjccrcjjmzcyhlszycbrlpdcjs',
+    question:
+      '庞统有心让东吴与刘备取胜，献计曹操，让曹军将每只船用环连上，这样曹兵如履平地，此计是',
+    id: 17249
+  },
+  {
+    answer: '赤壁之战',
+    indexes: 'yxngzysylccjjlhjkrjjdfljjddgjc',
+    question: '以下哪个战役使用了草船借箭、连环计、苦肉计、借东风、离间计等多个计策',
+    id: 17250
+  },
+  {
+    answer: '法正',
+    indexes: 'yydljssjgddjssstcdjm',
+    question: '以逸待劳计是蜀军攻打定军山时，谁提出的计谋',
+    id: 17251
+  },
+  {
+    answer: '桃园结义',
+    indexes: 'sgyydyhjdjssmgs',
+    question: '三国演义第一回讲的就是什么故事',
+    id: 17252
+  },
+  {
+    answer: '张',
+    indexes: 'zfdbbxsm',
+    question: '张飞的爸爸姓什么',
+    id: 17253
+  },
+  {
+    answer: '吕布',
+    indexes: 'mzctrzqzhssm',
+    question: '“马中赤兔，人中？”其中?号是什么',
+    id: 17254
+  },
+  {
+    answer: '谡',
+    indexes: 'hlzmSUSUzzmx',
+    question: '挥泪斩马SU，SU字怎么写',
+    id: 17255
+  },
+  {
+    answer: '北伐时病死在五丈原',
+    indexes: 'kmszmsd',
+    question: '孔明是怎么死的',
+    id: 17256
+  },
+  {
+    answer: '因为他认为曹操示意“一人一口酥”',
+    indexes: 'yxwhbccdyhsyzjsfcl',
+    question: '杨修为何把曹操的一盒酥与众将士分吃了',
+    id: 17257
+  },
+  {
+    answer: '关云',
+    indexes: 'yxzdbsgyds',
+    question: '以下指的不是关羽的是',
+    id: 17258
+  },
+  {
+    answer: '关云长',
+    indexes: 'shmcwdyzdcqswnfwrygzwtrxrjcqybyzrqgbzgsfxdss',
+    question:
+      '诗“汉末才无敌，云长独出群，神威能奋武，儒雅更知文，天日心如镜，《春秋》义薄云，昭然千古，不止冠三分”写的是谁',
+    id: 17259
+  },
+  {
+    answer: '孟德',
+    indexes: 'yxzdbszglds',
+    question: '以下指的不是诸葛亮的是',
+    id: 17260
+  },
+  {
+    answer: '诸葛圭',
+    indexes: 'zgldfqj',
+    question: '诸葛亮的父亲叫',
+    id: 17261
+  },
+  {
+    answer: '27岁',
+    indexes: 'lbsgmlszgldss',
+    question: '刘备三顾茅庐时，诸葛亮多少岁',
+    id: 17262
+  },
+  {
+    answer: '成都',
+    indexes: 'lbznjllshzq',
+    question: '刘备在哪建立了蜀汉政权',
+    id: 17263
+  },
+  {
+    answer: '黄巾军',
+    indexes: '184nhjmbbfsdsrzspsszzlbzzqybgszjtfsmj',
+    question: '184年，黄巾民变爆发，受到商人张世平、苏双资助，刘备组织起义兵，跟随邹靖讨伐什么军',
+    id: 17264
+  },
+  {
+    answer: '吕布',
+    indexes: 'cjhgyzfxdlrddbfsxddywjw',
+    question: '曾经和关羽，张飞兄弟两人打的不分上下的第一武将为?',
+    id: 17265
+  },
+  {
+    answer: '关羽',
+    indexes: 'hjzczywhrss',
+    question: '黄巾贼程志远为何人所杀?',
+    id: 17266
+  },
+  {
+    answer: '黄盖',
+    indexes: 'cbzzzsxczjcc',
+    question: '赤壁之战中，谁献策诈降曹操?',
+    id: 17267
+  },
+  {
+    answer: '铜雀台',
+    indexes: 'ccyrjxyjxwlsdzddjlyzjtqmw',
+    question: '曹操因人进献一吉祥物，劳师动众的搭建了一座巨台，其名为?',
+    id: 17268
+  },
+  {
+    answer: '曹丕',
+    indexes: 'lsfqzlssyzsdqz',
+    question: '「洛神赋」其中洛神是意指谁的妻子?',
+    id: 17269
+  },
+  {
+    answer: '五丈原',
+    indexes: 'kmzhycbfsbsznl',
+    question: '孔明最后一次北伐时病死在哪里?',
+    id: 17270
+  },
+  {
+    answer: '夏侯惇',
+    indexes: 'zzzzyjbljszsfjmxbkqebyjcdds',
+    question: '在作战中眼睛被流箭射中，说：「父精母血不可弃」而把眼睛吃掉的是?',
+    id: 17271
+  },
+  {
+    answer: '顾雍',
+    indexes: 'sqcdhxlhzbrmcx',
+    question: '孙权称帝后，下列何者被任命丞相?',
+    id: 17272
+  },
+  {
+    answer: '于禁',
+    indexes: 'ccwyjjzcmzznzbjlrbrlszfbwssgzmjhyjzzwhr',
+    question:
+      '曹操谓曰「将军在匆忙之中，能整兵坚垒，任谤任劳，使之反败为胜虽古之名将，何以加兹者!」为何人?',
+    id: 17273
+  },
+  {
+    answer: '刘备',
+    indexes: 'sgsqcwddghyxdss',
+    question: '三国时期，从未得到过汉玉玺的是谁?',
+    id: 17274
+  },
+  {
+    answer: '祝融',
+    indexes: 'kmznmscqqqzmhmhdfrj',
+    question: '孔明征南蛮时曾七擒七纵孟获，孟获的夫人叫？',
+    id: 17275
+  },
+  {
+    answer: '关平',
+    indexes: 'gydyzss',
+    question: '关羽的养子是谁?',
+    id: 17276
+  },
+  {
+    answer: '孙坚',
+    indexes: 'nywjzlbmyqtk',
+    question: '那一位君主，刘备没有去投靠?',
+    id: 17277
+  },
+  {
+    answer: '曹植',
+    indexes: 'qbcsds',
+    question: '七步成诗的是?',
+    id: 17278
+  },
+  {
+    answer: '哭出来的',
+    indexes: 'xhylbdjss',
+    question: '歇后语--刘备的江山是?',
+    id: 17279
+  },
+  {
+    answer: '他专杀义父',
+    indexes: 'dccqdlbxswyzslbjlsmyslbbs',
+    question: '当曹操擒得吕布想收为义子时，刘备建了什么言使吕布被杀?',
+    id: 17280
+  },
+  {
+    answer: '许贡',
+    indexes: 'ssxccbgscxqxdzxhbscss',
+    question: '是谁向曹操报告孙策袭取许都之心，后被孙策所杀?',
+    id: 17281
+  },
+  {
+    answer: '逍遥津之战',
+    indexes: 'szlcmdzygssm',
+    question: '使张辽成名的战役各是什么?',
+    id: 17282
+  },
+  {
+    answer: '长板桥之战',
+    indexes: 'szycmdzygssm',
+    question: '使赵云成名的战役各是什么?',
+    id: 17283
+  },
+  {
+    answer: '管仲',
+    indexes: 'zglyjscbzjbz',
+    question: '诸葛亮隐居时常把自己比作?',
+    id: 17284
+  },
+  {
+    answer: '徐庶',
+    indexes: 'qwcjdglbjsddfqsshr',
+    question: '请问曾经当过刘备军师的「单福」其实是何人?',
+    id: 17285
+  },
+  {
+    answer: '曹性',
+    indexes: 'xhdbhrsqyy',
+    question: '夏侯惇被何人射去一眼?',
+    id: 17286
+  },
+  {
+    answer: '乔国公',
+    indexes: 'zyqdxqssdne',
+    question: '周瑜娶的小乔是谁的女儿?',
+    id: 17287
+  },
+  {
+    answer: '严颜',
+    indexes: 'cszydtjjwjjjdsdzhhstjzfdjls',
+    question: '称蜀中有断头将军，无降将军，但是到最后还是投降张飞的将领是?',
+    id: 17288
+  },
+  {
+    answer: '李恢',
+    indexes: 'sstlbsjlmc',
+    question: '是谁替刘备说降了马超?',
+    id: 17289
+  },
+  {
+    answer: '赵云',
+    indexes: 'qwkmjwdfhyhrjyebgzyprzs',
+    question: '请问孔明借完东风后由何人接应，而避过周瑜派人追杀?',
+    id: 17290
+  },
+  {
+    answer: '周瑜',
+    indexes: 'cbzzddgcymzlzcds',
+    question: '赤壁之战的大功臣，有「美周郎」之称的是?',
+    id: 17291
+  },
+  {
+    answer: '赵云',
+    indexes: 'qwzsxrdzjaddss',
+    question: '请问只身陷入敌阵救阿斗的是谁?',
+    id: 17292
+  },
+  {
+    answer: '七擒七纵',
+    indexes: 'kmjqjzmh',
+    question: '孔明几擒几纵孟获?',
+    id: 17293
+  },
+  {
+    answer: '赤兔马',
+    indexes: 'gylccsdzhw',
+    question: '关羽离曹操时带走何物?',
+    id: 17294
+  },
+  {
+    answer: '庞统',
+    indexes: 'sdlbrtxdjxdqyzds',
+    question: '说动刘备，让他下定决心夺取益州的是?',
+    id: 17295
+  },
+  {
+    answer: '太丑',
+    indexes: 'wsmptbbsqzy',
+    question: '为什么庞统不被孙权重用?',
+    id: 17296
+  },
+  {
+    answer: '夏侯惇',
+    indexes: 'dwssjsjccd',
+    question: '典韦是谁介绍给曹操的?',
+    id: 17297
+  },
+  {
+    answer: '马岱',
+    indexes: 'wyzfjgsyhrss',
+    question: '魏延造反结果死于何人手上?',
+    id: 17298
+  },
+  {
+    answer: '徒手搏虎',
+    indexes: 'whxcjhc',
+    question: '为何许褚叫虎痴?',
+    id: 17299
+  },
+  {
+    answer: '蒋琬',
+    indexes: 'zglshsgnzyhrdz',
+    question: '诸葛亮死后，蜀国内政由何人代之?',
+    id: 17300
+  },
+  {
+    answer: '三个锦囊',
+    indexes: 'lbdwgqxnszgljtsmdx',
+    question: '刘备到吴国「娶新娘」时诸葛亮给他什么东西?',
+    id: 17301
+  },
+  {
+    answer: '夏侯惇',
+    indexes: 'bmhjwwtjjds',
+    question: '被祢衡讥为「完体将军」的是?',
+    id: 17302
+  },
+  {
+    answer: '赵云',
+    indexes: 'qwcyhssdjdsxmnwjl',
+    question: '请问成语“浑身是胆”将的是下面哪位将领?',
+    id: 17303
+  },
+  {
+    answer: '徐庶',
+    indexes: 'sgyyzcrdbmjszbnwjssp',
+    question: '三国演义中，曹仁的八门金锁阵被哪位军师所破?',
+    id: 17304
+  },
+  {
+    answer: '马良',
+    indexes: 'rcmswcbmzlszds',
+    question: '人称「马氏五常，白眉最良」所指的是?',
+    id: 17305
+  },
+  {
+    answer: '乌巢',
+    indexes: 'xyxjccjysjdjlczcyjsjqwysdlcsz',
+    question: '许攸献计曹操，将袁绍军囤积粮草之处一举烧尽，请问袁绍的粮仓是在?',
+    id: 17306
+  },
+  {
+    answer: '赵范',
+    indexes: 'yjsgdndszfsjyzydqrdzydnds',
+    question: '欲将守寡多年的嫂子樊氏嫁与赵云，但却惹得赵云大怒的是?',
+    id: 17307
+  },
+  {
+    answer: '蒋干',
+    indexes: 'qwzylyhrsccslcmzyer',
+    question: '请问周瑜利用何人使曹操杀了蔡瑁，张允二人?',
+    id: 17308
+  },
+  {
+    answer: '吕蒙',
+    indexes: 'rgydysjzddwjlw',
+    question: '让关羽大意失荆州的东吴将领为?',
+    id: 17309
+  },
+  {
+    answer: '姜维',
+    indexes: 'zglshszdzzs',
+    question: '诸葛亮死后蜀中的支柱是?',
+    id: 17310
+  },
+  {
+    answer: '卧龙先生',
+    indexes: 'zglrc',
+    question: '诸葛亮人称?',
+    id: 17311
+  },
+  {
+    answer: '关羽',
+    indexes: 'xlwhjzngzzs',
+    question: '下列五虎将中那个最早死?',
+    id: 17312
+  },
+  {
+    answer: '周仓',
+    indexes: 'xzmzsxjzzwggybblpydjsgpzbhlcddzsggbjs',
+    question: '现在庙中神像，居中者为关公，右边白脸捧印的就是关平；左边黑脸持刀的，则是关公部将谁?',
+    id: 17313
+  },
+  {
+    answer: '汉献帝',
+    indexes: 'dhmnccxctzylzhjzdtzsz',
+    question: '东汉末年，「曹操挟持天子以令诸侯」，句中的「天子」是指?',
+    id: 17314
+  },
+  {
+    answer: '母亲',
+    indexes: 'cczlxsdngqryxgy',
+    question: '曹操抓了徐庶的哪个亲人要挟归依？',
+    id: 17315
+  },
+  {
+    answer: '官渡之战',
+    indexes: 'jdcchyszbsfdgjzys',
+    question: '决定曹操和袁绍争霸胜负的关键战役是?',
+    id: 17316
+  },
+  {
+    answer: '曹操',
+    indexes: 'dgxssdszn',
+    question: '《短歌行》是谁的诗作呢?',
+    id: 17317
+  },
+  {
+    answer: '县令',
+    indexes: 'lbzxpjptdzws',
+    question: '刘备最先派给庞统的职位是?',
+    id: 17318
+  },
+  {
+    answer: '208',
+    indexes: 'cbzzsyxyjn',
+    question: '赤壁之战始于西元几年?',
+    id: 17319
+  },
+  {
+    answer: '吕布',
+    indexes: 'ggdzqctmybssysd',
+    question: '关公的坐骑赤兔马原本是属于谁的?',
+    id: 17320
+  },
+  {
+    answer: '马超',
+    indexes: 'cyzfxcdzebfsfdxlmjs',
+    question: '曾与张飞，许褚大战而不分胜负的西凉猛将是?',
+    id: 17321
+  },
+  {
+    answer: '周瑜',
+    indexes: 'kmqswgdjsss',
+    question: '孔明气死吴国的军师是谁?',
+    id: 17322
+  },
+  {
+    answer: '河东解人',
+    indexes: 'bhszwwsdgyscsnlr',
+    question: '被后世尊为武神的关羽是出生哪里人?',
+    id: 17323
+  },
+  {
+    answer: '吕布',
+    indexes: 'sldzdxsss',
+    question: '杀了董卓的凶手是谁?',
+    id: 17324
+  },
+  {
+    answer: '华雄',
+    indexes: 'qxtfdzzssgyzljddjss',
+    question: '群雄讨伐董卓，在泗水关迎战联军的大将是谁?',
+    id: 17325
+  },
+  {
+    answer: '张角',
+    indexes: 'qwhjzdldss',
+    question: '请问黄巾贼的老大是谁?',
+    id: 17326
+  },
+  {
+    answer: '孙策',
+    indexes: 'dqjjl',
+    question: '大乔嫁给了?',
+    id: 17327
+  },
+  {
+    answer: '孟获',
+    indexes: 'wpdnzdqdplbkmqqqzds',
+    question: '为平定南中地区的叛乱，被孔明「七擒七纵」的是?',
+    id: 17328
+  },
+  {
+    answer: '张飞',
+    indexes: 'nwhjcylbjsgn',
+    question: '哪位豪杰曾与吕布交手过呢?',
+    id: 17329
+  },
+  {
+    answer: '颜良',
+    indexes: 'gyzcjsxzslnywyjdj',
+    question: '关羽在曹军时先斩杀了哪一位袁军大将?',
+    id: 17330
+  },
+  {
+    answer: '董卓',
+    indexes: 'ctmzzzrss',
+    question: '赤兔马最早主人是谁?',
+    id: 17331
+  },
+  {
+    answer: '不自量力',
+    indexes: 'sgxhyggqmsddhms',
+    question: '三国歇后语，「关公前面耍大刀」后面是?',
+    id: 17332
+  },
+  {
+    answer: '袁術',
+    indexes: 'ysdsdss',
+    question: '袁绍的三弟是谁?',
+    id: 17333
+  },
+  {
+    answer: '陈群',
+    indexes: 'jpgrzsstcld',
+    question: '「九品官人制」是谁提出来的?',
+    id: 17334
+  },
+  {
+    answer: '兵法二十四篇',
+    indexes: 'zgllzscsjwdbfs',
+    question: '诸葛亮临终时传授姜维的兵法是？',
+    id: 17335
+  },
+  {
+    answer: '赵云',
+    indexes: 'sgzbzglczzjjyds',
+    question: '三国中被诸葛亮称赞「真将军也」的是?',
+    id: 17336
+  },
+  {
+    answer: '刽子手',
+    indexes: 'gyzxhnyzzy',
+    question: '关羽最喜欢哪一种职业?',
+    id: 17337
+  },
+  {
+    answer: '邓茂',
+    indexes: 'sgyyzdygszzfzbsmzxds',
+    question: '三国演义中，第一个死在张飞丈八蛇矛之下的是?',
+    id: 17338
+  },
+  {
+    answer: '许攸',
+    indexes: 'yssxnwmsdtccbxjhswclc',
+    question: '袁绍手下哪位谋士倒投曹操并献计火烧乌巢粮仓?',
+    id: 17339
+  },
+  {
+    answer: '木牛流马',
+    indexes: 'zglfmdysgjjz',
+    question: '诸葛亮发明的运输工具叫作?',
+    id: 17340
+  },
+  {
+    answer: '魏',
+    indexes: 'sgsqjgzzds',
+    question: '三国时期建国最早的是?',
+    id: 17341
+  },
+  {
+    answer: '曹嵩',
+    indexes: 'ccdfqmzs',
+    question: '曹操的父亲名字是?',
+    id: 17342
+  },
+  {
+    answer: '张飞',
+    indexes: 'gydccshrdymgsyt',
+    question: '关羽对曹操说何人的勇猛更胜于他?',
+    id: 17343
+  },
+  {
+    answer: '沮授',
+    indexes: 'hrjyysxtzylzhdbjj',
+    question: '何人建议袁绍「挟天子以令诸侯」但被拒绝?',
+    id: 17344
+  },
+  {
+    answer: '青州兵',
+    indexes: 'ccjyzzsmb',
+    question: '曹操据兖州组什么兵?',
+    id: 17345
+  },
+  {
+    answer: '裴元绍',
+    indexes: 'bydqgydctmdzzdsgyhjgsds',
+    question: '本欲夺去关羽的赤兔马，但在知道是关羽后即归顺的是?',
+    id: 17346
+  },
+  {
+    answer: '乐毅',
+    indexes: 'zglczbgzhs',
+    question: '诸葛亮常自比管仲和谁?',
+    id: 17347
+  },
+  {
+    answer: '鹿',
+    indexes: 'xdzxcslscccyxddgsslyzdwnzdwssm',
+    question: '献帝在许昌狩猎时，曹操曾用献帝的弓射杀了一只动物，那只动物是什么?',
+    id: 17348
+  },
+  {
+    answer: '诸葛亮',
+    indexes: 'mtshrfmd',
+    question: '馒头是何人发明的?',
+    id: 17349
+  },
+  {
+    answer: '刘备',
+    indexes: 'cccjmscbjjys',
+    question: '曹操曾经命谁出兵截击袁术?',
+    id: 17350
+  },
+  {
+    answer: '刘禅',
+    indexes: 'lbssszyxnygr',
+    question: '「乐不思蜀」是指以下那一个人?',
+    id: 17351
+  },
+  {
+    answer: '卖草鞋',
+    indexes: 'lbcjzgsmzy',
+    question: '刘备曾经作过什么职业?',
+    id: 17352
+  },
+  {
+    answer: '刘备',
+    indexes: 'cczjlyxszdyxss',
+    question: '曹操煮酒论英雄时指的英雄是谁?',
+    id: 17353
+  },
+  {
+    answer: '曹丕',
+    indexes: 'ccshyhrjc',
+    question: '曹操死后由何人继承?',
+    id: 17354
+  },
+  {
+    answer: '曹操',
+    indexes: 'qwdjdgrsjhssdsj',
+    question: '请问“对酒当歌，人生几何？”是谁的诗句？',
+    id: 17355
+  },
+  {
+    answer: '火烧连营',
+    indexes: 'qwxmsjzycbzzwgdsjy',
+    question: '请问下面事件中与赤壁之战无关的事件有？',
+    id: 17356
+  },
+  {
+    answer: '白帝城',
+    indexes: 'qwlbtgddds',
+    question: '请问刘备托孤的地点是？',
+    id: 17357
+  },
+  {
+    answer: '宜陵之战',
+    indexes: 'qwswlfzzzjsdzys',
+    question: '请问蜀吴两方作战中，决胜的战役是？',
+    id: 17358
+  },
+  {
+    answer: '麦城',
+    indexes: 'qwgybzddfj',
+    question: '请问关羽败走的地方叫？',
+    id: 17359
+  },
+  {
+    answer: '水镜先生',
+    indexes: 'zgldlss',
+    question: '诸葛亮的老师是？',
+    id: 17360
+  },
+  {
+    answer: '黄忠',
+    indexes: 'djszydsjzjss',
+    question: '定军山战役的蜀军主将是谁？',
+    id: 17361
+  },
+  {
+    answer: '许褚',
+    indexes: 'cycbszsznwjldsj',
+    question: '成语“赤膊上阵”是指那位将领的事迹？',
+    id: 17362
+  },
+  {
+    answer: '司马炎',
+    indexes: 'zhtysgdrss',
+    question: '最后统一三国的人是谁？',
+    id: 17363
+  },
+  {
+    answer: '曹操',
+    indexes: 'gdzzzbysjwkdjls',
+    question: '官渡之战中，被袁绍军围困的将领是？',
+    id: 17364
+  },
+  {
+    answer: '是',
+    indexes: 'zQQsgzygQQhxmsyjsdcksgydm',
+    question: '在QQ三国中,一个QQ号下面所有角色的仓库是共用的吗?',
+    id: 17365
+  },
+  {
+    answer: '12',
+    indexes: 'zQQsgzjjkyjfzydjzrw',
+    question: '在QQ三国中,几级可以接副职业的就职任务?',
+    id: 17366
+  },
+  {
+    answer: '5',
+    indexes: 'zQQsgzydsgfzy',
+    question: '在QQ三国中,有多少个副职业?',
+    id: 17367
+  },
+  {
+    answer: '千货商',
+    indexes: 'zxscdngNPCkyjfzydjzrw',
+    question: '在新手城的哪个NPC可以接副职业的就职任务？',
+    id: 17368
+  },
+  {
+    answer: '即能做蓝药也能做红药',
+    indexes: 'zQQsgzfzypddzyssm',
+    question: '在QQ三国中,副职业庖丁的作用是什么?',
+    id: 17369
+  },
+  {
+    answer: '回体力的蓝药',
+    indexes: 'nehss',
+    question: '男儿黑是啥?',
+    id: 17370
+  },
+  {
+    answer: '一段时间内回复生命的',
+    indexes: 'clhhrysy',
+    question: '吃了红红肉有啥用?',
+    id: 17371
+  },
+  {
+    answer: '即时回复500生命',
+    indexes: 'cljzhhfssmsq',
+    question: '吃了饺子后会发生什么事情?',
+    id: 17372
+  },
+  {
+    answer: '即时回复200体力',
+    indexes: 'hlmrwjhfssmsq',
+    question: '喝了美髯温酒会发生什么事情?',
+    id: 17373
+  },
+  {
+    answer: '幸运合成或者使用初级锅',
+    indexes: 'y5gjdkyscc10gzjdm',
+    question: '用5个鸡蛋可以生产出10个煮鸡蛋吗？',
+    id: 17374
+  },
+  {
+    answer: '即时回复300生命',
+    indexes: 'clzjddhgs',
+    question: '吃了煮鸡蛋的后果是？',
+    id: 17375
+  },
+  {
+    answer: '牙签滑鱼和闪避之石',
+    indexes: 'yxnxwpsyhhzjhb',
+    question: '以下哪些物品使用后会增加回避?',
+    id: 17376
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'yxnxwpsyhkyzydsjntgtldhfsd',
+    question: '以下哪些物品使用后可以在一段时间内提高体力的恢复速度?',
+    id: 17377
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'yxnxwpsyhkyzydsjntgsmdhfsd',
+    question: '以下哪些物品使用后可以在一段时间内提高生命的恢复速度?',
+    id: 17378
+  },
+  {
+    answer: '可乐鸡翅和一飞冲天',
+    indexes: 'yxnxwpsyhkyzydsjnzjyddsd',
+    question: '以下哪些物品使用后可以在一段时间内增加移动的速度?',
+    id: 17379
+  },
+  {
+    answer: '金创药和双黄蛋都可以',
+    indexes: 'yxffnzkykshfsm',
+    question: '以下方法哪种可以快速回复生命？',
+    id: 17380
+  },
+  {
+    answer: '清心露和男儿黑都可以',
+    indexes: 'yxffnzkykshftl',
+    question: '以下方法哪种可以快速回复体力？',
+    id: 17381
+  },
+  {
+    answer: '给20级以前的装备打孔的',
+    indexes: 'ejqqzs',
+    question: '二级嵌器之石',
+    id: 17382
+  },
+  {
+    answer: '提高最大生命的',
+    indexes: 'zjxqzyysy',
+    question: '中级血气之玉有啥用?',
+    id: 17383
+  },
+  {
+    answer: '弱效化伤为体玉',
+    indexes: 'yxnxwpkyjsddshzhwtl',
+    question: '以下哪些物品可以将受到的伤害转化为体力？',
+    id: 17384
+  },
+  {
+    answer: '荆棘石',
+    indexes: 'yxnxwpkyjsddshfdjgjz',
+    question: '以下哪些物品可以将受到的伤害反弹给攻击者？',
+    id: 17385
+  },
+  {
+    answer: '辅助批量生产男儿黑的',
+    indexes: 'cjjhysy',
+    question: '初级酒壶有啥用?',
+    id: 17386
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'yxnxwpkytghbl',
+    question: '以下哪些物品可以提供回避率？',
+    id: 17387
+  },
+  {
+    answer: '镶工',
+    indexes: 'cjjhsngfzyscd',
+    question: '初级酒壶是哪个副职业生产的?',
+    id: 17388
+  },
+  {
+    answer: '次级血气之玉',
+    indexes: 'yxsmwpkyyjtgndsmzdz',
+    question: '以下什么物品可以永久提高你的生命最大值？',
+    id: 17389
+  },
+  {
+    answer: '玄力水晶',
+    indexes: 'yxsmwpkyyjtgndtlzdz',
+    question: '以下什么物品可以永久提高你的体力最大值？',
+    id: 17390
+  },
+  {
+    answer: '修复水晶和修复石都可以',
+    indexes: 'rhxlshddj',
+    question: '如何修理损坏的道具？',
+    id: 17391
+  },
+  {
+    answer: '将0~3级别装备强化',
+    indexes: 'xpqhsysy',
+    question: '下品强化石有啥用?',
+    id: 17392
+  },
+  {
+    answer: '辅助批量生产煮鸡蛋的',
+    indexes: 'cjgysy',
+    question: '初级锅有啥用?',
+    id: 17393
+  },
+  {
+    answer: '风行石',
+    indexes: 'myyzQQsgzrgxzxqsyxngstydsdhkyx',
+    question: '没有用在QQ三国中,如果鞋子镶嵌上以下哪个石头,移动速度会快一些?',
+    id: 17394
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'yxnxwpkytgydsd',
+    question: '以下哪些物品可以提高移动速度？',
+    id: 17395
+  },
+  {
+    answer: '工匠',
+    indexes: 'cjxlbssngfzyscd',
+    question: '初级修理宝石是哪个副职业生产的?',
+    id: 17396
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'zbqhysmxg',
+    question: '装备强化有什么效果？',
+    id: 17397
+  },
+  {
+    answer: '工匠',
+    indexes: 'cjgsngfzyscd',
+    question: '初级锅是哪个副职业生产的?',
+    id: 17398
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'hjfbtgngNPCkyj',
+    question: '黄巾副本通过哪个NPC可以进?',
+    id: 17399
+  },
+  {
+    answer: '何曼',
+    indexes: 'hjfbdygdBOSSjsmz',
+    question: '黄巾副本第一关的BOSS叫啥名字?',
+    id: 17400
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'nqhjfbswls',
+    question: '你去黄巾副本是为了啥?',
+    id: 17401
+  },
+  {
+    answer: '15',
+    indexes: 'hjfbdsjyskyj',
+    question: '黄巾副本多少级以上可以进？',
+    id: 17402
+  },
+  {
+    answer: '20',
+    indexes: 'dsjbyskystd',
+    question: '多少级别以上可以收徒弟?',
+    id: 17403
+  },
+  {
+    answer: '15',
+    indexes: 'dsjbyxcnbs',
+    question: '多少级别以下才能拜师?',
+    id: 17404
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'styqzdljyshc',
+    question: '师徒一起组队练级,有啥好处?',
+    id: 17405
+  },
+  {
+    answer: '15',
+    indexes: 'tddsjbcs',
+    question: '徒弟多少级别出师?',
+    id: 17406
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'tdcshhsfyqzdljyhcm',
+    question: '徒弟出师后，和师傅一起组队练级有好处吗?',
+    id: 17407
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'tdmcshsfyqzdljyxnxsdd',
+    question: '徒弟没出师，和师傅一起组队练级，以下哪些是对的?',
+    id: 17408
+  },
+  {
+    answer: '杀神和如意都能换到',
+    indexes: 'xszdzysmy',
+    question: '新手指导证有什么用？',
+    id: 17409
+  },
+  {
+    answer: '师缘隐士',
+    indexes: 'xszdzszxscnldhwp',
+    question: '新手指导证书在新手城哪里兑换物品？',
+    id: 17410
+  },
+  {
+    answer: '5',
+    indexes: 'ygdwlzdkyydsr',
+    question: '一个队伍里最多可以有多少人?',
+    id: 17411
+  },
+  {
+    answer: '可以',
+    indexes: 'zdhdzkygbm',
+    question: '组队后队长可以改变吗？',
+    id: 17412
+  },
+  {
+    answer: '相同时间内获得更多的经验值',
+    indexes: 'rgdjdbtljbcbddrzdyqljysmhc',
+    question: '如果大家都不偷懒，级别差不多的人组队一起练级有什么好处？',
+    id: 17413
+  },
+  {
+    answer: '是',
+    indexes: 'zddrsfztyzdtcnfxjy',
+    question: '组队的人是否在同一张地图才能分享经验？',
+    id: 17414
+  },
+  {
+    answer: '可以',
+    indexes: 'kytsjdgrwm',
+    question: '可以同时接多个任务吗?',
+    id: 17415
+  },
+  {
+    answer: '可以',
+    indexes: 'gjrwkydczfzm',
+    question: '国家任务可以多次重复做吗?',
+    id: 17416
+  },
+  {
+    answer: 'BOSS来的，刷新时间有点长',
+    indexes: 'sgxscpbdgwxmzwsmjczbd',
+    question: '蜀国新手城旁边的怪物小蛮猪为什么经常找不到?',
+    id: 17417
+  },
+  {
+    answer: '金钱和副职业材料',
+    indexes: 'zgjrwknhddsmjl',
+    question: '做国家任务可能会得到什么奖励?',
+    id: 17418
+  },
+  {
+    answer: '中书丞',
+    indexes: 'dnljgjrw',
+    question: '到哪里接国家任务？',
+    id: 17419
+  },
+  {
+    answer: '5',
+    indexes: 'gjrwybydsb',
+    question: '国家任务一般有多少步？',
+    id: 17420
+  },
+  {
+    answer: '20分钟',
+    indexes: 'xscpbdxBOSSdzsjsxyc',
+    question: '新手城旁边的小BOSS多长时间刷新一次？',
+    id: 17421
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'zdgjdgwhbdgjdgwysbt',
+    question: '主动攻击的怪物和被动攻击的怪物有啥不同？',
+    id: 17422
+  },
+  {
+    answer: '骗人的',
+    indexes: 'bmxdjmjxjsrddbchbnmjqtNPCdhddm',
+    question: '把某些道具卖给行脚商人，得到报酬会比你卖给其它NPC多很多，对吗？',
+    id: 17423
+  },
+  {
+    answer: '你比它高',
+    indexes: 'rggwdmzslsdsmnhtddj',
+    question: '如果怪物的名字是绿色的，说明你和他的等级',
+    id: 17424
+  },
+  {
+    answer: '头上有黄色的感叹号在闪烁的',
+    indexes: 'znxNPCkyjxrw',
+    question: '找哪些NPC可以接新任务?',
+    id: 17425
+  },
+  {
+    answer: '你有任务没做完，需要和他对话',
+    indexes: 'NPCdtsdzygwhssysy',
+    question: 'NPC的头上顶着一个问号是啥意思呀?',
+    id: 17426
+  },
+  {
+    answer: '我再升级就可以接新任务了',
+    indexes: 'NPCdtsdzyghsdgthssysy',
+    question: 'NPC的头上顶着一个灰色的感叹号是啥意思呀?',
+    id: 17427
+  },
+  {
+    answer: '30',
+    indexes: 'dsjbkycjjt',
+    question: '多少级别可以创建军团?',
+    id: 17428
+  },
+  {
+    answer: '15',
+    indexes: 'dsjbkyjrjt',
+    question: '多少级别可以加入军团?',
+    id: 17429
+  },
+  {
+    answer: '军团管理专员',
+    indexes: 'zngNPCkycjjt',
+    question: '找哪个NPC可以创建军团?',
+    id: 17430
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'rgnjrlygjtjyy',
+    question: '如果你加入了一个军团，将拥有：',
+    id: 17432
+  },
+  {
+    answer: '经常在国家频道说话',
+    indexes: 'yxrdtsdzyggsxfdchzmldy',
+    question: "有些人的头上顶着一个'灌水先锋'的称号,怎么来的呀?",
+    id: 17433
+  },
+  {
+    answer: '他经常生产补蓝/红的药',
+    indexes: 'yxrdtsdzygzhssdchzmldy',
+    question: "有些人的头上顶着一个'中华食神'的称号,怎么来的呀?",
+    id: 17434
+  },
+  {
+    answer: '工匠做多了',
+    indexes: 'yxrdtsdzygzzdsdchzmldy',
+    question: "有些人的头上顶着一个'铸造大师'的称号,怎么来的呀?",
+    id: 17435
+  },
+  {
+    answer: '镶嵌做多了',
+    indexes: 'yxrdtsdzygzqdsdchzmldy',
+    question: "有些人的头上顶着一个'制器大师'的称号,怎么来的呀?",
+    id: 17436
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'zyhNPCdh',
+    question: '怎样和NPC对话？',
+    id: 17437
+  },
+  {
+    answer: '副职业材料和高级合成书',
+    indexes: 'xtbdshhdsmwp',
+    question: '小偷被打死后,会掉什么物品?',
+    id: 17438
+  },
+  {
+    answer: '江陵附近的小偷',
+    indexes: 'zykndzjgjsdgws',
+    question: '最有可能掉中级工匠书的怪物是？',
+    id: 17439
+  },
+  {
+    answer: '江陵附近的小偷',
+    indexes: 'zykndzjxgsdgws',
+    question: '最有可能掉中级镶工书的怪物是？',
+    id: 17440
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'wsmyxfzydszgssrnlmbd',
+    question: '为什么有些副职业的书在古书商人那里买不到?',
+    id: 17441
+  },
+  {
+    answer: '私聊',
+    indexes: 'yxnzfskysxnhlygwjydydlt',
+    question: '以下哪种方式可以实现你和另一个玩家一对一地聊天？',
+    id: 17442
+  },
+  {
+    answer: '20',
+    indexes: 'dsjkysyzypdsh',
+    question: '多少级可以使用职业频道说话？',
+    id: 17443
+  },
+  {
+    answer: '不可以',
+    indexes: 'zwgsygjpdshwgkykjm',
+    question: '在魏国使用国家频道说话，吴国可以看见吗？',
+    id: 17444
+  },
+  {
+    answer: '小喇叭',
+    indexes: 'nsdhrgxyqfwqdsggjdntdygsy',
+    question: '你说的话如果想要全服务器的三个国家都能听到，应该使用？',
+    id: 17445
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'zmhlygwjsl',
+    question: '怎么和另一个玩家私聊？',
+    id: 17446
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'cwhyhysmhc',
+    question: '成为好友后有什么好处？',
+    id: 17447
+  },
+  {
+    answer: '坐马车',
+    indexes: 'rgycygcsdlygcszkdffs',
+    question: '如果要从一个城市到另一个城市，最快的方法是？',
+    id: 17448
+  },
+  {
+    answer: '找城市里的驿站马夫和他对话',
+    indexes: 'zmzmcy',
+    question: '怎么坐马车呀？',
+    id: 17449
+  },
+  {
+    answer: '不可以',
+    indexes: 'hmdrkyzmcm',
+    question: '红名的人可以坐马车吗？',
+    id: 17450
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'zxhdzjdygcsyxffkx',
+    question: '在想回到最近的一个城市，以下方法可行？',
+    id: 17451
+  },
+  {
+    answer: '减少QQ号被盗后你的角色的损失',
+    indexes: 'cjjsdshszmmsgmyd',
+    question: '创建角色的时候设置密码是干嘛用的？',
+    id: 17452
+  },
+  {
+    answer: '其他答案都可以',
+    indexes: 'zyjzjdydwpdjmcqzq',
+    question: '怎样将自己多余的物品道具卖出去赚钱？',
+    id: 17453
+  },
+  {
+    answer: '出去打怪',
+    indexes: 'btdrky',
+    question: '摆摊的人可以：',
+    id: 17454
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'btdtwydsg',
+    question: '摆摊的摊位有多少格？',
+    id: 17455
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'rgnzydzkssjsbdzjhcxsmxx',
+    question: '如果你在移动中快速双击鼠标的左键，会出现什么现象？',
+    id: 17456
+  },
+  {
+    answer: '出现命令选单',
+    indexes: 'rgzwjtxsdjsbyjhcxsmxx',
+    question: '如果在玩家头像上点击鼠标右键，会出现什么现象？',
+    id: 17457
+  },
+  {
+    answer: '对',
+    indexes: 'zycwndhyncnfxjjtdm',
+    question: '只有成为你的好友，你才能发信件给他，对吗？',
+    id: 17458
+  },
+  {
+    answer: '50',
+    indexes: 'ygjsdyxzdnrndsfyj',
+    question: '一个角色的邮箱最多能容纳多少封邮件？',
+    id: 17459
+  },
+  {
+    answer: '他使用了私人仓库道具',
+    indexes: 'wsmyxrdckbwdrld',
+    question: '为什么有些人的仓库比我的容量大？',
+    id: 17460
+  },
+  {
+    answer: '可以',
+    indexes: 'btcyxkyhdtyqdlytxm',
+    question: '不退出游戏，可以换到同一区的另一条线吗？',
+    id: 17461
+  },
+  {
+    answer: '可以',
+    indexes: 'rgwyjAjszwqtdjngjkym',
+    question: '如果我要将A键设置为其它的技能攻击，可以吗？',
+    id: 17462
+  },
+  {
+    answer: '你在系统设置了自动攻击',
+    indexes: 'wsmyshwdgdyxhwbajpwdkyjxdzgg',
+    question: '为什么有时候我打怪第一下后我不按键盘我都可以继续打这个怪？',
+    id: 17463
+  },
+  {
+    answer: '按F11',
+    indexes: 'pbrtdlwxpbtmzmb',
+    question: '旁边人太多了，我想屏蔽他们，怎么办？',
+    id: 17464
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'bbldwpwky',
+    question: '背包里的物品，我可以：',
+    id: 17465
+  },
+  {
+    answer: '按M键就可以',
+    indexes: 'zyxlkykdsjdtm',
+    question: '在游戏里可以看到世界地图吗？',
+    id: 17466
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'yxlddjyjz',
+    question: '游戏里的道具有几种？',
+    id: 17467
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'yxzddjlyy',
+    question: '游戏中的道具来源有：',
+    id: 17468
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'gymcdmsnxszqd',
+    question: '关于马草的描述，哪些是正确的：',
+    id: 17469
+  },
+  {
+    answer: '三国',
+    indexes: 'QQsgsyksmtcdyx',
+    question: 'QQ三国是一款什么题材的游戏?',
+    id: 17470
+  },
+  {
+    answer: '中国',
+    indexes: 'zglsnggjd',
+    question: '诸葛亮是哪个国家的?',
+    id: 17471
+  },
+  {
+    answer: '美国',
+    indexes: 'yxnggjbsyQQsg',
+    question: '以下哪个国家不属于QQ三国?',
+    id: 17472
+  },
+  {
+    answer: 'QQ号码',
+    indexes: 'ysmzhjkyzjdlQQsg',
+    question: '用什么帐号就可以直接登陆QQ三国?',
+    id: 17473
+  },
+  {
+    answer: '状态界面',
+    indexes: 'F1ssmjmdkjj',
+    question: "'F1'是什么界面的快捷键?",
+    id: 17474
+  },
+  {
+    answer: '商城',
+    indexes: 'F9ssmjmdkjj',
+    question: "'F9'是什么界面的快捷键?",
+    id: 17475
+  },
+  {
+    answer: 'F9',
+    indexes: 'scdkjjssm',
+    question: "'商城'的快捷键是什么?",
+    id: 17476
+  },
+  {
+    answer: 'G',
+    indexes: 'yzjdNPCdhdkjjssm',
+    question: '与最近的NPC对话的快捷键是什么?',
+    id: 17477
+  },
+  {
+    answer: 'C',
+    indexes: 'sqlzdsddjdkjjssm',
+    question: '拾取落在地上的道具的快捷键是什么?',
+    id: 17478
+  },
+  {
+    answer: '~',
+    indexes: 'ksdxsbwjjsdkjjssm',
+    question: '快速点选身边玩家角色的快捷键是什么?',
+    id: 17479
+  },
+  {
+    answer: 'Tab',
+    indexes: 'ksdxsbgwdkjjssm',
+    question: '快速点选身边怪物的快捷键是什么?',
+    id: 17480
+  },
+  {
+    answer: 'M',
+    indexes: 'dkdtdkjjssm',
+    question: '打开地图的快捷键是什么?',
+    id: 17481
+  },
+  {
+    answer: '寄管小妖',
+    indexes: 'ssdwpyjzmlygzngNPC',
+    question: '身上的物品已经装满了,应该找哪个NPC?',
+    id: 17482
+  },
+  {
+    answer: '马车夫',
+    indexes: 'xksddlwdccygzngNPC',
+    question: '想快速到达另外的城池,应该找哪个NPC?',
+    id: 17483
+  },
+  {
+    answer: '奋威中郎将',
+    indexes: 'xxlzjygzngNPC',
+    question: '想修炼自己,应该找哪个NPC?',
+    id: 17484
+  },
+  {
+    answer: '物品界面',
+    indexes: 'xzyxzbgtwygtgngjmcz',
+    question: '想在游戏中摆个摊位,应该通过哪个界面操作?',
+    id: 17485
+  },
+  {
+    answer: '豪杰',
+    indexes: 'yxngzyssyQQsgd',
+    question: '以下哪个职业是属于QQ三国的?',
+    id: 17486
+  },
+  {
+    answer: '仙术士',
+    indexes: 'yxngzyssyQQsgd',
+    question: '以下哪个职业是属于QQ三国的?',
+    id: 17487
+  },
+  {
+    answer: '剑侍',
+    indexes: 'yxngzyssyQQsgd',
+    question: '以下哪个职业是属于QQ三国的?',
+    id: 17488
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'yxngzyssyQQsgd',
+    question: '以下哪个职业是属于QQ三国的?',
+    id: 17489
+  },
+  {
+    answer: '骑士',
+    indexes: 'yxngzysbsyQQsgd',
+    question: '以下哪个职业是不属于QQ三国的?',
+    id: 17490
+  },
+  {
+    answer: '五',
+    indexes: 'QQsgdrwzgyjljbsx',
+    question: 'QQ三国的人物总共有几类基本属性?',
+    id: 17491
+  },
+  {
+    answer: '平均型',
+    indexes: 'jsssmlxdzy',
+    question: '剑侍是什么类型的职业?',
+    id: 17492
+  },
+  {
+    answer: '高防型',
+    indexes: 'hjssmlxdzy',
+    question: '豪杰是什么类型的职业?',
+    id: 17493
+  },
+  {
+    answer: '高攻型',
+    indexes: 'yysssmlxdzy',
+    question: '阴阳士是什么类型的职业?',
+    id: 17494
+  },
+  {
+    answer: '恢复型',
+    indexes: 'xssssmlxdzy',
+    question: '仙术士是什么类型的职业?',
+    id: 17495
+  },
+  {
+    answer: '剑',
+    indexes: 'jszbsmlxdwq',
+    question: '剑侍装备什么类型的武器?',
+    id: 17496
+  },
+  {
+    answer: '斧头',
+    indexes: 'hjzbsmlxdwq',
+    question: '豪杰装备什么类型的武器?',
+    id: 17497
+  },
+  {
+    answer: '杖',
+    indexes: 'yyszbsmlxdwq',
+    question: '阴阳士装备什么类型的武器?',
+    id: 17498
+  },
+  {
+    answer: '扇子',
+    indexes: 'xsszbsmlxdwq',
+    question: '仙术士装备什么类型的武器?',
+    id: 17499
+  },
+  {
+    answer: '三',
+    indexes: 'mgzytsjyyjlxf',
+    question: '每个职业天生就拥有几类心法?',
+    id: 17500
+  },
+  {
+    answer: '10个',
+    indexes: '1QbngdhdsQd',
+    question: '1Q币能够兑换多少Q点?',
+    id: 17501
+  },
+  {
+    answer: '剑侍',
+    indexes: 'hjjsngzydjn',
+    question: '横剑击是哪个职业的技能?',
+    id: 17502
+  },
+  {
+    answer: '剑侍',
+    indexes: 'yxjwsngzydjn',
+    question: '饮血剑舞是哪个职业的技能?',
+    id: 17503
+  },
+  {
+    answer: '剑侍',
+    indexes: 'hfflsngzydjn',
+    question: '回风拂柳是哪个职业的技能?',
+    id: 17504
+  },
+  {
+    answer: '剑侍',
+    indexes: 'jrsxsngzydjn',
+    question: '剑刃噬心是哪个职业的技能?',
+    id: 17505
+  },
+  {
+    answer: '剑侍',
+    indexes: 'fgzysngzydjn',
+    question: '分光斩影是哪个职业的技能?',
+    id: 17506
+  },
+  {
+    answer: '剑侍',
+    indexes: 'klqxjsngzydjn',
+    question: '狂雷七星剑是哪个职业的技能?',
+    id: 17507
+  },
+  {
+    answer: '剑侍',
+    indexes: 'shyssngzydjn',
+    question: '慑魂一式是哪个职业的技能?',
+    id: 17508
+  },
+  {
+    answer: '剑侍',
+    indexes: 'jdbhsngzydjn',
+    question: '剑荡八荒是哪个职业的技能?',
+    id: 17509
+  },
+  {
+    answer: '剑侍',
+    indexes: 'cysxjsngzydjn',
+    question: '残影蚀心剑是哪个职业的技能?',
+    id: 17510
+  },
+  {
+    answer: '剑侍',
+    indexes: 'adcqsngzydjn',
+    question: '傲断苍穹是哪个职业的技能?',
+    id: 17511
+  },
+  {
+    answer: '剑侍',
+    indexes: 'jhhjsngzydjn',
+    question: '惊鸿幻剑是哪个职业的技能?',
+    id: 17512
+  },
+  {
+    answer: '剑侍',
+    indexes: 'cyhxjsngzydjn',
+    question: '出云幻星剑是哪个职业的技能?',
+    id: 17513
+  },
+  {
+    answer: '剑侍',
+    indexes: 'jqcjxsngzydjn',
+    question: '剑气冲九霄是哪个职业的技能?',
+    id: 17514
+  },
+  {
+    answer: '豪杰',
+    indexes: 'bwfsngzydjn',
+    question: '霸王斧是哪个职业的技能?',
+    id: 17515
+  },
+  {
+    answer: '豪杰',
+    indexes: 'qxfsngzydjn',
+    question: '泣血斧是哪个职业的技能?',
+    id: 17516
+  },
+  {
+    answer: '豪杰',
+    indexes: 'jxlhfsngzydjn',
+    question: '祭血连环斧是哪个职业的技能?',
+    id: 17517
+  },
+  {
+    answer: '豪杰',
+    indexes: 'nhktsngzydjn',
+    question: '怒海狂涛是哪个职业的技能?',
+    id: 17518
+  },
+  {
+    answer: '豪杰',
+    indexes: 'sggfsngzydjn',
+    question: '神工鬼斧是哪个职业的技能?',
+    id: 17519
+  },
+  {
+    answer: '豪杰',
+    indexes: 'lzqjsngzydjn',
+    question: '力斩千钧是哪个职业的技能?',
+    id: 17520
+  },
+  {
+    answer: '豪杰',
+    indexes: 'jlldsngzydjn',
+    question: '惊雷裂地是哪个职业的技能?',
+    id: 17521
+  },
+  {
+    answer: '豪杰',
+    indexes: 'slthsngzydjn',
+    question: '神龙探海是哪个职业的技能?',
+    id: 17522
+  },
+  {
+    answer: '豪杰',
+    indexes: 'jzfldsngzydjn',
+    question: '九州风雷动是哪个职业的技能?',
+    id: 17523
+  },
+  {
+    answer: '豪杰',
+    indexes: 'kfcxsngzydjn',
+    question: '狂斧冲霄是哪个职业的技能?',
+    id: 17524
+  },
+  {
+    answer: '豪杰',
+    indexes: 'ksbzsngzydjn',
+    question: '狂沙百战是哪个职业的技能?',
+    id: 17525
+  },
+  {
+    answer: '豪杰',
+    indexes: 'sxptsngzydjn',
+    question: '嗜血破天是哪个职业的技能?',
+    id: 17526
+  },
+  {
+    answer: '豪杰',
+    indexes: 'tnrysngzydjn',
+    question: '天怒人怨是哪个职业的技能?',
+    id: 17527
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'hysngzydjn',
+    question: '火炎是哪个职业的技能?',
+    id: 17528
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'cyxsngzydjn',
+    question: '炽炎袭是哪个职业的技能?',
+    id: 17529
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'kyysngzydjn',
+    question: '狂炎涌是哪个职业的技能?',
+    id: 17530
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'cyzsngzydjn',
+    question: '残阳炙是哪个职业的技能?',
+    id: 17531
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'xhzsngzydjn',
+    question: '星火坠是哪个职业的技能?',
+    id: 17532
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'yhfxsngzydjn',
+    question: '业火焚心是哪个职业的技能?',
+    id: 17533
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'hjlhsngzydjn',
+    question: '幻剑离火是哪个职业的技能?',
+    id: 17534
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'jskwsngzydjn',
+    question: '金蛇狂舞是哪个职业的技能?',
+    id: 17535
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'xjmysngzydjn',
+    question: '卸甲冥焰是哪个职业的技能?',
+    id: 17536
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'yhlysngzydjn',
+    question: '野火燎原是哪个职业的技能?',
+    id: 17537
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'aydcxsngzydjn',
+    question: '暗炎凋残星是哪个职业的技能?',
+    id: 17538
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'lyymzsngzydjn',
+    question: '炼狱阴魔咒是哪个职业的技能?',
+    id: 17539
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'xllhzsngzydjn',
+    question: '炫灵流火咒是哪个职业的技能?',
+    id: 17540
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'jsfhxsngzydjn',
+    question: '江山烽火啸是哪个职业的技能?',
+    id: 17541
+  },
+  {
+    answer: '仙术士',
+    indexes: 'spsngzydjn',
+    question: '水瀑是哪个职业的技能?',
+    id: 17542
+  },
+  {
+    answer: '仙术士',
+    indexes: 'hcssngzydjn',
+    question: '回春术是哪个职业的技能?',
+    id: 17543
+  },
+  {
+    answer: '仙术士',
+    indexes: 'xbhdsngzydjn',
+    question: '玄冰护盾是哪个职业的技能?',
+    id: 17544
+  },
+  {
+    answer: '仙术士',
+    indexes: 'zyrtsngzydjn',
+    question: '真元入体是哪个职业的技能?',
+    id: 17545
+  },
+  {
+    answer: '仙术士',
+    indexes: 'yxssngzydjn',
+    question: '燕行术是哪个职业的技能?',
+    id: 17546
+  },
+  {
+    answer: '仙术士',
+    indexes: 'hbcsngzydjn',
+    question: '寒冰刺是哪个职业的技能?',
+    id: 17547
+  },
+  {
+    answer: '仙术士',
+    indexes: 'nsjxsngzydjn',
+    question: '凝神静心是哪个职业的技能?',
+    id: 17548
+  },
+  {
+    answer: '仙术士',
+    indexes: 'xmjsngzydjn',
+    question: '续命诀是哪个职业的技能?',
+    id: 17549
+  },
+  {
+    answer: '仙术士',
+    indexes: 'tjqlssngzydjn',
+    question: '太极清灵术是哪个职业的技能?',
+    id: 17550
+  },
+  {
+    answer: '仙术士',
+    indexes: 'ylgxssngzydjn',
+    question: '元灵归心术是哪个职业的技能?',
+    id: 17551
+  },
+  {
+    answer: '仙术士',
+    indexes: 'chncsngzydjn',
+    question: '沧海怒潮是哪个职业的技能?',
+    id: 17552
+  },
+  {
+    answer: '仙术士',
+    indexes: 'cfftsngzydjn',
+    question: '春风拂体是哪个职业的技能?',
+    id: 17553
+  },
+  {
+    answer: '仙术士',
+    indexes: 'jfssngzydjn',
+    question: '疾风术是哪个职业的技能?',
+    id: 17554
+  },
+  {
+    answer: '仙术士',
+    indexes: 'bhcssngzydjn',
+    question: '碧海潮生是哪个职业的技能?',
+    id: 17555
+  },
+  {
+    answer: '仙术士',
+    indexes: 'lhcsssngzydjn',
+    question: '莲华出水术是哪个职业的技能?',
+    id: 17556
+  },
+  {
+    answer: '仙术士',
+    indexes: 'jtcyssngzydjn',
+    question: '惊涛穿云术是哪个职业的技能?',
+    id: 17557
+  },
+  {
+    answer: '剑侍',
+    indexes: 'qlssngzydjn',
+    question: '轻灵术是哪个职业的技能?',
+    id: 17558
+  },
+  {
+    answer: '剑侍',
+    indexes: 'jjjsngzydjn',
+    question: '激将计是哪个职业的技能?',
+    id: 17559
+  },
+  {
+    answer: '剑侍',
+    indexes: 'ysjfsngzydjn',
+    question: '玉石俱焚是哪个职业的技能?',
+    id: 17560
+  },
+  {
+    answer: '豪杰',
+    indexes: 'bmjssngzydjn',
+    question: '不灭金身是哪个职业的技能?',
+    id: 17561
+  },
+  {
+    answer: '豪杰',
+    indexes: 'bbzysngzydjn',
+    question: '磅礴战意是哪个职业的技能?',
+    id: 17562
+  },
+  {
+    answer: '豪杰',
+    indexes: 'txsfsngzydjn',
+    question: '挑衅四方是哪个职业的技能?',
+    id: 17563
+  },
+  {
+    answer: '豪杰',
+    indexes: 'ksfsngzydjn',
+    question: '开山斧是哪个职业的技能?',
+    id: 17564
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'zqhtsngzydjn',
+    question: '真气护体是哪个职业的技能?',
+    id: 17565
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'hfftsngzydjn',
+    question: '火凤附体是哪个职业的技能?',
+    id: 17566
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'wstxsngzydjn',
+    question: '威慑天下是哪个职业的技能?',
+    id: 17567
+  },
+  {
+    answer: '仙术士',
+    indexes: 'zmssngzydjn',
+    question: '智谋术是哪个职业的技能?',
+    id: 17568
+  },
+  {
+    answer: '仙术士',
+    indexes: 'njzysngzydjn',
+    question: '宁静致远是哪个职业的技能?',
+    id: 17569
+  },
+  {
+    answer: '仙术士',
+    indexes: 'hbzjsngzydjn',
+    question: '缓兵之计是哪个职业的技能?',
+    id: 17570
+  },
+  {
+    answer: '奋迅',
+    indexes: 'xtgzjdwlgjshygxlnyx',
+    question: '想提高自己的物理攻击伤害,应该修炼哪一项?',
+    id: 17571
+  },
+  {
+    answer: '妖法',
+    indexes: 'xtgzjdmfgjshygxlnyx',
+    question: '想提高自己的魔法攻击伤害,应该修炼哪一项?',
+    id: 17572
+  },
+  {
+    answer: '禁卫',
+    indexes: 'xjszjsddwlgjshygxlnyx',
+    question: '想减少自己受到的物理攻击伤害,应该修炼哪一项?',
+    id: 17573
+  },
+  {
+    answer: '仙法',
+    indexes: 'xjszjsddmfgjshygxlnyx',
+    question: '想减少自己受到的魔法攻击伤害,应该修炼哪一项?',
+    id: 17574
+  },
+  {
+    answer: '经验',
+    indexes: 'yxnyxnzxlzswfgbd',
+    question: "以下哪一项,你在'修炼'中是无法改变的?",
+    id: 17575
+  },
+  {
+    answer: '本国书丞',
+    indexes: 'xyyzhdjqrwkyzngNPCjsrw',
+    question: '想要一直获得金钱任务,可以找哪个NPC接受任务?',
+    id: 17576
+  },
+  {
+    answer: '五',
+    indexes: 'QQsgyjzfzy',
+    question: 'QQ三国有几种副职业?',
+    id: 17577
+  },
+  {
+    answer: '工匠',
+    indexes: 'yxnlfzsyQQsg',
+    question: '以下哪类副职属于QQ三国?',
+    id: 17578
+  },
+  {
+    answer: '庖丁',
+    indexes: 'kyschftlhsmdfzs',
+    question: '可以生产回复体力和生命的副职是?',
+    id: 17579
+  },
+  {
+    answer: '工匠',
+    indexes: 'zzzssngfzsydhcsj',
+    question: "'重铸之书'是哪个副职使用的合成书籍?",
+    id: 17580
+  },
+  {
+    answer: '庖丁',
+    indexes: 'jrwjsngfzsydhcsj',
+    question: "'酒肉无忌'是哪个副职使用的合成书籍?",
+    id: 17581
+  },
+  {
+    answer: '镶工',
+    indexes: 'wszzfsngfzsydhcsj',
+    question: "'武神之祝福'是哪个副职使用的合成书籍?",
+    id: 17582
+  },
+  {
+    answer: '千货商',
+    indexes: 'hcdzngNPCckygmd',
+    question: "'回春丹'在哪个NPC处可以购买到?",
+    id: 17583
+  },
+  {
+    answer: '活力丸',
+    indexes: 'yxngdjzqhscsgmbdd',
+    question: '以下哪个道具,在千货商处是购买不到的?',
+    id: 17584
+  },
+  {
+    answer: '活力丸',
+    indexes: 'yxngdjskyzscngmdd',
+    question: '以下哪个道具,是可以在商城内购买到的?',
+    id: 17585
+  },
+  {
+    answer: '千货商',
+    indexes: 'fzsxydclybdkyznlgmd',
+    question: '副职所需要的材料,一般都可以在哪里购买到?',
+    id: 17586
+  },
+  {
+    answer: '神行之卷',
+    indexes: 'kysjtgzjdydhtyddjs',
+    question: '可以瞬间提高自己的移动和跳跃的道具是?',
+    id: 17587
+  },
+  {
+    answer: '小强丸',
+    indexes: 'kymcswcfddjs',
+    question: '可以免除死亡惩罚的道具是?',
+    id: 17588
+  },
+  {
+    answer: '活力丸',
+    indexes: 'kysjtgzjydhlddjs',
+    question: '可以瞬间提高自己一定活力的道具是?',
+    id: 17589
+  },
+  {
+    answer: '双倍经验丸',
+    indexes: 'kyszjhdsbjyddjs',
+    question: '可以使自己获得双倍经验的道具是?',
+    id: 17590
+  },
+  {
+    answer: '麒麟区',
+    indexes: 'xlngqybsdjzzxyzddqy',
+    question: '下列哪个区域不是夺荆州中需要争夺的区域',
+    id: 17591
+  },
+  {
+    answer: '自动补给',
+    indexes: 'zbyxngdjjkyzdjzjjx',
+    question: '装备以下哪个道具就可以自动给自己加血?',
+    id: 17592
+  },
+  {
+    answer: "装备'自动补给'后设置默认使用的药物",
+    indexes: 'gmlzdbjrhcnzdjzjdjsbj',
+    question: "购买了'自动补给'如何才能自动给自己的角色补给?",
+    id: 17593
+  },
+  {
+    answer: '小喇叭',
+    indexes: 'syyxngdjkyrsydrdkjnsdh',
+    question: '使用以下哪个道具,可以让所有的人都看见你说的话?',
+    id: 17594
+  },
+  {
+    answer: '随着等级变化',
+    indexes: 'sygjpdfyxydssgb',
+    question: '使用国家频道发言,需要多少三国币?',
+    id: 17595
+  },
+  {
+    answer: '三锅头',
+    indexes: 'yxngdjsQQsgnd',
+    question: '以下哪个道具是QQ三国内的?',
+    id: 17596
+  },
+  {
+    answer: '贩卖商城道具',
+    indexes: 'yxnzfsbnhdsgd',
+    question: '以下哪种方式不能获得三国点？',
+    id: 17597
+  },
+  {
+    answer: '物攻',
+    indexes: 'zgrztznyxdbwqdwlgjl',
+    question: '在个人状态中,哪一项代表武器的物理攻击力?',
+    id: 17598
+  },
+  {
+    answer: '灵活',
+    indexes: 'zgrztznyxyxjsdhbnl',
+    question: '在个人状态中,哪一项影响角色的回避能力?',
+    id: 17599
+  },
+  {
+    answer: 'F1',
+    indexes: 'xszzjdgxqmygsyngkjjhjztjm',
+    question: '想设置自己的个性签名,应该使用哪个快捷键呼叫状态界面?',
+    id: 17600
+  },
+  {
+    answer: '五个',
+    indexes: 'yzjbznsydsgsbjyw',
+    question: '一周基本只能使用多少个& #39;双倍经验丸& #39;?',
+    id: 17601
+  },
+  {
+    answer: '怪物名为灰色',
+    indexes: 'bwjrhddgw',
+    question: '比玩家弱很多的怪物:',
+    id: 17602
+  },
+  {
+    answer: '怪物名为绿色',
+    indexes: 'bwjsrdgw',
+    question: '比玩家稍弱的怪物:',
+    id: 17603
+  },
+  {
+    answer: '怪物名为黄色',
+    indexes: 'hwjcbddgw',
+    question: '和玩家差不多的怪物:',
+    id: 17604
+  },
+  {
+    answer: '怪物名为橙色',
+    indexes: 'bwjsqdgw',
+    question: '比玩家稍强的怪物:',
+    id: 17605
+  },
+  {
+    answer: '怪物名为红色',
+    indexes: 'bwjqhddgw',
+    question: '比玩家强很多的怪物:',
+    id: 17606
+  },
+  {
+    answer: 'sg.qq.com',
+    indexes: 'QQsggfwzdwzs',
+    question: 'QQ三国官方网站的网址是:',
+    id: 17607
+  },
+  {
+    answer: ',',
+    indexes: 'yxngkjjkyqfzdykjjz',
+    question: "以下哪个快捷键可以前翻'自定义快捷键组'?",
+    id: 17608
+  },
+  {
+    answer: '.',
+    indexes: 'yxngkjjkyhfzdykjjz',
+    question: "以下哪个快捷键可以后翻'自定义快捷键组'?",
+    id: 17609
+  },
+  {
+    answer: '数字键1至5',
+    indexes: 'yxngkjjkyksxzzjddy',
+    question: '以下哪个快捷键可以快速选择自己的队友?',
+    id: 17610
+  },
+  {
+    answer: '邮件',
+    indexes: 'rgndhybzxnkytgsmfsjtly',
+    question: '如果你的好友不在线,你可以通过什么方式给他留言?',
+    id: 17611
+  },
+  {
+    answer: '私聊',
+    indexes: 'yyxnzfskyydddckhbrjl',
+    question: '用以下哪种方式可以用单独的窗口和别人交流?',
+    id: 17612
+  },
+  {
+    answer: '国家频道',
+    indexes: 'yxcwdhwnxyznldlfy',
+    question: '要想成为大话王,你需要在哪里大量发言?',
+    id: 17613
+  },
+  {
+    answer: '四方巡查使',
+    indexes: 'cxgzyzdjpxbnxyznwNPC',
+    question: '查询各职业主等级排行榜,你需要找哪位NPC?',
+    id: 17614
+  },
+  {
+    answer: '粤菜',
+    indexes: 'krzsngcxddbc',
+    question: '烤乳猪是哪个菜系的代表菜',
+    id: 17615
+  },
+  {
+    answer: '谋生',
+    indexes: 'xmnbdybszblzbzdzyd',
+    question: '下面哪部电影不是卓别林自编自导自演的',
+    id: 17616
+  },
+  {
+    answer: '七七事件',
+    indexes: 'qgxkrzzbfdbzs',
+    question: '全国性抗日战争爆发的标志是？',
+    id: 17617
+  },
+  {
+    answer: '隋',
+    indexes: 'wgzmdzzqjyngcd',
+    question: '我国著名的赵州桥建于哪个朝代？',
+    id: 17618
+  },
+  {
+    answer: '牛',
+    indexes: 'lzsqzsmchgghzwzyd',
+    question: '老子是骑着什么出函谷关后再无踪影的',
+    id: 17619
+  },
+  {
+    answer: '杨柳树皮',
+    indexes: 'asplzctqy',
+    question: '阿司匹林最初提取于：',
+    id: 17620
+  },
+  {
+    answer: '范蠡',
+    indexes: 'bhrcwtzgdss',
+    question: '被后人称为陶朱公的是谁',
+    id: 17621
+  },
+  {
+    answer: '芝麻开门',
+    indexes: 'albbhssdddgszdksmdzys',
+    question: '阿里巴巴和四十大盗的故事中打开石门的咒语是',
+    id: 17622
+  },
+  {
+    answer: '中国',
+    indexes: 'sjszzdzbcsznl',
+    question: '世界上最早的纸币产生在哪里',
+    id: 17623
+  },
+  {
+    answer: '竹子',
+    indexes: 'xlsmzwszsdzk',
+    question: '下列什么植物生长速度最快?',
+    id: 17624
+  },
+  {
+    answer: '白色',
+    indexes: 'mygssmzdyzjxadysszzdcydmgzxa',
+    question: '每一个少数民族都有自己喜爱的颜色，生长在大草原的蒙古族喜爱:',
+    id: 17625
+  },
+  {
+    answer: '蜘蛛',
+    indexes: 'qzcxlznyzbskc',
+    question: '请指出下列中哪一种不是昆虫?',
+    id: 17626
+  },
+  {
+    answer: '法国',
+    indexes: 'zynsxsnggjsjmgdlw',
+    question: '＂自由女神像＂是哪个国家送给美国的礼物？',
+    id: 17627
+  },
+  {
+    answer: '鬼谷子',
+    indexes: 'sbdlsjsm',
+    question: '孙膑的老师叫什么',
+    id: 17628
+  },
+  {
+    answer: '金星',
+    indexes: 'tyxznkxxdbmwdzg',
+    question: '太阳系中哪颗行星的表面温度最高?',
+    id: 17629
+  },
+  {
+    answer: '额尔齐斯河',
+    indexes: 'fyywgwyzrbbydhls',
+    question: '发源于我国唯一注入北冰洋的河流是：',
+    id: 17630
+  },
+  {
+    answer: '白鲸',
+    indexes: 'nzhydwhxneyycg',
+    question: '哪种海洋动物会像鸟儿一样唱歌?',
+    id: 17631
+  },
+  {
+    answer: '美国宪法',
+    indexes: 'sjsdybcwxfs',
+    question: '世界上第一部成文宪法是：',
+    id: 17632
+  },
+  {
+    answer: '锌',
+    indexes: 'slbcxlnzyskfzfc',
+    question: '适量补充下列哪种元素可防止粉刺？',
+    id: 17633
+  },
+  {
+    answer: '苏格拉底',
+    indexes: 'xlnwsxjbpsx',
+    question: '下列哪位思想家被判死刑',
+    id: 17634
+  },
+  {
+    answer: '猴票',
+    indexes: 'xfxdsxypznzjzzg',
+    question: '现发行的属相邮票中哪种价值最高',
+    id: 17635
+  },
+  {
+    answer: '罗马',
+    indexes: 'mlyydlszddsczynl',
+    question: '母狼与一对孪生子的雕塑存在于哪里',
+    id: 17636
+  },
+  {
+    answer: '王勃',
+    indexes: 'ctsjzy',
+    question: '“初唐四杰”中有：',
+    id: 17637
+  },
+  {
+    answer: '26块',
+    indexes: 'mfsyjgxfkzcd',
+    question: '魔方是由几个小方块组成的？',
+    id: 17638
+  },
+  {
+    answer: '教堂里',
+    indexes: 'zgldyyssz',
+    question: '最古老的医院是设在：',
+    id: 17639
+  },
+  {
+    answer: '西岸',
+    indexes: 'jztjznlhd',
+    question: '金字塔建在尼罗河的：',
+    id: 17640
+  },
+  {
+    answer: '粘土',
+    indexes: 'ktfmdxztydqbsysmhsmhhzcd',
+    question: '孔泰发明的现在通用的铅笔是由石墨和什么混合制成的？',
+    id: 17641
+  },
+  {
+    answer: '顾恺之',
+    indexes: 'lsftssdzp',
+    question: '《洛神赋图》是谁的作品？',
+    id: 17642
+  },
+  {
+    answer: '祖冲之',
+    indexes: 'lysllcmngzdsdmssfmd',
+    question: '利用水力来舂米碾谷子的水碓磨是谁发明的',
+    id: 17643
+  },
+  {
+    answer: '1967',
+    indexes: 'rlslxzyzsssnnsxd',
+    question: '人类首例心脏移植手术是哪年施行的',
+    id: 17644
+  },
+  {
+    answer: '水井',
+    indexes: 'ncwcdchzzsjgrhgsylcfzznl',
+    question: '南陈王朝的陈后主在隋军攻入皇宫时与两宠妃藏在哪里',
+    id: 17645
+  },
+  {
+    answer: '3-6个月',
+    indexes: 'qzjdbfgdqzjdqxwdzsj',
+    question: '《强制戒毒办法》规定，强制戒毒期限为多长时间？',
+    id: 17646
+  },
+  {
+    answer: '滚轮',
+    indexes: 'yxngbsgqdnbjg',
+    question: '以下哪个不是光驱的内部结构?',
+    id: 17647
+  },
+  {
+    answer: '米寿',
+    indexes: '88sygscqwssm',
+    question: '88岁有个俗称，请问是什么',
+    id: 17648
+  },
+  {
+    answer: '接天莲叶无穷碧，映日荷花别样红',
+    indexes: 'xlnjsyxhcljjjzyqtlstcztyzz',
+    question: '下列哪句诗与“小荷才露尖尖角，早有蜻蜓立上头”出自同一作者？',
+    id: 17649
+  },
+  {
+    answer: '《火星公主》',
+    indexes: 'qwxlxszngbsfendzp',
+    question: '请问下列小说中哪个不是凡尔纳的作品',
+    id: 17650
+  },
+  {
+    answer: '李商隐',
+    indexes: 'ltrnysyzjsdyzzss',
+    question: '“蓝田日暖玉生烟”这句诗的原作者是谁',
+    id: 17651
+  },
+  {
+    answer: '言情',
+    indexes: 'ycyqtmsdyykzycbpszdqtmssysmlxdzj',
+    question: '由成语“墙头马上”的原意可知，元朝白朴所著的《墙头马上》属于什么类型的杂剧？',
+    id: 17652
+  },
+  {
+    answer: '广西',
+    indexes: 'glwywgdngs',
+    question: '桂林位于我国的哪个省？',
+    id: 17653
+  },
+  {
+    answer: '钟摆',
+    indexes: 'czjslyyxlngwpdqs',
+    question: '传真技术来源于下列哪个物品的启示？',
+    id: 17654
+  },
+  {
+    answer: '36郡',
+    indexes: 'qckstxjxzdzqgs',
+    question: '秦朝开始推行郡县制度在全国设',
+    id: 17655
+  },
+  {
+    answer: '陈子昂',
+    indexes: 'qbjgrhbjlzntdzyydcretxczhrzs',
+    question: '前不见古人，后不见来者。念天地之悠悠，独怆然而涕下。出自何人之手？',
+    id: 17656
+  },
+  {
+    answer: 'CPU',
+    indexes: 'jddnyxszpldsyxngbj',
+    question: '决定电脑运行时钟频率的是以下哪个部件？',
+    id: 17657
+  },
+  {
+    answer: '狩猎',
+    indexes: 'wkymdwzzgdglmybszsm',
+    question: '“网开一面”的“网”在这个典故里面原本是指什么？',
+    id: 17658
+  },
+  {
+    answer: '希腊',
+    indexes: 'zzdggzyssnggjdgg',
+    question: '最长的国歌“自由颂”是哪个国家的国歌？',
+    id: 17659
+  },
+  {
+    answer: '碳棒',
+    indexes: 'tcqkxxmnygsdt',
+    question: '通常情况下，下面哪一根是导体？',
+    id: 17660
+  },
+  {
+    answer: '克朗',
+    indexes: 'nwhbs',
+    question: '挪威货币是：',
+    id: 17661
+  },
+  {
+    answer: '法拉第',
+    indexes: 'fxdcgyxxdwlxjs',
+    question: '发现电磁感应现象的物理学家是：',
+    id: 17662
+  },
+  {
+    answer: '兄弟',
+    indexes: 'xlshzbsdszsd',
+    question: '希腊神话中波赛顿是宙斯的：',
+    id: 17663
+  },
+  {
+    answer: '纸',
+    indexes: 'pydyxsysmcl',
+    question: '皮影的原型是用什么材料：',
+    id: 17664
+  },
+  {
+    answer: '铸铜镀金',
+    indexes: 'zgdyjjjjpsgd35gfdyzzxymdjxdxzzdxs',
+    question: '中国电影金鸡奖奖品是高达35公分的一座造型优美的鸡形雕像，这座雕像是',
+    id: 17665
+  },
+  {
+    answer: '朝阳',
+    indexes: 'yxngcssyhqmd',
+    question: '以下哪个城市是用花取名的？',
+    id: 17666
+  },
+  {
+    answer: '哈萨克族',
+    indexes: 'gnzsngmzdyx',
+    question: '“姑娘追”是哪个民族的游戏？',
+    id: 17667
+  },
+  {
+    answer: '川菜',
+    indexes: 'ymlxxdlewmdcxs',
+    question: '以麻辣辛香调料而闻名的菜系是',
+    id: 17668
+  },
+  {
+    answer: '八宝粥',
+    indexes: 'yxngslycbdctsw',
+    question: '以下哪个是腊月初八的传统食物?',
+    id: 17669
+  },
+  {
+    answer: '波兰',
+    indexes: 'dojbcnggjzxbf',
+    question: '东欧剧变从哪个国家最先爆发？',
+    id: 17670
+  },
+  {
+    answer: '福建菜系',
+    indexes: 'ftqsngcxddbc',
+    question: '佛跳墙是哪个菜系的代表菜',
+    id: 17671
+  },
+  {
+    answer: '孔府菜',
+    indexes: 'bxghnlhsngcxdzmcy',
+    question: '八仙过海闹罗汉是哪个菜系的著名菜肴?',
+    id: 17672
+  },
+  {
+    answer: '四川',
+    indexes: 'ddmsnldtssp',
+    question: '担担面是哪里的特色食品？',
+    id: 17673
+  },
+  {
+    answer: '引',
+    indexes: 'nbccmtssm',
+    question: '南北朝称面条是什么?',
+    id: 17674
+  },
+  {
+    answer: '开元时期',
+    indexes: 'tdssdzwjcqssysmsq',
+    question: '唐代设十道作为监察区是始于什么时期？',
+    id: 17675
+  },
+  {
+    answer: '甜酸咸苦',
+    indexes: 'rdwlnbbdwdy',
+    question: '人的味蕾能辨别的味道有：',
+    id: 17676
+  },
+  {
+    answer: '2003年',
+    indexes: 'gjbdmmwyhzsmmlgzbdksznyn',
+    question: '国家病毒命名委员会正式命名了冠状病毒科是在哪一年？',
+    id: 17677
+  },
+  {
+    answer: '自卫的表现',
+    indexes: 'wybygnmyszdldwyzcydzgnmsbqztdyjzsyw',
+    question: '乌鸦被一个农民用石子打了，当乌鸦再次遇到这个农民时，便去啄他的眼睛，这是因为：',
+    id: 17678
+  },
+  {
+    answer: '兔子的虹膜是无色的',
+    indexes: 'tzdyjwsmshsd',
+    question: '兔子的眼睛为什么是红色的？',
+    id: 17679
+  },
+  {
+    answer: '冬眠动物出土活动',
+    indexes: 'zwgdnljqzjzxzzsm',
+    question: '在我国的农历节气中，“惊蛰”象征着什么？',
+    id: 17680
+  },
+  {
+    answer: '足球篮球排球',
+    indexes: 'sjsbcwsdqyddsnszyd',
+    question: '世界上被称为“三大球”运动的是哪三种运动？',
+    id: 17681
+  },
+  {
+    answer: '民族传说',
+    indexes: 'dzgpsjsyw',
+    question: '傣族过泼水节是因为：',
+    id: 17682
+  },
+  {
+    answer: '上海',
+    indexes: 'jdwxzjlxzzgngcsss',
+    question: '近代文学作家鲁迅在中国哪个城市逝世?',
+    id: 17683
+  },
+  {
+    answer: '黑鱼子',
+    indexes: 'yyadzyljsm',
+    question: '用盐腌的鳟鱼卵叫什么？',
+    id: 17684
+  },
+  {
+    answer: '庐山',
+    indexes: 'yxnycmsblrsjwhjgyc',
+    question: '以下哪一处名胜被列入“世界文化景观遗产”？',
+    id: 17685
+  },
+  {
+    answer: '陆游',
+    indexes: 'xjcszddsrs',
+    question: '现今存诗最多的诗人是',
+    id: 17686
+  },
+  {
+    answer: '3000',
+    indexes: 'sjjzdlsdyydsn',
+    question: '《史记》记载的历史大约有多少年？',
+    id: 17687
+  },
+  {
+    answer: '30',
+    indexes: 'mdxxkwcxxkyjdyyldsn',
+    question: '明代徐霞客完成《徐霞客游记》大约用了多少年？',
+    id: 17688
+  },
+  {
+    answer: '日本',
+    indexes: 'mhqlzdzzsngd',
+    question: '漫画七龙珠的作者是哪国的?',
+    id: 17689
+  },
+  {
+    answer: '水星',
+    indexes: 'ltyzjdxxssmx',
+    question: '离太阳最近的行星是什么星?',
+    id: 17690
+  },
+  {
+    answer: '20米',
+    indexes: 'hzacddjfstdzyylky',
+    question: '汉长安城的大街分三条道，中央御路宽约',
+    id: 17691
+  },
+  {
+    answer: '曹植',
+    indexes: 'qbsdzzs',
+    question: '《七步诗》的作者是：',
+    id: 17692
+  },
+  {
+    answer: '《孟子》',
+    indexes: 'tsbrdldlbrrhcz',
+    question: '“天时不如地利，地利不如人和”出自：',
+    id: 17693
+  },
+  {
+    answer: '卢梭',
+    indexes: 'fgqmydzzfmzqxdzjs',
+    question: '法国启蒙运动中最富民主倾向的作家是',
+    id: 17694
+  },
+  {
+    answer: '葡萄酒',
+    indexes: 'slyjdstyhcqwxlnzjdxxgjbyyfzy',
+    question: '少量饮酒对身体有好处，请问下列哪种酒对心血管疾病有预防作用',
+    id: 17695
+  },
+  {
+    answer: '维生素C',
+    indexes: 'yyccxdrybtnqf',
+    question: '牙龈常出血的人，一般体内缺乏',
+    id: 17696
+  },
+  {
+    answer: '渤海',
+    indexes: 'xlsywgnhds',
+    question: '下列属于我国内海的是',
+    id: 17697
+  },
+  {
+    answer: '1999年10月12日',
+    indexes: 'sj60yrkrs',
+    question: '世界60亿人口日是',
+    id: 17698
+  },
+  {
+    answer: '脂肪',
+    indexes: 'xlwzztgrlzdds',
+    question: '下列物质中，提供热量最多的是：',
+    id: 17699
+  },
+  {
+    answer: '棕榈叶',
+    indexes: 'rmgydbjssysmzwdyzzd',
+    question: '人们惯用的芭蕉扇是用什么植物的叶子做的？',
+    id: 17700
+  },
+  {
+    answer: '琵琶曲',
+    indexes: 'smmfs',
+    question: '《十面埋伏》是',
+    id: 17701
+  },
+  {
+    answer: '2次',
+    indexes: 'nzdhbszsdl',
+    question: '男子吊环比赛至少倒立：',
+    id: 17702
+  },
+  {
+    answer: '开封',
+    indexes: 'ngsscdgd',
+    question: '哪个是宋朝的古都：',
+    id: 17703
+  },
+  {
+    answer: '锦州',
+    indexes: 'lszyzzxjfdcss',
+    question: '辽沈战役中最先解放的城市是?',
+    id: 17704
+  },
+  {
+    answer: '顺治',
+    indexes: 'dygcfdllmdhds',
+    question: "第一个册封'达赖喇嘛'的皇帝是",
+    id: 17705
+  },
+  {
+    answer: '菏泽',
+    indexes: 'mdzxssdsd',
+    question: '牡丹之乡是山东省的',
+    id: 17706
+  },
+  {
+    answer: '18',
+    indexes: 'qcbqghfwdsgs',
+    question: '清朝把全国划分为多少个省？',
+    id: 17707
+  },
+  {
+    answer: '把头发栓在房粱上',
+    indexes: 'sqysmbffzdssdks',
+    question: '苏秦用什么办法防止读书时打瞌睡?',
+    id: 17708
+  },
+  {
+    answer: '南美洲',
+    indexes: 'ngzdysslmjzd',
+    question: '哪个洲的原始森林面积最大：',
+    id: 17709
+  },
+  {
+    answer: '1919',
+    indexes: 'wsydfsznyn',
+    question: '“五四运动”发生在哪一年？',
+    id: 17710
+  },
+  {
+    answer: '2',
+    indexes: 'dsrwtssdlrjxssszdkywtdsr',
+    question: '当事人委托诉讼代理人进行诉讼时，最多可以委托多少人？',
+    id: 17711
+  },
+  {
+    answer: '盲人',
+    indexes: 'nxrfzkycqjqhzmccf',
+    question: '哪些人犯罪可以从轻、减轻或者免除处罚？',
+    id: 17712
+  },
+  {
+    answer: '苏轼',
+    indexes: 'myjsybjwqtssdc',
+    question: '明月几时有，把酒问青天。是谁的词？',
+    id: 17713
+  },
+  {
+    answer: '光缆',
+    indexes: 'zdmtjsjxtzbnyyccdmtxxdssm',
+    question: '在多媒体计算机系统中，不能用以存储多媒体信息的是什么？',
+    id: 17714
+  },
+  {
+    answer: '太平洋',
+    indexes: 'sjszddyw',
+    question: '世界上最大的洋为',
+    id: 17715
+  },
+  {
+    answer: '亚洲',
+    indexes: 'sjszddzw',
+    question: '世界上最大的洲为',
+    id: 17716
+  },
+  {
+    answer: '詹天佑',
+    indexes: 'jztldzsjsss',
+    question: '京张铁路的总设计师是谁？',
+    id: 17717
+  },
+  {
+    answer: '明朝',
+    indexes: 'nycfccxzd',
+    question: '哪一朝废除丞相制度',
+    id: 17718
+  },
+  {
+    answer: '水',
+    indexes: 'zzdwdjlmydsnzry',
+    question: '最早的温度计里面用的是哪种溶液？',
+    id: 17719
+  },
+  {
+    answer: '德国',
+    indexes: 'mlspglfsngrfmd',
+    question: '摩罗氏苹果疗法是哪国人发明的：',
+    id: 17720
+  },
+  {
+    answer: '关汉卿',
+    indexes: 'sbywzgdssby',
+    question: '谁被誉为中国的“莎士比亚”？',
+    id: 17721
+  },
+  {
+    answer: '醋',
+    indexes: 'xzccyzlmfxsm',
+    question: '鞋子除臭应在里面放些什么',
+    id: 17722
+  },
+  {
+    answer: '淮阴',
+    indexes: 'hxdljznl',
+    question: '韩信的老家在哪里',
+    id: 17723
+  },
+  {
+    answer: '1978年',
+    indexes: 'zhrmghghkdjtlsnynbbssd',
+    question: '中华人民共和国户口登记条例是哪一年颁布实施的？',
+    id: 17724
+  },
+  {
+    answer: '元朝',
+    indexes: 'zgdngcdcjlhkoylzdddg',
+    question: '中国的哪个朝代曾建立横跨欧亚两洲的大帝国：',
+    id: 17725
+  },
+  {
+    answer: '东汉',
+    indexes: 'zglsshggygzsy',
+    question: '中国历史上宦官干预国政，始于',
+    id: 17726
+  },
+  {
+    answer: '南非',
+    indexes: 'sjscchjzddgjs',
+    question: '世界上出产黄金最多的国家是：',
+    id: 17727
+  },
+  {
+    answer: '3个',
+    indexes: 'zgldgdbjxanjlykfhzyjgwyhhly',
+    question: '中国六大古都：北京,西安,南京,洛阳,开封,杭州。有几个位于黄河流域',
+    id: 17728
+  },
+  {
+    answer: '1956年',
+    indexes: 'zgynynwcshzygz',
+    question: '中国于哪一年完成社会主义改造：',
+    id: 17729
+  },
+  {
+    answer: '火神',
+    indexes: 'zswlcfamdwnsqptjjtszd',
+    question: '宙斯为了惩罚傲慢的维纳斯，强迫她嫁给天神中的：',
+    id: 17730
+  },
+  {
+    answer: '秦观',
+    indexes: 'zmcjlqrsjzsyqzccmmdzzs',
+    question: '著名词句两情若是久长时,又岂在、朝朝暮暮。的作者是：',
+    id: 17731
+  },
+  {
+    answer: '孟尝君',
+    indexes: 'cyjmgdgxmdngrwyg',
+    question: '成语“鸡鸣狗盗”跟下面的哪个人物有关：',
+    id: 17732
+  },
+  {
+    answer: '《暴风雨》',
+    indexes: 'xmdxjzbsssbydsdbjzyds',
+    question: '下面的戏剧中，不是莎士比亚的“四大悲剧”之一的是：',
+    id: 17733
+  },
+  {
+    answer: '孙权的妹妹',
+    indexes: 'plfryzbzdfrzds',
+    question: '“赔了夫人又折兵”中的“夫人”指的是：',
+    id: 17734
+  },
+  {
+    answer: '雨果',
+    indexes: 'bcsjsxmngrwddbz',
+    question: '《悲惨世界》是下面哪个人物的代表作：',
+    id: 17735
+  },
+  {
+    answer: '1911年',
+    indexes: 'xhgmfsznyn',
+    question: '辛亥革命发生在哪一年：',
+    id: 17736
+  },
+  {
+    answer: '4',
+    indexes: 'xzgclhwggbbljbxf',
+    question: '新中国成立后，我国共颁布了几部宪法：',
+    id: 17737
+  },
+  {
+    answer: '美国',
+    indexes: 'xtqsnggq',
+    question: '星条旗是哪国国旗：',
+    id: 17738
+  },
+  {
+    answer: '5',
+    indexes: 'yzzwmczdsbkmqhddqjs',
+    question: '扬州作为名城，最多时包括目前华东地区几省：',
+    id: 17739
+  },
+  {
+    answer: '国家主席',
+    indexes: 'yzxfgdysfbfl',
+    question: '依照宪法规定由谁发布法律：',
+    id: 17740
+  },
+  {
+    answer: '曹爽',
+    indexes: 'yxnygbswxsdsczy',
+    question: '以下哪一个不是文学上的三曹之一？',
+    id: 17741
+  },
+  {
+    answer: '靴子',
+    indexes: 'ydlzdtsx',
+    question: '意大利在地图上像',
+    id: 17742
+  },
+  {
+    answer: '日耳曼语族',
+    indexes: 'yysynyyz',
+    question: '英语属于哪一语族：',
+    id: 17743
+  },
+  {
+    answer: '鸟',
+    indexes: 'yazbhsxtdzsnyg',
+    question: '与凹字笔画数相同的字是哪一个？',
+    id: 17744
+  },
+  {
+    answer: '腰部',
+    indexes: 'ymqfqsqbncg',
+    question: '羽毛球发球时，球不能超过：',
+    id: 17745
+  },
+  {
+    answer: '齐白石',
+    indexes: 'czjmtshbmjgjdhjs',
+    question: '曾在家门帖上画不买给官家的画家是：',
+    id: 17746
+  },
+  {
+    answer: '山水',
+    indexes: 'zcydsysmsws',
+    question: '煮茶用的水，以什么水为上？',
+    id: 17747
+  },
+  {
+    answer: '《猫城记》',
+    indexes: 'zgwxdslscxgybkhxstdmzs',
+    question: '中国文学大师老舍曾写过一部科幻小说，它的名字是：',
+    id: 17748
+  },
+  {
+    answer: '瑞士',
+    indexes: 'ngrzxzzclnnqkl',
+    question: '哪国人最先制作出了牛奶巧克力？',
+    id: 17749
+  },
+  {
+    answer: '钱币名',
+    indexes: 'jcdsgddyz',
+    question: '金错刀是古代的一种：',
+    id: 17750
+  },
+  {
+    answer: '贝多芬',
+    indexes: 'djjxqjhcjxqdzzs',
+    question: '第九交响曲（即合唱交响曲）的作者是：',
+    id: 17751
+  },
+  {
+    answer: '高山族',
+    indexes: 'alsdgnsnzmg',
+    question: '阿里山的姑娘是哪族民歌：',
+    id: 17752
+  },
+  {
+    answer: '唐手',
+    indexes: 'ksdyc',
+    question: '空手道原称',
+    id: 17753
+  },
+  {
+    answer: '应天府',
+    indexes: 'zywddcsc',
+    question: '朱允文的都城时称',
+    id: 17754
+  },
+  {
+    answer: '九天',
+    indexes: 'zywdswdstbzdlljtzhmd',
+    question: '朱允文的所谓的尸体被朱棣晾了几天之后埋的？',
+    id: 17755
+  },
+  {
+    answer: '岑参',
+    indexes: 'hryycflqswslhkqwcsdzzss',
+    question: '“忽如一夜春风来，千树万树梨花开。”请问此诗的作者是谁？',
+    id: 17756
+  },
+  {
+    answer: '75',
+    indexes: 'yyjjsdsd',
+    question: '医用酒精是多少度',
+    id: 17757
+  },
+  {
+    answer: '西高东低',
+    indexes: 'wgddsssmyd',
+    question: '我国的地势是什么样的？',
+    id: 17758
+  },
+  {
+    answer: '英国',
+    indexes: 'gefqqyy',
+    question: '高尔夫球起源于',
+    id: 17759
+  },
+  {
+    answer: '7日',
+    indexes: 'rmfysdqszhydzdzsjnlahzzcbysldcd',
+    question: '人民法院收到起诉状后，应当在多长时间内立案或者作出不予受理的裁定？',
+    id: 17760
+  },
+  {
+    answer: '冬之狮',
+    indexes: 'adlhbmyzyg',
+    question: '奥黛丽·赫本没有主演过：',
+    id: 17761
+  },
+  {
+    answer: '8-12°C',
+    indexes: 'rxxcjjsxhxymttsxyljsxhszdsywdkxsyzmdsxdszzsydsww',
+    question:
+      '若想新春佳节水仙花香溢满厅堂，首先，要了解水仙花生长的适宜温度。科学试验证明对水仙的生长最适宜的室温为?',
+    id: 17762
+  },
+  {
+    answer: '《赵氏孤儿》',
+    indexes: 'dybbjsdozqdzggdxqsnb',
+    question: '第一部被介绍到欧洲去的中国古典戏曲是哪部？',
+    id: 17763
+  },
+  {
+    answer: '法国',
+    indexes: 'sjmcxtlsngscd',
+    question: '世界名车雪铁龙是哪国生产的？',
+    id: 17764
+  },
+  {
+    answer: '28块',
+    indexes: 'z2000nd27jxnalpkydhszgdbdhdldskjp',
+    question: '在2000年第27届悉尼奥林匹克运动会上，中国代表队获得了多少块金牌？',
+    id: 17765
+  },
+  {
+    answer: '21',
+    indexes: 'shsddhqhsds',
+    question: '上海市的电话区号是多少？',
+    id: 17766
+  },
+  {
+    answer: '处暑',
+    indexes: 'zessjqzlqdxygjqssm',
+    question: '在二十四节气中，立秋的下一个节气是什么？',
+    id: 17767
+  },
+  {
+    answer: '3800',
+    indexes: 'hydpjsdwdsm',
+    question: '海洋的平均深度为多少米',
+    id: 17768
+  },
+  {
+    answer: '周继红',
+    indexes: 'zgtszayhshddymjpdydys',
+    question: '中国跳水在奥运会上获得第一枚金牌的运动员是',
+    id: 17769
+  },
+  {
+    answer: '阿波罗11号',
+    indexes: 'amstlscngfccgdyd',
+    question: '阿姆斯特朗是乘哪个飞船成功登月的：',
+    id: 17770
+  },
+  {
+    answer: '白玉兰',
+    indexes: 'shdshssm',
+    question: '上海的市花是什么?',
+    id: 17771
+  },
+  {
+    answer: '84',
+    indexes: 'adqgjtybzzzbdbygydsd',
+    question: '按当前国际通用标准，纸张白度不应高于多少度？',
+    id: 17772
+  },
+  {
+    answer: '剖开羊肚',
+    indexes: 'azmgdfssybxs',
+    question: '按照蒙古的风俗，杀羊必须是：',
+    id: 17773
+  },
+  {
+    answer: '西南地区',
+    indexes: 'azjrlbfbjsxldqzkkfsnzybzzdds',
+    question: '按装机容量百分比计算，下列地区中可开发水能资源比重最大的是：',
+    id: 17774
+  },
+  {
+    answer: '德国',
+    indexes: 'd18jsjbznggjjx',
+    question: '第18届世界杯在哪个国家举行？',
+    id: 17775
+  },
+  {
+    answer: '李大钊',
+    indexes: 'zwgzzjsegsygmxcmkszyds',
+    question: '在我国最早介绍俄国十月革命，宣传马克思主义的是：',
+    id: 17776
+  },
+  {
+    answer: '南',
+    indexes: 'sjtzxsgdrgtsmdzzzx',
+    question: '世纪坛造型是个大日晷它上面的指针指向：',
+    id: 17777
+  },
+  {
+    answer: '10米左右',
+    indexes: 'lyjssyxwxdjsqcsfwz',
+    question: '蓝牙技术是一项无线电技术其传输范围在：',
+    id: 17778
+  },
+  {
+    answer: '墨西哥',
+    indexes: 'cjlxlcjbsjbdgjs',
+    question: '曾经连续两次举办世界杯的国家是？',
+    id: 17779
+  },
+  {
+    answer: '白居易',
+    indexes: 'xlnwsrhxsjs',
+    question: '下列哪位诗人号香山居士？',
+    id: 17780
+  },
+  {
+    answer: '云',
+    indexes: 'xmbsybgds',
+    question: '下面不属于八卦的是',
+    id: 17781
+  },
+  {
+    answer: '中国',
+    indexes: 'rwsqyzzdddcznl',
+    question: '日伪时期亚洲最大的电厂在哪里？',
+    id: 17782
+  },
+  {
+    answer: '造纸术',
+    indexes: 'wggddsdfmzzzcxds',
+    question: '我国古代的四大发明中最早出现的是：',
+    id: 17783
+  },
+  {
+    answer: '采用横刷法',
+    indexes: 'wlycdjkcyzqdsyffsxdzydxlnyzsfscwd',
+    question: '为了牙齿的健康，采用正确的刷牙方法是相当重要的，下列哪一种说法是错误的？',
+    id: 17784
+  },
+  {
+    answer: '《阿甘正传》',
+    indexes: 'wtmhksdecydaskzjnzjjdyps',
+    question: '为汤姆·汉克斯第二次赢得奥斯卡最佳男主角奖的影片是……',
+    id: 17785
+  },
+  {
+    answer: 'GIF',
+    indexes: 'jsjtpzksydhxsdtpgssng',
+    question: '计算机图片中，可使用动画形式的图片格式是哪个？',
+    id: 17786
+  },
+  {
+    answer: '西安',
+    indexes: 'zgwydjlghdhzdlmz',
+    question: '中国唯一的将两个皇帝合葬的陵墓在',
+    id: 17787
+  },
+  {
+    answer: '病死在日本',
+    indexes: 'wjwsymddhjzhdxcs',
+    question: '汪精卫是有名的大汉奸，最后的下场是',
+    id: 17788
+  },
+  {
+    answer: '昆明湖',
+    indexes: 'wgwzcy',
+    question: '王国维自沉于',
+    id: 17789
+  },
+  {
+    answer: '李宝嘉',
+    indexes: 'gcxxjdzzs',
+    question: '《官场现形记》的作者是',
+    id: 17790
+  },
+  {
+    answer: '雪',
+    indexes: 'wlssjkjbnygfr',
+    question: '为了使水尽快结冰，你应该放入',
+    id: 17791
+  },
+  {
+    answer: '2米',
+    indexes: 'wlyjdjkkdssyzdldsjmys',
+    question: '为了眼睛的健康，看电视时应做到离电视几米以上？',
+    id: 17792
+  },
+  {
+    answer: '美洲',
+    indexes: 'ymdycdz',
+    question: '玉米的原产地在',
+    id: 17793
+  },
+  {
+    answer: '英国',
+    indexes: 'sjsdygxqxhclyhg',
+    question: '世界上第一个星球协会成立于何国？',
+    id: 17794
+  },
+  {
+    answer: '《七略》',
+    indexes: 'sjszzdtsflfjzynbs',
+    question: '世界上最早的图书分类法，见之于哪本书？',
+    id: 17795
+  },
+  {
+    answer: '盐碱土',
+    indexes: 'zzgbbyhdqdtrglsyglsmtrwz',
+    question: '在中国北部沿海地区的土壤改良是以改良什么土壤为主',
+    id: 17796
+  },
+  {
+    answer: '奎宁丁',
+    indexes: 'wbmfhexymbbcdyps',
+    question: '为避免风化而需要密闭保存的药品是',
+    id: 17797
+  },
+  {
+    answer: '合',
+    indexes: 'zggdjlrlddwssdsqz1s10d1d10sn1s10',
+    question: '中国古代计量容量的单位是升、斗、石，其中1石＝10斗；1斗＝10升；那1升＝10？',
+    id: 17798
+  },
+  {
+    answer: '温带大陆性气候',
+    indexes: 'sczlyxmjzddqhlxs',
+    question: '丝绸之路沿线面积最大的气候类型是',
+    id: 17799
+  },
+  {
+    answer: '安徽省',
+    indexes: 'thxwywgngs',
+    question: '太湖县位于我国哪个省？',
+    id: 17800
+  },
+  {
+    answer: '赵匡胤',
+    indexes: 'cqbbssfdd',
+    question: '陈桥兵变是谁发动的',
+    id: 17801
+  },
+  {
+    answer: '1919',
+    indexes: 'wsydbfynyndwysr',
+    question: '五四运动爆发于哪一年的五月四日',
+    id: 17802
+  },
+  {
+    answer: '刘邦',
+    indexes: 'hgzs',
+    question: '汉高祖是：',
+    id: 17803
+  },
+  {
+    answer: '南京',
+    indexes: 'mczzdgdytsjtd',
+    question: '明朝最早的国都应天是今天的：',
+    id: 17804
+  },
+  {
+    answer: '耶路撒冷',
+    indexes: 'jdjysljytjdkzscds',
+    question: '基督教、伊斯兰教、犹太教都看作圣城的是',
+    id: 17805
+  },
+  {
+    answer: '两河指幼发拉底河和底格里斯河',
+    indexes: 'gylhlydxszqds',
+    question: '关于两河流域的叙述正确的是',
+    id: 17806
+  },
+  {
+    answer: '姚明',
+    indexes: 'dygcwNBAzyxdzgqyss',
+    question: '第一个成为NBA状元秀的中国球员是谁？',
+    id: 17807
+  },
+  {
+    answer: '199',
+    indexes: 'zgzqjAlsksynyn',
+    question: '中国足球甲A联赛开始于哪一年？',
+    id: 17808
+  },
+  {
+    answer: '雨果',
+    indexes: 'bcsjssdzp',
+    question: '《悲惨世界》是谁的作品？',
+    id: 17809
+  },
+  {
+    answer: '将进酒',
+    indexes: 'tswcbyycztdsrlbdnyss',
+    question: '“天生我材必有用”出自唐代诗人李白的哪一首诗？',
+    id: 17810
+  },
+  {
+    answer: '宗教节日',
+    indexes: 'gebjsyzsmjr',
+    question: '“古尔邦节”是一种什么节日？',
+    id: 17811
+  },
+  {
+    answer: '乌鸦',
+    indexes: 'zbmydardshzsnzdwczlsjczlrl',
+    question: '在北美印第安人的神话中是哪种动物创造了世界，创造了人类？',
+    id: 17812
+  },
+  {
+    answer: '北宋',
+    indexes: 'ftjssggtdzszddyxzycstzzcxy',
+    question: '方田均税是改革土地征税制度的一项重要措施，它最早出现于',
+    id: 17813
+  },
+  {
+    answer: '王曦之',
+    indexes: 'dckxybsz',
+    question: '“东床快婿”原本是指：',
+    id: 17814
+  },
+  {
+    answer: '约瑟夫·海勒',
+    indexes: 'desetjgdzzs',
+    question: '《第二十二条军规》的作者是：',
+    id: 17815
+  },
+  {
+    answer: '河谷平原和绿洲',
+    indexes: 'xyhbftwggnyqzynyqfbz',
+    question: '西亚和北非同为灌溉农业，其主要农业区分布在',
+    id: 17816
+  },
+  {
+    answer: '纽约',
+    indexes: 'lhgmsczbsz',
+    question: '联合国秘书处总部设在',
+    id: 17817
+  },
+  {
+    answer: '蒙古族',
+    indexes: 'zwwsngmzdwd',
+    question: '“盅碗舞”是哪个民族的舞蹈？',
+    id: 17818
+  },
+  {
+    answer: '辛弃疾',
+    indexes: 'nshfcpdzydbrws',
+    question: '南宋豪放词派的主要代表人物是',
+    id: 17819
+  },
+  {
+    answer: '扬州',
+    indexes: 'lbszsmhrzglzdglzds',
+    question: '李白诗作《送孟浩然之广陵》中的广陵指的是：',
+    id: 17820
+  },
+  {
+    answer: '《费城故事》',
+    indexes: 'tmhkszyg',
+    question: '汤姆-汉克斯主演过：',
+    id: 17821
+  },
+  {
+    answer: '《上农》',
+    indexes: 'yxslscqzdyxpznypsjnyzcd',
+    question: '以下是《吕氏春秋》中的一些篇章，哪一篇是讲农业政策的？',
+    id: 17822
+  },
+  {
+    answer: '汉末',
+    indexes: 'sccxz',
+    question: '“三曹”出现在：',
+    id: 17823
+  },
+  {
+    answer: '秦始皇',
+    indexes: 'hdzwgjysdzschsy',
+    question: '“皇帝”作为国家元首的正式称号，始于',
+    id: 17824
+  },
+  {
+    answer: '23对',
+    indexes: 'rtnhydrstsw',
+    question: '人体内含有的染色体数为',
+    id: 17825
+  },
+  {
+    answer: '耳顺',
+    indexes: 'sselssbhlsssm',
+    question: '三十而立，四十不惑。六十是什么？',
+    id: 17826
+  },
+  {
+    answer: '齐',
+    indexes: 'bcdsgcdzngcdtzsjzd',
+    question: '北朝的四个朝代中哪个朝代统治时间最短？',
+    id: 17827
+  },
+  {
+    answer: '西汉',
+    indexes: 'zzssngcdfmd',
+    question: '造纸术是哪个朝代发明的？',
+    id: 17828
+  },
+  {
+    answer: '哈尔滨',
+    indexes: 'wgngcsybdzm',
+    question: '我国哪个城市以冰雕著名？',
+    id: 17829
+  },
+  {
+    answer: '法国',
+    indexes: 'slyyngyy',
+    question: '“沙龙”源于哪国语言？',
+    id: 17830
+  },
+  {
+    answer: '底部',
+    indexes: 'tkcdsdckwlygckzn',
+    question: '坦克除顶上的出口外，另一个出口在哪？',
+    id: 17831
+  },
+  {
+    answer: '法国人',
+    indexes: 'xdalpkydcsrpaedgbds',
+    question: '现代奥林匹克运动创始人皮埃尔·德·顾拜旦是',
+    id: 17832
+  },
+  {
+    answer: '自燃',
+    indexes: 'mjtcssdghshxzdsmxx',
+    question: '民间通常所说的鬼火是化学中的什么现象',
+    id: 17833
+  },
+  {
+    answer: '巴西高原',
+    indexes: 'sjzddgysyxnyg',
+    question: '世界最大的高原是以下哪一个？',
+    id: 17834
+  },
+  {
+    answer: '老虎',
+    indexes: 'gdrcddcssm',
+    question: '古代人称的“大虫”是什么',
+    id: 17835
+  },
+  {
+    answer: '英国',
+    indexes: 'wmsxdmqjsyzynggj',
+    question: '我们熟悉的母亲节是源自与哪个国家？',
+    id: 17836
+  },
+  {
+    answer: '苏轼',
+    indexes: 'bzbsswyddzgcjdzjs',
+    question: '标志北宋诗文运动的最高成就的作家是',
+    id: 17837
+  },
+  {
+    answer: '出版自由',
+    indexes: 'xlxxznyxbsyxfsgddgmdwhql',
+    question: '下列选项中,哪一项不属于宪法所规定的公民的文化权利?',
+    id: 17838
+  },
+  {
+    answer: '九',
+    indexes: 'kgjjzzwcjkycgsjgdkjg',
+    question: '《考工记》记载周王城街宽以车轨数计,干道宽几轨？',
+    id: 17839
+  },
+  {
+    answer: '《且介亭杂文》',
+    indexes: 'lxdzqzwjs',
+    question: '鲁迅的早期杂文集是',
+    id: 17840
+  },
+  {
+    answer: '20世纪20年代',
+    indexes: 'djxycsynynd',
+    question: '独角戏约产生于哪一年代？',
+    id: 17841
+  },
+  {
+    answer: '波兰',
+    indexes: 'sjyyngrfm',
+    question: '世界语由哪国人发明',
+    id: 17842
+  },
+  {
+    answer: '《翼》',
+    indexes: 'dyjaskzjypdmcw',
+    question: '第一届奥斯卡最佳影片的名称为',
+    id: 17843
+  },
+  {
+    answer: '1斤2两',
+    indexes: 'zytptcrcdmkdgxymx',
+    question: '织一条普通成人穿的毛裤大概需用毛线',
+    id: 17844
+  },
+  {
+    answer: '丹麦的安徒生',
+    indexes: 'hddxzdzzs',
+    question: '《皇帝的新装》的作者是：',
+    id: 17845
+  },
+  {
+    answer: '112',
+    indexes: 'yxcyjzdhnygsgzdh',
+    question: '以下常用救助电话，哪一个是故障电话：',
+    id: 17846
+  },
+  {
+    answer: '麦金利山',
+    indexes: 'bmdzgfs',
+    question: '北美的最高峰是',
+    id: 17847
+  },
+  {
+    answer: '狼',
+    indexes: 'qdfyzdmhssmdw',
+    question: '青岛方言中的“马虎”是什么动物？',
+    id: 17848
+  },
+  {
+    answer: '法国',
+    indexes: 'wxjjbezksngr',
+    question: '文学巨匠巴尔扎克是哪国人？',
+    id: 17849
+  },
+  {
+    answer: '《狂人日记》',
+    indexes: 'lxfbddypbhxss',
+    question: '鲁迅发表的第一篇白话小说是',
+    id: 17850
+  },
+  {
+    answer: '天地玄黄',
+    indexes: 'qzwddyjs',
+    question: '千字文的第一句是：',
+    id: 17851
+  },
+  {
+    answer: '互助原则的要求',
+    indexes: 'yrynzrxbyfynbfzyzsrjjwz',
+    question: '“一人有难，众人相帮；一方有难，八方支援。”这是人际交往中',
+    id: 17852
+  },
+  {
+    answer: '里海',
+    indexes: 'sjszddnlhssmh',
+    question: '世界上最大的内陆湖是什么湖？',
+    id: 17853
+  },
+  {
+    answer: '地球到太阳的距离',
+    indexes: 'ygtwdwsz',
+    question: '一个天文单位是指：',
+    id: 17854
+  },
+  {
+    answer: '陶渊明',
+    indexes: 'wgwxssdygdlxtysdsrs',
+    question: '我国文学史上第一个大量写田园诗的诗人是：',
+    id: 17855
+  },
+  {
+    answer: '1/3处',
+    indexes: 'jbqsbqzxjdjlgd',
+    question: '降半旗是把旗子下降到距离杆顶',
+    id: 17856
+  },
+  {
+    answer: '206',
+    indexes: 'rssgydskgt',
+    question: '人身上共有多少块骨头?',
+    id: 17857
+  },
+  {
+    answer: '被称为“交响乐之父”的是巴赫',
+    indexes: 'dxlyljdpsbzqds',
+    question: '对下列音乐家的评述不正确的是',
+    id: 17858
+  },
+  {
+    answer: '17、18世纪',
+    indexes: 'ozcxblklkkyssz',
+    question: '欧洲出现巴罗克、洛可可艺术是在',
+    id: 17859
+  },
+  {
+    answer: '大陆在海底的延伸',
+    indexes: 'dljssm',
+    question: '“大陆架”是什么？',
+    id: 17860
+  },
+  {
+    answer: '水引',
+    indexes: 'nbccmtwsm',
+    question: '南北朝称面条为什么？',
+    id: 17861
+  },
+  {
+    answer: '阿根廷',
+    indexes: '1916nmzbgjs',
+    question: '1916年美洲杯冠军是',
+    id: 17862
+  },
+  {
+    answer: '刘长春',
+    indexes: 'dsjayhzgdbtg6rcjdydyjyrzgrs',
+    question: '第十届奥运会中国代表团共6人参加，但运动员仅一人，这个人是：',
+    id: 17863
+  },
+  {
+    answer: '70多座',
+    indexes: 'gajgwcxjdddxxdjztgy',
+    question: '古埃及各王朝修建的大大小小的金字塔共有',
+    id: 17864
+  },
+  {
+    answer: '它的轮廓有点象汉字“金”字',
+    indexes: 'wmbgajflfmjzjztdyys',
+    question: '我们把古埃及法老坟墓叫做“金字塔”的原因是',
+    id: 17865
+  },
+  {
+    answer: '伤害罪',
+    indexes: 'zggddzmzxdyxdd',
+    question: '中国古代的罪名“贼”相当于现代的',
+    id: 17866
+  },
+  {
+    answer: '北京、西安、南京、杭州、洛阳、开封',
+    indexes: 'zgdldgdsng',
+    question: '中国的六大古都是哪个',
+    id: 17867
+  },
+  {
+    answer: '鹿特丹',
+    indexes: 'sjzddhgw',
+    question: '世界最大的海港为：',
+    id: 17868
+  },
+  {
+    answer: '陕西宝鸡',
+    indexes: 'mxzdadcczdccszxzd',
+    question: '“明修栈道，暗渡陈仓”中的陈仓是指现在的',
+    id: 17869
+  },
+  {
+    answer: '三种',
+    indexes: 'tqdbzccydsz',
+    question: '团旗的标准尺寸有多少种',
+    id: 17870
+  },
+  {
+    answer: '南粮北调供应大都',
+    indexes: 'yckzstdyhdzjmds',
+    question: '元朝开凿疏通大运河的直接目的是',
+    id: 17871
+  },
+  {
+    answer: '甲骨文记载的内容有些与《史记》相印证',
+    indexes: 'wgywzkkdxsscscksdsyw',
+    question: '我国有文字可考的信史是从商朝开始的，是因为',
+    id: 17872
+  },
+  {
+    answer: '提高了冶铁的质量',
+    indexes: 'dhsqzscssyspdjbyyzy',
+    question: '东汉时期在生产上使用“水排”的进步意义在于',
+    id: 17873
+  },
+  {
+    answer: '礼部→总理衙门→外交部',
+    indexes: 'qczwwjswdjgycxzqdyzw',
+    question: '清朝掌握外交事务的机构，依次序正确的一组为',
+    id: 17874
+  },
+  {
+    answer: '唐朝内地兵力空虚',
+    indexes: '755nalsplnghkgzlyzadzyyys',
+    question: '755年,安禄山叛乱能够很快攻占洛阳、长安的主要原因是',
+    id: 17875
+  },
+  {
+    answer: '河南濮阳',
+    indexes: 'cyzmdydddczsjtd',
+    question: '“澶渊之盟”的议定地点澶州是今天的',
+    id: 17876
+  },
+  {
+    answer: '宫城、皇城、京城',
+    indexes: 'mcbjcyldwdsxs',
+    question: '明朝北京城由里到外的顺序是',
+    id: 17877
+  },
+  {
+    answer: '淮河以北',
+    indexes: 'lzcjlddszqkzdnbdqzydd',
+    question: '李自成建立的大顺政权控制的南部地区最远到达',
+    id: 17878
+  },
+  {
+    answer: '奴隶主贵族',
+    indexes: 'cqsqzzdfjdzsnxrzheld',
+    question: '春秋时期，最早的封建地主是哪些人转化而来的?',
+    id: 17879
+  },
+  {
+    answer: '制瓷业',
+    indexes: 'zgsqhmycxdsgxys',
+    question: '战国时期还没有出现的手工行业是',
+    id: 17880
+  },
+  {
+    answer: '隋文帝与武则天',
+    indexes: 'stsqtcfjgjmydtzzs',
+    question: '隋唐时期,推崇佛教广建庙宇的统治者是',
+    id: 17881
+  },
+  {
+    answer: '挪威军队',
+    indexes: 'xlgjjdzzdecsjdzcqkjdgrqsjzzds',
+    question: '下列国家军队中，在第二次世界大战初期抗击德国入侵时间最长的是',
+    id: 17882
+  },
+  {
+    answer: '南宋',
+    indexes: 'wgmhdzzcgdfjkzdhhlysz',
+    question: '我国棉花的种植从广东、福建扩展到淮河流域是在',
+    id: 17883
+  },
+  {
+    answer: '增加财政收入',
+    indexes: 'wasbfdzjmds',
+    question: '王安石变法的直接目的是',
+    id: 17884
+  },
+  {
+    answer: '东方红1号',
+    indexes: 'wgdykrzdqwxj',
+    question: '我国第一颗人造地球卫星叫',
+    id: 17885
+  },
+  {
+    answer: '96－99％',
+    indexes: 'syzthqdhlz',
+    question: '石油中碳和氢的含量占：',
+    id: 17886
+  },
+  {
+    answer: '煤油',
+    indexes: 'mhpqfjsyrlw',
+    question: '民航喷气飞机使用燃料为：',
+    id: 17887
+  },
+  {
+    answer: '驴',
+    indexes: 'zmhjhzzszhsmdw',
+    question: '著名画家黄胄最擅长画什么动物？',
+    id: 17888
+  },
+  {
+    answer: '蔡元培',
+    indexes: 'zhmgdyrjyzzs',
+    question: '中华民国第一任教育总长是',
+    id: 17889
+  },
+  {
+    answer: '莫扎特',
+    indexes: 'fjldhlsszq',
+    question: '《费加罗的婚礼》是谁作曲？',
+    id: 17890
+  },
+  {
+    answer: '南朝',
+    indexes: 'jdzcyssy',
+    question: '景德镇瓷窑始烧于：',
+    id: 17891
+  },
+  {
+    answer: '稚龄期',
+    indexes: 'yxsjet13sdjdcw',
+    question: '医学上将儿童1～3岁的阶段称为',
+    id: 17892
+  },
+  {
+    answer: '武松',
+    indexes: 'sdmzlylwxztmfbsxyjzdswkhshczd',
+    question: '四大名著里有两位行者，它们分别是《西游记》中的孙悟空和《水浒传》中的',
+    id: 17893
+  },
+  {
+    answer: '鸭子',
+    indexes: 'yxdwzcjzjdswcsys',
+    question: '以下动物中春季最佳的水温测试员是',
+    id: 17894
+  },
+  {
+    answer: '秦朝',
+    indexes: 'zgnxhmksysmsh',
+    question: '中国女性画眉开始于什么时候',
+    id: 17895
+  },
+  {
+    answer: '凤城',
+    indexes: 'czdjcssm',
+    question: '潮州的简称是什么',
+    id: 17896
+  },
+  {
+    answer: '卡文迪许',
+    indexes: 'szxccylclG',
+    question: '谁最先测出引力常量G',
+    id: 17897
+  },
+  {
+    answer: '字节',
+    indexes: 'zjsjzxxccdzxdwssm',
+    question: '在计算机中信息存储的最小单位是什么？',
+    id: 17898
+  },
+  {
+    answer: '冬至',
+    indexes: 'zgmjddjjscnytksd',
+    question: '中国民间的“冬九九”是从哪一天开始的',
+    id: 17899
+  },
+  {
+    answer: '5、6点',
+    indexes: 'wgdysjdz',
+    question: '“五更”大约是几点钟？',
+    id: 17900
+  },
+  {
+    answer: '埃及',
+    indexes: 'sjssxwmcxzzddqs',
+    question: '世界上数学文明出现最早的地区是：',
+    id: 17901
+  },
+  {
+    answer: '1958',
+    indexes: 'wgszdjnyzcdytjsjd',
+    question: '我国是在第几年研制出第一台计算机的？',
+    id: 17902
+  },
+  {
+    answer: 'RAM存储器',
+    indexes: 'qddyhjsjsyxxdsdccqssm',
+    question: '切断电源后，计算机所有信息丢失的存储器是什么？',
+    id: 17903
+  },
+  {
+    answer: '韩江',
+    indexes: 'gdsdedjssm',
+    question: '广东省第二大江是什么',
+    id: 17904
+  },
+  {
+    answer: '牧野之战',
+    indexes: 'zxllssjzdzwcgtds',
+    question: '在下列历史事件中，导致王朝更替的是',
+    id: 17905
+  },
+  {
+    answer: '斯大林格勒战役',
+    indexes: 'decsjdzdzdzzds',
+    question: '第二次世界大战的重大转折点是',
+    id: 17906
+  },
+  {
+    answer: '中法战争',
+    indexes: 'jdsscxzgbbebjjdzzs',
+    question: '近代史上，出现“中国不败而败”结局的战争是',
+    id: 17907
+  },
+  {
+    answer: '农民革命领袖',
+    indexes: 'jdsszztczzgfzzbzyfads',
+    question: '近代史上，最早提出在中国发展资本主义方案的是',
+    id: 17908
+  },
+  {
+    answer: '蔡廷锴、蒋光鼐',
+    indexes: 'yebsbzlsjljzshkjrjqlds',
+    question: '“一．二八”事变中率十九路军在上海抗击日军侵略的是',
+    id: 17909
+  },
+  {
+    answer: '平型关战役',
+    indexes: 'qmkzbfhzgjdscqdsldzys',
+    question: '全面抗战爆发后，中国军队首次取得胜利的战役是',
+    id: 17910
+  },
+  {
+    answer: '帝国主义战争',
+    indexes: 'dycsjdzsyc',
+    question: '第一次世界大战是一场',
+    id: 17911
+  },
+  {
+    answer: '年轻女子',
+    indexes: 'jjzhdsz',
+    question: '京剧中花旦是指',
+    id: 17912
+  },
+  {
+    answer: '通过圣库制度平均分配所有农副产品',
+    indexes: 'tctmzdjyjdpjzyxzywtgd',
+    question: '《天朝田亩制度》具有绝对平均主义性质，因为它规定',
+    id: 17913
+  },
+  {
+    answer: '“光荣革命”',
+    indexes: 'ygzcjjgmjsdbzs',
+    question: '英国资产阶级革命结束的标志是',
+    id: 17914
+  },
+  {
+    answer: '诺曼底登陆',
+    indexes: 'decsjdzhqsdjxrsjhymmjjjzdjsxds',
+    question: '第二次世界大战后期，使德军陷入苏军和英美盟军夹击中的军事行动是',
+    id: 17915
+  },
+  {
+    answer: '为近代化扫除障碍',
+    indexes: '19sjzydgrzsexdwclfgrcjzxesqdszgsdszs',
+    question: '19世纪中叶，德国人自上而下地完成了法国人曾经“自下而上千的事”。这个“事”的实质是',
+    id: 17916
+  },
+  {
+    answer: '长阳人',
+    indexes: 'zbjrzhsddrzqshzzjlydysrqs',
+    question: '在北京人之后、山顶洞人之前，生活在长江流域的原始人群是',
+    id: 17917
+  },
+  {
+    answer: '门第',
+    indexes: 'wjnbcsqszxszztqdyjs',
+    question: '魏晋南北朝时期，士族享受政治特权的依据是',
+    id: 17918
+  },
+  {
+    answer: '祖逖北伐',
+    indexes: 'cyzljjyxlnysjyg',
+    question: '成语“中流击楫”与下列哪一事件有关？',
+    id: 17919
+  },
+  {
+    answer: '甲午中日战争',
+    indexes: 'dgzygjkszzgdgmtzscsznczzzh',
+    question: '帝国主义国家开始在中国大规模投资设厂是在哪次战争之后？',
+    id: 17920
+  },
+  {
+    answer: '收养合同',
+    indexes: 'xlhtzbsyhtfds',
+    question: '下列合同中不适用合同法的是',
+    id: 17921
+  },
+  {
+    answer: '设立厂卫特务机构',
+    indexes: 'mcjqzztzdcszyhlhgzqyzjgxds',
+    question: '明初加强专制统治的措施中，与后来宦官专权有直接关系的是',
+    id: 17922
+  },
+  {
+    answer: '镇压德国共产党',
+    indexes: '1933n2ydgfxszzghzhadqts',
+    question: '1933年2月，德国法西斯制造“国会纵火案”的企图是',
+    id: 17923
+  },
+  {
+    answer: '比利时',
+    indexes: '19sjmqdlgqzhktldljyqds',
+    question: '19世纪末，取得卢沟桥至汉口铁路代理经营权的是',
+    id: 17924
+  },
+  {
+    answer: '制造陶器',
+    indexes: 'bprhhmdrshdgtds',
+    question: '半坡人和河姆渡人生活的共同点是',
+    id: 17925
+  },
+  {
+    answer: '要求革新图强',
+    indexes: 'qybcwlfdzyyys',
+    question: '屈原被楚王流放的主要原因是',
+    id: 17926
+  },
+  {
+    answer: '甲午中日战争以后',
+    indexes: 'zgmzzydcbfzsz',
+    question: '中国民族主义的初步发展是在',
+    id: 17927
+  },
+  {
+    answer: '西域都护府',
+    indexes: 'zyzfgxymghygyxtsnbdqzzdxzjsjgs',
+    question: '中央政府管辖玉门关和阳关以西、天山南北地区最早的行政、军事机构是',
+    id: 17928
+  },
+  {
+    answer: '通惠河',
+    indexes: 'yccylxzbdydhds',
+    question: '元朝漕运路线最北的一段河道是',
+    id: 17929
+  },
+  {
+    answer: '晋冀豫、晋绥、晋察冀',
+    indexes: 'btdzzzqysjdzykrgjds',
+    question: '百团大战作战区域涉及的主要抗日根据地是',
+    id: 17930
+  },
+  {
+    answer: '已意识到使国家摆脱落后追赶先进的必要性',
+    indexes: '18sjch1861neglcddggdsyshtxdzbmtm',
+    question: '18世纪初和1861年俄国两次大的改革都是由沙皇推行的，这表明他们',
+    id: 17931
+  },
+  {
+    answer: '甘地',
+    indexes: 'ydfblbhzyddldrs',
+    question: '印度非暴力不合作运动的领导人是',
+    id: 17932
+  },
+  {
+    answer: '三权分立学说',
+    indexes: 'zmdzcjjqmsxjmdsjtc',
+    question: '著名的资产阶级启蒙思想家孟德斯鸠提倡',
+    id: 17933
+  },
+  {
+    answer: '允许日本在中国投资建筑铁路',
+    indexes: 'xlbsymgtynrds',
+    question: '下列不属于《马关条约》内容的是',
+    id: 17934
+  },
+  {
+    answer: '和平共处五项原则的提出',
+    indexes: 'xzgwjzccsdbzs',
+    question: '新中国外交政策成熟的标志是',
+    id: 17935
+  },
+  {
+    answer: '意大利',
+    indexes: 'ozzbzymyzxcsy',
+    question: '欧洲资本主义萌芽最先产生于',
+    id: 17936
+  },
+  {
+    answer: '人文主义',
+    indexes: 'wyfxsqzydshscs',
+    question: '文艺复兴时期主要的社会思潮是',
+    id: 17937
+  },
+  {
+    answer: '16世纪早期',
+    indexes: 'nlmyflzzksy',
+    question: '奴隶贸易泛滥最早开始于',
+    id: 17938
+  },
+  {
+    answer: '普列汉诺夫',
+    indexes: '19sj80ndkszegcbmkszyds',
+    question: '19世纪80年代开始在俄国传播马克思主义的是',
+    id: 17939
+  },
+  {
+    answer: '工场手工业',
+    indexes: '16sjd18sjxbqozgysczzdjbxss',
+    question: '16世纪到18世纪下半期，欧洲工业生产组织的基本形式是',
+    id: 17940
+  },
+  {
+    answer: '冬天',
+    indexes: 'tyzsmshjwmzj',
+    question: '太阳在什么时候距我们最近？',
+    id: 17941
+  },
+  {
+    answer: '巩固和加强刚刚统一的德意志帝国',
+    indexes: 'dgsxbsmtxfshzyfcfdzymds',
+    question: '德国首相俾斯麦推行反社会主义“非常法”的主要目的是',
+    id: 17942
+  },
+  {
+    answer: '李世民',
+    indexes: 'qlsemlqqyzzemssjsd',
+    question: '千里送鹅毛,礼轻情意重.这鹅毛是送给谁的',
+    id: 17943
+  },
+  {
+    answer: '越重越能飞',
+    indexes: 'yqxxxdhnyb',
+    question: '有迁徙习性的候鸟一般：',
+    id: 17944
+  },
+  {
+    answer: '康熙',
+    indexes: 'qdnbctysznghdsq',
+    question: '签定《尼布楚条约》是在哪个皇帝时期：',
+    id: 17945
+  },
+  {
+    answer: '鲜卑族',
+    indexes: 'nbcsqdymmgclgcz',
+    question: '南北朝时期的优美民歌《敕勒歌》出自',
+    id: 17946
+  },
+  {
+    answer: '社会主义改造的完成',
+    indexes: 'wgksjrshzycjjddbzs',
+    question: '我国开始进入社会主义初级阶段的标志是',
+    id: 17947
+  },
+  {
+    answer: '1919年',
+    indexes: 'wsydbfynyndwysr',
+    question: '五四运动爆发于哪一年的五月四日：',
+    id: 17948
+  },
+  {
+    answer: '柿子',
+    indexes: 'sywgtcds',
+    question: '属于我国特产的是',
+    id: 17949
+  },
+  {
+    answer: '半小时',
+    indexes: 'hmccqfzszmg35fzdsmhxyczznqf',
+    question: '河马常常潜伏在水中，每隔3—5分钟到水面呼吸一次，最长能潜伏',
+    id: 17950
+  },
+  {
+    answer: '支持根',
+    indexes: 'ymjjbcsdgsy',
+    question: '玉米茎基部产生的根属于',
+    id: 17951
+  },
+  {
+    answer: '天津',
+    indexes: 'gblbzdycdsnl',
+    question: '狗不理包子的原产地是哪里:',
+    id: 17952
+  },
+  {
+    answer: '皇后',
+    indexes: 'pkpsdQdbsm',
+    question: '扑克牌上的Q代表什么:',
+    id: 17953
+  },
+  {
+    answer: '南京',
+    indexes: 'wgngcsdyhszym',
+    question: '我国哪个城市的雨花石最有名',
+    id: 17954
+  },
+  {
+    answer: '地震',
+    indexes: 'hxybsysmyqd',
+    question: '海啸一般是由什么引起的？',
+    id: 17955
+  },
+  {
+    answer: '铜',
+    indexes: 'wdssdjdsysmczzc',
+    question: '武当山上的“金顶”是由什么材质制成？',
+    id: 17956
+  },
+  {
+    answer: '大龄未婚者',
+    indexes: 'rmxcsmrswlw',
+    question: '人们戏称什么人是“王老五”？',
+    id: 17957
+  },
+  {
+    answer: '计算时间',
+    indexes: 'gddthdlyy',
+    question: '古代的铜壶滴漏用于：',
+    id: 17958
+  },
+  {
+    answer: '汽水',
+    indexes: 'xmnzylyyddcmzy',
+    question: '下面哪种饮料有一定的催眠作用？',
+    id: 17959
+  },
+  {
+    answer: '吐鲁番',
+    indexes: 'wgfnzclyw16yqwqzklywsfzywgdfkz',
+    question: '我国风能总储量约为16亿千瓦，其中可利用为十分之一。我国的风库在',
+    id: 17960
+  },
+  {
+    answer: '衡阳',
+    indexes: 'sjzjhnddedcss',
+    question: '世纪之交，湖南的第二大城市是：',
+    id: 17961
+  },
+  {
+    answer: '秦长城',
+    indexes: 'kcdssjzzqjsmblswcqfdhdgccscddyhwzwdxds',
+    question:
+      '堪称当时世界之最，却加速民不聊生、王朝倾覆的宏大工程，除隋朝的大运河外，最为典型的是',
+    id: 17962
+  },
+  {
+    answer: '宋朝人',
+    indexes: 'mxbtdzzsks',
+    question: '《梦溪笔谈》的作者沈括是：',
+    id: 17963
+  },
+  {
+    answer: '饭后',
+    indexes: 'zxhdywyzsmshfy',
+    question: '助消化的药物应在什么时候服用？',
+    id: 17964
+  },
+  {
+    answer: '浙江',
+    indexes: 'fszysjfdzcmhwnjbyrzcwklfmqzlfkclzsjnclzqgnzdtzwgdngsm',
+    question:
+      "矾山镇，有'世界矾都'之称。明洪武年间，便有人在此挖矿炼矾。目前，这里矾矿储量占世界６０％，年产量占全国７０％。你知道它在我国的那个省吗？",
+    id: 17965
+  },
+  {
+    answer: '培根',
+    indexes: 'zsjsllssdmy',
+    question: '“知识就是力量”是谁的名言？',
+    id: 17966
+  },
+  {
+    answer: '褐藻',
+    indexes: 'wmpccdhdsy',
+    question: '我们平常吃的海带属于',
+    id: 17967
+  },
+  {
+    answer: '一种蜘蛛',
+    indexes: 'xxlwsbscgjyrxxhgfdshhgfsz',
+    question: '新西兰卫生部时常告诫游人小心“黑寡妇”的伤害，“黑寡妇”是指：',
+    id: 17968
+  },
+  {
+    answer: '东亚大学',
+    indexes: 'amdxyqjsmdx',
+    question: '澳门大学以前叫什么大学？',
+    id: 17969
+  },
+  {
+    answer: '日本',
+    indexes: 'jwzzszghnyggjjz',
+    question: '甲午战争是中国和哪一个国家交战？',
+    id: 17970
+  },
+  {
+    answer: '1996年10月1日',
+    indexes: 'zhrmghglnrqybzfyhnhyhrkssx',
+    question: '《中华人民共和国老年人权益保障法》于何年何月何日开始施行？',
+    id: 17971
+  },
+  {
+    answer: '日本',
+    indexes: 'klOKxqyng',
+    question: "'卡拉OK'兴起于哪国？",
+    id: 17972
+  },
+  {
+    answer: '不适应外界温度变化',
+    indexes: 'hmwsmzzsldzbsaxlnygyybzq',
+    question: '河马为什么总在水里躲着不上岸？下列哪一个原因不正确：',
+    id: 17973
+  },
+  {
+    answer: '贺龙',
+    indexes: 'dykdhkrgjddkpzs',
+    question: '第一块敌后抗日根据地的开辟者是',
+    id: 17974
+  },
+  {
+    answer: '莫斯科会议',
+    indexes: 'xzgdycysjwdgddwcxdgjhys',
+    question: '新中国第一次以世界五大国的地位出席的国际会议是',
+    id: 17975
+  },
+  {
+    answer: '数据存储与数据备份',
+    indexes: 'xlbsyjsjwlgnds',
+    question: '下列不属于计算机网络功能的是',
+    id: 17976
+  },
+  {
+    answer: '局域网和广域网',
+    indexes: 'wlafgddlfwflzyfw',
+    question: '网络按覆盖的地理范围分类，主要分为',
+    id: 17977
+  },
+  {
+    answer: '蓝宝石',
+    indexes: 'yxnzbcjyddss',
+    question: '以下哪种被称九月的诞生石？',
+    id: 17978
+  },
+  {
+    answer: '2:8:3',
+    indexes: 'dzldmtlzzldyqzwqrssxhyqdzlbs',
+    question: '等质量的镁、碳、硫在足量的氧气中完全燃烧时，消耗氧气的质量比是：',
+    id: 17979
+  },
+  {
+    answer: '南京',
+    indexes: 'ylddsznlbcd',
+    question: '永乐大典是在哪里编成的？',
+    id: 17980
+  },
+  {
+    answer: '20',
+    indexes: 'rdysydsgry',
+    question: '人的一生有多少个乳牙？',
+    id: 17981
+  },
+  {
+    answer: '信',
+    indexes: 'gdzjzzlyjsm',
+    question: '古代驻军只住两夜叫什么？',
+    id: 17982
+  },
+  {
+    answer: '爱伦.坡',
+    indexes: 'xfztxsdbzss',
+    question: '西方侦探小说的鼻祖是谁？',
+    id: 17983
+  },
+  {
+    answer: '秦越人',
+    indexes: 'bqyms',
+    question: '扁鹊原名是？',
+    id: 17984
+  },
+  {
+    answer: '蓝鲸',
+    indexes: 'sjszddbrldws',
+    question: '世界上最大的哺乳类动物是:',
+    id: 17985
+  },
+  {
+    answer: '2',
+    indexes: 'gwzpzdsjpmlc',
+    question: '古文中骈指的是几匹马拉车？',
+    id: 17986
+  },
+  {
+    answer: '17',
+    indexes: '2003sjsjyjfcsbsgyjz',
+    question: '2003赛季世界一级方程式比赛共有几站?',
+    id: 17987
+  },
+  {
+    answer: '夏普',
+    indexes: 'jjxzdzbzcdjmxsynywtcd',
+    question: '经济学中的“资本资产定价模型”是由哪一位提出的？',
+    id: 17988
+  },
+  {
+    answer: '15点-17点',
+    indexes: 'grysedzbsytdsegscmgsclgxjsszdssmsj',
+    question: '古人用十二地支表示一天的十二个时辰，每个时辰两个小进，申时指的是什么时间？',
+    id: 17989
+  },
+  {
+    answer: '葡萄牙',
+    indexes: 'xycsycydzhyddyzzwqwtsxmnggjdgh',
+    question: '薰衣草是原产于地中海一带的一种植物，请问它是下面哪个国家的国花？',
+    id: 17990
+  },
+  {
+    answer: '金圣叹',
+    indexes: 'zgdygxsppjss',
+    question: '中国第一个小说批评家是谁？',
+    id: 17991
+  },
+  {
+    answer: '李斯',
+    indexes: 'zgqdwydzjss',
+    question: '中国秦代唯一的作家是谁？',
+    id: 17992
+  },
+  {
+    answer: '秦观',
+    indexes: 'zzfhqrmwbsyxrcsnwcrdmj',
+    question: '“自在飞花轻若梦，无边似雨细如愁”是哪位词人的名句？',
+    id: 17993
+  },
+  {
+    answer: '普陀山',
+    indexes: 'fjsdmszxcwgypssjzcds',
+    question: '佛教四大名山中，相传为观音菩萨所居之处的是',
+    id: 17994
+  },
+  {
+    answer: '70',
+    indexes: 'zcqkxrdxtzyfznytdsc',
+    question: '正常情况下，人的心跳在一分钟内约跳多少次？',
+    id: 17995
+  },
+  {
+    answer: '电量相等、热量不等',
+    indexes: 'bdzzbxtdlddrsclqltdsjxdlgtddlhcsdrldgxs',
+    question: '把电阻值不相同的两段电热丝串联起来通电时间相等流过它的电量和产生的热量的关系是',
+    id: 17996
+  },
+  {
+    answer: '手指尖',
+    indexes: 'rtncdpfdwlcjzmg',
+    question: '人体哪处的皮肤对外来刺激最敏感？',
+    id: 17997
+  },
+  {
+    answer: '圆球体',
+    indexes: 'yqssmxzd',
+    question: '眼球是什么形状的？',
+    id: 17998
+  },
+  {
+    answer: '水杉',
+    indexes: 'bcwhhsdzws',
+    question: '被称为活化石的植物是',
+    id: 17999
+  },
+  {
+    answer: '刑狱',
+    indexes: 'xyjzwmnndyxsxwmnmxwmzwgdshcszzzszgsmdsd',
+    question:
+      '《西游记》中王母娘娘的原型是西王母，那么西王母在我国的神话传说中最早是掌管什么的神的？',
+    id: 18000
+  },
+  {
+    answer: '0.7',
+    indexes: 'bkjdcjszzgddslgdzdsys',
+    question: '报考机动车驾驶职照规定的视力规定在多少以上',
+    id: 18001
+  },
+  {
+    answer: '单宁酸',
+    indexes: 'czzhysmwzkyjsxsswzdtz',
+    question: '茶之中含有什么物质可以减少吸收食物中的铁质',
+    id: 18002
+  },
+  {
+    answer: '1911',
+    indexes: 'qhdxjynyn',
+    question: '清华大学建于哪一年？',
+    id: 18003
+  },
+  {
+    answer: '印第安那波利斯',
+    indexes: 'F1mgzzmgdngcsjx',
+    question: 'F1美国站在美国的哪个城市举行',
+    id: 18004
+  },
+  {
+    answer: '变小',
+    indexes: 'qgxtkhysmbh',
+    question: '强光下，瞳孔会有什么变化？',
+    id: 18005
+  },
+  {
+    answer: '法国',
+    indexes: 'sjyszds',
+    question: '世界艺术之都是：',
+    id: 18006
+  },
+  {
+    answer: '紫檀',
+    indexes: 'hmjjdyls',
+    question: '红木家具的原料是？',
+    id: 18007
+  },
+  {
+    answer: '第二',
+    indexes: 'mqwgnqgyzslwjsjdjmqzlhcglyddhjjsjxjsp',
+    question: '目前，我国年器官移植数量位居世界第几名，其种类和成功率也达到或接近世界先进水平？',
+    id: 18008
+  },
+  {
+    answer: '金婚',
+    indexes: 'hl50ns',
+    question: '婚龄50年是：',
+    id: 18009
+  },
+  {
+    answer: '灰绿色',
+    indexes: 'fgrjhsmys',
+    question: '法国人忌讳什么颜色？',
+    id: 18010
+  },
+  {
+    answer: '黑龙江',
+    indexes: 'wgzzyjxndsfs',
+    question: '我国最早迎接新年的省份是',
+    id: 18011
+  },
+  {
+    answer: '十八街麻花、狗不理包子、耳朵眼炸糕',
+    indexes: 'tjsjzdssm',
+    question: '“天津三绝”指的是什么？',
+    id: 18012
+  },
+  {
+    answer: '欧.享利',
+    indexes: 'bcwmhdggsrdss',
+    question: '被称为曼哈顿桂冠诗人的是谁？',
+    id: 18013
+  },
+  {
+    answer: '12月1日',
+    indexes: 'bbqtyzsdqjlzydyts',
+    question: '北半球太阳直射地球距离最远的一天是？',
+    id: 18014
+  },
+  {
+    answer: '冀兖青徐荆阳豫梁雍',
+    indexes: 'zggcjzjzznjz',
+    question: '中国古称“九州”，九州指哪九州？',
+    id: 18015
+  },
+  {
+    answer: '中东地区',
+    indexes: 'ylkwysmdq',
+    question: '伊拉克位于什么地区',
+    id: 18016
+  },
+  {
+    answer: '跟范蠡远走高飞',
+    indexes: 'cszxszwgbbhdmyrh',
+    question: '传说中“西施”在吴国兵败后的命运如何？',
+    id: 18017
+  },
+  {
+    answer: '卤代烷',
+    indexes: 'xlnyzmhsbdhjysh',
+    question: '下列哪一种灭火设备对环境有损害？',
+    id: 18018
+  },
+  {
+    answer: '3000',
+    indexes: 'qnscqldtkltsnkdxxdygs',
+    question: '请你说出晴朗的天空里，天上能看到星星大约个数',
+    id: 18019
+  },
+  {
+    answer: '海顿',
+    indexes: 'nwzmyljbcwjxlzf',
+    question: "哪位著名音乐家被称为'交响乐之父'？",
+    id: 18020
+  },
+  {
+    answer: '1681',
+    indexes: 'sjsdyzgygsnynfmd',
+    question: '世界上第一只高压锅是哪一年发明的？',
+    id: 18021
+  },
+  {
+    answer: '3000',
+    indexes: 'wgcqdfmdyydsndlsl',
+    question: '我国瓷器的发明大约有多少年的历史了？',
+    id: 18022
+  },
+  {
+    answer: '3000',
+    indexes: 'cxswgzmdctgyzyyydsndlsl',
+    question: '刺绣是我国著名的传统工艺之一，约有多少年的历史了？',
+    id: 18023
+  },
+  {
+    answer: '秦代',
+    indexes: 'wlzcznygsqksxjd',
+    question: '万里长城在哪一个时期开始兴建的？',
+    id: 18024
+  },
+  {
+    answer: '1794',
+    indexes: 'wgdjhdyhqzds',
+    question: '我国的京杭大运河全长多少？',
+    id: 18025
+  },
+  {
+    answer: '乐段',
+    indexes: 'ylzndlcznbdwzysdzxdwssm',
+    question: '音乐中能独立存在，能表达完整意思的最小单位是什么？',
+    id: 18026
+  },
+  {
+    answer: '交响乐',
+    indexes: 'nzlqxssfyxjxddxgxltq',
+    question: '哪种乐曲形式是富于戏剧性的大型管弦乐套曲？',
+    id: 18027
+  },
+  {
+    answer: '米开朗奇罗',
+    indexes: 'xstjtwddbhsynwdhjshd',
+    question: '西斯廷教堂屋顶的壁画是由哪位大画家所画的？',
+    id: 18028
+  },
+  {
+    answer: '魏格纳',
+    indexes: 'tcdlpysdrss',
+    question: '提出大陆漂移说的人是谁？',
+    id: 18029
+  },
+  {
+    answer: '竺可桢',
+    indexes: 'bywzdbmdsnywkxj',
+    question: "被誉为'浙大保姆'的是哪一位科学家？",
+    id: 18030
+  },
+  {
+    answer: '开封',
+    indexes: 'mhqmshtmxngcsdssshyjrjx',
+    question: '名画《清明上河图》描写哪个城市的世俗生活与节日景象？',
+    id: 18031
+  },
+  {
+    answer: '1900',
+    indexes: 'zqydznynblwayhbsxm',
+    question: '足球运动在哪一年被列为奥运会比赛项目？',
+    id: 18032
+  },
+  {
+    answer: '巴甫洛夫',
+    indexes: 'tjfsxsdclzss',
+    question: '条件反射学说的创立者是谁？',
+    id: 18033
+  },
+  {
+    answer: '浙江',
+    indexes: 'dywpyycmywzfdlhmdkxjzxsngsdr',
+    question: '第一位培养育出没有外祖父的癞蛤蟆的科学家朱洗是哪个省的人？',
+    id: 18034
+  },
+  {
+    answer: '法国',
+    indexes: 'wqydqyynggj',
+    question: '网球运动起源于哪个国家？',
+    id: 18035
+  },
+  {
+    answer: '康熙',
+    indexes: 'yzbgsnysqzjsyzhddypzyhj',
+    question: '“扬州八怪”是哪一时期在江苏扬州活动的一批职业画家？',
+    id: 18036
+  },
+  {
+    answer: '楷书',
+    indexes: 'xlnzstztdsfzdds',
+    question: '下列哪种书体在唐代时发展到鼎盛？',
+    id: 18037
+  },
+  {
+    answer: '看林人',
+    indexes: 'zxcdfmzdlsybscssmgzd',
+    question: '自行车的发明者德莱斯原本是从事什么工作的？',
+    id: 18038
+  },
+  {
+    answer: '银',
+    indexes: 'nzjsnsj',
+    question: '哪种金属能杀菌？',
+    id: 18039
+  },
+  {
+    answer: '500',
+    indexes: 'phmydzyddphmydszlm',
+    question: "'平衡木'运动中用到的平衡木，有多少长？（厘米）",
+    id: 18040
+  },
+  {
+    answer: '吉普赛女郎',
+    indexes: 'xlnfzpbrwshxzcsdyf',
+    question: '下列哪幅作品被认为是“画笑最出色的一幅”？',
+    id: 18041
+  },
+  {
+    answer: '贝尔德',
+    indexes: 'dsdfmzss',
+    question: '电视的发明者是谁？',
+    id: 18042
+  },
+  {
+    answer: '伦勃朗',
+    indexes: 'mhyxssdzp',
+    question: '名画《夜巡》是谁的作品？',
+    id: 18043
+  },
+  {
+    answer: '九宫',
+    indexes: 'zgxqdqpzsfhxfhyjcxddfjsm',
+    question: '中国象棋的棋盘中，上方和下方划有交叉线的地方叫什么？',
+    id: 18044
+  },
+  {
+    answer: '2000余',
+    indexes: 'mgkxcdcsxydsz',
+    question: '莫高窟现存的彩塑像有多少尊？',
+    id: 18045
+  },
+  {
+    answer: '1958',
+    indexes: 'tamgczxdrmyxjnbjcyhs',
+    question: '天安门广场中心的人民英雄纪念碑建成于何时？',
+    id: 18046
+  },
+  {
+    answer: '1978',
+    indexes: 'kczgzqbjdkhzksyhs',
+    question: '堪称中国足球悲剧的“恐韩症”，开始于何时？',
+    id: 18047
+  },
+  {
+    answer: '古罗马雕像',
+    indexes: 'dxzpklklshzdx',
+    question: '雕像作品《卡拉卡拉》是何种雕像？',
+    id: 18048
+  },
+  {
+    answer: '荷花水鸟',
+    indexes: 'xlnfzpsydhjbdsrsz',
+    question: "下列哪幅作品是由大画家--'八大山人'所作？",
+    id: 18049
+  },
+  {
+    answer: '荷兰',
+    indexes: 'sjsdyggpjysdsznggj',
+    question: '世界上第一个股票交易所诞生在哪个国家？',
+    id: 18050
+  },
+  {
+    answer: '1987年',
+    indexes: 'zgddybmnyddhktynyn',
+    question: '中国的第一部模拟移动电话开通于哪一年？',
+    id: 18051
+  },
+  {
+    answer: '黑色星期天',
+    indexes: 'bcwswyldlqmzjsm',
+    question: '被称为“死亡音乐”的乐曲名字叫什么？',
+    id: 18052
+  },
+  {
+    answer: '1988',
+    indexes: 'nyntamcldwkf',
+    question: '哪一年天安门城楼对外开放',
+    id: 18053
+  },
+  {
+    answer: '五代',
+    indexes: 'mhjdysngcddrw',
+    question: '名画家董源是哪个朝代的人物？',
+    id: 18054
+  },
+  {
+    answer: '茅以升',
+    indexes: 'qtjtlgllyqsssjd',
+    question: '钱塘江铁路公路两用桥是谁设计的？',
+    id: 18055
+  },
+  {
+    answer: '雪景图',
+    indexes: 'xlnfzpsyhjmysz',
+    question: '下列哪幅作品是由画家马远所作？',
+    id: 18056
+  },
+  {
+    answer: '维生素B2',
+    indexes: 'nzwsskcjgdxs',
+    question: '哪种维生素可促进钙的吸收？',
+    id: 18057
+  },
+  {
+    answer: '7',
+    indexes: 'zggdhhjzhcjxxy',
+    question: '中国古代航海家郑和曾几下西洋？',
+    id: 18058
+  },
+  {
+    answer: '法国',
+    indexes: 'zmxsjjzjlmllsngr',
+    question: '著名小说家、剧作家罗曼.罗兰是哪国人？',
+    id: 18059
+  },
+  {
+    answer: '17',
+    indexes: 'zngsjozsxhgqldhhysfg',
+    question: '在哪个世纪欧洲盛行华贵绮丽的绘画艺术风格？',
+    id: 18060
+  },
+  {
+    answer: '巴黎',
+    indexes: 'lhgjkwzxzzbsznl',
+    question: '联合国教科文组学织总部设在哪里？',
+    id: 18061
+  },
+  {
+    answer: '库尔贝',
+    indexes: 'yxnwhjfblxszyxy',
+    question: '以下哪位画家发表了“现实主义宣言”？',
+    id: 18062
+  },
+  {
+    answer: '列宾',
+    indexes: 'mhfejhsdxfdzzss',
+    question: '名画《伏尔加河上的纤夫》的作者是谁？',
+    id: 18063
+  },
+  {
+    answer: '魏晋',
+    indexes: 'zgchsqkskdzxskdx',
+    question: '中国从何时起开始开洞造像（石窟雕像）？',
+    id: 18064
+  },
+  {
+    answer: '1955',
+    indexes: 'zgzqxhclynyn',
+    question: '中国足球协会成立于哪一年？',
+    id: 18065
+  },
+  {
+    answer: '法国',
+    indexes: 'mhzyydrmbxlngrmdffjdzqj',
+    question: '名画《自由引导人民》表现了哪国人民的反封建斗争情景？',
+    id: 18066
+  },
+  {
+    answer: '肝',
+    indexes: 'zdgydqgssm',
+    question: '最多功用的器官是什么？',
+    id: 18067
+  },
+  {
+    answer: '农历初一',
+    indexes: 'rsydfsznyt',
+    question: '日食一定发生在哪一天',
+    id: 18068
+  },
+  {
+    answer: '东京',
+    indexes: '1868nmzwxhmzthcjdqdjhjhxzsngcs',
+    question: '1868年明治维新后，明治天皇从京都迁都江户，江户现在是哪个城市？',
+    id: 18069
+  },
+  {
+    answer: '摩泽尔河',
+    indexes: 'xlnthlbczdyzzm',
+    question: '下列哪条河流被称作“德意志之母”？',
+    id: 18070
+  },
+  {
+    answer: '依靠火箭弹射出座舱',
+    indexes: 'zdjfxyzjjqkxrhxstlfj',
+    question: '战斗机飞行员在紧急情况下如何迅速脱离飞机？',
+    id: 18071
+  },
+  {
+    answer: '11',
+    indexes: 'dltydsggjzc',
+    question: '独联体由多少个国家组成？',
+    id: 18072
+  },
+  {
+    answer: '大食蚁兽',
+    indexes: 'ngbsadlytyddw',
+    question: '哪个不是澳大利亚特有的动物？',
+    id: 18073
+  },
+  {
+    answer: '王维',
+    indexes: 'xlngbsctsjzy',
+    question: '下列哪个不是初唐四杰之一？',
+    id: 18074
+  },
+  {
+    answer: '泰国',
+    indexes: 'nzdslsnggjdghm',
+    question: '你知道“睡莲”是哪个国家的国花吗？',
+    id: 18075
+  },
+  {
+    answer: '文远',
+    indexes: 'wggdsxjzczdzssm',
+    question: '我国古代数学家祖冲之的字是什么？',
+    id: 18076
+  },
+  {
+    answer: '万有引力',
+    indexes: 'xmntbsyndsdl',
+    question: '下面哪条不属于“牛顿三定律”？',
+    id: 18077
+  },
+  {
+    answer: '布鲁诺',
+    indexes: 'xlnwzmkxjwzlxsbsszxhgcd',
+    question: '下列哪位著名科学家为真理献身，被烧死在鲜花广场的？',
+    id: 18078
+  },
+  {
+    answer: '维埃里',
+    indexes: 'xlqyznwzhplzg',
+    question: '下列球员中哪位转会频率最高?',
+    id: 18079
+  },
+  {
+    answer: '高山下的花环',
+    indexes: 'lsxzyysxxsnybdyzdrw',
+    question: '“梁三喜”这一艺术形象是哪一部电影中的人物？',
+    id: 18080
+  },
+  {
+    answer: '富兰克林',
+    indexes: 'mgdywbxygjmydkxjss',
+    question: '美国第一位被享有国际名誉的科学家是谁？',
+    id: 18081
+  },
+  {
+    answer: '雅典',
+    indexes: 'dyjxdayhzhdjxd',
+    question: '第一届现代奥运会在何地举行的？',
+    id: 18082
+  },
+  {
+    answer: '吴道子',
+    indexes: 'sztwtswgnwzmhjdzp',
+    question: '《送子天王图》是我国哪位著名画家的作品？',
+    id: 18083
+  },
+  {
+    answer: '北京',
+    indexes: '1990ndsyjyyhzhdjx',
+    question: '1990年第十一届亚运会在何地举行？',
+    id: 18084
+  },
+  {
+    answer: '8%',
+    indexes: '2002nwggnsczzsctp10wyyjjzzld',
+    question: '2002年，我国国内生产总值首次突破10万亿元，经济增长率达',
+    id: 18085
+  },
+  {
+    answer: '安培',
+    indexes: 'dlddwdsm',
+    question: '电流的单位的什么？',
+    id: 18086
+  },
+  {
+    answer: '蒙古族',
+    indexes: 'zgngmzdwdbxjmbcdxxtbd',
+    question: '中国哪个民族的舞蹈表现骏马奔驰的形象特别多？',
+    id: 18087
+  },
+  {
+    answer: '魏晋',
+    indexes: 'wgzmhjgkzsngcddrw',
+    question: '我国著名画家顾恺之是哪个朝代的人物？',
+    id: 18088
+  },
+  {
+    answer: '聂耳',
+    indexes: 'yyjjxqsyspdq',
+    question: '《义勇军进行曲》是由谁谱的曲？',
+    id: 18089
+  },
+  {
+    answer: '琵琶曲',
+    indexes: 'smmfsybsmqm',
+    question: '《十面埋伏》是一部什么曲目？',
+    id: 18090
+  },
+  {
+    answer: '德国',
+    indexes: 'kqzylqdsynggj',
+    question: '口琴这一乐器诞生于哪个国家',
+    id: 18091
+  },
+  {
+    answer: '伽利略',
+    indexes: 'sz1608nzzlsjsdygwyj',
+    question: '谁在1608年制造了世界上第一个望远镜？',
+    id: 18092
+  },
+  {
+    answer: '张艺谋',
+    indexes: 'yphglsyszdd',
+    question: '影片《红高粱》是由谁执导的？',
+    id: 18093
+  },
+  {
+    answer: '芭蕾',
+    indexes: 'nzwdbcwtyhxzdys',
+    question: '哪种舞蹈被称为“跳跃和旋转的艺术”？',
+    id: 18094
+  },
+  {
+    answer: '时间',
+    indexes: 'xlnxbsyxssyszy',
+    question: "下列哪项不属于'小说三要素'之一？",
+    id: 18095
+  },
+  {
+    answer: '镜头',
+    indexes: 'dyzjbddwssm',
+    question: '电影最基本的单位是什么？',
+    id: 18096
+  },
+  {
+    answer: '1905',
+    indexes: 'zgrdycpsypszsmsh',
+    question: '中国人第一次拍摄影片是在什么时候？',
+    id: 18097
+  },
+  {
+    answer: '30',
+    indexes: 'ywggxsbtsyggdhhxfybjxtsjshhxfzddgjsdgnzdqnxfldddsymym',
+    question:
+      '因为各国习俗不同，所以各国的花卉消费也不尽相同，世界上花卉消费最多的国家是德国，你知道其年消费量达到多少亿美元吗？',
+    id: 18098
+  },
+  {
+    answer: '意大利',
+    indexes: 'txfsngdmd',
+    question: '通心粉是哪国的名点',
+    id: 18099
+  },
+  {
+    answer: '申农',
+    indexes: 'xxlddjrss',
+    question: '信息论的奠基人是谁',
+    id: 18100
+  },
+  {
+    answer: '大棕熊',
+    indexes: 'xsldjszjddsrdwssm',
+    question: '现时陆地界上最巨大的食肉动物是什么?',
+    id: 18101
+  },
+  {
+    answer: '长颈鹿',
+    indexes: 'ldszgdbrdwssm',
+    question: '陆地上最高的哺乳动物是什么?',
+    id: 18102
+  },
+  {
+    answer: '大象',
+    indexes: 'ldszzdbrldwssm',
+    question: '陆地上最重的哺乳类动物是什么?',
+    id: 18103
+  },
+  {
+    answer: '穿山甲',
+    indexes: 'yxnzsyldbrldw',
+    question: '以下哪种是有鳞的哺乳类动物?',
+    id: 18104
+  },
+  {
+    answer: '佛教',
+    indexes: 'cslsyngzjdls',
+    question: '《成实论》属于哪个宗教的论书？',
+    id: 18105
+  },
+  {
+    answer: '百足',
+    indexes: 'wgymsm',
+    question: '蜈蚣又名什么?',
+    id: 18106
+  },
+  {
+    answer: '司马相如',
+    indexes: 'lbzsazpzsszjzrxrdkymzsyyqzslgybscwzjdtx',
+    question:
+      '李白在《上安州裴长史书》中“见张人相如大夸云梦之事，云有七泽，遂来观焉。”把谁称为自己的同乡？',
+    id: 18107
+  },
+  {
+    answer: '百姓',
+    indexes: 'qflxctqmdlyhdzzzllyjzsm',
+    question: '“清风两袖朝天去，免得闾阎话短长。”在这里，“闾阎”借指什么？',
+    id: 18108
+  },
+  {
+    answer: '工蜂',
+    indexes: 'zgyfsnyzmfdzr',
+    question: '照顾幼蜂是哪一种蜜蜂的责任？',
+    id: 18109
+  },
+  {
+    answer: '北极',
+    indexes: 'bxszzsmdf',
+    question: '白熊生长在什么地方？',
+    id: 18110
+  },
+  {
+    answer: '江苏',
+    indexes: 'kqqyy',
+    question: '昆曲起源于',
+    id: 18111
+  },
+  {
+    answer: '鳃',
+    indexes: 'jdbfdysysmqghxd',
+    question: '绝大部分的鱼是用什么器官呼吸的？',
+    id: 18112
+  },
+  {
+    answer: '种子',
+    indexes: 'mszwzdnybf',
+    question: '米是植物中的哪一部分？',
+    id: 18113
+  },
+  {
+    answer: '河北',
+    indexes: 'zjkwy',
+    question: '张家口位于',
+    id: 18114
+  },
+  {
+    answer: '摇篮曲',
+    indexes: 'xlngsblmsdzp',
+    question: '下列哪个是伯拉姆斯的作品',
+    id: 18115
+  },
+  {
+    answer: '法国',
+    indexes: 'wqydkyzsd13sjdnggj',
+    question: '网球运动可以追溯到13世纪的哪个国家？',
+    id: 18116
+  },
+  {
+    answer: '席娟',
+    indexes: 'djzmsnwyqxsjdzp',
+    question: '《当家主母》是哪位言情小说家的作品？',
+    id: 18117
+  },
+  {
+    answer: '老舍',
+    indexes: 'bsyrmysjryjzds',
+    question: '被授予人民艺术家荣誉奖状的是：',
+    id: 18118
+  },
+  {
+    answer: 'ARDS',
+    indexes: 'crhxjpzhzdywjcw',
+    question: '成人呼吸窘迫综合征的英文简称为：',
+    id: 18119
+  },
+  {
+    answer: '南京',
+    indexes: 'nzdsgsqwgdsdjysxznygcsm',
+    question: '你知道三国时期吴国的首都建业是现在哪一个城市吗？',
+    id: 18120
+  },
+  {
+    answer: '金星',
+    indexes: 'tyxzzzzmdxxs',
+    question: '太阳系中自转最慢的行星是',
+    id: 18121
+  },
+  {
+    answer: '病人的话',
+    indexes: 'gdmyssmczlytqxdzjftbzgxjzasxzgmzyy',
+    question: '古代名医孙思邈创造了“以痛取穴”的针灸法，他把这个穴叫做“阿是穴”，这个名字源于：',
+    id: 18122
+  },
+  {
+    answer: '波斯湾',
+    indexes: 'blzdbqdngdq',
+    question: '巴林在东半球的哪个地区？',
+    id: 18123
+  },
+  {
+    answer: '意大利',
+    indexes: 'blqyynggj',
+    question: '芭蕾起源于哪个国家？',
+    id: 18124
+  },
+  {
+    answer: '79公里每秒',
+    indexes: 'dyyzsdw',
+    question: '第一宇宙速度为：',
+    id: 18125
+  },
+  {
+    answer: '微型计算机',
+    indexes: 'grjsjPCsylx',
+    question: '个人计算机(PC)属于()类型',
+    id: 18126
+  },
+  {
+    answer: '1个',
+    indexes: 'bdsryjgr',
+    question: '八大山人有几个人？',
+    id: 18127
+  },
+  {
+    answer: '色球层',
+    indexes: 'tyybwytydqd',
+    question: '太阳耀斑位于太阳大气的',
+    id: 18128
+  },
+  {
+    answer: '金星',
+    indexes: 'tyxxxzzdqskqlzmlds',
+    question: '太阳系行星中在地球上看起来最明亮的是',
+    id: 18129
+  },
+  {
+    answer: '听觉（声纳）',
+    indexes: 'bjtzszksmtchsbwt',
+    question: '白暨豚在水中靠什么探测和识别物体？',
+    id: 18130
+  },
+  {
+    answer: '金星',
+    indexes: 'zgszggddnykxxdch',
+    question: '长庚是中国古代对哪一颗行星的称呼?',
+    id: 18131
+  },
+  {
+    answer: '吴用',
+    indexes: 'shzhczdxds',
+    question: '水浒中号称智多星的是',
+    id: 18132
+  },
+  {
+    answer: '公孙龙',
+    indexes: 'bmfmczsk',
+    question: '白马非马出自谁口?',
+    id: 18133
+  },
+  {
+    answer: '中国',
+    indexes: 'bqtsngtydyzjwhjdzgdw',
+    question: '白鳍豚是哪国特有的一种极为罕见的珍贵动物？',
+    id: 18134
+  },
+  {
+    answer: '1860年',
+    indexes: 'ymydsfyzsznynbyjfhd',
+    question: '圆明园大水法遗址是在哪一年被英军焚毁的？',
+    id: 18135
+  },
+  {
+    answer: '80分',
+    indexes: 'awgxxdyzbzjyfwbpxdyzs',
+    question: '按我国现行的邮资标准，寄一封外埠平信的邮资是：',
+    id: 18136
+  },
+  {
+    answer: '土鲁番盆地',
+    indexes: 'wghbzdddfs',
+    question: '我国海拔最低的地方是：',
+    id: 18137
+  },
+  {
+    answer: '四星',
+    indexes: 'bdsdecsjdzzmjzyzwdgjjlzytzezzqdljrdzjqwbdqddzgdjxsjx',
+    question:
+      '巴顿是第二次世界大战中美军最有作为的高级将领之一，他在二战中取得了惊人的战绩，请问巴顿取得的最高的军衔是几星？',
+    id: 18138
+  },
+  {
+    answer: '9月10日',
+    indexes: 'wgdjsjs',
+    question: '我国的教师节是：',
+    id: 18139
+  },
+  {
+    answer: '华佗',
+    indexes: 'sjszzsydnfdmyss',
+    question: '世界上最早使用导尿法的名医是谁？',
+    id: 18140
+  },
+  {
+    answer: '青海',
+    indexes: 'hhdytznygs',
+    question: '黄河的源头在哪一个省？',
+    id: 18141
+  },
+  {
+    answer: '机器语言程序',
+    indexes: 'jsjnzjzxdcxs',
+    question: '计算机能直接执行的程序是',
+    id: 18142
+  },
+  {
+    answer: '次子',
+    indexes: 'zywstdd',
+    question: '朱允文是他爹的',
+    id: 18143
+  },
+  {
+    answer: '出云号',
+    indexes: 'fgrbhjz813kzstbzshdjdqjs',
+    question: '法国日本海军在8·13抗战时停泊在上海的舰队旗舰是：',
+    id: 18144
+  },
+  {
+    answer: '普罗米修斯',
+    indexes: 'ayhjdqyhsyg',
+    question: '奥运火炬的起源和谁有关？',
+    id: 18145
+  },
+  {
+    answer: '宜宾',
+    indexes: 'nzdgxctgsxzd',
+    question: '哪吒的故乡陈塘关是现在的：',
+    id: 18146
+  },
+  {
+    answer: '德国人',
+    indexes: 'bdfsngr',
+    question: '贝多芬是哪国人？',
+    id: 18147
+  },
+  {
+    answer: '英国',
+    indexes: 'befxysnggjfbd',
+    question: '贝尔福宣言是哪个国家发表的？',
+    id: 18148
+  },
+  {
+    answer: '第五交响曲',
+    indexes: 'bcwmyjxqdsbdfd',
+    question: '被称为命运交响曲的是贝多芬的',
+    id: 18149
+  },
+  {
+    answer: '4名',
+    indexes: 'zsdjlsmdyjmydy',
+    question: '正式的接力赛，每队有几名运动员？',
+    id: 18150
+  },
+  {
+    answer: '40年',
+    indexes: 'mqwgsylyylyddtdsyqcrdzgnxs',
+    question: '目前我国商业、旅游、娱乐用地的土地使用权出让的最高年限是：',
+    id: 18151
+  },
+  {
+    answer: '1950年4月',
+    indexes: 'gqtzyynynjd5y4rwgqtcljnr',
+    question: '共青团中央于哪一年决定5月4日为共青团成立纪念日',
+    id: 18152
+  },
+  {
+    answer: '运载火箭',
+    indexes: '1970424wgddykrzwxdfhyhysmfssstd',
+    question: '1970.4.24我国的第一颗人造卫星东方红一号用什么方式送上天的？',
+    id: 18153
+  },
+  {
+    answer: '法国',
+    indexes: '1234567qgcmdfmzlz',
+    question: '1、2、3、4、5、6、7七个唱名的发明者来自：',
+    id: 18154
+  },
+  {
+    answer: '14岁',
+    indexes: 'zwgxfgdxwrfxszrdzxnls',
+    question: '在我国，刑法规定行为人负刑事责任的最小年龄是',
+    id: 18155
+  },
+  {
+    answer: '7',
+    indexes: 'z1994nd2003nsndjAlslszdlsddghdjclsgj',
+    question: '在1994年到2003年十年的甲A联赛历史中，大连实德队共获得几次联赛冠军？',
+    id: 18156
+  },
+  {
+    answer: '1946',
+    indexes: 'dytjsjszsmshyzcxd',
+    question: '第一台计算机是在什么时候研制出现的？',
+    id: 18157
+  },
+  {
+    answer: '国民党召开“国民大会”是非法的',
+    indexes: '1946nzddzhmgxfswxfyw',
+    question: '1946年制定的《中华民国宪法》是伪宪法，因为',
+    id: 18158
+  },
+  {
+    answer: '1640年新议会的召开',
+    indexes: 'ygzcjjgmksdbzs',
+    question: '英国资产阶级革命开始的标志是',
+    id: 18159
+  },
+  {
+    answer: '1914年，最早装备法军',
+    indexes: 'tkcsy',
+    question: '头盔产生于',
+    id: 18160
+  },
+  {
+    answer: '4年',
+    indexes: 'dfqyljnsjwclmnlszfh',
+    question: '达·芬奇用了几年时间完成了《蒙娜丽莎》这幅画?',
+    id: 18161
+  },
+  {
+    answer: '2864亿美元',
+    indexes: '2002nwggjwhcbyddsymy',
+    question: '2002年，我国国家外汇储备已达多少亿美元',
+    id: 18162
+  },
+  {
+    answer: '528.7*24.8',
+    indexes: 'mhqmshtdggsdsdwlm',
+    question: '名画《清明上河图》的规格是多少？（单位厘米）',
+    id: 18163
+  },
+  {
+    answer: '1894年',
+    indexes: 'gjawhcly',
+    question: '国际奥委会成立于',
+    id: 18164
+  },
+  {
+    answer: '长笛',
+    indexes: 'xllqzbsymzlqds',
+    question: '下列乐器中不属于民族乐器的是',
+    id: 18165
+  },
+  {
+    answer: '路易十四',
+    indexes: 'bcwtywdgwss',
+    question: '被称为太阳王的国王是谁？',
+    id: 18166
+  },
+  {
+    answer: '孙立人',
+    indexes: 'bdsdgjyljzywdfdlmedkrmjs',
+    question: '被当时的国际舆论界赞誉为东方的隆美尔的抗日名将是：',
+    id: 18167
+  },
+  {
+    answer: '三个',
+    indexes: 'qcdxsxbzhcyfdjwzjhcjzchqtzcfhdxtj',
+    question: '汽车大修送修标准：货车以发动机为主，结合车架总成或其它（）总成符合大修条件。',
+    id: 18168
+  },
+  {
+    answer: '0.7',
+    indexes: 'bkjdcjsyyqmzyjdslbdy',
+    question: '报考机动车驾驶员要求每只眼睛的视力不低于：',
+    id: 18169
+  },
+  {
+    answer: 'CIA',
+    indexes: 'mgzyqbjdywjxs',
+    question: '美国中央情报局的英文简写是',
+    id: 18170
+  },
+  {
+    answer: '林和靖',
+    indexes: 'bsnwsrcyjzgsymwqyhwz',
+    question: '北宋哪位诗人曾隐居在孤山，以梅为妻，以鹤为子？',
+    id: 18171
+  },
+  {
+    answer: '乌兹别克斯坦',
+    indexes: 'bywbjzgds',
+    question: '被誉为“白金之国”的是',
+    id: 18172
+  },
+  {
+    answer: '慕尼黑',
+    indexes: 'dgdyhfjzzwdzzxzn',
+    question: '德国的宇航，飞机制造，微电子中心在哪？',
+    id: 18173
+  },
+  {
+    answer: '6300',
+    indexes: 'zjqzdsgl',
+    question: '长江全长多少公里？',
+    id: 18174
+  },
+  {
+    answer: '黑海',
+    indexes: 'dnhzrngh',
+    question: '多瑙河注入哪个海？',
+    id: 18175
+  },
+  {
+    answer: '铝锑合金',
+    indexes: 'bxsccysmcl',
+    question: '保险丝常采用什么材料？',
+    id: 18176
+  },
+  {
+    answer: '匈牙利',
+    indexes: 'hd2002nnbewxjdymlketzsngr',
+    question: '获得2002年诺贝尔文学奖的伊姆雷.凯尔泰兹是哪国人',
+    id: 18177
+  },
+  {
+    answer: '翦伯赞',
+    indexes: 'tzjssxd',
+    question: '《题昭君》是谁写的？',
+    id: 18178
+  },
+  {
+    answer: '206块',
+    indexes: 'ryjkgt',
+    question: '人有几块骨头？',
+    id: 18179
+  },
+  {
+    answer: '魏格纳',
+    indexes: 'dlpyjsssfxd',
+    question: '“大陆漂移假说”是谁发现的？',
+    id: 18180
+  },
+  {
+    answer: '却下水精帘，玲珑望秋月。',
+    indexes: 'yjsblyjqlwzzlbyjydhljs',
+    question: '玉阶生白露，夜久侵罗袜（作者李白玉阶怨）的后两句是？',
+    id: 18181
+  },
+  {
+    answer: '中央处理器',
+    indexes: 'qwdnpjzCPUssm',
+    question: '请问电脑配件中CPU是什么？',
+    id: 18182
+  },
+  {
+    answer: '蒙古',
+    indexes: 'zyzdygjlshzygjds',
+    question: '在亚洲第一个建立社会主义国家的是',
+    id: 18183
+  },
+  {
+    answer: '1924',
+    indexes: 'dyjdahynnjxjxmndah',
+    question: '第一届冬奥会于哪年举行即夏蒙尼冬奥会',
+    id: 18184
+  },
+  {
+    answer: '吉平',
+    indexes: 'yaswsbccdjzgsfztesdss',
+    question: '因暗杀未遂，被曹操断九指，割舌，分肢体而死的是谁？',
+    id: 18185
+  },
+  {
+    answer: '大气密度改变',
+    indexes: 'xxysysdyygxlngyyyg',
+    question: '星星一闪一闪的原因跟下列哪个原因有关？',
+    id: 18186
+  },
+  {
+    answer: '635千克',
+    indexes: 'sjszzdmmxjydz',
+    question: '世界上最重的“猛犸”相机有多重？',
+    id: 18187
+  },
+  {
+    answer: '人名',
+    indexes: 'mlsszdsssyg',
+    question: "'名落孙山'中的'孙山'是一个",
+    id: 18188
+  },
+  {
+    answer: '春秋',
+    indexes: 'wgzzdybybbcxysmsh',
+    question: '我国最早的银币（银布币）出现于什么时候？',
+    id: 18189
+  },
+  {
+    answer: '郑文',
+    indexes: 'zgldlcfwsscdyzzj',
+    question: '诸葛亮第六次伐魏时谁曾到营中诈降？',
+    id: 18190
+  },
+  {
+    answer: '长春',
+    indexes: 'xjgwdydjhlgzsngcsdtd',
+    question: '“夏季高温多雨，冬季寒冷干燥”是哪个城市的特点',
+    id: 18191
+  },
+  {
+    answer: '马拉多纳',
+    indexes: 'rmcsddgsnywwddqx',
+    question: '人们常说的迭戈是哪一位伟大的球星？',
+    id: 18192
+  },
+  {
+    answer: '造纸',
+    indexes: 'xlwggdsdfmzysjdqmqggyscjyzcwrds',
+    question: '下列我国古代四大发明中，用水较多且目前该工业生产极易造成污染的是',
+    id: 18193
+  },
+  {
+    answer: '印度',
+    indexes: 'xlnggjybzrwz',
+    question: '下列哪个国家以白种人为主？',
+    id: 18194
+  },
+  {
+    answer: '黄州、惠州、儋州',
+    indexes: 'sssbzds',
+    question: '苏轼“三贬”之地是？',
+    id: 18195
+  },
+  {
+    answer: '齐、楚、秦',
+    indexes: 'zgqxzzcqsqcgbds',
+    question: '战国七雄中，在春秋时期称过霸的是（）',
+    id: 18196
+  },
+  {
+    answer: '7',
+    indexes: 'zhgjcxxy',
+    question: '郑和共几次下西洋？',
+    id: 18197
+  },
+  {
+    answer: '铅',
+    indexes: 'qsxdcdzyycls',
+    question: '铅酸蓄电池的主要原材料是：',
+    id: 18198
+  },
+  {
+    answer: '孟尝君',
+    indexes: 'jmgdscznwzggzmx',
+    question: '鸡鸣狗盗是出自哪位战国公子门下',
+    id: 18199
+  },
+  {
+    answer: '2.0V',
+    indexes: 'qsxdcdtdeddys',
+    question: '铅酸蓄电池单体的额定电压是：',
+    id: 18200
+  },
+  {
+    answer: '英格兰',
+    indexes: 'mldnszdnzqdysdzsdjyqd',
+    question: '马拉多纳是在对哪支球队用上帝之手打进一球的？',
+    id: 18201
+  },
+  {
+    answer: '新加坡',
+    indexes: 'scsnl',
+    question: '“狮城”是哪里？',
+    id: 18202
+  },
+  {
+    answer: '铜',
+    indexes: 'rlzxsydzzqjdjss',
+    question: '人类最先使用的制造器具的金属是',
+    id: 18203
+  },
+  {
+    answer: '波罗的海',
+    indexes: 'sjsydzddhsxlnyg',
+    question: '世界上盐度最低的海是下列哪一个？',
+    id: 18204
+  },
+  {
+    answer: '攻击机',
+    indexes: 'Asmjnzfjddh',
+    question: '“A”是美军哪种飞机的代号？',
+    id: 18205
+  },
+  {
+    answer: '耕作',
+    indexes: 'yyzwhycyysz',
+    question: '英语中“文化”一词原意是指：',
+    id: 18206
+  },
+  {
+    answer: '刚果河',
+    indexes: 'sjsd2dhsxlnyt',
+    question: '世界上第2大河是下列哪一条？',
+    id: 18207
+  },
+  {
+    answer: '原物的一份拷贝',
+    indexes: 'swshfxhdwzdyzjdjxwzzzljxszsmys',
+    question: '上网时会发现很多网站都有自己的“镜像网站”，在这里“镜像”是指什么意思',
+    id: 18208
+  },
+  {
+    answer: '诗',
+    indexes: 'lybbk',
+    question: '“六艺”不包括',
+    id: 18209
+  },
+  {
+    answer: '10年',
+    indexes: 'wqtxdjskyqxw',
+    question: '无期徒刑的假释考验期限为？',
+    id: 18210
+  },
+  {
+    answer: '1965年',
+    indexes: 'wgdjtgjsjsnynyzcgd',
+    question: '我国的晶体管计算机是哪一年研制成功的？',
+    id: 18211
+  },
+  {
+    answer: '美国',
+    indexes: 'bystgfmzfsblsngr',
+    question: '背跃式跳高发明者福斯伯利是哪国人',
+    id: 18212
+  },
+  {
+    answer: '李昌赫',
+    indexes: 'sjwqssdywhddmgdqss',
+    question: '世界围棋史上第一位获得大满贯的棋手是？',
+    id: 18213
+  },
+  {
+    answer: 'KFC',
+    indexes: 'kdjdywsxssm',
+    question: '肯德基的英文缩写是什么？',
+    id: 18214
+  },
+  {
+    answer: '黄色',
+    indexes: 'xlhzbsysys',
+    question: '下列何者不属于三原色',
+    id: 18215
+  },
+  {
+    answer: '柳宗元',
+    indexes: 'qljqzyyygsdzzss',
+    question: '“黔驴技穷”这一寓言故事的作者是谁？',
+    id: 18216
+  },
+  {
+    answer: '屈原',
+    indexes: 'jgssdzp',
+    question: '九歌是谁的作品',
+    id: 18217
+  },
+  {
+    answer: '50个',
+    indexes: 'mgxydsgz',
+    question: '美国现有多少个州？',
+    id: 18218
+  },
+  {
+    answer: '白桦',
+    indexes: 'mrsdxms',
+    question: "'美人树'的学名是？",
+    id: 18219
+  },
+  {
+    answer: '墨绿色',
+    indexes: 'yxdyzclyhldyszwhysms',
+    question: '银杏的叶子除了有黄绿的颜色之外，还有什么色？',
+    id: 18220
+  },
+  {
+    answer: '春城',
+    indexes: 'wgmckmbrmcsm',
+    question: '我国名城昆明被人们称什么？',
+    id: 18221
+  },
+  {
+    answer: '李煜',
+    indexes: 'dyyjcsxdldpmzzwggdsdcz',
+    question: '电影“一江春水向东流”的片名，摘自我国古代谁的词作？',
+    id: 18222
+  },
+  {
+    answer: '臣',
+    indexes: 'yxbsyjcdssm',
+    question: '以下不属于敬称的是什么？',
+    id: 18223
+  },
+  {
+    answer: '夸父',
+    indexes: 'zygshzzztyds',
+    question: '在远古神话中追逐太阳的是',
+    id: 18224
+  },
+  {
+    answer: '食客',
+    indexes: 'mcjzsdmxdrccw',
+    question: '孟尝君招收到门下的人才称为',
+    id: 18225
+  },
+  {
+    answer: '2.26',
+    indexes: 'ymdsgs',
+    question: '姚明的身高是？',
+    id: 18226
+  },
+  {
+    answer: '维农',
+    indexes: 'cpsmzqllsyxngjjxztcd',
+    question: '产品生命周期理论是以下哪个经济学者提出的？',
+    id: 18227
+  },
+  {
+    answer: '雅典娜',
+    indexes: 'xlshzzhnss',
+    question: '希腊神话中智慧女神是',
+    id: 18228
+  },
+  {
+    answer: '黄鼠狼',
+    indexes: 'ngdwnqszfcw',
+    question: '那个动物能轻松制服刺猬？',
+    id: 18229
+  },
+  {
+    answer: '非洲',
+    indexes: 'yhgzddzs',
+    question: '沿海国最多的洲是：',
+    id: 18230
+  },
+  {
+    answer: '500万年前',
+    indexes: 'rldsydsnq',
+    question: '人类诞生于多少年前？',
+    id: 18231
+  },
+  {
+    answer: '哲学家',
+    indexes: 'xlnycwyyddslbxf',
+    question: '下列哪一称谓与雅典的梭伦不相符',
+    id: 18232
+  },
+  {
+    answer: '1850',
+    indexes: 'xndxsjy',
+    question: '悉尼大学始建于：',
+    id: 18233
+  },
+  {
+    answer: '2',
+    indexes: '8gtjxtdxqqzygbqtqgszytpzsccjkzcszdxq',
+    question: '8个体积相同的小球，其中一个比其它七个稍重，用天平最少称（）次就可找出稍重的小球',
+    id: 18234
+  },
+  {
+    answer: '阿道尔夫·萨克斯',
+    indexes: 'sksdfmzsfgr',
+    question: '萨克斯的发明者是法国人：',
+    id: 18235
+  },
+  {
+    answer: '斯塔夫里阿诺斯',
+    indexes: 'qqtssddnwzmlsxjdzz',
+    question: '《全球通史》是当代哪位著名历史学家的著作？',
+    id: 18236
+  },
+  {
+    answer: '柳州',
+    indexes: 'gyswczgzwzhznszsmz',
+    question: '古言所谓:吃在广州,玩在杭州....哪死在什么州?',
+    id: 18237
+  },
+  {
+    answer: '后面',
+    indexes: 'zydyjzzstdngbw',
+    question: '章鱼的眼睛长在身体的哪个部位？',
+    id: 18238
+  },
+  {
+    answer: '华盛顿',
+    indexes: 'mgddyrztss',
+    question: '美国的第一任总统是谁？',
+    id: 18239
+  },
+  {
+    answer: '紫色',
+    indexes: 'hsddbssbslsddbsshsnhsddbsssm',
+    question: '黑色的对比色是白色,绿色的对比色是红色,那黄色的对比色是什么?',
+    id: 18240
+  },
+  {
+    answer: '3:7',
+    indexes: 'rtdrtgyfytysgcqbls',
+    question: '人体的肉体骨养份由炭与水构成,其比例是:',
+    id: 18241
+  },
+  {
+    answer: '塞浦路斯',
+    indexes: 'sjsnggjgqsybgdt',
+    question: '世界上哪个国家国旗上有本国地图？',
+    id: 18242
+  },
+  {
+    answer: '2',
+    indexes: 'zelszgjxgjccczz',
+    question: '在俄罗斯总共进行过几次车臣战争：',
+    id: 18243
+  },
+  {
+    answer: '苏联',
+    indexes: 'dygjrtkdsngr',
+    question: '第一个进入太空的是哪国人？',
+    id: 18244
+  },
+  {
+    answer: '麦新',
+    indexes: 'krgqddjxqsnwzqjdzp',
+    question: '抗日歌曲“大刀进行曲”是哪位作曲家的作品？',
+    id: 18245
+  },
+  {
+    answer: '东正教',
+    indexes: 'smzjzelsszydzj',
+    question: '什么宗教在俄罗斯是主要的宗教：',
+    id: 18246
+  },
+  {
+    answer: '黑子',
+    indexes: 'wqzygjbzghzxlz',
+    question: '围棋中依国际标准规何者先落子？',
+    id: 18247
+  },
+  {
+    answer: '司马迁',
+    indexes: 'smgsmqsmzsmynwsmxscszz',
+    question: '司马光，司马迁，司马昭，司马懿，哪位司马先生出生最早',
+    id: 18248
+  },
+  {
+    answer: '关税',
+    indexes: 'zWTOznyzfsswyhfdbhfs',
+    question: '在WTO中，哪一种方式是唯一合法的保护方式？',
+    id: 18249
+  },
+  {
+    answer: '尼古拉二世',
+    indexes: 'elszhywshss',
+    question: '俄罗斯最后一位沙皇是谁：',
+    id: 18250
+  },
+  {
+    answer: '美国',
+    indexes: '60ndnggjdyhyscdsyq',
+    question: '60年代哪个国家的宇航员首次登上月球？',
+    id: 18251
+  },
+  {
+    answer: '葡萄牙',
+    indexes: 'zzqzzgltdxfzmzs',
+    question: '最早侵占中国领土的西方殖民者是（）',
+    id: 18252
+  },
+  {
+    answer: '锡伯族',
+    indexes: 'xqjswgngmzdjr',
+    question: '西迁节是我国哪个民族的节日？',
+    id: 18253
+  },
+  {
+    answer: '中、尼过境',
+    indexes: 'zmlmfwy',
+    question: '珠穆朗马峰位于（）',
+    id: 18254
+  },
+  {
+    answer: '新几内亚岛',
+    indexes: 'sjszgddy',
+    question: '世界上最高的岛屿',
+    id: 18255
+  },
+  {
+    answer: '楚汉争霸时期',
+    indexes: 'zzdfzyyzzszngcd',
+    question: '最早的风筝用于战争是在哪个朝代？',
+    id: 18256
+  },
+  {
+    answer: '7米',
+    indexes: 'lsdfedz',
+    question: '乐山大佛耳朵长',
+    id: 18257
+  },
+  {
+    answer: '李清照',
+    indexes: 'hyajsds',
+    question: '号“易安居士”的是？',
+    id: 18258
+  },
+  {
+    answer: '2002年5月1日',
+    indexes: 'cnynqwgksssxdgjqzxcprzzd',
+    question: '从哪一年起，我国开始实施新的国家强制性产品认证制度？',
+    id: 18259
+  },
+  {
+    answer: '《甘泽谣》',
+    indexes: 'ddzjwxbdxswssnrqcyyxnbzp',
+    question: '当代作家王小波的小说《万寿寺》内容取材于以下哪部作品？',
+    id: 18260
+  },
+  {
+    answer: '使体温保持正常',
+    indexes: 'rzydsylhdyys',
+    question: '人在运动时要流汗的原因是（）',
+    id: 18261
+  },
+  {
+    answer: '重阳节',
+    indexes: 'sjmfjjbsqzdjjyy',
+    question: '诗句“每逢佳节倍思亲”中的“佳节”原意',
+    id: 18262
+  },
+  {
+    answer: '笛福',
+    indexes: 'zpxslbxpljdzzs',
+    question: '长篇小说〈鲁滨逊漂流记〉的作者是',
+    id: 18263
+  },
+  {
+    answer: '20颗',
+    indexes: 'rdryydsk',
+    question: '人的乳牙有多少颗',
+    id: 18264
+  },
+  {
+    answer: '听觉',
+    indexes: 'gdgjzzcds',
+    question: '龟的感觉中最差的是',
+    id: 18265
+  },
+  {
+    answer: '飞机失事记录资料调查原因',
+    indexes: 'zmhfjdyazhxzdyys',
+    question: '在民航飞机都要安装“黑匣子”的原因是（）',
+    id: 18266
+  },
+  {
+    answer: '老子',
+    indexes: 'zyjsyyxlnglsrw',
+    question: '重阳节是缘于下列哪个历史人物',
+    id: 18267
+  },
+  {
+    answer: '汉代',
+    indexes: 'xcrfbzdfssy',
+    question: '新春燃放爆竹的风俗始于',
+    id: 18268
+  },
+  {
+    answer: '只有下限没有上限',
+    indexes: 'wdysxxm',
+    question: '温度有上下限吗？',
+    id: 18269
+  },
+  {
+    answer: '大江健三郎',
+    indexes: 'cddqnsyxnwzjdzp',
+    question: '《迟到的青年》是以下哪位作家的作品？',
+    id: 18270
+  },
+  {
+    answer: '加利弗尼亚州',
+    indexes: 'sjzzydITgkjcyjdggwymgdngz',
+    question: '世界最重要的IT高科技产业基地硅谷位于美国的那个州',
+    id: 18271
+  },
+  {
+    answer: '壮族',
+    indexes: 'dylsjsfysmmzdgs',
+    question: '电影（刘三姐）是反映什么民族的故事',
+    id: 18272
+  },
+  {
+    answer: '拒绝收礼',
+    indexes: 'tzszwzzzzzshdryzsdtszjhdmds',
+    question: '天知、神知、我知、子知，最早是汉代人杨震说的，他说这句话的目的是：',
+    id: 18273
+  },
+  {
+    answer: '论语',
+    indexes: 'wjswzrjjxdjdhcxlnyzbzqz',
+    question: '“五经”是五种儒家经学典籍的合称，下列哪一种不在其中？',
+    id: 18274
+  },
+  {
+    answer: '头朝下',
+    indexes: 'qyztrzcss',
+    question: '蚯蚓在土壤中吃食时',
+    id: 18275
+  },
+  {
+    answer: '电子邮件',
+    indexes: 'mqlxdEmaildzwhys',
+    question: '目前流行的E-mail的中文含义是',
+    id: 18276
+  },
+  {
+    answer: '北京',
+    indexes: 'zglssdyjzqjysclz',
+    question: '中国历史上第一家证券交易所成立在',
+    id: 18277
+  },
+  {
+    answer: '1997年',
+    indexes: 'wgynynshxgzq',
+    question: '我国于哪一年收回香港主权？',
+    id: 18278
+  },
+  {
+    answer: '7月11日',
+    indexes: 'sjrkrsnyt',
+    question: '世界人口日是哪一天？',
+    id: 18279
+  },
+  {
+    answer: '尼泊尔',
+    indexes: 'sjsnggjgqwsjx',
+    question: '世界上哪个国家国旗为三角形？',
+    id: 18280
+  },
+  {
+    answer: '玻璃纤维',
+    indexes: 'cgtgsygdzds',
+    question: '撑竿跳高所用“竿”的质地是：',
+    id: 18281
+  },
+  {
+    answer: '壮族',
+    indexes: 'wgssmzzrkzdds',
+    question: '我国少数民族中人口最多的是（）',
+    id: 18282
+  },
+  {
+    answer: '肯尼迪',
+    indexes: 'fwzddmgzts',
+    question: '绯闻最多的美国总统是',
+    id: 18283
+  },
+  {
+    answer: '林则徐',
+    indexes: 'zgjdsszyksjddyrs',
+    question: '中国近代史上睁眼看世界的第一人是？',
+    id: 18284
+  },
+  {
+    answer: '和仲',
+    indexes: 'ssclzzzzwhzsm',
+    question: '苏轼除了字子瞻之外，还字什么？',
+    id: 18285
+  },
+  {
+    answer: '商人',
+    indexes: 'ozzsjsmydrbnpdzs',
+    question: '欧洲中世纪什么样的人不能佩带钻石',
+    id: 18286
+  },
+  {
+    answer: '孙权',
+    indexes: 'sgyyzplfryzbdss',
+    question: '《三国演义》中,赔了夫人又折兵的是谁?',
+    id: 18287
+  },
+  {
+    answer: '处暑',
+    indexes: 'xlnyjqyqtsgbztyjd',
+    question: '下列哪一节气与其它三个不在同一季度？',
+    id: 18288
+  },
+  {
+    answer: '10年',
+    indexes: 'wgsbqdbhqw',
+    question: '我国商标权的保护期为',
+    id: 18289
+  },
+  {
+    answer: '稽康',
+    indexes: 'glsssdzp',
+    question: '《广陵散》是谁的作品：',
+    id: 18290
+  },
+  {
+    answer: '5',
+    indexes: 'hjlpmxgjmz',
+    question: '海军礼炮每响隔几秒钟？',
+    id: 18291
+  },
+  {
+    answer: '吴敬梓',
+    indexes: 'rlwsdzzs',
+    question: '《儒林外史》的作者是',
+    id: 18292
+  },
+  {
+    answer: '世界银行集团',
+    indexes: 'gjkfxhhgjjrgssyyxnygjjrjg',
+    question: '国际开发协会和国际金融公司属于以下哪一国际金融机构？',
+    id: 18293
+  },
+  {
+    answer: '13',
+    indexes: 'mggqsytw',
+    question: '美国国旗上有（）条纹？',
+    id: 18294
+  },
+  {
+    answer: '西周到春秋',
+    indexes: 'sjzpsjlnylssqdsg',
+    question: '《诗经》作品收集了哪一历史时期的诗歌',
+    id: 18295
+  },
+  {
+    answer: '37',
+    indexes: 'rmyxjnbgdsm',
+    question: '人民英雄纪念碑高多少米',
+    id: 18296
+  },
+  {
+    answer: '1997',
+    indexes: 'ygwfdansznynqs',
+    question: '英国王妃戴安娜是在哪一年去世',
+    id: 18297
+  },
+  {
+    answer: '民主主义范畴',
+    indexes: 'xmzzyshsyyxnyshfc',
+    question: '新民主主义社会属于以下哪一社会范畴？',
+    id: 18298
+  },
+  {
+    answer: '武汉长江大桥',
+    indexes: 'wgjcddyzzjdqs',
+    question: '我国建成的第一座长江大桥是：',
+    id: 18299
+  },
+  {
+    answer: '苗',
+    indexes: 'lswsnyssmzdwd',
+    question: '芦笙舞是哪一少数民族的舞蹈',
+    id: 18300
+  },
+  {
+    answer: '亚洲',
+    indexes: 'ylkzggjzngz',
+    question: '伊拉克这个国家在哪个洲？',
+    id: 18301
+  },
+  {
+    answer: '莫桑比克海峡',
+    indexes: 'zzdhx',
+    question: '最长的海峡',
+    id: 18302
+  },
+  {
+    answer: '左边',
+    indexes: 'pdjlsdrxnyb',
+    question: '撇刀敬礼时，刀刃像哪一边',
+    id: 18303
+  },
+  {
+    answer: '《联合国家共同宣言》',
+    indexes: 'decsjdzzgjffxstyzxxcdbzs',
+    question: '第二次世界大战中，国际反法西斯统一战线形成的标志是？',
+    id: 18304
+  },
+  {
+    answer: '3',
+    indexes: 'grckzczqzdxdwjgy',
+    question: '个人存款整存整取最低限度为几个月？',
+    id: 18305
+  },
+  {
+    answer: '《蓝色多瑙河》',
+    indexes: 'xlnsgsadlddegg',
+    question: '下列哪首歌是奥地利的第二国歌？',
+    id: 18306
+  },
+  {
+    answer: '大熊猫',
+    indexes: 'sjysswjjhdhhs',
+    question: '世界野生生物基金会的会徽是',
+    id: 18307
+  },
+  {
+    answer: '等边三角形',
+    indexes: 'zzyddsjxzzydsjxmjzd',
+    question: '周长一定的三角形中，怎样的三角形面积最大？',
+    id: 18308
+  },
+  {
+    answer: '《宇宙风》',
+    indexes: 'lsdltxzlzyxlnykw',
+    question: '老舍的《骆驼祥子》连载于下列哪一刊物？',
+    id: 18309
+  },
+  {
+    answer: '马',
+    indexes: 'zzdxyjsyyclnzdwd',
+    question: '最早的血压计是用于测量哪种动物的',
+    id: 18310
+  },
+  {
+    answer: '明代',
+    indexes: 'jpmczngcd',
+    question: '金瓶梅出自哪个朝代？',
+    id: 18311
+  },
+  {
+    answer: '庐山',
+    indexes: 'sjwhjgzzgd',
+    question: '世界文化景观在中国的',
+    id: 18312
+  },
+  {
+    answer: '诸侯王',
+    indexes: 'sjzdsjsjsmrzdc',
+    question: '《史记》中的“世家”是给什么人作的传',
+    id: 18313
+  },
+  {
+    answer: '阿Q',
+    indexes: 'sjwxhlzwydgwxxxs',
+    question: '世界文学画廊中唯一的国文学形象是?',
+    id: 18314
+  },
+  {
+    answer: '芙蓉花',
+    indexes: 'cddsh',
+    question: '成都的市花?',
+    id: 18315
+  },
+  {
+    answer: '1961',
+    indexes: 'dycfxywwxsnn',
+    question: '第一次发现月外卫星是哪年',
+    id: 18316
+  },
+  {
+    answer: '李商隐',
+    indexes: 'hdgjxczqhbsyysyz',
+    question: '“何当共剪西窗烛，却话巴山夜雨时。”语自：',
+    id: 18317
+  },
+  {
+    answer: '船政学堂',
+    indexes: 'zgqmzzdhjxts',
+    question: '中国清末最早的海军学堂是',
+    id: 18318
+  },
+  {
+    answer: '20亿立方米',
+    indexes: 'qgmnpmdlddss',
+    question: '全国每年跑、冒、滴、漏的淡水是',
+    id: 18319
+  },
+  {
+    answer: '麦哲伦',
+    indexes: 'mmhwjdrs',
+    question: '命名“好望角”的人是：',
+    id: 18320
+  },
+  {
+    answer: '元谋人',
+    indexes: 'xzzddwgjndjzgrly',
+    question: '现在知道的我国境内的较早古人类有',
+    id: 18321
+  },
+  {
+    answer: '阿昌族',
+    indexes: 'zmdhsdsngssmzdtssgzp',
+    question: '著名的“户撒刀”是哪个少数民族的特色手工制品？',
+    id: 18322
+  },
+  {
+    answer: '左宗堂',
+    indexes: 'wgzzcbhjxxdrs',
+    question: '我国最早创办海军学校的人是',
+    id: 18323
+  },
+  {
+    answer: '1913',
+    indexes: 'tgehnndnbewxj',
+    question: '泰戈尔获哪年的诺贝尔文学奖',
+    id: 18324
+  },
+  {
+    answer: '1999年1月1日',
+    indexes: 'oyyhszsds',
+    question: '欧元于何时正式诞生',
+    id: 18325
+  },
+  {
+    answer: '周恩来',
+    indexes: 'tamqrmyxjnbbmdbwsstxd',
+    question: '天安门前人民英雄纪念碑背面的碑文是谁题写的',
+    id: 18326
+  },
+  {
+    answer: '八位护法',
+    indexes: 'tlbbszfjzdsm',
+    question: '“天龙八部”是指佛教中的什么',
+    id: 18327
+  },
+  {
+    answer: '热月政变',
+    indexes: 'bz18sjmfgzcjjgmjsdsjs',
+    question: '标志18世纪末法国资产阶级革命结束的事件是',
+    id: 18328
+  },
+  {
+    answer: '360',
+    indexes: 'yssmmdsm',
+    question: '音速是每秒多少米？',
+    id: 18329
+  },
+  {
+    answer: '纪念释迦牟尼',
+    indexes: 'zgmjwsmyclbz',
+    question: '中国民间为什么要吃腊八粥',
+    id: 18330
+  },
+  {
+    answer: '灞桥',
+    indexes: 'wccyyqcfszxzsxdsmdf',
+    question: '“渭城朝雨邑清晨”发生在现在陕西的什么地方?',
+    id: 18331
+  },
+  {
+    answer: '黄山',
+    indexes: 'yxnzsbsywy',
+    question: '以下哪座山不属于“五岳”？',
+    id: 18332
+  },
+  {
+    answer: '江苏',
+    indexes: 'ygdmjxdywgdngs',
+    question: '英国的面积相当于我国的哪个省?',
+    id: 18333
+  },
+  {
+    answer: '李惠堂',
+    indexes: 'dywrgjzlfzxdhrs',
+    question: '第一位任国际足联副主席的华人是',
+    id: 18334
+  },
+  {
+    answer: '西蒙',
+    indexes: 'xlkxjtsddgtljhnbejds',
+    question: '下列科学家同时得到过图灵奖和诺贝尔奖的是？',
+    id: 18335
+  },
+  {
+    answer: '德国',
+    indexes: 'xlnggjbslhgcrlsg',
+    question: '下列哪个国家不是联合国常任理事国？',
+    id: 18336
+  },
+  {
+    answer: '美国',
+    indexes: 'sjszddyskwy',
+    question: '世界上最大的陨石坑位于?',
+    id: 18337
+  },
+  {
+    answer: '庐山',
+    indexes: 'lbdsjysyhljtmhdszgnzmsdpb',
+    question: '李白的诗句“疑是银河落九天”描绘的是中国哪座名山的瀑布。',
+    id: 18338
+  },
+  {
+    answer: '宋朝',
+    indexes: 'cyxsyngcd',
+    question: '吃元宵始于哪个朝代',
+    id: 18339
+  },
+  {
+    answer: '1217年至1223年',
+    indexes: 'mgdycxzs',
+    question: '蒙古第一次西征是',
+    id: 18340
+  },
+  {
+    answer: '吐鲁番盆地',
+    indexes: 'zgzrddfzn',
+    question: '中国最热的地方在哪?',
+    id: 18341
+  },
+  {
+    answer: '新陈代谢',
+    indexes: 'swjxyqsmhddjcs',
+    question: '生物进行一切生命活动的基础是：',
+    id: 18342
+  },
+  {
+    answer: '大气压',
+    indexes: 'szdsdftgjqjynzys',
+    question: '水在多少度沸腾关键取决于哪种因素？',
+    id: 18343
+  },
+  {
+    answer: '伏尔加河',
+    indexes: 'xlnthwnlhzblrhydh',
+    question: '下列哪条河为内流河（指不流入海洋的河）？',
+    id: 18344
+  },
+  {
+    answer: '爱因斯坦',
+    indexes: 'xdlsstcd',
+    question: '相对论是谁提出的？',
+    id: 18345
+  },
+  {
+    answer: '芥子气炮弹',
+    indexes: 'xlnyzwqsgjfmqgdjzzzzzsyd',
+    question: '下列哪一种武器是国际法明确规定禁止在战争中使用的？',
+    id: 18346
+  },
+  {
+    answer: '三国演义',
+    indexes: 'tysjysnbmzldgs',
+    question: '‘桃园三结义’是哪部名著里的故事？',
+    id: 18347
+  },
+  {
+    answer: '金钢石',
+    indexes: 'zrjzyzdzydwzs',
+    question: '自然界中已知的最硬的物质是：',
+    id: 18348
+  },
+  {
+    answer: '印度',
+    indexes: 'fjsccrwgd',
+    question: '佛教是从（）传入我国的？',
+    id: 18349
+  },
+  {
+    answer: '汤显祖',
+    indexes: 'cqjbmdtdzzs',
+    question: '传奇剧本《牡丹亭》的作者是：',
+    id: 18350
+  },
+  {
+    answer: '雁荡山',
+    indexes: 'bcwtxqxdsfs',
+    question: '被称为“天下齐秀”的山峰是（）。',
+    id: 18351
+  },
+  {
+    answer: '韩信',
+    indexes: 'zgdscqmxzdadccdjcpdsq',
+    question: '在古代，谁采取“明修栈道，暗渡陈仓”的计策，平定三秦？',
+    id: 18352
+  },
+  {
+    answer: '海豹',
+    indexes: 'xmnzdwnjhbjdy',
+    question: '下面哪种动物南极和北极都有？',
+    id: 18353
+  },
+  {
+    answer: '6',
+    indexes: 'nbejgfsdsx',
+    question: '诺贝尔奖共分设多少项？',
+    id: 18354
+  },
+  {
+    answer: '汉武帝',
+    indexes: 'jyswgnghdsydnh',
+    question: '“建元”是我国那个皇帝使用的年号',
+    id: 18355
+  },
+  {
+    answer: '核黄素',
+    indexes: 'wssB2yjsm',
+    question: '维生素B2又叫什么？',
+    id: 18356
+  },
+  {
+    answer: '60多个',
+    indexes: 'ezzydsggjcz',
+    question: '二战中有多少个国家参战？',
+    id: 18357
+  },
+  {
+    answer: '白马啸西风',
+    indexes: 'jyxszbywwxswsds',
+    question: '金庸小说中，被誉为武侠散文诗的是',
+    id: 18358
+  },
+  {
+    answer: '亚热带',
+    indexes: 'gdscynyzqhqy',
+    question: '广东是处于哪一种气候区域？',
+    id: 18359
+  },
+  {
+    answer: '核桃',
+    indexes: 'yxnzggzdzfhlzg',
+    question: '以下哪种干果中的脂肪含量最高',
+    id: 18360
+  },
+  {
+    answer: '雪莱',
+    indexes: 'dtdlcthhymyc',
+    question: '“冬天到了，春天还会远吗”语出',
+    id: 18361
+  },
+  {
+    answer: '软驱',
+    indexes: 'xlsydndsrscsbds',
+    question: '下列属于电脑的输入输出设备的是',
+    id: 18362
+  },
+  {
+    answer: '法国',
+    indexes: 'nplsnggjdr',
+    question: '拿破仑是哪个国家的人？',
+    id: 18363
+  },
+  {
+    answer: '1867',
+    indexes: 'nbenynfmlg',
+    question: '诺贝尔哪一年发明雷管？',
+    id: 18364
+  },
+  {
+    answer: '茎',
+    indexes: 'ycsnygbf',
+    question: '洋葱是哪一个部分？',
+    id: 18365
+  },
+  {
+    answer: '沈阳',
+    indexes: 'wgsdzsgzydwsgzly',
+    question: '我国四大藏书阁之一的文朔阁坐落于',
+    id: 18366
+  },
+  {
+    answer: '1978',
+    indexes: 'dyjsnzqbssznynjxd',
+    question: '第一届室内足球比赛是在哪一年举行的？',
+    id: 18367
+  },
+  {
+    answer: '磷',
+    indexes: 'mjssdghqssnzhxysdzy',
+    question: '民间所说的鬼火其实是哪种化学元素的作用',
+    id: 18368
+  },
+  {
+    answer: '1953',
+    indexes: 'wgdygwnjhcnynks',
+    question: '我国第一个五年计划从哪一年开始？',
+    id: 18369
+  },
+  {
+    answer: '日本',
+    indexes: 'sjszddhdz',
+    question: '世界上最大的火电站',
+    id: 18370
+  },
+  {
+    answer: '洪迈',
+    indexes: 'rzsbssdzz',
+    question: '《容斋随笔》是谁的著作？',
+    id: 18371
+  },
+  {
+    answer: '雷雨',
+    indexes: 'ldhzgysxxcznbzp',
+    question: '“鲁大海”这个艺术形象出自哪部作品？',
+    id: 18372
+  },
+  {
+    answer: '加拿大',
+    indexes: 'sjzddhzzhwynggj',
+    question: '世界最大的湖中之湖位于哪个国家',
+    id: 18373
+  },
+  {
+    answer: '2种',
+    indexes: 'gjwhscsdhlyjzbsfsff',
+    question: '国际外汇市场上的汇率有几种表示方式方法？',
+    id: 18374
+  },
+  {
+    answer: '关肃霜',
+    indexes: 'xmdnyyznwsjjyy',
+    question: '下面的女演员中哪位是京剧演员',
+    id: 18375
+  },
+  {
+    answer: '自然条件',
+    indexes: 'gjfgcshfzdjcs',
+    question: '国际分工产生和发展的基础是',
+    id: 18376
+  },
+  {
+    answer: '上海',
+    indexes: 'tygsdlzbszn',
+    question: '统一公司大陆总部设在哪？',
+    id: 18377
+  },
+  {
+    answer: '鲁迅',
+    indexes: 'cwwgssj30ndwhgmdzjds',
+    question: '成为我国上世纪30年代文化革命的主将的是：',
+    id: 18378
+  },
+  {
+    answer: '朱隶',
+    indexes: 'xlnghdqdbj',
+    question: '下列哪个皇帝迁都北京？',
+    id: 18379
+  },
+  {
+    answer: '茄果类',
+    indexes: 'wmccdljsysmlsc',
+    question: '我们常吃的辣椒属于什么类蔬菜',
+    id: 18380
+  },
+  {
+    answer: '激光',
+    indexes: 'lszds',
+    question: '“镭射”指的是',
+    id: 18381
+  },
+  {
+    answer: '四川省',
+    indexes: 'sdkzhbby',
+    question: '石达开最后兵败于：',
+    id: 18382
+  },
+  {
+    answer: '太阳',
+    indexes: 'xmnygshx',
+    question: '下面哪一个是恒星：',
+    id: 18383
+  },
+  {
+    answer: '鹤雀楼',
+    indexes: 'xlngbswgsdml',
+    question: '下列哪个不是我国四大名楼？',
+    id: 18384
+  },
+  {
+    answer: '挪威人',
+    indexes: 'dygddnjdrsngr',
+    question: '第一个到达南极的人是哪国人？',
+    id: 18385
+  },
+  {
+    answer: '降低体温',
+    indexes: 'xtdxbtdydedzyswl',
+    question: '夏天大象不停地摇动耳朵主要是为了',
+    id: 18386
+  },
+  {
+    answer: '渤海',
+    indexes: 'swd33211hjgczdyhszsmh',
+    question: "所谓的'33211'环境工程中的一海是指什么海",
+    id: 18387
+  },
+  {
+    answer: '李白',
+    indexes: 'xlbsytsbdjzyds',
+    question: '下列不属于“唐宋八大家”之一的是：',
+    id: 18388
+  },
+  {
+    answer: '李斯特',
+    indexes: 'zbhmyllzbhyzgylldtczs',
+    question: '在保护贸易理论中，保护幼稚工业理论的提出者是',
+    id: 18389
+  },
+  {
+    answer: '30毫安',
+    indexes: 'gjgdrtyxtgdgpdlwdsha',
+    question: '国家规定人体允许通过的工频电流为多少毫安？',
+    id: 18390
+  },
+  {
+    answer: '0.93%',
+    indexes: 'qjdkqzhydsy',
+    question: '清洁的空气中含有多少氩?',
+    id: 18391
+  },
+  {
+    answer: '四川盆地',
+    indexes: 'wgdtfzgzdsnl',
+    question: '我国的“天府之国”指的是哪里？',
+    id: 18392
+  },
+  {
+    answer: '英国',
+    indexes: 'sjsdymypdsz',
+    question: '世界上第一枚邮票诞生在',
+    id: 18393
+  },
+  {
+    answer: '海德格尔',
+    indexes: 'czysjssdzp',
+    question: '《存在与时间》是谁的作品？',
+    id: 18394
+  },
+  {
+    answer: '夏至日',
+    indexes: 'tyzsbhgxsysbbqd',
+    question: '太阳直射北回归线时，应是北半球的：',
+    id: 18395
+  },
+  {
+    answer: '安阳',
+    indexes: 'bcwzggddygjydylcwyxzd',
+    question: '被称为中国古代第一个监狱的羑里城位于现在的：',
+    id: 18396
+  },
+  {
+    answer: '腿部',
+    indexes: 'xsjzededzznl',
+    question: '蟋蟀，金钟儿的“耳朵”长在哪里？',
+    id: 18397
+  },
+  {
+    answer: '黄海',
+    indexes: 'wgclhbsysmhdpjhbpmzwld',
+    question: '我国测量海拔是以什么海的平均海拔平面作为零点',
+    id: 18398
+  },
+  {
+    answer: '文成公主',
+    indexes: 'bdlgzcswsjzd',
+    question: '布达拉宫最初是为谁建造的?',
+    id: 18399
+  },
+  {
+    answer: '国家权利机关',
+    indexes: 'rmdbdhswgd',
+    question: '人民代表大会是我国的：',
+    id: 18400
+  },
+  {
+    answer: '唐',
+    indexes: 'gy618907nswggdngcd',
+    question: '公元618－907年是我国古代哪个朝代',
+    id: 18401
+  },
+  {
+    answer: '杜甫',
+    indexes: 'dspwjxbryszssdsj',
+    question: '“读书破万卷，下笔如有神”，这是谁的诗句？',
+    id: 18402
+  },
+  {
+    answer: '第二位',
+    indexes: 'ylkghgdsycljsjdjw',
+    question: '伊拉克共和国的石油储量居世界第几位？',
+    id: 18403
+  },
+  {
+    answer: '彝族',
+    indexes: 'asmsngmzdgs',
+    question: '阿诗玛是那个民族的故事？',
+    id: 18404
+  },
+  {
+    answer: '长江女神',
+    indexes: 'bqtysmmy',
+    question: '白鳍豚有什么美誉？',
+    id: 18405
+  },
+  {
+    answer: 'CPU',
+    indexes: 'dnyshkzdhxssm',
+    question: '电脑运算和控制的核心是什么？',
+    id: 18406
+  },
+  {
+    answer: '6倍',
+    indexes: 'dqdzlwyqsd',
+    question: '地球的重力为月球上的',
+    id: 18407
+  },
+  {
+    answer: '曹化淳',
+    indexes: 'mcdsqrhdzyjzw18nsjdq17ndhgsnyg',
+    question: '明朝第十七任皇帝朱由检在位18年，实际当权17年的宦官是哪一个？',
+    id: 18408
+  },
+  {
+    answer: '1990年',
+    indexes: 'zgdwgpqwhryscnynq',
+    question: '中国对外国派遣维和人员是从哪一年起？',
+    id: 18409
+  },
+  {
+    answer: '1896',
+    indexes: 'dyjxdayhynnjx',
+    question: '第一届现代奥运会于哪年举行？',
+    id: 18410
+  },
+  {
+    answer: '狮子',
+    indexes: 'xjpddmyydwygzgdws',
+    question: '新加坡的得名与一动物有关，这个动物是',
+    id: 18411
+  },
+  {
+    answer: '宋朝',
+    indexes: 'xhcljjjzyqtlstdzzscdcds',
+    question: '小荷才露尖尖角，早有蜻蜓立上头的作者所处的朝代是',
+    id: 18412
+  },
+  {
+    answer: '中国内湖第一桥',
+    indexes: 'thdqjswxsysmch',
+    question: '太湖大桥（江苏吴县市）有什么称号？',
+    id: 18413
+  },
+  {
+    answer: '1980.8',
+    indexes: 'wgxbjjtqwclfcxszsmsj',
+    question: '我国兴办经济特区完成立法程序是在什么时间？',
+    id: 18414
+  },
+  {
+    answer: '父子',
+    indexes: 'jydxssdyxczoyfhoykssmgx',
+    question: '金庸的小说《射雕英雄传》中欧阳锋和欧阳克是什么关系？',
+    id: 18415
+  },
+  {
+    answer: '二十岁',
+    indexes: 'rgzds',
+    question: '弱冠指的是：',
+    id: 18416
+  },
+  {
+    answer: '瑞士的日内瓦',
+    indexes: 'sjszzyxhbsdcss',
+    question: '世界上最早用鲜花报时的城市是？',
+    id: 18417
+  },
+  {
+    answer: '3-5点',
+    indexes: 'wggddyszxddsmsj',
+    question: '我国古代的“寅”时指现代的什么时间？',
+    id: 18418
+  },
+  {
+    answer: '西安',
+    indexes: 'zgjdlszzdcss',
+    question: '中国建都历史最长的城市是',
+    id: 18419
+  },
+  {
+    answer: '清朝末期',
+    indexes: 'xslcyjfydssmsqdshxs',
+    question: '小说《老残游记》反映的是什么时期的社会现实',
+    id: 18420
+  },
+  {
+    answer: '巴勒斯坦',
+    indexes: 'sjszzcsjddgjs',
+    question: '世界上最早产生基督的国家是',
+    id: 18421
+  },
+  {
+    answer: '德国',
+    indexes: 'sjshhxfzddgjs',
+    question: '世界上花卉消费最多的国家是？',
+    id: 18422
+  },
+  {
+    answer: '曹雪芹',
+    indexes: 'qwsdgdmzzdhlmssdzp',
+    question: '请问四大古典名著中的《红楼梦》是谁的作品？',
+    id: 18423
+  },
+  {
+    answer: '天气晴朗，万物滋生',
+    indexes: 'nlzqmdyss',
+    question: '农历中“清明”的意思是',
+    id: 18424
+  },
+  {
+    answer: '亚特亚大奥运会',
+    indexes: 'zgppqdznycayhssxldycdmg',
+    question: '中国乒乓球队在哪一次奥运会上实现了第一次“大满贯”？',
+    id: 18425
+  },
+  {
+    answer: '1992年',
+    indexes: 'zgdycpqgbbdcjwhxdscnynq',
+    question: '中国第一次派遣工兵部队参加维和行动是从哪一年起？',
+    id: 18426
+  },
+  {
+    answer: '伏尔加河',
+    indexes: 'ozzzdhls',
+    question: '欧洲最长的河流是',
+    id: 18427
+  },
+  {
+    answer: '法国号',
+    indexes: 'lqzdyhyc',
+    question: '乐器中的圆号又称：',
+    id: 18428
+  },
+  {
+    answer: '维生素B2',
+    indexes: 'kqyknywqfsmyq',
+    question: '口腔炎可能因为缺乏什么引起？',
+    id: 18429
+  },
+  {
+    answer: '四川省',
+    indexes: 'lsdfz',
+    question: '乐山大佛在：',
+    id: 18430
+  },
+  {
+    answer: '25-50万安培',
+    indexes: 'ldxcdsjdlkd',
+    question: '雷电形成的瞬间电流可达：',
+    id: 18431
+  },
+  {
+    answer: '德国',
+    indexes: 'csghshhdsnggjdr',
+    question: '城市规划师霍华德是哪个国家的人？',
+    id: 18432
+  },
+  {
+    answer: '铱',
+    indexes: 'gjmyqsybhxmnyzjsdhjzc',
+    question: '国际米原器是由铂和下面哪一种金属的合金制成？',
+    id: 18433
+  },
+  {
+    answer: '恋曲1990',
+    indexes: 'ldydzpy',
+    question: '罗大佑的作品有：',
+    id: 18434
+  },
+  {
+    answer: '冰岛',
+    indexes: 'lkywksnggjsd',
+    question: '雷克亚未克是哪个国家首都？',
+    id: 18435
+  },
+  {
+    answer: '5～6',
+    indexes: 'lnrmrdzcsmsjysdsxs',
+    question: '老年人每日的正常睡眠时间应是多少小时：',
+    id: 18436
+  },
+  {
+    answer: '白矮星',
+    indexes: 'tysmdzdssm',
+    question: '太阳生命的终点是什么？',
+    id: 18437
+  },
+  {
+    answer: '德国',
+    indexes: 'lxsydqgjds',
+    question: '率先使用毒气攻击的是：',
+    id: 18438
+  },
+  {
+    answer: '老二',
+    indexes: 'kzzjldpm',
+    question: '孔子在家里的排名：',
+    id: 18439
+  },
+  {
+    answer: '醋',
+    indexes: 'lnrccydjx',
+    question: '老年人吃菜应多加些：',
+    id: 18440
+  },
+  {
+    answer: '5000元',
+    indexes: 'mqwgcbqxdqcxdqcjew',
+    question: '目前我国存本取息定期储蓄的起存金额为',
+    id: 18441
+  },
+  {
+    answer: '一座小山峰',
+    indexes: 'sjsqdqdglnzys',
+    question: '世界“时区”的起点格林尼治原是',
+    id: 18442
+  },
+  {
+    answer: '把床放下来',
+    indexes: 'xtdzcyss',
+    question: '“下榻”的最初意思是',
+    id: 18443
+  },
+  {
+    answer: '腹泻',
+    indexes: 'kfwssCjlmrcg1kkdz',
+    question: '口服维生素C剂量每日超过1克可导致：',
+    id: 18444
+  },
+  {
+    answer: '毛泽东',
+    indexes: 'dlgyhhbsgqwgszwyzpyrpsrhdzzs',
+    question: '对联“贵有恒何必三更起五更睡，最无益只怕一日曝十日寒”的作者是',
+    id: 18445
+  },
+  {
+    answer: '65',
+    indexes: 'c1901nd1973nd72nzgydsmytrhdnbej',
+    question: '从1901年到1973年的72年中共有多少名犹太人获得诺贝尔奖？',
+    id: 18446
+  },
+  {
+    answer: '荷兰',
+    indexes: 'xxlymldfnsngr',
+    question: '现效力于曼联的范尼是哪国人？',
+    id: 18447
+  },
+  {
+    answer: '布鲁塞尔',
+    indexes: 'snxhtxzly',
+    question: '撒尿小孩铜像坐落于：',
+    id: 18448
+  },
+  {
+    answer: '狮城中文国际辩论赛',
+    indexes: 'zmxsjjysncgjzwblsdpw',
+    question: '著名小说家金庸是哪次国际中文辩论赛的评委',
+    id: 18449
+  },
+  {
+    answer: '仁者',
+    indexes: 'jyxsyydzdyysdydskzwdlydskzsm',
+    question: '金庸小说《鸳鸯刀》中的鸳鸯双刀，一刀上刻着“无敌”，另一刀上刻着什么',
+    id: 18450
+  },
+  {
+    answer: '191',
+    indexes: 'shszbqdzbgynyyzsjrxsdmqwgmjysmnd',
+    question: '上海市闸北区的闸北公园内，有一座宋教仁先生的墓，请问该墓建于什么年代？',
+    id: 18451
+  },
+  {
+    answer: '锡',
+    indexes: 'qtsthnzjsdhj',
+    question: '青铜是铜和哪种金属的合金？',
+    id: 18452
+  },
+  {
+    answer: '孟子',
+    indexes: 'ymzzdgsssjd',
+    question: '揠苗助长的故事是谁讲的？',
+    id: 18453
+  },
+  {
+    answer: '梦得',
+    indexes: 'tdzmwxjlyxz',
+    question: '唐代著名文学家刘禹锡字',
+    id: 18454
+  },
+  {
+    answer: '摄氏-273.15度',
+    indexes: 'jdlds',
+    question: '“绝对零度”是',
+    id: 18455
+  },
+  {
+    answer: '《晏子春秋》',
+    indexes: 'zzqlbyysyc',
+    question: '智者千虑，必有一失语出',
+    id: 18456
+  },
+  {
+    answer: '汞',
+    indexes: 'zcwztxwycxytdjssnz',
+    question: '在常温状态下唯一呈现液态的金属是哪种？',
+    id: 18457
+  },
+  {
+    answer: '月亮',
+    indexes: 'jllytdwyjsxlgc',
+    question: '伽利略用他的望远镜首先来观察：',
+    id: 18458
+  },
+  {
+    answer: '西西里岛',
+    indexes: 'lmdwkzdygmbjsjtjzld',
+    question: '罗马对外扩张第一个目标就是迦太基占领的：',
+    id: 18459
+  },
+  {
+    answer: '汉末',
+    indexes: 'sccxz',
+    question: '三曹出现在：',
+    id: 18460
+  },
+  {
+    answer: '河南',
+    indexes: 'sbfhltxbbkdsqs',
+    question: '三北防护林体系不包括的省区是：',
+    id: 18461
+  },
+  {
+    answer: '雅典娜',
+    indexes: 'gxlshzbczzhnsdsnyw',
+    question: '古希腊神话中被称作智慧女神的是哪一位？',
+    id: 18462
+  },
+  {
+    answer: '佛教名词',
+    indexes: 'jyxstlbbdsmysmhy',
+    question: '金庸小说《天龙八部》的书名有什么含义',
+    id: 18463
+  },
+  {
+    answer: '兄妹关系',
+    indexes: 'zzggdcszfxhnwssmgx',
+    question: '在中国古代传说中，伏羲和女娲是什么关系？',
+    id: 18464
+  },
+  {
+    answer: '王实甫',
+    indexes: 'xxjsyzjdsdaqjzytdzzs',
+    question: '《西厢记》是元杂剧的四大爱情剧之一，它的作者是',
+    id: 18465
+  },
+  {
+    answer: '信天翁',
+    indexes: 'sjsyyzddnsnyzn',
+    question: '世界上羽翼最大的鸟是哪一种鸟？',
+    id: 18466
+  },
+  {
+    answer: '泰国',
+    indexes: 'xlsgdzgdnggjdch',
+    question: '“暹罗”是古代中国对哪个国家的称呼？',
+    id: 18467
+  },
+  {
+    answer: '白居易',
+    indexes: 'rcjhhshcljslwlssdzp',
+    question: '“日出江花红似火，春来江水绿为蓝”是谁的作品：',
+    id: 18468
+  },
+  {
+    answer: '肝细胞',
+    indexes: 'dzysmqgfm',
+    question: '胆汁由什么器官分泌：',
+    id: 18469
+  },
+  {
+    answer: '3年',
+    indexes: 'yhjwrshpctqgsdsxqjwjn',
+    question: '因环境污染损害赔偿提起公诉的时效期间为几年？',
+    id: 18470
+  },
+  {
+    answer: '滑铁卢桥',
+    indexes: 'zmyphdlqdqsnzq',
+    question: '著名影片《魂断蓝桥》的桥是哪座桥？',
+    id: 18471
+  },
+  {
+    answer: '摩擦剂',
+    indexes: 'yglmydjlzzfqdzys',
+    question: '牙膏里面有的加了珍珠粉，起的作用是',
+    id: 18472
+  },
+  {
+    answer: '镁',
+    indexes: 'wmrcsydybdfbslhsmdhj',
+    question: '我们日常使用的硬币的分币石铝和什么的合金？',
+    id: 18473
+  },
+  {
+    answer: '董源',
+    indexes: 'bzwnpsshcsrdsnwzmhj',
+    question: '被尊为南派山水画创始人的是那位著名画家？',
+    id: 18474
+  },
+  {
+    answer: '黄公望',
+    indexes: 'fcsjtssdmz',
+    question: '《富春山居图》是谁的名作？',
+    id: 18475
+  },
+  {
+    answer: '1938',
+    indexes: 'mgdzgcshszcsjsdykjcdl',
+    question: '美国电子工程师何时制成世界上第一块集成电路?',
+    id: 18476
+  },
+  {
+    answer: '小脑',
+    indexes: 'rnkzrphlds',
+    question: '人脑控制人平衡力的是：',
+    id: 18477
+  },
+  {
+    answer: '哈佛大学',
+    indexes: 'mglssdysgdxfs',
+    question: '美国历史上第一所高等学府是：',
+    id: 18478
+  },
+  {
+    answer: '人参',
+    indexes: 'bckylwz',
+    question: '棒棰”可用来婉指：',
+    id: 18479
+  },
+  {
+    answer: '罪行极其严重的',
+    indexes: 'sxzsyyfzfz',
+    question: '死刑只适用于（）犯罪分子',
+    id: 18480
+  },
+  {
+    answer: '小肠',
+    indexes: 'yywzdbfznyqgxs',
+    question: '营养物质大部分在哪一器官吸收：',
+    id: 18481
+  },
+  {
+    answer: '春秋时期',
+    indexes: 'wgssjsjyyjlsdgjwggdldrmksltdlssqs',
+    question: '我国是世界上具有悠久历史的国家，我国古代劳动人民开始炼铁的历史时期是',
+    id: 18482
+  },
+  {
+    answer: '麋鹿',
+    indexes: 'yyzjxltxmsxltxnddwscsbxtdxmjsm',
+    question: '有一种角象鹿、头象马、身象驴、蹄象牛的动物俗称“四不像”它的学名叫什么？',
+    id: 18483
+  },
+  {
+    answer: '猫熊科',
+    indexes: 'xmswgdgbnmxmsynyk',
+    question: '熊猫是我国的国宝，那么熊猫属于哪一科？',
+    id: 18484
+  },
+  {
+    answer: '抹香鲸',
+    indexes: 'lxxczsmj',
+    question: '龙涎香出自什么鲸？',
+    id: 18485
+  },
+  {
+    answer: '肝',
+    indexes: 'rtfjhdxjjdqgs',
+    question: '人体分解和代谢酒精的器官是：',
+    id: 18486
+  },
+  {
+    answer: '岩石上',
+    indexes: 'zczzqhd',
+    question: '紫菜长在浅海的：',
+    id: 18487
+  },
+  {
+    answer: '自然选择',
+    indexes: 'swjhdfxjdy',
+    question: '生物进化的方向决定于：',
+    id: 18488
+  },
+  {
+    answer: '翅膀',
+    indexes: 'xssksmfcmjsd',
+    question: '蟋蟀是靠什么发出鸣叫声的？',
+    id: 18489
+  },
+  {
+    answer: '染色体中',
+    indexes: 'DNAwzzyczy',
+    question: 'DNA物质主要存在于：',
+    id: 18490
+  },
+  {
+    answer: '鼠疫',
+    indexes: 'ozzsjlxdhsbsjs',
+    question: '欧洲中世纪流行的“黑死病”实际是',
+    id: 18491
+  },
+  {
+    answer: '坚果类',
+    indexes: 'yxsysmzlsg',
+    question: '银杏属于什么种类水果？',
+    id: 18492
+  },
+  {
+    answer: '秋季',
+    indexes: 'qecldjjybs',
+    question: '企鹅产卵的季节一般是：',
+    id: 18493
+  },
+  {
+    answer: '防水',
+    indexes: 'hdcbsdfmysmzy',
+    question: '蝴蝶翅膀上的粉末有什么作用：',
+    id: 18494
+  },
+  {
+    answer: '杜鹃',
+    indexes: 'xlnznlzhsdbhfd',
+    question: '下列哪种鸟类只会生蛋不会孵蛋：',
+    id: 18495
+  },
+  {
+    answer: '206',
+    indexes: 'crgygdsk',
+    question: '成人共有骨多少块？',
+    id: 18496
+  },
+  {
+    answer: '水',
+    indexes: 'rtkyddsywrtzhy',
+    question: '人体可以导电是因为人体中含有：',
+    id: 18497
+  },
+  {
+    answer: '管胞、筛细胞',
+    indexes: 'jlzwdsdzzzysshwjydjghysyjwdjgfbs',
+    question: '蕨类植物的输导组织中，运送水和无机盐的结构和运送有机物的结构分别是',
+    id: 18498
+  },
+  {
+    answer: '产卵',
+    indexes: 'qtdsswl',
+    question: '蜻蜓点水是为了',
+    id: 18499
+  },
+  {
+    answer: '三倍体',
+    indexes: 'xjsjbt',
+    question: '香蕉是几倍体',
+    id: 18500
+  },
+  {
+    answer: '蛋白质',
+    indexes: 'swtnzddyjws',
+    question: '生物体内最多的有机物是',
+    id: 18501
+  },
+  {
+    answer: '鳝鱼',
+    indexes: 'nzszzdy',
+    question: '哪种是真正的鱼？',
+    id: 18502
+  },
+  {
+    answer: '狗',
+    indexes: 'sdxtzk',
+    question: '谁的心跳最快？',
+    id: 18503
+  },
+  {
+    answer: '猪',
+    indexes: 'xlnzdwdjyyrldjyzxs',
+    question: '下列哪种动物的基因与人类的基因最相似：',
+    id: 18504
+  },
+  {
+    answer: '西瓜',
+    indexes: 'xlnzzwbnzykdlxzz',
+    question: '下列哪种植物不能在一块地连续种植？',
+    id: 18505
+  },
+  {
+    answer: '鸵鸟',
+    indexes: 'xcnlzdzddnds',
+    question: '现存鸟类中的最大的鸟蛋是：',
+    id: 18506
+  },
+  {
+    answer: '鸭嘴兽',
+    indexes: 'jsybrdwyyksdlfzhdds',
+    question: '既属于哺乳动物，又要靠生蛋来繁殖后代的是：',
+    id: 18507
+  },
+  {
+    answer: '出汗',
+    indexes: 'zqwhgsrzytgnzfssrybczctw',
+    question: '在气温很高时，人主要通过哪种方式散热以保持正常体温。',
+    id: 18508
+  },
+  {
+    answer: '可以用来照明',
+    indexes: 'xddwdyyddhfgdqgdzxqgytsfbzqds',
+    question: '许多动物都拥有带电或发光的器官，对这些器官用途说法不正确的是：',
+    id: 18509
+  },
+  {
+    answer: '带鱼',
+    indexes: 'xlscpznzyycjhl',
+    question: '下列水产品中，哪种鱼又称“净海龙”？',
+    id: 18510
+  },
+  {
+    answer: '左',
+    indexes: 'dbfrdxzspxnyb',
+    question: '大部分人的心脏是偏向哪一边？',
+    id: 18511
+  },
+  {
+    answer: '松树',
+    indexes: 'xlnzsdyszxd',
+    question: '下列哪种树的叶是针形的？',
+    id: 18512
+  },
+  {
+    answer: '胃、十二指肠溃疡',
+    indexes: 'sxhdcxzcjdyyssm',
+    question: '上消化道出血最常见的原因是什么？',
+    id: 18513
+  },
+  {
+    answer: '呼吸',
+    indexes: 'pxtcdbmysmzy',
+    question: '螃蟹吐出的白沫有什么作用？',
+    id: 18514
+  },
+  {
+    answer: '手掌和脚底',
+    indexes: 'rthxfbzddbwssmdf',
+    question: '人体汗腺分布最多的部位是什么地方。',
+    id: 18515
+  },
+  {
+    answer: '变短',
+    indexes: 'djrssjrhysmbh',
+    question: '当肌肉收缩，肌肉会有什么变化？',
+    id: 18516
+  },
+  {
+    answer: '2个月',
+    indexes: 'mmdszzqydj',
+    question: '眉毛的生长周期有多久？',
+    id: 18517
+  },
+  {
+    answer: '草莓',
+    indexes: 'sdplssmsg',
+    question: '士多啤梨是什么水果？',
+    id: 18518
+  },
+  {
+    answer: '肝脏',
+    indexes: 'rtzddjdqgs',
+    question: '人体最大的解毒器官是：',
+    id: 18519
+  },
+  {
+    answer: '肚肠',
+    indexes: 'hctbwxshypdssdngqg',
+    question: '海参逃避危险时候要抛掉身上的哪个器官？',
+    id: 18520
+  },
+  {
+    answer: '尾巴',
+    indexes: 'ydseyhystdngbfjxgj',
+    question: '遇敌时，鳄鱼会用身体的哪个部分进行攻击：',
+    id: 18521
+  },
+  {
+    answer: '野牛、犀牛',
+    indexes: 'dwxjbnxdwczhpdw',
+    question: '动物学家把哪些动物称作厚皮动物：',
+    id: 18522
+  },
+  {
+    answer: '贫血症',
+    indexes: 'zjcbzdjysmb',
+    question: '指甲苍白最多见于什么病？',
+    id: 18523
+  },
+  {
+    answer: '蜂鸟',
+    indexes: 'wyngqhzyfxdns',
+    question: '唯一能够前后左右飞行的鸟是',
+    id: 18524
+  },
+  {
+    answer: '大手术',
+    indexes: 'wkssassndfwdzxslgyqcsssy',
+    question: '外科手术按手术难度分为大中小三类，肝叶切除手术属于',
+    id: 18525
+  },
+  {
+    answer: '非洲紫罗兰',
+    indexes: 'yxnzsnpzzwscnkhd',
+    question: '以下哪种室内盆栽植物是常年开花的？',
+    id: 18526
+  },
+  {
+    answer: '左心室',
+    indexes: 'xzzngbzh',
+    question: '心脏中哪个壁最厚？',
+    id: 18527
+  },
+  {
+    answer: '乌鸦',
+    indexes: 'ydnzdhhzswwmqbcwfbxlnznhfb',
+    question: '有的鸟长大后会找食物喂母亲，被称为“反哺”。下列哪种鸟会“反哺”？',
+    id: 18528
+  },
+  {
+    answer: '柿子',
+    indexes: 'wljkybmsryxnzgsp',
+    question: '为了健康，应避免食入以下哪种果蔬皮？',
+    id: 18529
+  },
+  {
+    answer: '1800亿个',
+    indexes: 'ygzcdcnrssdyydsgxb',
+    question: '一个正常的成年人身上，大约有多少个细胞？',
+    id: 18530
+  },
+  {
+    answer: '血液',
+    indexes: 'azbdzycbtjs',
+    question: '艾滋病的主要传播途径是：',
+    id: 18531
+  },
+  {
+    answer: '古生代的厥类植物',
+    indexes: 'msysmddjlzwbcd',
+    question: '煤是由什么代的厥类植物变成的？',
+    id: 18532
+  },
+  {
+    answer: '北极燕鸥',
+    indexes: 'yjldsjsfxjlzydssmn',
+    question: '有记录的世界上飞翔距离最远的是什么鸟？',
+    id: 18533
+  },
+  {
+    answer: '血小板',
+    indexes: 'xgplsxyzdsmwzhnjckdzplbfyzx',
+    question: '血管破裂时，血液中的什么物质会凝结成块，堵住破裂部分以止血？',
+    id: 18534
+  },
+  {
+    answer: '扬子鳄',
+    indexes: 'bcwhhsdpxdw',
+    question: '被称为“活化石”的爬行动物？',
+    id: 18535
+  },
+  {
+    answer: '猫的瞳孔放大缩小能力强',
+    indexes: 'rzhylkbjdxmzhylwsmnkjls',
+    question: '人在黑夜里看不见东西，猫在黑夜里为什么能看见老鼠？',
+    id: 18536
+  },
+  {
+    answer: '头颅',
+    indexes: 'nlbfsmdyrlhxddwyynlzsbxdxsbtblrdnlz',
+    question: '年轮并非树木独有，人类和许多动物也有年轮，只是表现的形式不同罢了。人的年轮在：',
+    id: 18537
+  },
+  {
+    answer: '喜欢吃花蕊里的蜜汁',
+    indexes: 'hdwsmzzhclflfqyxnygdaszqd',
+    question: '蝴蝶为什么总在花丛里飞来飞去？以下哪一个答案是正确的：',
+    id: 18538
+  },
+  {
+    answer: '北极燕鸥',
+    indexes: 'sjsqxlczyddws',
+    question: '世界上迁徙路程最远的动物是',
+    id: 18539
+  },
+  {
+    answer: '龙葵素',
+    indexes: 'fydtdzhyyzdsrgsrgdkyhxmbedzswzzdsssm',
+    question: '发芽的土豆中含有一种毒素，如果摄入过多，可因呼吸麻痹而导致死亡。这种毒素是什么？',
+    id: 18540
+  },
+  {
+    answer: '大鲵',
+    indexes: 'wwyyqxxwwjsylsxetkgedmwwynzdwwydxmssmm',
+    question:
+      "'娃娃鱼'因其形像娃娃，叫声又类似小儿啼哭，故而得名'娃娃鱼'。您知道'娃娃鱼'的学名是什么吗？",
+    id: 18541
+  },
+  {
+    answer: '水平摆动',
+    indexes: 'zxqhhswbhcsmxz',
+    question: '猪心情很好时尾巴会呈什么形状？',
+    id: 18542
+  },
+  {
+    answer: '岩石上',
+    indexes: 'zczzqhd',
+    question: '紫菜长在浅海的',
+    id: 18543
+  },
+  {
+    answer: '一个月',
+    indexes: 'rldpfzzbddtqhszywzccnrdpfqbgxycxyjjdzsj',
+    question: '人类的皮肤总在不断地脱去和生长。一位正常成年人的皮肤全部更新一次需要将近多长时间？',
+    id: 18544
+  },
+  {
+    answer: '肺和皮肤',
+    indexes: 'qwdhxqgs',
+    question: '青蛙的呼吸器官是？',
+    id: 18545
+  },
+  {
+    answer: '维生素B1',
+    indexes: 'stgdhdztnnzwlysdqf',
+    question: '食糖过多会导致体内哪种微量元素的缺乏？',
+    id: 18546
+  },
+  {
+    answer: '紫铜',
+    indexes: 'zzjtlxyyhzclzt',
+    question: '制作景泰蓝先要以何种材料制胎？',
+    id: 18547
+  },
+  {
+    answer: '四脚先着地',
+    indexes: 'mwlysmzsckzlxzs',
+    question: '猫无论以什么姿势从空中落下，总是：',
+    id: 18548
+  },
+  {
+    answer: '倒退着游',
+    indexes: 'myzszydsqfxs',
+    question: '墨鱼在水中游动时，其方向是：',
+    id: 18549
+  },
+  {
+    answer: '蜗牛',
+    indexes: 'yxnyzkchdqcszcswh',
+    question: '以下哪一种昆虫会对青菜生长产生危害？',
+    id: 18550
+  },
+  {
+    answer: '防水',
+    indexes: 'hdcbsdfmysmzy',
+    question: '蝴蝶翅膀上的粉末有什么作用？',
+    id: 18551
+  },
+  {
+    answer: '蝙蝠',
+    indexes: 'yxbsynlds',
+    question: '以下不属于鸟类的是：',
+    id: 18552
+  },
+  {
+    answer: '噬菌体',
+    indexes: 'yxmyxbjgds',
+    question: '以下没有细胞结构的是',
+    id: 18553
+  },
+  {
+    answer: '合伙人出资证明',
+    indexes: 'hhqysqyyzzsxlnxbsbxtjd',
+    question: '合伙企业申请营业执照时下列哪项不是必须提交的？',
+    id: 18554
+  },
+  {
+    answer: '3年',
+    indexes: 'azgsfgdgfyxgsfqrdgfzgssljnnbnzr',
+    question: '按照公司法规定，股份有限公司发起人的股份在公司设立几年内不能转让？',
+    id: 18555
+  },
+  {
+    answer: '法国',
+    indexes: 'shzyddyccssznggj',
+    question: '社会主义的第一次尝试是在哪个国家？',
+    id: 18556
+  },
+  {
+    answer: '新西兰',
+    indexes: '1997n8ynyggjcwdygtzgjzgjrsmzzdcsbxydgj',
+    question: '1997年8月，哪一个国家成为第一个同中国就中国加入世贸组织达成双边协议的国家？',
+    id: 18557
+  },
+  {
+    answer: '2002年1月1日',
+    indexes: 'csmshkszgkslxrsdgxcn',
+    question: '从什么时候开始，中国开始履行入世的各项承诺？',
+    id: 18558
+  },
+  {
+    answer: '防治污染',
+    indexes: 'gjwghbfdgdxyjdwzddcbzpwfydyy',
+    question: '根据我国《环保法》的规定，向应缴单位征得的超标准排污费，应当用于：',
+    id: 18559
+  },
+  {
+    answer: '二十九',
+    indexes: 'jy2008nzwgbjjbdayhsdjj',
+    question: '将于2008年在我国北京举办的奥运会是第几届？',
+    id: 18560
+  },
+  {
+    answer: '收取部分保险费',
+    indexes: 'bxzrkshtbryqjchtdbxrky',
+    question: '保险责任开始后，投保人要求解除合同的，保险人可以：',
+    id: 18561
+  },
+  {
+    answer: '荷兰',
+    indexes: 'dygzbzygjs',
+    question: '第一个资本主义国家是：',
+    id: 18562
+  },
+  {
+    answer: '2002年9月1日',
+    indexes: 'zhrmghgrkyjhsyfysmshkssx',
+    question: '《中华人民共和国人口与计划生育法》于什么时候开始施行？',
+    id: 18563
+  },
+  {
+    answer: '在其他经济组织兼职',
+    indexes: 'syyxdgzrybd',
+    question: '商业银行的工作人员不得：',
+    id: 18564
+  },
+  {
+    answer: '离异双方都有责任',
+    indexes: 'fqlyhdwcnrzndjysfyzr',
+    question: '夫妻离异后对未成年人子女的教育谁负有责任？',
+    id: 18565
+  },
+  {
+    answer: '伊斯兰教',
+    indexes: 'alsyxlnyzj',
+    question: '“阿拉”属于下列那一宗教',
+    id: 18566
+  },
+  {
+    answer: '1991年2月',
+    indexes: 'zgdyctcsbayhsnnny',
+    question: '中国第一次提出申办奥运会是哪年哪月？',
+    id: 18567
+  },
+  {
+    answer: '临时代办',
+    indexes: 'yxngbsysggzdjb',
+    question: '以下哪个不属于使馆馆长的级别？',
+    id: 18568
+  },
+  {
+    answer: '以上都正确',
+    indexes: 'gyjjfymfxlsfzqds',
+    question: '关于经济法与民法，下列说法正确的是',
+    id: 18569
+  },
+  {
+    answer: '自然人',
+    indexes: 'bncwsbqztds',
+    question: '不能成为商标权主体的是：',
+    id: 18570
+  },
+  {
+    answer: '十五',
+    indexes: '2003n7y22rzkdsgqtdjcqgdbdh',
+    question: '2003年7月22日召开的是共青团第几次全国代表大会？',
+    id: 18571
+  },
+  {
+    answer: '50人',
+    indexes: 'gjgsfyxgsdgdzgrsw',
+    question: '根据公司法，有限公司的股东最高人数为：',
+    id: 18572
+  },
+  {
+    answer: '六个月',
+    indexes: 'qslhfypjbzlhddzsjhcnzcqs',
+    question: '起诉离婚，法院判决不准离婚的，多长时间后才能再次起诉？',
+    id: 18573
+  },
+  {
+    answer: '10',
+    indexes: 'zcsbdqxwjn',
+    question: '注册商标的期限为几年？',
+    id: 18574
+  },
+  {
+    answer: '科学技术',
+    indexes: 'smsdyscl',
+    question: '什么是第一生产力',
+    id: 18575
+  },
+  {
+    answer: '流动性强',
+    indexes: 'fdctzbjydtds',
+    question: '房地产投资不具有的特点是',
+    id: 18576
+  },
+  {
+    answer: '发达资本主义国家',
+    indexes: 'zgjgxdbszyygcydchjxfgjgyzggnzqdljygs',
+    question: '在国际关系的表述中有一个常用的词汇叫“西方国家”，关于这个概念，正确的理解应该是：',
+    id: 18577
+  },
+  {
+    answer: '再就业服务中心缴纳',
+    indexes: 'gqgrwmy1998n8yxgnmqjbylbxfysfz',
+    question: '国企工人忘某于1998年8月下岗，那么其基本医疗保险费由谁负责？',
+    id: 18578
+  },
+  {
+    answer: '支付赔偿金',
+    indexes: 'gjpcdzyfss',
+    question: '国家赔偿的主要方式是：',
+    id: 18579
+  },
+  {
+    answer: '纪念性的文字和图形',
+    indexes: 'jzzyczpsbsbzdzyhtxs',
+    question: '禁止在烟草制品商标上标注的字样或图形是：',
+    id: 18580
+  },
+  {
+    answer: '３０日',
+    indexes: 'blyczmxkzdbghzxsxyzypzjgpzzrqdsrndfzjgblbgzxsx',
+    question:
+      '办理烟草专卖许可证的变更和注销手续，应在原批准机关批准之日起多少日内，到发证机关办理变更、注销手续？',
+    id: 18581
+  },
+  {
+    answer: '１０００元',
+    indexes: 'sygqsxxkzhzrxkzyyczmxzzgbmcydsyyxdfk',
+    question: '使用过期、失效许可证或转让许可证，由烟草专卖行政主管部门处以多少元以下的罚款？',
+    id: 18582
+  },
+  {
+    answer: '国家烟草专卖局',
+    indexes: 'yczmpzyzdggsyhqfzyzzyyzdyzsyystyzd',
+    question: '烟草专卖品准运证的规格、式样和签发准运证专用印章的印章式样由谁统一制定？',
+    id: 18583
+  },
+  {
+    answer: '７０％',
+    indexes: 'yczmxzzgbmyfsgwfsgdyysgjgazgyczmpscpfjgddsjs',
+    question:
+      '烟草专卖行政主管部门依法收购违法收购的烟叶，收购价格按照该烟草专卖品市场批发价格的多少计算？',
+    id: 18584
+  },
+  {
+    answer: '第八轮',
+    indexes: 'wlghhsgmzxdwjqhysxxddbmytzezmybhzymyefdddjldbmytp',
+    question:
+      '“乌拉圭回合”是关贸总协定为加强和延伸现行的多边贸易体制，遏制贸易保护主义蔓延而发动的第几轮多边贸易谈判？',
+    id: 18585
+  },
+  {
+    answer: '12',
+    indexes: '1982nzgldrxhfwljggj',
+    question: '1982年中国领导人先后访问了几个国家？',
+    id: 18586
+  },
+  {
+    answer: '年老、疾病或丧失劳动能力',
+    indexes: 'wgxfgdzhrmghgzqkxycgjhshhdwzbzdql',
+    question: '我国《宪法》规定：中华人民共和国在()情况下，有从国家和社会获得物质帮助的权利。',
+    id: 18587
+  },
+  {
+    answer: '共产主义教育',
+    indexes: 'xlnxbswgjyfgdgjbxyzsjyzzkzdjy',
+    question: '下列哪项不是我国教育法规定国家必须要在受教育者中开展的教育？',
+    id: 18588
+  },
+  {
+    answer: '人民法院和仲裁机构',
+    indexes: 'kcxhtdbghcxxyngjgzc',
+    question: '可撤消合同的变更或撤消须由哪个机构作出。',
+    id: 18589
+  },
+  {
+    answer: '建筑材料质量；',
+    indexes: 'xlnlcpsycpzlfdzdfw',
+    question: '下列哪类产品属于《产品质量法》调整的范围？',
+    id: 18590
+  },
+  {
+    answer: '1个季度',
+    indexes: 'jrybbkddybxydyysnsqxw',
+    question: '金融业（不包括典当业、保险业）的营业税纳税期限为',
+    id: 18591
+  },
+  {
+    answer: '董事会',
+    indexes: 'yxngjgshyqydzgqljg',
+    question: '以下哪个机构是合营企业的最高权利机构',
+    id: 18592
+  },
+  {
+    answer: '有证据证明其不知道该产品为禁止销售的产品，并如实说明其进货渠道',
+    indexes: 'acpzlfgdxszdxlxwkyjqhcqcfdsnzqk',
+    question: '按《产品质量法》规定销售者的下列行为可以减轻或从轻处罚的是哪种情况',
+    id: 18593
+  },
+  {
+    answer: '法国',
+    indexes: 'nygslhgalhcrlsgzy',
+    question: '哪一个是联合国安理会常任理事国之一：',
+    id: 18594
+  },
+  {
+    answer: '少数民族代表',
+    indexes: 'wgxxxfgdqgrdcwhdzcryzydysdmedw',
+    question: '我国现行宪法规定，全国人大常委会的组成人员中，应当有适当名额的为：',
+    id: 18595
+  },
+  {
+    answer: '时代主题的转换和新技术革命浪潮的兴起',
+    indexes: 'dxpllxcdsdyqs',
+    question: '邓小平理论形成的时代要求是：',
+    id: 18596
+  },
+  {
+    answer: '禅宗',
+    indexes: 'zzgzxzjfhbhssdsy',
+    question: '在中国哲学中，“机锋”和“棒喝”是谁的术语',
+    id: 18597
+  },
+  {
+    answer: '从属关系',
+    indexes: 'zfjghgjqljgdgxs',
+    question: '政府机构和国家权利机构的关系是',
+    id: 18598
+  },
+  {
+    answer: '1982',
+    indexes: 'wgxzldtxnnqyzswyz',
+    question: '我国行政领导体现哪年前，一直是委员制。',
+    id: 18599
+  },
+  {
+    answer: '全国人民代表大会',
+    indexes: 'wgdzggjqljgs',
+    question: '我国的最高国家权利机关是：',
+    id: 18600
+  },
+  {
+    answer: '2年',
+    indexes: 'xzpcdqqsxw',
+    question: '行政赔偿的请求时效为',
+    id: 18601
+  },
+  {
+    answer: '180',
+    indexes: 'wgsxwhgzckcpbghdstbxjxhx',
+    question: '我国实行外汇管制，出口产品报关后多少天必须进行核销？',
+    id: 18602
+  },
+  {
+    answer: '个人',
+    indexes: 'bjfxlxbfpygxfkjdfprgzljjjzgssy',
+    question: '北京发行了新版发票，因公消费开据的发票，如果中了奖，奖金则归谁所有？',
+    id: 18603
+  },
+  {
+    answer: '金穗卡',
+    indexes: 'mqwgtzezgdxykssmk',
+    question: '目前我国透支额最高的信用卡是什么卡？',
+    id: 18604
+  },
+  {
+    answer: '8年',
+    indexes: 'csyhgzbncg',
+    question: '从事有害工种不能超过：',
+    id: 18605
+  },
+  {
+    answer: '全部同意',
+    indexes: 'hhqyxrhbxjg',
+    question: '合伙企业新入伙必须经过：',
+    id: 18606
+  },
+  {
+    answer: '腕龙',
+    indexes: 'yzdzzdklssm',
+    question: '已知的最重的恐龙是什么？',
+    id: 18607
+  },
+  {
+    answer: '康熙',
+    indexes: 'qchdzzqfhxds',
+    question: '清朝皇帝中最勤奋好学的是',
+    id: 18608
+  },
+  {
+    answer: '沈园',
+    indexes: 'lyytwflhsnyznlzfg',
+    question: '陆游与唐婉分离后数年又在哪里重逢过',
+    id: 18609
+  },
+  {
+    answer: '清朝',
+    indexes: 'zgdymypssmsqfxd',
+    question: '中国第一枚邮票是什么时期发行的',
+    id: 18610
+  },
+  {
+    answer: '道家',
+    indexes: 'zggdngxpdzzylshpzzdsxxj',
+    question: '中国古代哪个学派的主张，与绿色和平组织的思想相近？',
+    id: 18611
+  },
+  {
+    answer: '明',
+    indexes: 'zddmjgddjy',
+    question: '最大的木结构大殿建于',
+    id: 18612
+  },
+  {
+    answer: '弓箭',
+    indexes: 'xsnzwqbszsjqsdbxzb',
+    question: '下述哪种武器不属中世纪骑士的必需装备',
+    id: 18613
+  },
+  {
+    answer: '月桂',
+    indexes: 'galpkjsyszydsysmbcdwg',
+    question: '古奥林匹克竞赛优胜者要戴上用什么编成的王冠',
+    id: 18614
+  },
+  {
+    answer: '列宾',
+    indexes: 'yxbswyfxsqhjds',
+    question: '以下不是文艺复兴时期画家的是',
+    id: 18615
+  },
+  {
+    answer: '19',
+    indexes: 'sjsdyzzpcxzngsj',
+    question: '世界上第一张照片出现在哪个世纪?',
+    id: 18616
+  },
+  {
+    answer: '忽必烈',
+    indexes: 'mnstyqgdychdss',
+    question: '灭南宋统一全国的元朝皇帝是谁？',
+    id: 18617
+  },
+  {
+    answer: '首陀罗',
+    indexes: 'gyddzxzdznygdwzd',
+    question: '古印度的种姓制度中哪一个地位最低',
+    id: 18618
+  },
+  {
+    answer: '艾森豪威尔',
+    indexes: 'nmddlsmjdzgslss',
+    question: '诺曼底登陆时，盟军的最高司令是谁：',
+    id: 18619
+  },
+  {
+    answer: '院试',
+    indexes: 'mdkjzdksdjbbk',
+    question: '明代科举制度考试等级不包括：',
+    id: 18620
+  },
+  {
+    answer: '明英宗朱祁镇',
+    indexes: 'bwcbfqhyfpdhds',
+    question: '被瓦刺兵俘去，后又复辟的皇帝是',
+    id: 18621
+  },
+  {
+    answer: '墨索里尼',
+    indexes: 'decsjdzzydlfxstms',
+    question: '第二次世界大战中，意大利法西斯头目是：',
+    id: 18622
+  },
+  {
+    answer: '李公朴',
+    indexes: 'qmnzbfhgmdfdpzkmshdmmzywys',
+    question: '全面内战爆发后，国民党反动派在昆明杀害的民盟中央委员是：',
+    id: 18623
+  },
+  {
+    answer: '战国',
+    indexes: 'slgcqjdjysznysqjzd',
+    question: '水利工程奇迹都江堰是在哪一时期建造的？',
+    id: 18624
+  },
+  {
+    answer: '廖仲恺',
+    indexes: 'hpjxclsdrddbds',
+    question: '黄埔军校成立时，担任党代表的是？',
+    id: 18625
+  },
+  {
+    answer: '松糕鞋',
+    indexes: 'xlnxbsxpsddxzb',
+    question: '下列哪项不是嬉皮士的典型装扮',
+    id: 18626
+  },
+  {
+    answer: '文聘',
+    indexes: 'xlngrbscysctdccd',
+    question: '下列哪个人不是从袁绍处投到曹操的？',
+    id: 18627
+  },
+  {
+    answer: '状元榜眼探花',
+    indexes: 'mdyhtsdqsmycs',
+    question: '明代以后廷试的前三名依次是？',
+    id: 18628
+  },
+  {
+    answer: '诸葛亮布“八卦阵”',
+    indexes: 'xlnyjsszsd',
+    question: '下列哪一件事是真实的？',
+    id: 18629
+  },
+  {
+    answer: '秦庆童',
+    indexes: 'smycjmsccdhd',
+    question: '谁没有参加密杀曹操的活动？',
+    id: 18630
+  },
+  {
+    answer: '咖啡馆',
+    indexes: 'scsjjzbsjxddds',
+    question: '首次世界举重比赛举行的地点是：',
+    id: 18631
+  },
+  {
+    answer: '明末',
+    indexes: 'yqzhscrwg',
+    question: '扬琴在何时传入我国？',
+    id: 18632
+  },
+  {
+    answer: '电话公司内',
+    indexes: 'sjzzdgydhtsz',
+    question: '世界最早的公用电话亭是在：',
+    id: 18633
+  },
+  {
+    answer: '103',
+    indexes: 'brwxgcxldst',
+    question: '“百日维新”共持续了多少天',
+    id: 18634
+  },
+  {
+    answer: '商朝',
+    indexes: 'syfzs____qtqzdjp',
+    question: '四羊方尊是:____青铜器中的精品',
+    id: 18635
+  },
+  {
+    answer: '斯大林格勒保卫战',
+    indexes: 'decsjdzdzzds',
+    question: '第二次世界大战的转折点是:',
+    id: 18636
+  },
+  {
+    answer: '陈桥兵变',
+    indexes: 'xlnysjjyzbxz',
+    question: '下列哪一事件具有政变性质：',
+    id: 18637
+  },
+  {
+    answer: '4',
+    indexes: 'clyszntwgxhsfjgyd',
+    question: '蔡伦一生在内廷为官，先后侍奉几个幼帝？',
+    id: 18638
+  },
+  {
+    answer: '节度使',
+    indexes: 'fdaszldalsdsfs',
+    question: '发动安史之乱的安禄山的身份是?',
+    id: 18639
+  },
+  {
+    answer: '春秋',
+    indexes: 'zgdsxjmbjyksy',
+    question: '中国的私学即民办教育开始于',
+    id: 18640
+  },
+  {
+    answer: '中国',
+    indexes: 'sjszzdzbcxznggj',
+    question: '世界上最早的纸币出现在哪个国家.',
+    id: 18641
+  },
+  {
+    answer: '《尼布楚条约》',
+    indexes: 'zedcddygbjtys',
+    question: '中俄达成的第一个边界条约是：',
+    id: 18642
+  },
+  {
+    answer: '1399',
+    indexes: 'zywdjygyjn',
+    question: '朱允文登基于公元几年？',
+    id: 18643
+  },
+  {
+    answer: '清朝',
+    indexes: 'jxlswgngcdsdcz',
+    question: '纪晓岚是我国哪个朝代上的才子',
+    id: 18644
+  },
+  {
+    answer: '宣统',
+    indexes: 'qczhyghds',
+    question: '清朝最后一个皇帝是：',
+    id: 18645
+  },
+  {
+    answer: '11年',
+    indexes: 'zhmssdztlyzzcxl',
+    question: '在荷马史诗当中，特洛伊战争持续了：',
+    id: 18646
+  },
+  {
+    answer: '白垩纪',
+    indexes: 'bwlshzngsq',
+    question: '霸王龙生活在哪个时期？',
+    id: 18647
+  },
+  {
+    answer: '防止交头接耳',
+    indexes: 'bssgydgmdszylbschzdedqyys',
+    question: '北宋时官员的官帽都是左右两边伸出很长的“耳朵”，其原因是：',
+    id: 18648
+  },
+  {
+    answer: '北魏',
+    indexes: 'tcyydjtzscy',
+    question: '唐初沿用的均田制始创于',
+    id: 18649
+  },
+  {
+    answer: '孟子',
+    indexes: 'zgstcmwgjwqdsxjs',
+    question: "战国时提出'民为贵','君为轻'的思想家是",
+    id: 18650
+  },
+  {
+    answer: '伊凡四世',
+    indexes: 'bcwyflds',
+    question: "被称为'伊凡雷帝'是",
+    id: 18651
+  },
+  {
+    answer: '洪宪元年',
+    indexes: '1915n12y12ryskfpnhw',
+    question: '1915年12月12日，袁世凯复辟，年号为：',
+    id: 18652
+  },
+  {
+    answer: '陈独秀',
+    indexes: '1920nwgdyggczyxzclxzsjs',
+    question: '1920年，我国第一个共产主义小组成立，小组书记是：',
+    id: 18653
+  },
+  {
+    answer: '云南',
+    indexes: 'hgydzzxdldsfs',
+    question: '护国运动中，最先独立的省份是：',
+    id: 18654
+  },
+  {
+    answer: '圣祖',
+    indexes: 'kxhddmhs',
+    question: '康熙皇帝的庙号是：',
+    id: 18655
+  },
+  {
+    answer: '唐玄宗',
+    indexes: 'kysssytcnghdkcd',
+    question: '“开元盛世”是由唐朝哪个皇帝开创的：',
+    id: 18656
+  },
+  {
+    answer: '反对封建统治',
+    indexes: 'zgtmhzzglzqcdlhfzhdszyys',
+    question: '中国同盟会政治纲领中“驱除鞑虏，恢复中华”的实质意义是',
+    id: 18657
+  },
+  {
+    answer: '盗拓',
+    indexes: 'cqzgsqdsdssbbknyg',
+    question: '春秋战国时期的四大死士不包括哪一个',
+    id: 18658
+  },
+  {
+    answer: '2',
+    indexes: 'dwgzzdxqslyjwys',
+    question: '到卫国战争打响前,苏联有几位元帅',
+    id: 18659
+  },
+  {
+    answer: '虞姬',
+    indexes: 'xylssztddygnrss',
+    question: '项羽临死诗中提到的一个女人是谁？',
+    id: 18660
+  },
+  {
+    answer: '9月9日',
+    indexes: 'qsqybfy1927n',
+    question: '秋收起义爆发于1927年：',
+    id: 18661
+  },
+  {
+    answer: '曲辕犁',
+    indexes: 'tcnmgjldgzzzl',
+    question: '唐朝农民改进犁的构造，制造了',
+    id: 18662
+  },
+  {
+    answer: '29位',
+    indexes: 'ssyxdxwwjdlhddzzglssgyjg',
+    question: '十岁以下的小娃娃就当了皇帝的，在中国历史上共有几个？',
+    id: 18663
+  },
+  {
+    answer: '空降作战',
+    indexes: 'anmzysezzmjssdzddycsmzy',
+    question: '阿纳姆战役是二战中美军实施的最大的一次什么战役？',
+    id: 18664
+  },
+  {
+    answer: '5套',
+    indexes: 'xzgclhwggfxgjtrmb',
+    question: '新中国成立后，我国共发行过几套人民币？',
+    id: 18665
+  },
+  {
+    answer: '蒙古',
+    indexes: 'mwscdsls',
+    question: '灭亡宋朝的势力是：',
+    id: 18666
+  },
+  {
+    answer: '京张',
+    indexes: 'wgzxsjhxjddyttlsnttl',
+    question: '我国自行设计和修建的第一条铁路是哪条铁路？',
+    id: 18667
+  },
+  {
+    answer: '文天祥',
+    indexes: 'zqgsnwmzyxzyzxdbxagsp',
+    question: '《正气歌》是哪位民族英雄在狱中写的不朽爱国诗篇？',
+    id: 18668
+  },
+  {
+    answer: '玄奘西游取经',
+    indexes: 'xllssjzfsdzzds',
+    question: '下列历史事件中，发生得最早的是：',
+    id: 18669
+  },
+  {
+    answer: '纸张上',
+    indexes: 'jswmdszbfdssbknsxz',
+    question: '举世闻名的《孙子兵法》诞生时，不可能书写在',
+    id: 18670
+  },
+  {
+    answer: '电椅',
+    indexes: 'xgcqdsxsysmxszxd',
+    question: '香港初期的死刑是用什么形式执行的？',
+    id: 18671
+  },
+  {
+    answer: '18年',
+    indexes: 'bjgglsdsnjc',
+    question: '北京故宫历时多少年建成?',
+    id: 18672
+  },
+  {
+    answer: '蟋蟀',
+    indexes: 'gdssdczszxzd',
+    question: '古代所说的促织是指现在的：',
+    id: 18673
+  },
+  {
+    answer: '2006.1.1',
+    indexes: 'wgzfqmjzsyflaCFC113hslywTCAdsjs',
+    question: '我国政府全面禁止使用氟里昂（CFC-113）和三氯乙烷（TCA）的时间是？',
+    id: 18674
+  },
+  {
+    answer: '2003年2月',
+    indexes: 'xcdhhlscjxzxsznyn',
+    question: '现存的黄鹤楼首次进行整修是在哪一年？',
+    id: 18675
+  },
+  {
+    answer: '江都',
+    indexes: 'xlngbsnjdgchbm',
+    question: '下列哪个不是南京的古称或别名',
+    id: 18676
+  },
+  {
+    answer: '日内瓦公约',
+    indexes: 'qdrhbhzzsnzdxds',
+    question: '确定如何保护战争受难者的协定是',
+    id: 18677
+  },
+  {
+    answer: '韩',
+    indexes: 'lgzngzxbqsm',
+    question: '六国中，哪国最先被秦所灭？',
+    id: 18678
+  },
+  {
+    answer: '笑里藏刀',
+    indexes: 'sgssqjyygyjhyyshjzdjcs',
+    question: '三国时，孙权假意与关羽交好，用以收回荆州的计策是：',
+    id: 18679
+  },
+  {
+    answer: '威斯特法利亚和约',
+    indexes: 'jdgjfdsdbzs',
+    question: '近代国际法诞生的标志是',
+    id: 18680
+  },
+  {
+    answer: '东京',
+    indexes: 'yzdygtcsbayhdcssng',
+    question: '亚洲第一个提出申办奥运会的城市是哪个？',
+    id: 18681
+  },
+  {
+    answer: '明代',
+    indexes: 'zycycjzzyxscngcdks',
+    question: '正月初一吃饺子这一习俗从哪个朝代开始？',
+    id: 18682
+  },
+  {
+    answer: '中国',
+    indexes: 'sjszzfmhydgjsnyg',
+    question: '世界上最早发明火药的国家是哪一个？',
+    id: 18683
+  },
+  {
+    answer: '靖康之变',
+    indexes: 'bzbsmwdlssjs',
+    question: '标志北宋灭亡的历史事件是',
+    id: 18684
+  },
+  {
+    answer: '中国',
+    indexes: 'rbdcdqyy',
+    question: '日本的茶道起源于？',
+    id: 18685
+  },
+  {
+    answer: '1099年7月',
+    indexes: 'szjdzsysmshdycgxlylsl',
+    question: '十字军东征时，于什么时候第一次攻陷了耶路撒冷？',
+    id: 18686
+  },
+  {
+    answer: '荷兰',
+    indexes: 'hbsrmlybdzbshxddjydxmqyy10sjd',
+    question: '滑冰是人们利用冰刀在冰上滑行的冬季运动项目。起源于10世纪的：',
+    id: 18687
+  },
+  {
+    answer: '坤宁宫',
+    indexes: 'zggzhhdjss',
+    question: '在故宫中，皇后的居所是',
+    id: 18688
+  },
+  {
+    answer: '宛，邯郸',
+    indexes: 'xlzgcsznyzsdszmdytzx',
+    question: '下列战国城市中，哪一组是当时著名的冶铁中心？',
+    id: 18689
+  },
+  {
+    answer: '王永民',
+    indexes: 'wbzxsrfssscd',
+    question: '五笔字型输入法是谁首创的？',
+    id: 18690
+  },
+  {
+    answer: '德国人',
+    indexes: 'nzdsjsdylqcsngrzzdm',
+    question: '你知道世界上第一辆汽车是哪国人制造的吗？',
+    id: 18691
+  },
+  {
+    answer: '波斯尼亚',
+    indexes: 'ycdzsbegldsngdsd',
+    question: '一次大战是贝尔格莱德是哪国的首都？',
+    id: 18692
+  },
+  {
+    answer: '夏',
+    indexes: 'wgcsmshqjyllf',
+    question: '我国从什么时候起就有了历法',
+    id: 18693
+  },
+  {
+    answer: '隋炀帝时期',
+    indexes: 'dyhkzy',
+    question: '大运河开凿于?',
+    id: 18694
+  },
+  {
+    answer: '车裂',
+    indexes: 'qcsyzhszmsd',
+    question: '秦朝商鞅最后是怎么死的？',
+    id: 18695
+  },
+  {
+    answer: '200万英镑',
+    indexes: 'zczwnbejjjjdnbeycydsq',
+    question: '最初作为诺贝尔奖金基金的诺贝尔遗产有多少钱？',
+    id: 18696
+  },
+  {
+    answer: '牛式',
+    indexes: 'ezqjnzbsdgtrzddtkxh',
+    question: '二战期间，那种不是德国投入战斗的坦克型号？',
+    id: 18697
+  },
+  {
+    answer: '许地山',
+    indexes: 'lhssnwzjddbz',
+    question: '《落花生》是哪位作家的代表作？',
+    id: 18698
+  },
+  {
+    answer: '《大清新刑律》',
+    indexes: 'zgqchbbddybxfds',
+    question: '中国起草和颁布的第一部刑法典是',
+    id: 18699
+  },
+  {
+    answer: '《开皇律》',
+    indexes: 'zzqlsezmdfjfds',
+    question: '最早确立十恶罪名的封建法典是',
+    id: 18700
+  },
+  {
+    answer: '刘邓大军挺进大别山',
+    indexes: 'rmjfzzzlfgksy',
+    question: '人民解放战争战略反攻开始于',
+    id: 18701
+  },
+  {
+    answer: '1952年底',
+    indexes: 'tdggjbwcsz',
+    question: '土地改革基本完成是在',
+    id: 18702
+  },
+  {
+    answer: '古代中国',
+    indexes: 'hjywzzcxy',
+    question: '会计业务最早出现于：',
+    id: 18703
+  },
+  {
+    answer: '韩愈',
+    indexes: 'cbsctzzfwclbds',
+    question: '曾被宋朝统治者封为“昌黎伯”的是：',
+    id: 18704
+  },
+  {
+    answer: '袁枢',
+    indexes: 'xlrwzbsyzlqxds',
+    question: '下列人物中不属于“竹林七贤”的是',
+    id: 18705
+  },
+  {
+    answer: '陈毅',
+    indexes: 'xzgsdyszmycjzzds',
+    question: '新中国十大元帅中，没有参加长征的是',
+    id: 18706
+  },
+  {
+    answer: '15',
+    indexes: 'wgrsgtljn',
+    question: '我国入世共谈了几年？',
+    id: 18707
+  },
+  {
+    answer: '使用和制造陶器',
+    indexes: 'sddrwzwdldjns',
+    question: '山顶洞人未掌握的劳动技能是',
+    id: 18708
+  },
+  {
+    answer: '黄帝',
+    indexes: 'zgrzcwyhzszdhsz',
+    question: '中国人自称为“炎黄子孙”中的“黄”是指：',
+    id: 18709
+  },
+  {
+    answer: '山顶洞人',
+    indexes: 'wgzzrgqhds',
+    question: '我国最早人工取火的是：',
+    id: 18710
+  },
+  {
+    answer: '汉阳镇',
+    indexes: 'sdmzbbk',
+    question: '四大名镇不包括',
+    id: 18711
+  },
+  {
+    answer: '安徽',
+    indexes: 'txdysjhsfhswy',
+    question: '天下第一松：九华山凤凰松位于',
+    id: 18712
+  },
+  {
+    answer: '雨夜楼',
+    indexes: 'sdmlbbk',
+    question: '四大名楼不包括',
+    id: 18713
+  },
+  {
+    answer: '四川盆地',
+    indexes: 'zgjnzddwlpds',
+    question: '中国境内最大的外流盆地是：',
+    id: 18714
+  },
+  {
+    answer: '爱新觉罗·弘历',
+    indexes: 'wglsszgsdhd',
+    question: '我国历史上最高寿的皇帝：',
+    id: 18715
+  },
+  {
+    answer: '孙权',
+    indexes: 'lszzzccjjdrss',
+    question: '历史中真正草船借箭的人是谁',
+    id: 18716
+  },
+  {
+    answer: '洛阳',
+    indexes: 'zsdxhnfzdsxzd',
+    question: '在宋代西河南府指的是现在的',
+    id: 18717
+  },
+  {
+    answer: '解放',
+    indexes: '1956n7y13rzcdyqccscxzgddypqczzqcdmzssm',
+    question: '1956年7月13日，长春第一汽车厂生产新中国的第一批汽车。这种汽车的名字是什么？',
+    id: 18718
+  },
+  {
+    answer: '天主教',
+    indexes: 'sfsjdjngjpdsz',
+    question: '神父是基督教哪个教派的神职？',
+    id: 18719
+  },
+  {
+    answer: '冬',
+    indexes: '1977nhfgkhddycgkszngjjjxd',
+    question: '1977年恢复高考后的第一次高考是在哪个季节举行的？',
+    id: 18720
+  },
+  {
+    answer: '1979年1月1日',
+    indexes: '________zmjjtywgzfldrdxpfmfw',
+    question: '________中美建交，同月我国政府领导人邓小平赴美访问。',
+    id: 18721
+  },
+  {
+    answer: '埃及',
+    indexes: 'sjszzbfddgmnlqyfsz',
+    question: '世界上最早爆发的大规模奴隶起义发生在：',
+    id: 18722
+  },
+  {
+    answer: '卢海怡',
+    indexes: 'xmbswggddsdmnds',
+    question: '下面不是我国古代的四大美女的是:',
+    id: 18723
+  },
+  {
+    answer: '伊尹',
+    indexes: 'stztjtzsqcxdhjmdyynwztyldfz',
+    question: '商汤至太甲统治时期出现大好局面，得益于哪位政坛元老的辅佐？',
+    id: 18724
+  },
+  {
+    answer: '韩',
+    indexes: 'lgzngzxbqsm',
+    question: '六国中，哪国最先被秦所灭',
+    id: 18725
+  },
+  {
+    answer: '比利时',
+    indexes: 'nplbbhtlcedztzzsmdjshtlwynggj',
+    question: '拿破仑兵败滑铁卢，从而导致他政治生命的结束。滑铁卢位于哪个国家？',
+    id: 18726
+  },
+  {
+    answer: '德国',
+    indexes: 'dygcyyzbmdgjsng',
+    question: '第一个采用邮政编码的国家是哪个？',
+    id: 18727
+  },
+  {
+    answer: '八国联军侵华战争',
+    indexes: 'xctyszglssjglnczzhqdd',
+    question: '《辛丑条约》是中国历史上经过了哪次战争后签订的？',
+    id: 18728
+  },
+  {
+    answer: '１９１４－１９１８',
+    indexes: 'dycsjdzdsmsjs',
+    question: '第一次世界大战的始末时间是？',
+    id: 18729
+  },
+  {
+    answer: '研药术',
+    indexes: 'zgcslsdfmxmngbssdfmzy',
+    question: '中国产生了四大发明,下面哪个不是四大发明之一？',
+    id: 18730
+  },
+  {
+    answer: '关羽',
+    indexes: 'ymzyywnascfjkdnmsskdd',
+    question: '因某种原因未能按时吃饭叫“扛刀”，那么是谁扛的刀？',
+    id: 18731
+  },
+  {
+    answer: '清',
+    indexes: 'cxqsncdr',
+    question: '曹雪芹是哪朝的人？',
+    id: 18732
+  },
+  {
+    answer: '9月3日',
+    indexes: 'zgkrzzsljnrs',
+    question: '中国抗日战争胜利纪念日是：',
+    id: 18733
+  },
+  {
+    answer: '古罗马人',
+    indexes: 'wmxzydxqynzrzxsyd',
+    question: '我们现在用的“星期”由哪种人最先使用的？',
+    id: 18734
+  },
+  {
+    answer: '非洲',
+    indexes: 'tgqyy',
+    question: '探戈起源于：',
+    id: 18735
+  },
+  {
+    answer: '秦朝',
+    indexes: 'zgfjjzchdsyngcd',
+    question: '中国封建君主称“皇帝”始于哪个朝代？',
+    id: 18736
+  },
+  {
+    answer: '蔡京',
+    indexes: 'zhmycdylylssnwryg',
+    question: '“走后门”一词的由来与历史上哪位人有关？',
+    id: 18737
+  },
+  {
+    answer: '翼王',
+    indexes: 'sdkdrds',
+    question: '石达开担任的是：',
+    id: 18738
+  },
+  {
+    answer: '膝盖骨',
+    indexes: 'wggdjsjsbszbxhbcwsbdbsz',
+    question: '我国古代军事家孙膑是在“膑刑”后被称为孙膑的，“膑”是指：',
+    id: 18739
+  },
+  {
+    answer: '刻在木上',
+    indexes: 'zzdcls',
+    question: '最早的春联是',
+    id: 18740
+  },
+  {
+    answer: '唐',
+    indexes: 'zgzzzjdasy',
+    question: '中国最早纸记档案始于：',
+    id: 18741
+  },
+  {
+    answer: '马里人',
+    indexes: 'zjhblzymxszwzxdaxhyds',
+    question: '至今还保留着以母系氏族为中心的“阿夏”婚姻的是',
+    id: 18742
+  },
+  {
+    answer: '孔',
+    indexes: 'bssdbjxyzjsqkxsdyzbjxyhxjs',
+    question: '北宋时的《百家姓》以“赵”居首，清康熙时的《御制百家姓》以何姓居首？',
+    id: 18743
+  },
+  {
+    answer: '曹奂',
+    indexes: 'sgswgdzhyghds',
+    question: '三国时，魏国的最后一个皇帝是：',
+    id: 18744
+  },
+  {
+    answer: '晋',
+    indexes: 'sgdzhslgs',
+    question: '三国的最后胜利国是：',
+    id: 18745
+  },
+  {
+    answer: '8',
+    indexes: 'szjdzdmslkzxdsdljczydzxd',
+    question: '十字军东征对穆斯林控制下的圣地了几次主要东征行动？',
+    id: 18746
+  },
+  {
+    answer: '朱耷',
+    indexes: 'yxsbsyzbg',
+    question: '以下谁不是扬州八怪？',
+    id: 18747
+  },
+  {
+    answer: '文源阁',
+    indexes: 'skqsqssxqbfbzywywywjwzwhwswlqgzbyfljfhds',
+    question:
+      '《四库全书》全书缮写七部分别藏于文渊、文源、文津、文宗、文汇、文溯、文澜七阁中，被英法联军焚毁的是',
+    id: 18748
+  },
+  {
+    answer: '53',
+    indexes: '2003njbdsjxjdssddsj',
+    question: '2003年举办的世界小姐大赛是第多少届',
+    id: 18749
+  },
+  {
+    answer: '1988',
+    indexes: 'tamcldyczsxzghsjsyrkfksynynyd',
+    question: '天安门城楼第一次正式向中国和世界所有人开放开始于哪一年元旦',
+    id: 18750
+  },
+  {
+    answer: '河南省',
+    indexes: 'xjhggsywgnygs',
+    question: '现今,函谷关属于我国那一个省?',
+    id: 18751
+  },
+  {
+    answer: '1911',
+    indexes: 'znynmzdcjrhnqydxj',
+    question: '在哪一年，毛泽东曾加入湖南起义的新军：',
+    id: 18752
+  },
+  {
+    answer: '1955',
+    indexes: 'znynyjybsyysjx',
+    question: '在哪一年，叶剑英被授予元帅军衔：',
+    id: 18753
+  },
+  {
+    answer: '虎门',
+    indexes: 'lzxzgdncxhyp',
+    question: '林则徐在广东哪处销毁鸦片？',
+    id: 18754
+  },
+  {
+    answer: '耶稣基督教',
+    indexes: 'mqsjjygyqhdhfdffsysmwbz',
+    question: '目前世界纪元(公元前后的划分)的方法是以什么为标准：',
+    id: 18755
+  },
+  {
+    answer: '借口一个士兵失踪',
+    indexes: '20sj30ndrbzzgzjktqqhzzqzqqsblyds',
+    question: '20世纪30年代日本制造各种借口挑起侵华战争，其中七七事变利用的是',
+    id: 18756
+  },
+  {
+    answer: '仁德天皇陵',
+    indexes: 'sjdymzdsnyzlm',
+    question: '“世界第一墓”指的是那一座陵墓？',
+    id: 18757
+  },
+  {
+    answer: '俄国',
+    indexes: 'decypzzsqqzwgltzddgjs',
+    question: '第二次鸦片战争时期,侵占我国领土最多的国家是？',
+    id: 18758
+  },
+  {
+    answer: '第四次',
+    indexes: 'wxmnyczdzzsyalbgjsxjgd',
+    question: '问下面哪一次中东战争是由阿拉伯国家首先进攻的？',
+    id: 18759
+  },
+  {
+    answer: '契丹',
+    indexes: 'cypdaszldtddjlgbbfhrtsngmzr',
+    question: '参与评定“安史之乱”的唐代大将李光弼并非汉人，它是哪各民族人？',
+    id: 18760
+  },
+  {
+    answer: '章伯钧',
+    indexes: 'xzgdyrjtbbzss',
+    question: '新中国第一任交通部部长是谁？',
+    id: 18761
+  },
+  {
+    answer: '大禹',
+    indexes: 'zcsbsyshwd',
+    question: '指出谁不属于三皇五帝。',
+    id: 18762
+  },
+  {
+    answer: '深圳、珠海、汕头、厦门',
+    indexes: 'syjszqhyhwgzzjldsgjjtqsnjg',
+    question: '十一届三中全会以后，我国最早建立的四个经济特区是哪几个？',
+    id: 18763
+  },
+  {
+    answer: '“继昌隆”',
+    indexes: 'zgdygmzzbjydjqsscs',
+    question: '中国第一个民族资本经营的机器缫丝厂是',
+    id: 18764
+  },
+  {
+    answer: '康有为',
+    indexes: 'xmnwmrbsxwhyddxq',
+    question: '下面那位名人不是新文化运动的先驱?',
+    id: 18765
+  },
+  {
+    answer: '周道',
+    indexes: 'xlcymzngbszeld',
+    question: '下列曾用名中，哪个不是周恩来的：',
+    id: 18766
+  },
+  {
+    answer: '1971',
+    indexes: 'zhrmghgzlhgdhfxwddhfsz',
+    question: '中华人民共和国在联合国的合法席位得到恢复是在',
+    id: 18767
+  },
+  {
+    answer: '兵书二十四篇',
+    indexes: 'xlhswzglsz',
+    question: '下列何书为诸葛亮所著？',
+    id: 18768
+  },
+  {
+    answer: '太史慈',
+    indexes: 'dzfsylsddscjlbszgjszwsnhshwhrsy',
+    question: '“大丈夫生于乱世，当带三尺剑立不世之功，今所志未遂，奈何死乎！”为何人所言？',
+    id: 18769
+  },
+  {
+    answer: '赵云',
+    indexes: 'zglhsxypsqqyd',
+    question: '诸葛亮火烧新野派谁前去诱敌？',
+    id: 18770
+  },
+  {
+    answer: '张自忠',
+    indexes: 'zyhzzwkrexsdd33jtjzsls',
+    question: '枣宜会战中，为抗日而牺牲的第33集团军总司令是',
+    id: 18771
+  },
+  {
+    answer: '朱德',
+    indexes: 'kzkshzgxbzlhjgbwbljrzzhs',
+    question: '抗战开始后中国西北主力红军改编为八路军，任总指挥是：',
+    id: 18772
+  },
+  {
+    answer: '李渊',
+    indexes: 'tcjlzs',
+    question: '唐朝建立者是',
+    id: 18773
+  },
+  {
+    answer: '汴梁',
+    indexes: 'kfgc',
+    question: '开封古称：',
+    id: 18774
+  },
+  {
+    answer: '趵突泉',
+    indexes: 'qlhdbtxdyqmmjlngq',
+    question: '乾隆皇帝把“天下第一泉”美名给了哪个泉',
+    id: 18775
+  },
+  {
+    answer: '1911年',
+    indexes: 'qczsmshbtf',
+    question: '清朝在什么时候被推翻?',
+    id: 18776
+  },
+  {
+    answer: '凤韬',
+    indexes: 'zggdbfltzbhxmnyt',
+    question: '中国古代兵法“六韬”中，不含下面哪一韬',
+    id: 18777
+  },
+  {
+    answer: '南云忠一',
+    indexes: 'drztdhzrfhkmjzgjdzhds',
+    question: '担任中途岛海战日方航空母舰主攻舰队指挥的是',
+    id: 18778
+  },
+  {
+    answer: '20米',
+    indexes: 'hzacddjfstdzyylky',
+    question: '汉长安城的大街分三条道，中央御路宽约：',
+    id: 18779
+  },
+  {
+    answer: '震龙',
+    indexes: 'dmqwzwmsfxdzddkls',
+    question: '到目前为止，我们所发现的最大的恐龙是',
+    id: 18780
+  },
+  {
+    answer: '法英',
+    indexes: 'dldhzsnlgjz',
+    question: '德兰大海战是哪两国交战？',
+    id: 18781
+  },
+  {
+    answer: '微生物工业型农业',
+    indexes: 'jjntcdbsnysz',
+    question: '近几年提出的白色农业是指：',
+    id: 18782
+  },
+  {
+    answer: '皋陶',
+    indexes: 'sfgdzss',
+    question: '司法官的祖师是',
+    id: 18783
+  },
+  {
+    answer: '南京',
+    indexes: 'gy1368nzyzcdjlmcddz',
+    question: '公元1368年，朱元璋称帝，建立明朝，定都在（）',
+    id: 18784
+  },
+  {
+    answer: '荷兰',
+    indexes: '17sjdxydgssnggjzdwzmkzsjld',
+    question: '17世纪的西印度公司是哪个国家在对外殖民扩张时建立的?',
+    id: 18785
+  },
+  {
+    answer: '李莲英',
+    indexes: 'ystjygcesdzzhxdtjs',
+    question: '因梳头技艺高超而深得主子欢心的太监是',
+    id: 18786
+  },
+  {
+    answer: '开皇律',
+    indexes: 'cztlswxzdzzgdz',
+    question: '笞、杖、徒、流、死五刑制度最早规定在',
+    id: 18787
+  },
+  {
+    answer: '春秋',
+    indexes: 'zgnlzwjxxdzjjyqgbcwfsy',
+    question: '中国奴隶制瓦解，新兴地主阶级要求公布成文法始于',
+    id: 18788
+  },
+  {
+    answer: '康熙皇帝',
+    indexes: 'qcdnwhdyseqdlnbcty',
+    question: '清朝的哪位皇帝与沙俄签订了《尼布楚条约》？',
+    id: 18789
+  },
+  {
+    answer: '元',
+    indexes: 'zglssdygssmztzqgdwcsnyg',
+    question: '中国历史上第一个少数民族统治全国的王朝是哪一个：',
+    id: 18790
+  },
+  {
+    answer: '牡丹花',
+    indexes: 'cszwztxlfsdhssmh',
+    question: '传说中武则天下令焚烧的花是什么花',
+    id: 18791
+  },
+  {
+    answer: '八次',
+    indexes: 'lssyzjmyfddszjdzqhjxljc',
+    question: '历史上，以宗教名义发动的十字军东征，前后进行了几次？',
+    id: 18792
+  },
+  {
+    answer: '王翰的《凉州词二首》其一',
+    indexes: 'ptmjygbdccs',
+    question: '“葡萄美酒夜光杯”的出处是',
+    id: 18793
+  },
+  {
+    answer: '法律是君主治理天下的工具',
+    indexes: 'hfzfzsxdszs',
+    question: '韩非子“法治”思想的实质是',
+    id: 18794
+  },
+  {
+    answer: '写亡国剧痛的词',
+    indexes: 'lyczzgrdzps',
+    question: '李煜词中最感人的作品是',
+    id: 18795
+  },
+  {
+    answer: '意大利',
+    indexes: 'wyfxydfyy',
+    question: '文艺复兴运动发源于',
+    id: 18796
+  },
+  {
+    answer: '麦哲伦',
+    indexes: 'zoztsxhlgczsxhqhxds',
+    question: '在欧洲探索新航路过程中，实现环球航行的是',
+    id: 18797
+  },
+  {
+    answer: '曹操',
+    indexes: 'dsssyqgzzhhstfdz',
+    question: '当时是谁邀请各镇诸侯会师讨伐董卓',
+    id: 18798
+  },
+  {
+    answer: '拉斐尔',
+    indexes: 'ydlwyfxzbzwhsdhjs',
+    question: '意大利文艺复兴中被尊为“画圣”的画家是',
+    id: 18799
+  },
+  {
+    answer: '海地',
+    indexes: 'ldmzdygdldgjs',
+    question: '拉丁美洲第一个独立的国家是',
+    id: 18800
+  },
+  {
+    answer: '石家庄',
+    indexes: 'jkgyjfxmqsjszzdcqcxznl',
+    question: '据考古研究发现，目前世界上最早的瓷器出现在哪里？',
+    id: 18801
+  },
+  {
+    answer: '风、雅、颂',
+    indexes: 'sjdctfls',
+    question: '《诗经》的传统分类是',
+    id: 18802
+  },
+  {
+    answer: '重商主义',
+    indexes: 'zbzyzqbjsxdjjsxs',
+    question: '资本主义早期比较盛行的经济思想是',
+    id: 18803
+  },
+  {
+    answer: '尼德兰革命',
+    indexes: 'sjlssdyccgdzcjjgms',
+    question: '世界历史上第一次成功的资产阶级革命是',
+    id: 18804
+  },
+  {
+    answer: '德意志',
+    indexes: 'xodzjggksy',
+    question: '西欧的宗教改革开始于',
+    id: 18805
+  },
+  {
+    answer: '因为变法触动了贵族利益',
+    indexes: 'sywsmbcs',
+    question: '商鞅为什么被处死?',
+    id: 18806
+  },
+  {
+    answer: '1895',
+    indexes: 'gcssfsznyn',
+    question: '“公车上书”发生在哪一年？',
+    id: 18807
+  },
+  {
+    answer: '同治',
+    indexes: 'cxfdzbsznygdwqj',
+    question: '慈禧发动政变是在哪一个帝王期间：',
+    id: 18808
+  },
+  {
+    answer: '16世纪末',
+    indexes: 'ygdbzmdgxbycwhsqgsz',
+    question: '英国打败殖民帝国西班牙成为海上强国是在()',
+    id: 18809
+  },
+  {
+    answer: '达芬奇',
+    indexes: 'xlnwsxowyfxsqddbysj',
+    question: '下列哪位是西欧文艺复兴时期的代表艺术家？',
+    id: 18810
+  },
+  {
+    answer: '刘铭传',
+    indexes: '1885ntwzsjlxsdyrxfs',
+    question: '1885年，台湾正式建立行省，第一任巡抚是',
+    id: 18811
+  },
+  {
+    answer: '刘表',
+    indexes: '208ncczxyzzzmls',
+    question: '208年曹操在襄阳之战中灭了谁',
+    id: 18812
+  },
+  {
+    answer: '15世纪',
+    indexes: 'xfzmzscsmshkszfzjxldxdnlmyd',
+    question: '西方殖民者是从什么时候开始在非洲进行掠夺性的“奴隶贸易”的？',
+    id: 18813
+  },
+  {
+    answer: '断代史',
+    indexes: 'hsssdlsbztls',
+    question: '《汉书》所属的历史编纂体例是',
+    id: 18814
+  },
+  {
+    answer: '经济极端贫困的状况',
+    indexes: 'xhctzzsxkszcdgbyys',
+    question: '西汉初统治者实行宽舒政策的根本原因是',
+    id: 18815
+  },
+  {
+    answer: '记述重要人物的家庭兴衰',
+    indexes: 'sjdwztlzsjzztls',
+    question: '《史记》的五种体例中，“世家”这种体例是',
+    id: 18816
+  },
+  {
+    answer: '孔雀',
+    indexes: 'qddgfspzcyddhlyssgwdxzbzhlsqzsmdwdm',
+    question: '清代的官服饰品中常有“顶戴花翎”一说，是官位的象征标志，“花翎”是取自什么动物的毛？',
+    id: 18817
+  },
+  {
+    answer: '唐朝',
+    indexes: 'yczfzqggflxsz',
+    question: '饮茶之风在全国广泛流行是在',
+    id: 18818
+  },
+  {
+    answer: '《天王送子图》',
+    indexes: 'wdzyyfmhtmxlsjmnjshtdfqjfwbztbytsdqjzfmhs',
+    question:
+      '吴道子有一幅名画，它描写了释迦牟尼降生后，他的父亲净饭王抱着他拜谒天神的情景，这幅名画是',
+    id: 18819
+  },
+  {
+    answer: '宋朝',
+    indexes: 'bjbsyxngcdddc',
+    question: '北京不是以下哪个朝代的都城？',
+    id: 18820
+  },
+  {
+    answer: '泊秦淮',
+    indexes: 'snbzwghgjychthczydmdnss',
+    question: '“商女不知亡国恨，隔江犹唱后庭花”出自于杜牧的那首诗',
+    id: 18821
+  },
+  {
+    answer: '寒武纪',
+    indexes: 'xmnygsdbsklshdsd',
+    question: '下面哪一个时代不是恐龙生活的时代',
+    id: 18822
+  },
+  {
+    answer: '怆然',
+    indexes: 'tdsrczadmjntdzyydetx',
+    question: '唐代诗人陈子昂的名句“念天地之悠悠，独××而涕下”',
+    id: 18823
+  },
+  {
+    answer: '胡适',
+    indexes: 'zxwhydzzjllzyycdxldzlxqxth',
+    question: '在新文化运动中，中坚力量主要有陈独秀，李大钊，鲁迅，钱玄同和：',
+    id: 18824
+  },
+  {
+    answer: '秋收起义',
+    indexes: 'dgmsbhncqywmzdqzld',
+    question: '大革命失败后，哪次起义为毛泽东亲自领导？',
+    id: 18825
+  },
+  {
+    answer: '五四运动',
+    indexes: 'blhhdjgdzl',
+    question: '巴黎和会的结果导致了',
+    id: 18826
+  },
+  {
+    answer: '一·三惨案',
+    indexes: 'xlnygsjyjfdqrwg',
+    question: '下列哪一个事件与军阀段祺瑞无关?',
+    id: 18827
+  },
+  {
+    answer: '北京',
+    indexes: '1925n3y12rszsbsy',
+    question: '1925年3月12日，孙中山病逝于：',
+    id: 18828
+  },
+  {
+    answer: '术赤',
+    indexes: 'cjshdzzss',
+    question: '成吉思汗的长子是谁？',
+    id: 18829
+  },
+  {
+    answer: '撞击冰山',
+    indexes: 'tdnhylsywzylsmsjcmd',
+    question: '铁达尼号游轮是因为遭遇了什么事件沉没的？',
+    id: 18830
+  },
+  {
+    answer: '酒',
+    indexes: 'szzggdsysmdqj',
+    question: '勺在中国古代是舀什么的器具？',
+    id: 18831
+  },
+  {
+    answer: '孙思邈',
+    indexes: 'zwggdywmyhd101sbcwbssyts',
+    question: '在我国古代有位名医活到101岁，被称为“百岁神医”，他是',
+    id: 18832
+  },
+  {
+    answer: '大脚',
+    indexes: 'zggdysdmndrwwrtmdygzdqxqwwzjdqdssm',
+    question: '中国古代有四大美女，但人无完人，他们都有各自的缺陷，请问王昭君的缺点是什么？',
+    id: 18833
+  },
+  {
+    answer: '唐朝',
+    indexes: 'cltzsyhs',
+    question: '“垂帘听政”始于何时？',
+    id: 18834
+  },
+  {
+    answer: '“五卅”运动期间',
+    indexes: 'zzggcdldxshzghcly',
+    question: '在中国共产党领导下，上海总工会成立于',
+    id: 18835
+  },
+  {
+    answer: '路易·波拿巴',
+    indexes: 'yffddecypzzsfgdtzzs',
+    question: '英法发动第二次鸦片战争时，法国的统治者是',
+    id: 18836
+  },
+  {
+    answer: '一个木偶头',
+    indexes: 'sjsdygcxzdsypsdxxs',
+    question: '世界上第一个出现在电视荧屏上的形象是：',
+    id: 18837
+  },
+  {
+    answer: '春秋',
+    indexes: 'sjszzjlhlhxszngsq',
+    question: '世界上最早记录哈雷彗星是在哪个时期？',
+    id: 18838
+  },
+  {
+    answer: '密西西比河',
+    indexes: 'zzdbmzmdzxbyygfgdczlgdtydqs',
+    question: '在争夺北美殖民地中，西班牙英国法国都曾占领过的同一地区是',
+    id: 18839
+  },
+  {
+    answer: '农村公社',
+    indexes: 'gyqeqndzqylarjrydhxcl',
+    question: '公元前二千年代中期雅利安人进入印度后，形成了',
+    id: 18840
+  },
+  {
+    answer: '1927年',
+    indexes: 'ldzbzzlshsz',
+    question: '李大钊被张作霖杀害是在',
+    id: 18841
+  },
+  {
+    answer: '反清统治',
+    indexes: 'hxqclbsdhdmds',
+    question: '洪秀全创立拜上帝会的目的是',
+    id: 18842
+  },
+  {
+    answer: '元朝',
+    indexes: 'dodqdsdzjlzgmydzhysqs',
+    question: '东欧地区的商队直接来中国贸易的最活跃时期是',
+    id: 18843
+  },
+  {
+    answer: '厳哒',
+    indexes: 'dyswgz5sjhbywyszs',
+    question: '大月氏王国在5世纪后半叶亡于谁之手',
+    id: 18844
+  },
+  {
+    answer: '威灵顿将军',
+    indexes: 'jbnpldhtlzydffljzhgs',
+    question: '击败拿破仑的滑铁卢战役的反法联军指挥官是',
+    id: 18845
+  },
+  {
+    answer: '1912年1月',
+    indexes: 'zhmgzsxgclsz',
+    question: '中华民国正式宣告成立是在',
+    id: 18846
+  },
+  {
+    answer: '石达开',
+    indexes: '1855nzpyhdbxjdtpjjls',
+    question: '1855年在鄱阳湖大败湘军的太平军将领是',
+    id: 18847
+  },
+  {
+    answer: '商品经济的发展',
+    indexes: 'byzmdcwpbltdhbqzyyys',
+    question: '白银在明代成为普遍流通的货币，其主要原因是',
+    id: 18848
+  },
+  {
+    answer: '林则徐',
+    indexes: 'jdzgkyksjddyrs',
+    question: '近代中国“开眼看世界”的第一人是',
+    id: 18849
+  },
+  {
+    answer: '法军进攻驻越中国军队',
+    indexes: 'zfzzbfdbzs',
+    question: '中法战争爆发的标志是',
+    id: 18850
+  },
+  {
+    answer: '檀香山',
+    indexes: 'xzhclddds',
+    question: '兴中会成立的地点是',
+    id: 18851
+  },
+  {
+    answer: '马尾海战后',
+    indexes: 'qzfxzxfgzsxzsz',
+    question: '清政府下诏向法国正式宣战是在',
+    id: 18852
+  },
+  {
+    answer: '第二次鸦片战争后',
+    indexes: 'zgywpcsy',
+    question: '中国洋务派产生于',
+    id: 18853
+  },
+  {
+    answer: '江浙省管辖',
+    indexes: 'ycstwdlsy',
+    question: '元朝时，台湾岛隶属于',
+    id: 18854
+  },
+  {
+    answer: '《中法新约》',
+    indexes: 'jybdkzgxnmhbpdtys',
+    question: '进一步打开中国西南门户不平等条约是',
+    id: 18855
+  },
+  {
+    answer: '文学社、共进会',
+    indexes: 'wcqyqxlqhcdszjtzzhfdzcqydtts',
+    question: '武昌起义敲响了清皇朝的丧钟，具体组织和发动这次起义的团体是',
+    id: 18856
+  },
+  {
+    answer: '岳阳',
+    indexes: 'sgyyzdzysybqsxzd',
+    question: '三国演义中的周瑜死于巴丘，是现在的',
+    id: 18857
+  },
+  {
+    answer: '平定大小和卓叛乱后清朝首次统一新疆',
+    indexes: 'yxgyqqqxjdqzkdbscwds',
+    question: '以下关于清前期新疆地区状况的表述，错误的是',
+    id: 18858
+  },
+  {
+    answer: '咏史诗',
+    indexes: 'lyxzcltyzcfxsjzzxdczcpqfgbsqtwmczsssys',
+    question:
+      '刘禹锡在《酬乐天扬州初逢席上见赠》中写到“沉舟侧畔千帆过，病树前头万木春”，这首诗是一首',
+    id: 18859
+  },
+  {
+    answer: '抑制了土地兼并现象',
+    indexes: 'dbwsxjtzdhgbsbzqds',
+    question: '对北魏实行均田制的后果，表述不正确的是',
+    id: 18860
+  },
+  {
+    answer: '辽河上游',
+    indexes: 'qdzqyddqs',
+    question: '契丹族起源的地区是',
+    id: 18861
+  },
+  {
+    answer: '雅尔塔会议',
+    indexes: 'ezzjdzzhcllhgdgjhys',
+    question: '二战中决定在战后成立联合国的国际会议是',
+    id: 18862
+  },
+  {
+    answer: '袁世凯',
+    indexes: 'cdxhgmslgsdyxjs',
+    question: '篡夺辛亥革命胜利果实的野心家是',
+    id: 18863
+  },
+  {
+    answer: '《马关条约》',
+    indexes: 'gdgrtwhphlddbpdtys',
+    question: '规定割让台湾和澎湖列岛的不平等条约是',
+    id: 18864
+  },
+  {
+    answer: '京师大学堂',
+    indexes: 'wxbfzcbdzgjdzzdystzwbdgdxfs',
+    question: '戊戌变法中创办的中国近代最早的一所体制完备的高等学府是',
+    id: 18865
+  },
+  {
+    answer: '天京陷落',
+    indexes: 'tptgydsbdbzs',
+    question: '太平天国运动失败的标志是',
+    id: 18866
+  },
+  {
+    answer: '猜科举张榜',
+    indexes: 'cpzwgfxlsyjnmzzdcps',
+    question: '彩票在我国发行历史悠久，那么最早的彩票是',
+    id: 18867
+  },
+  {
+    answer: '16世纪—18世纪下半期',
+    indexes: 'zbzygcsgysqzozcxdsjsc',
+    question: '资本主义工场手工业时期在欧洲持续的时间是从',
+    id: 18868
+  },
+  {
+    answer: '马克思主义',
+    indexes: 'wsydhxsczls',
+    question: '五四运动后新思潮主流是',
+    id: 18869
+  },
+  {
+    answer: '领导工人运动',
+    indexes: 'zgydqddclhdzxrws',
+    question: '中共“一大”确定党成立后的中心任务是',
+    id: 18870
+  },
+  {
+    answer: '哥伦布',
+    indexes: 'xlrwzkpltwmzdxhlds',
+    question: '下列人物中，开辟了通往美洲的新航路的是',
+    id: 18871
+  },
+  {
+    answer: '中下级武士',
+    indexes: 'rbwzdmdzylls',
+    question: '日本武装倒幕的主要力量是',
+    id: 18872
+  },
+  {
+    answer: '1964',
+    indexes: 'zgdykyzdsznynyzcgd',
+    question: '中国第一颗原子弹是在哪一年研制成功的',
+    id: 18873
+  },
+  {
+    answer: '27天',
+    indexes: 'zwsjzddhdsdhdlhtzdldjdhdjbfcl',
+    question: '在位时间最短的皇帝是东汉的刘贺，他只当了多久的皇帝就被废除了？',
+    id: 18874
+  },
+  {
+    answer: '马',
+    indexes: 'zzdxyjyyclsdxy',
+    question: '最早的血压计用于测量谁的血压？',
+    id: 18875
+  },
+  {
+    answer: '英德矛盾',
+    indexes: 'dycsjdzqdgzygjjdzymds',
+    question: '第一次世界大战前帝国主义国家间的主要矛盾是',
+    id: 18876
+  },
+  {
+    answer: '牛顿力学体系的建立',
+    indexes: 'jdkxxcdbzs',
+    question: '近代科学形成的标志是',
+    id: 18877
+  },
+  {
+    answer: '德国',
+    indexes: 'bcwrkzcjjdgzydgjs',
+    question: '被称为“容克资产阶级帝国主义”的国家是',
+    id: 18878
+  },
+  {
+    answer: '巴黎公社革命',
+    indexes: 'wcjjtfzcjjtzjlwcjjzzddyccss',
+    question: '无产阶级推翻资产阶级统治，建立无产阶级专政的第一次尝试是',
+    id: 18879
+  },
+  {
+    answer: '9月10日',
+    indexes: 'mndjsjsnyt',
+    question: '每年的教师节是哪一天？',
+    id: 18880
+  },
+  {
+    answer: '列宁主义诞生',
+    indexes: 'egbeswzydcxbzz',
+    question: '俄国布尔什维主义的出现，标志着',
+    id: 18881
+  },
+  {
+    answer: '百团大战',
+    indexes: 'krzzxcjdzhbjxdycdgmdrzzs',
+    question: '抗日战争相持阶段，在华北进行的一场大规模对日作战是',
+    id: 18882
+  },
+  {
+    answer: '西夏、金、南宋',
+    indexes: 'xlzqmwdxhsxs',
+    question: '下列政权灭亡的先后顺序是',
+    id: 18883
+  },
+  {
+    answer: '《共产党宣言》',
+    indexes: 'gjgczyydddygzdgls',
+    question: '国际共产主义运动的第一个战斗纲领是',
+    id: 18884
+  },
+  {
+    answer: '元杂剧中的一种歌词称为元曲',
+    indexes: 'yxdyzjdxszcwds',
+    question: '以下对元杂剧的叙述中错误的是',
+    id: 18885
+  },
+  {
+    answer: '华中',
+    indexes: 'rbqlzqtzzgjldegwmzgddqs',
+    question: '日本侵略者企图在中国建立第二个伪满洲国的地区是',
+    id: 18886
+  },
+  {
+    answer: '1970年',
+    indexes: 'wgdykrzwxfscgssmsh',
+    question: '我国第一颗人造卫星发射成功是什么时候？',
+    id: 18887
+  },
+  {
+    answer: '赈灾',
+    indexes: 'gdzfslycszsmyd',
+    question: '古代政府设立“义仓”是做什么用的？',
+    id: 18888
+  },
+  {
+    answer: '楚国',
+    indexes: 'qyscqsdngr',
+    question: '屈原是春秋时代哪国人',
+    id: 18889
+  },
+  {
+    answer: '利比里亚',
+    indexes: '18901896nfzwydldgjs',
+    question: '1890-1896年非洲唯一独立的国家是',
+    id: 18890
+  },
+  {
+    answer: '“七·七”事变',
+    indexes: 'jkqgkrzzxmdbzs',
+    question: '揭开全国抗日战争序幕的标志是',
+    id: 18891
+  },
+  {
+    answer: '工业革命完成',
+    indexes: 'zygzbzyscfszzzsfjscfsdbzs',
+    question: '在英国，资本主义生产方式最终战胜封建生产方式的标志是',
+    id: 18892
+  },
+  {
+    answer: '《马关条约》的签订',
+    indexes: 'dzlqgfzgdsjs',
+    question: '导致列强瓜分中国的事件是',
+    id: 18893
+  },
+  {
+    answer: '北京人、山顶洞人',
+    indexes: 'ysrzwgjndfbcjsfgkqzhdfwzwjjds',
+    question: '原始人在我国境内的分布曾经十分广阔，其中活动范围最为接近的是',
+    id: 18894
+  },
+  {
+    answer: '蔡元培',
+    indexes: 'xwhydzzjysxscqjrbbfzdbdxzs',
+    question: '新文化运动中，在教育思想上采取“兼容并包”方针的北大校长是',
+    id: 18895
+  },
+  {
+    answer: '国民党“一大”召开',
+    indexes: 'gglddychzsxdbzs',
+    question: '国共两党第一次合作实现的标志是',
+    id: 18896
+  },
+  {
+    answer: '黄宾虹',
+    indexes: 'xlzmhjzysshhyjhlhswmds',
+    question: '下列著名画家中，以山水画和研究画论画史闻名的是',
+    id: 18897
+  },
+  {
+    answer: '交子',
+    indexes: 'sjszzdzbcxzwgscqmcs',
+    question: '世界上最早的纸币出现在我国宋朝，其名称是',
+    id: 18898
+  },
+  {
+    answer: '“八七”会议',
+    indexes: 'zggcdjzcdxyqtjzycwdhys',
+    question: '中国共产党纠正陈独秀右倾投降主义错误的会议是',
+    id: 18899
+  },
+  {
+    answer: '南京',
+    indexes: 'mczcddy',
+    question: '明朝最初定都于:',
+    id: 18900
+  },
+  {
+    answer: '元朝',
+    indexes: 'wggdhylldwmyzhydsqs',
+    question: '我国古代海运、陆路对外贸易最活跃的时期是',
+    id: 18901
+  },
+  {
+    answer: '印第安人',
+    indexes: 'zsxozmzcchtsdmztzjms',
+    question: '遭受西欧殖民者摧残和屠杀的美洲土著居民是',
+    id: 18902
+  },
+  {
+    answer: '乌江',
+    indexes: 'xyznlzs',
+    question: '项羽在哪里自杀？',
+    id: 18903
+  },
+  {
+    answer: '胡适',
+    indexes: 'ssz1926n7y22rwclygthbfgzpkebb',
+    question: '是谁在1926年7月22日为处理英国退还部分庚子赔款而奔波？',
+    id: 18904
+  },
+  {
+    answer: '陈镜开',
+    indexes: 'dygdpsjjldzgrs',
+    question: '第一个打破世界纪录的中国人是',
+    id: 18905
+  },
+  {
+    answer: '1924',
+    indexes: 'lnssynyn',
+    question: '列宁逝世于哪一年？',
+    id: 18906
+  },
+  {
+    answer: '1958年7月',
+    indexes: 'ylkghgclynyn',
+    question: '伊拉克共和国成立于哪一年？',
+    id: 18907
+  },
+  {
+    answer: '林觉民',
+    indexes: 'yxbsywxbfljzds',
+    question: '以下不属于戊戌变法“六君子”的是',
+    id: 18908
+  },
+  {
+    answer: '11',
+    indexes: 'hjzzkyldsgs',
+    question: '红军长征跨越了多少个省？',
+    id: 18909
+  },
+  {
+    answer: '清朝',
+    indexes: 'htjsnctz',
+    question: '皇太极是哪朝太祖',
+    id: 18910
+  },
+  {
+    answer: '宣统',
+    indexes: 'wgmdhddnhs',
+    question: '我国末代皇帝的年号是',
+    id: 18911
+  },
+  {
+    answer: '乾隆',
+    indexes: 'yjbjsstxd',
+    question: '燕京八景是谁题写的',
+    id: 18912
+  },
+  {
+    answer: '日本',
+    indexes: 'sjzzdxygqcxz',
+    question: '世界最早的校园歌曲出现在',
+    id: 18913
+  },
+  {
+    answer: '1879',
+    indexes: 'dgxlxjftynynjllsjsdygxlsys',
+    question: '德国心理学家冯特于哪一年建立了世界上第一个心理实验室？',
+    id: 18914
+  },
+  {
+    answer: '明朝',
+    indexes: 'wsmszngcd',
+    question: '“乌纱帽”始自哪个朝代？',
+    id: 18915
+  },
+  {
+    answer: '嫡长继承制',
+    indexes: 'zfdjzdhxnrs',
+    question: '宗法等级制的核心内容是',
+    id: 18916
+  },
+  {
+    answer: '子产',
+    indexes: 'scjxfzzdsgbcwfdrs',
+    question: '首次将刑法铸在鼎上，公布成文法的人是',
+    id: 18917
+  },
+  {
+    answer: '鲧',
+    indexes: 'dydfqss',
+    question: '大禹的父亲是谁？',
+    id: 18918
+  },
+  {
+    answer: '施瓦茨科夫',
+    indexes: 'hwzzzdgbddzgslss',
+    question: '海湾战争中多国部队的最高司令是谁？',
+    id: 18919
+  },
+  {
+    answer: '杜牧',
+    indexes: 'yxnwbsytsbdj',
+    question: '以下哪位不属于唐宋八大家？',
+    id: 18920
+  },
+  {
+    answer: '徐霞客',
+    indexes: 'sszggdzmdlxj',
+    question: '谁是中国古代著名的旅行家？',
+    id: 18921
+  },
+  {
+    answer: '布鲁图',
+    indexes: 'ksddbscsd',
+    question: '恺撒大帝被谁刺死的',
+    id: 18922
+  },
+  {
+    answer: '今成都',
+    indexes: 'zwjysmxrsbhznlmj',
+    question: '卓文君与司马相如私奔后在哪里卖酒',
+    id: 18923
+  },
+  {
+    answer: '乔托',
+    indexes: 'xmnywbsydlwyfxsqdsj',
+    question: '下面哪一位不是意大利文艺复兴时期的“三杰”：',
+    id: 18924
+  },
+  {
+    answer: '1992.5.17',
+    indexes: 'xmnhjcqysjs',
+    question: '新慕尼黑机场启用时间是：',
+    id: 18925
+  },
+  {
+    answer: '魏延',
+    indexes: 'yxsbpllb',
+    question: '以下谁背叛了刘备？',
+    id: 18926
+  },
+  {
+    answer: '袁绍',
+    indexes: 'ccjbwyqdzsblzhlhmswmz',
+    question: '曹操缴榜文以擒董卓，十八路诸侯来会盟，谁为盟主？',
+    id: 18927
+  },
+  {
+    answer: '黄承彦',
+    indexes: 'zgldbztbspl',
+    question: '诸葛亮的“八阵图”被谁破了？',
+    id: 18928
+  },
+  {
+    answer: '孙策',
+    indexes: 'sbcwxbw',
+    question: '谁被称为“小霸王”？',
+    id: 18929
+  },
+  {
+    answer: '夏',
+    indexes: 'wgdnlshksy',
+    question: '我国的奴隶社会开始于',
+    id: 18930
+  },
+  {
+    answer: '“乌拉圭回合”谈判',
+    indexes: 'sjmyzzWTOsznjhyszscld',
+    question: '世界贸易组织(WTO)是在哪界会议上正式成立的？',
+    id: 18931
+  },
+  {
+    answer: '金刚经',
+    indexes: 'tdyzdsjsxczzbyqqrqddbysps',
+    question: '唐代印制的世界上现存最早标有确切日期的雕版印刷品是？',
+    id: 18932
+  },
+  {
+    answer: '西施',
+    indexes: 'zggdsdmrzcysylxrnyw',
+    question: '中国古代四大美人中“沉鱼”是用来形容哪一位？',
+    id: 18933
+  },
+  {
+    answer: '希罗多德',
+    indexes: 'lszfzds',
+    question: '历史之父指的是',
+    id: 18934
+  },
+  {
+    answer: '马腾与马超',
+    indexes: 'sgsqhdrjbwyzyfxlnydbsyzyfgx',
+    question: '三国时期，很多人结拜为义子、义父，下列哪一对不是义子、义父关系？',
+    id: 18935
+  },
+  {
+    answer: '十二岁',
+    indexes: 'glddnjcwxg',
+    question: '甘罗多大年纪成为相国',
+    id: 18936
+  },
+  {
+    answer: '英国',
+    indexes: 'sjdygsgyeznygds',
+    question: '世界第一个试管婴儿在哪一国诞生',
+    id: 18937
+  },
+  {
+    answer: '高等学府',
+    indexes: 'gddgzjs',
+    question: '古代的国子监是',
+    id: 18938
+  },
+  {
+    answer: '菜市口',
+    indexes: '9y28rtstdlrbshybj',
+    question: '9月28日，谭嗣同等六人被杀害于北京',
+    id: 18939
+  },
+  {
+    answer: '周',
+    indexes: 'wztdjhgghw',
+    question: '武则天登基后，改国号为',
+    id: 18940
+  },
+  {
+    answer: '道光',
+    indexes: 'qxzzwsdnhw',
+    question: '清宣宗在位时的年号为',
+    id: 18941
+  },
+  {
+    answer: '挪威',
+    indexes: 'gjawhhqsnggjy1920nzsd',
+    question: '国际奥委会会旗是哪个国家于1920年赠送的？',
+    id: 18942
+  },
+  {
+    answer: '西周',
+    indexes: 'bjzzjcssmcd',
+    question: '北京最早建成是什么朝代？',
+    id: 18943
+  },
+  {
+    answer: '僧一行',
+    indexes: 'sjsdycsczwxzddwggdkxjs',
+    question: '世界上第一次实测子午线长度的我国古代科学家是',
+    id: 18944
+  },
+  {
+    answer: '三国',
+    indexes: 'jksnysqdqj',
+    question: '嵇康是哪一时期的琴家',
+    id: 18945
+  },
+  {
+    answer: '琵琶',
+    indexes: 'tddldsydzylqs',
+    question: '唐代的乐队，使用的主要乐器是',
+    id: 18946
+  },
+  {
+    answer: '韩信',
+    indexes: 'xhyxzs',
+    question: '萧何月下追谁',
+    id: 18947
+  },
+  {
+    answer: '曹操',
+    indexes: 'gyzhrdfzls',
+    question: '关羽在华容道放走了谁',
+    id: 18948
+  },
+  {
+    answer: '于禁、庞德',
+    indexes: 'gysyqjqhdjlss',
+    question: '关羽水淹七军擒获的将领是谁？',
+    id: 18949
+  },
+  {
+    answer: '夏侯杰',
+    indexes: 'zfyzbphslnwcjdj',
+    question: '张飞于长坂坡吼死了哪位曹军大将？',
+    id: 18950
+  },
+  {
+    answer: '李恢',
+    indexes: 'ssfmctjlb',
+    question: '谁说服马超投降刘备？',
+    id: 18951
+  },
+  {
+    answer: '甘宁',
+    indexes: 'jyybgbjdccdydrss',
+    question: '仅用一百个兵劫掉曹操大营的人是谁？',
+    id: 18952
+  },
+  {
+    answer: '上断头台',
+    indexes: 'mtlqxsxqfgzycyhzfsxx',
+    question: '密特朗取消死刑前，法国主要采用何种方式行刑',
+    id: 18953
+  },
+  {
+    answer: '徐庶',
+    indexes: 'crbdbmjszbspl',
+    question: '曹仁布的“八门金锁阵”被谁破了？',
+    id: 18954
+  },
+  {
+    answer: '1936',
+    indexes: 'sjsdycygbgszsbsdsjmsnn',
+    question: '世界上第一次由广播公司正式播送电视节目是哪年？',
+    id: 18955
+  },
+  {
+    answer: '元朝',
+    indexes: 'ybscywgngcd',
+    question: '元宝始创于我国哪个朝代？',
+    id: 18956
+  },
+  {
+    answer: '街',
+    indexes: 'hdccsgdw',
+    question: '汉代称城市干道为：',
+    id: 18957
+  },
+  {
+    answer: '5',
+    indexes: 'sgyyzzgllcqsqzsjtzmsszdjccqsdsh',
+    question: '三国演义中诸葛亮六出祁山，其中失街亭，斩马谡是在第几次出祁山的时候',
+    id: 18958
+  },
+  {
+    answer: '朱元璋',
+    indexes: 'sscldxjezye',
+    question: "谁首创了大写金额字'壹,贰....'",
+    id: 18959
+  },
+  {
+    answer: '1827年',
+    indexes: 'rlddyzzpssmshdsd',
+    question: '人类的第一张照片是什么时候诞生的？',
+    id: 18960
+  },
+  {
+    answer: '龙、凤、龟、麒麟',
+    indexes: 'zggdxzjxdsl',
+    question: '中国古代象征吉祥的四灵：',
+    id: 18961
+  },
+  {
+    answer: '春秋',
+    indexes: 'wgdhxdgchyjyzzzwzdjldssnygcd',
+    question: '我国对彗星的观测和研究有最早最完整的记录。当时是哪一个朝代',
+    id: 18962
+  },
+  {
+    answer: '巨鹿之战',
+    indexes: 'xsnczyfsdsjzz',
+    question: '下述哪场战役发生的时间最早',
+    id: 18963
+  },
+  {
+    answer: '李斯',
+    indexes: 'byzewds',
+    question: '被腰斩而亡的是',
+    id: 18964
+  },
+  {
+    answer: '十五世纪九十年代',
+    indexes: 'glbfxxdlsz',
+    question: '哥伦布发现新大陆是在',
+    id: 18965
+  },
+  {
+    answer: '祖逖',
+    indexes: 'wjqwdss',
+    question: '闻鸡起舞的是谁',
+    id: 18966
+  },
+  {
+    answer: '元谋人',
+    indexes: 'zgjnqjszndzzdzlrsnzr',
+    question: '中国境内迄今所知年代最早的直立人是那种人?',
+    id: 18967
+  },
+  {
+    answer: '天津白河口',
+    indexes: 'zdycypzzzyjdddzbds',
+    question: '在第一次鸦片战争中,英军到达的最北端是:',
+    id: 18968
+  },
+  {
+    answer: '但丁',
+    indexes: 'zsjzhywsrxsdzcywsrzds',
+    question: '中世纪最后一位诗人，新时代最初一位诗人指的是',
+    id: 18969
+  },
+  {
+    answer: '周',
+    indexes: 'gy690wztcdgghw',
+    question: '公元690，武则天称帝，改国号为：',
+    id: 18970
+  },
+  {
+    answer: '第三次中东战争',
+    indexes: 'yslzlylslstg',
+    question: '以色列占领耶路撒冷是通过',
+    id: 18971
+  },
+  {
+    answer: '光绪',
+    indexes: 'wxbffszqcnghdsq',
+    question: '戊戌变法发生在清朝哪个皇帝时期：',
+    id: 18972
+  },
+  {
+    answer: '班超',
+    indexes: 'tbcrds',
+    question: '投笔从戎的是',
+    id: 18973
+  },
+  {
+    answer: '孛儿只斤',
+    indexes: 'qwcjshxsm',
+    question: '请问成吉思汗姓什么？',
+    id: 18974
+  },
+  {
+    answer: '杨玉环',
+    indexes: 'tzsscjsddh',
+    question: '太真是谁出家时的道号',
+    id: 18975
+  },
+  {
+    answer: '赫鲁晓夫',
+    indexes: 'gbddwjsszcd',
+    question: '古巴导弹危机是谁造成的',
+    id: 18976
+  },
+  {
+    answer: '演奏家',
+    indexes: 'bdfzelqbxwcw',
+    question: '贝多芬在耳聋前本希望成为：',
+    id: 18977
+  },
+  {
+    answer: '明',
+    indexes: 'zycycjzzyxgscsmcdks',
+    question: '正月初一吃饺子这一习惯是从什么朝代开始',
+    id: 18978
+  },
+  {
+    answer: '明思宗',
+    indexes: 'mczhyghdczhddhssm',
+    question: '明朝最后一个皇帝崇祯皇帝的号是什么？',
+    id: 18979
+  },
+  {
+    answer: '唐中宗',
+    indexes: 'wztsxmnghddmq',
+    question: '武则天是下面哪个皇帝的母亲？',
+    id: 18980
+  },
+  {
+    answer: '秦始皇',
+    indexes: 'hjjfyzhjxlsdsnghd',
+    question: '“挥剑决浮云，诸侯尽西来”说的是那个皇帝？',
+    id: 18981
+  },
+  {
+    answer: '四清',
+    indexes: 'xlngsjbsfsz20sj50nd',
+    question: '下列哪个事件不是发生在20世纪50年代',
+    id: 18982
+  },
+  {
+    answer: '赵云',
+    indexes: 'zzbpdqpmdccjzwdsgmjs',
+    question: '在长坂坡，单枪匹马独闯曹军重围的三国名将是：',
+    id: 18983
+  },
+  {
+    answer: '解放战争时期',
+    indexes: 'rmrbcky',
+    question: '《人民日报》创刊于',
+    id: 18984
+  },
+  {
+    answer: '1969',
+    indexes: 'rldycdysznn',
+    question: '人类第一次登月是在哪年？',
+    id: 18985
+  },
+  {
+    answer: '陶活字',
+    indexes: 'jzsydhzs',
+    question: '较早使用的活字是：',
+    id: 18986
+  },
+  {
+    answer: '军事目的',
+    indexes: 'zcdfzsylzsmd',
+    question: '最初的风筝是用来做什么的：',
+    id: 18987
+  },
+  {
+    answer: '明',
+    indexes: 'mdtssmshdxj',
+    question: '《牡丹亭》是什么时候的戏剧？',
+    id: 18988
+  },
+  {
+    answer: '仙鹤',
+    indexes: 'ypwgdyfsxzyzsmn',
+    question: '一品文官的衣服上绣着一只什么鸟?',
+    id: 18989
+  },
+  {
+    answer: '伊尹',
+    indexes: 'zsjsscytyzbds',
+    question: '在世界上首创用汤药治病的是：',
+    id: 18990
+  },
+  {
+    answer: '1999年',
+    indexes: 'xzgclhwgscfxjncsznn',
+    question: '新中国成立后，我国首次发行纪念钞是在哪年？',
+    id: 18991
+  },
+  {
+    answer: '沙漠风暴',
+    indexes: 'bswzzzmgdjsdhssm',
+    question: '波斯湾战争中，美国的军事代号是什么？',
+    id: 18992
+  },
+  {
+    answer: '左边',
+    indexes: 'mqsqcjkysxsytgdbswwbtybsymltd',
+    question: '明清时期称镌刻约束学生员条规的碑石为卧碑，它一般树于明伦堂的：',
+    id: 18993
+  },
+  {
+    answer: '19世纪50年代',
+    indexes: 'mqlzzcxcsmsh',
+    question: '煤气炉最早出现出什么时候？',
+    id: 18994
+  },
+  {
+    answer: '希洛人',
+    indexes: 'yxnzrbsygdremmz',
+    question: '以下哪种人，不属于古代日耳曼民族？',
+    id: 18995
+  },
+  {
+    answer: '37年',
+    indexes: 'scjlldsn',
+    question: '隋朝经历了多少年:',
+    id: 18996
+  },
+  {
+    answer: '爵',
+    indexes: 'gdrmyldjbdqtqj',
+    question: '古代人们用来当酒杯的青铜器叫：',
+    id: 18997
+  },
+  {
+    answer: '1917年',
+    indexes: 'mgqrztkndsz',
+    question: '美国前任总统肯尼迪生在',
+    id: 18998
+  },
+  {
+    answer: '赵括',
+    indexes: 'zgszstbzzbbdzgjls',
+    question: '战国时，“纸上谈兵”招致兵败的赵国将领是：',
+    id: 18999
+  },
+  {
+    answer: '黄盖',
+    indexes: 'cbzzzjztjyjjcjdwgjls',
+    question: '赤壁之战中，假装投降以接近曹军的吴国将领是：',
+    id: 19000
+  },
+  {
+    answer: '冯子才',
+    indexes: 'zfzzzzhqdzngdjdzgjls',
+    question: '中法战争中，指挥取得镇南关大捷的中国将领是：',
+    id: 19001
+  },
+  {
+    answer: '赵匡胤',
+    indexes: 'cqbbsysfdd',
+    question: '“陈桥兵变”是由谁发动的：',
+    id: 19002
+  },
+  {
+    answer: '日本',
+    indexes: 'qjgqzdsngqlz',
+    question: '戚继光驱逐的是哪国侵略者：',
+    id: 19003
+  },
+  {
+    answer: '周恩来',
+    indexes: 'fxahpjjsbdzgldrs',
+    question: '赴西安和平解决事变的中共领导人是：',
+    id: 19004
+  },
+  {
+    answer: '明朝',
+    indexes: 'zwggdcyycrkpctszngcdjxd',
+    question: '在我国古代曾有一次人口普查，它是在哪个朝代进行的？',
+    id: 19005
+  },
+  {
+    answer: '3',
+    indexes: 'hsdsmjnyc',
+    question: '会试，殿试每几年一次',
+    id: 19006
+  },
+  {
+    answer: '元',
+    indexes: 'wgzyzzzsmshdtwjxgx',
+    question: '我国中央最早在什麽时候对台湾进行管辖',
+    id: 19007
+  },
+  {
+    answer: '龟骨',
+    indexes: 'jgwsxznsmd',
+    question: '甲骨文是写在哪上面的？',
+    id: 19008
+  },
+  {
+    answer: '1936.10.19',
+    indexes: 'lxssy',
+    question: '鲁迅逝世于?',
+    id: 19009
+  },
+  {
+    answer: '二叠纪',
+    indexes: 'sycmjydzndzd',
+    question: '三叶虫灭绝于地质年代中的：',
+    id: 19010
+  },
+  {
+    answer: '刘少奇',
+    indexes: 'xlnwlgmjbcwkcdjcwzgdsszddya',
+    question: '下列哪位老革命家被错误开除党籍，成为中共党史上最大的冤案？',
+    id: 19011
+  },
+  {
+    answer: '在各省省城',
+    indexes: 'xldqmldxsksddjszqds',
+    question: '下列对清明两代“乡试”考试地点解释正确的是：',
+    id: 19012
+  },
+  {
+    answer: '隋朝',
+    indexes: 'wgdkjzdsyngcd',
+    question: '我国的科举制度始于那个朝代？',
+    id: 19013
+  },
+  {
+    answer: '一个英国人和一个尼泊尔人',
+    indexes: '1953nrldycdsxmlysmzmlmfqwdsddds',
+    question: '1953年人类第一次登上喜马拉雅山脉珠穆拉马峰，请问当时登顶的是',
+    id: 19014
+  },
+  {
+    answer: '1974',
+    indexes: 'qshbmyynnbfx',
+    question: '秦始皇兵马俑于哪年被发现',
+    id: 19015
+  },
+  {
+    answer: '南北朝',
+    indexes: 'zgdngzzshscxd',
+    question: '中国的尼姑最早是何时出现的？',
+    id: 19016
+  },
+  {
+    answer: '129师',
+    indexes: 'kzsqbljxx3gshygzsdlbcz',
+    question: '抗战时期，“八路军”下辖3个师和一个直属队，刘伯承在：',
+    id: 19017
+  },
+  {
+    answer: '1986',
+    indexes: '3y23rztkgzsjzzdkjzhphzhtsznnfsskd',
+    question: '3月23日，在太空工作时间最长的空间站“和平号”坠毁，它是在哪年发射升空的？',
+    id: 19018
+  },
+  {
+    answer: '汉武帝',
+    indexes: 'jyswgnyghdsydnh',
+    question: "'建元”是我国哪一个皇帝使用的年号？",
+    id: 19019
+  },
+  {
+    answer: '10',
+    indexes: 'bjc2002n11y_____rkszxybypxdzgj',
+    question: '北京从2002年11月_____日开始执行医保药品限定最高价',
+    id: 19020
+  },
+  {
+    answer: '元朝',
+    indexes: '____sqslynxzssynszccwsm',
+    question: '____时期设立云南行中书省，云南省自此成为省名',
+    id: 19021
+  },
+  {
+    answer: '德国社会民主工党',
+    indexes: 'sjsdygwcjjzds',
+    question: '世界上第一个无产阶级政党是：',
+    id: 19022
+  },
+  {
+    answer: '书信',
+    indexes: 'grcdyyssm',
+    question: '古人称的鱼雁是什么',
+    id: 19023
+  },
+  {
+    answer: '3',
+    indexes: 'cqfcjgbf',
+    question: '《春秋》分成几个部分？',
+    id: 19024
+  },
+  {
+    answer: '司马相如',
+    indexes: 'bcwxhlsmdclsmqhys',
+    question: '被称为西汉两司马的除了司马迁还有谁？',
+    id: 19025
+  },
+  {
+    answer: '6000年前',
+    indexes: 'mffyy',
+    question: '木筏发源于',
+    id: 19026
+  },
+  {
+    answer: '隋',
+    indexes: 'ccsysmsh',
+    question: '词产生于什么时候？',
+    id: 19027
+  },
+  {
+    answer: '关羽',
+    indexes: 'ssws',
+    question: '谁是武圣？',
+    id: 19028
+  },
+  {
+    answer: '19年',
+    indexes: 'zcqzbzjwgczwctdsn',
+    question: '在春秋争霸中，晋文公曾在外出逃多少年？',
+    id: 19029
+  },
+  {
+    answer: '7',
+    indexes: 'mczhygxljcxy',
+    question: '明朝郑和一共下了几次西洋',
+    id: 19030
+  },
+  {
+    answer: '拖雷',
+    indexes: 'hblssdez',
+    question: '忽必烈是谁的儿子？',
+    id: 19031
+  },
+  {
+    answer: '庙号',
+    indexes: 'ttzdtzzdstd',
+    question: '唐太宗的“太宗”指的是他的：',
+    id: 19032
+  },
+  {
+    answer: '秦代',
+    indexes: 'llysgjqlgnnyddzygz',
+    question: '历来用“三公九卿”来归纳哪一代的中央官制？',
+    id: 19033
+  },
+  {
+    answer: '中国唐朝',
+    indexes: 'sjsdyggjbbdydcxz',
+    question: '世界上第一个国家颁布的药典出现在：',
+    id: 19034
+  },
+  {
+    answer: '优胜杯',
+    indexes: 'sjszgldzqsjb',
+    question: '世界上最古老的足球赛奖杯',
+    id: 19035
+  },
+  {
+    answer: '奥古斯丁',
+    indexes: 'yxnwbslmlssymddycstzzzdcy',
+    question: '以下哪位不是罗马历史上有名的第一次“三头执政”中的成员？',
+    id: 19036
+  },
+  {
+    answer: '朱标',
+    indexes: 'zywdfqs',
+    question: '朱允文的父亲是？',
+    id: 19037
+  },
+  {
+    answer: '惠帝',
+    indexes: 'zywdmhs',
+    question: '朱允文的庙号是？',
+    id: 19038
+  },
+  {
+    answer: '十九岁',
+    indexes: 'zywsfs',
+    question: '朱允文丧父时',
+    id: 19039
+  },
+  {
+    answer: '明朝',
+    indexes: 'bgqssyhs',
+    question: '八股取士始于何时？',
+    id: 19040
+  },
+  {
+    answer: '5架',
+    indexes: 'wpfxyzzsyjljjfjdkjzs',
+    question: '“王牌飞行员”最早授予击落几架飞机的空军战士？',
+    id: 19041
+  },
+  {
+    answer: '司马炎',
+    indexes: 'wgxjddydhdmj',
+    question: '我国西晋的第一代皇帝名叫：',
+    id: 19042
+  },
+  {
+    answer: '汉文帝',
+    indexes: 'hczxxzfcrxdhds',
+    question: '汉朝最先下诏废除肉刑的皇帝是：',
+    id: 19043
+  },
+  {
+    answer: '1918年',
+    indexes: 'zmlsxjhrycsynyn',
+    question: '著名历史学家黄仁宇出生于哪一年',
+    id: 19044
+  },
+  {
+    answer: '乾隆',
+    indexes: 'pcmhbthzgzxds',
+    question: '破除满汉不通婚这个祖训的是：',
+    id: 19045
+  },
+  {
+    answer: '阴',
+    indexes: 'wggdcszbsznwsm',
+    question: '我国古代称山之北，水之南为什么？',
+    id: 19046
+  },
+  {
+    answer: '天京',
+    indexes: 'tptgddnjsdsjnjgmw',
+    question: '太平天国定都南京时，当时将南京改名为',
+    id: 19047
+  },
+  {
+    answer: '禁戒',
+    indexes: 'gsjzylbs',
+    question: '古时戒指用来表示？',
+    id: 19048
+  },
+  {
+    answer: '1974',
+    indexes: 'zlqxslscsznyn',
+    question: '智利球星萨拉斯出生在哪一年？',
+    id: 19049
+  },
+  {
+    answer: '大衍历',
+    indexes: 'wgtdxzyxhstzdlsmlf',
+    question: '我国唐代学者一行和尚，他制订了什么历法？',
+    id: 19050
+  },
+  {
+    answer: '造房',
+    indexes: 'zqrljtdjbynzsygxzmq',
+    question: '早期人类家庭的进步，与哪种事业关系最密切？',
+    id: 19051
+  },
+  {
+    answer: '英国文官制',
+    indexes: 'gjgwyzdqyy',
+    question: '国家公务员制度起源于？',
+    id: 19052
+  },
+  {
+    answer: '阿波罗11号',
+    indexes: 'amstlscngfccgdyd',
+    question: '阿姆斯特朗是乘哪个飞船成功登月的？',
+    id: 19053
+  },
+  {
+    answer: '官阶大小的区别',
+    indexes: 'qcgydlmsqygdzysgbxttdzys',
+    question: '清朝官员的礼帽上嵌一个顶珠，颜色各不相同它的作用是：',
+    id: 19054
+  },
+  {
+    answer: '最高法院',
+    indexes: 'mg1787nxfgdjsxfdqlz',
+    question: '美国1787年宪法规定，解释宪法的权力在：',
+    id: 19055
+  },
+  {
+    answer: '全国人大常委会',
+    indexes: 'wgxfdjdqsy',
+    question: '我国宪法的监督权属于：',
+    id: 19056
+  },
+  {
+    answer: '16亿',
+    indexes: 'd21sjzyzgrkzlzddfzhjhmxjzyfzs',
+    question: '到21世纪中叶，中国人口总量在达到峰值后将缓慢下降，这一峰值是：',
+    id: 19057
+  },
+  {
+    answer: '明朝',
+    indexes: 'yjtzrlyljssy',
+    question: '用焦炭作燃料冶炼金属始于：',
+    id: 19058
+  },
+  {
+    answer: '榜眼',
+    indexes: 'mqldkjksdzgjbdsddymjzydemj',
+    question: '明清两代科举考试的最高级别“殿试”的第一名叫状元,第二名叫：',
+    id: 19059
+  },
+  {
+    answer: '宋',
+    indexes: 'mysngcddhj',
+    question: '马远是哪个朝代的画家？',
+    id: 19060
+  },
+  {
+    answer: '门',
+    indexes: 'zywzyhgspbdhytsdsjdszs',
+    question: '朱允文作于黄果树瀑布的红崖天书第四句第四字是',
+    id: 19061
+  },
+  {
+    answer: '25个',
+    indexes: 'xchdyjgez',
+    question: '相传黄帝有几个儿子',
+    id: 19062
+  },
+  {
+    answer: '隋朝',
+    indexes: 'zmdzzqsznysqzjd',
+    question: '著名的赵州桥是在哪一时期造建的？',
+    id: 19063
+  },
+  {
+    answer: '骆宾王',
+    indexes: 'wxjytfwztdybqcltwsxdsrs',
+    question: '为徐敬业讨伐武则天的义兵起草了讨武氏檄的诗人是……',
+    id: 19064
+  },
+  {
+    answer: '3',
+    indexes: 'zgrzzfxcsszgyqjsj',
+    question: '中国人最早发现磁石是在公元前几世纪？',
+    id: 19065
+  },
+  {
+    answer: '贵族',
+    indexes: 'zzgzqbxsdsmrdzc',
+    question: '在战国之前“百姓”是对什么人的总称？',
+    id: 19066
+  },
+  {
+    answer: '1997',
+    indexes: 'xgxqhdsdznynzstc',
+    question: '香港西区海底隧道在哪一年正式通车？',
+    id: 19067
+  },
+  {
+    answer: '饼',
+    indexes: 'hdfmzdsptczwsm',
+    question: '汉代，凡面制的食品统称之为什么？',
+    id: 19068
+  },
+  {
+    answer: '聘娶婚',
+    indexes: 'zggdztxdjhfssyxnyz',
+    question: '中国古代最通行的结婚方式是以下哪一种？',
+    id: 19069
+  },
+  {
+    answer: '公元前2500年',
+    indexes: 'ajdssrmxjyhs',
+    question: '埃及的狮身人面像建于何时？',
+    id: 19070
+  },
+  {
+    answer: '用来记事',
+    indexes: 'gddcscsssnzdxzhhbzcdyts',
+    question: '古代大臣上朝时手上拿着的狭长笏(hǜ)板，最初的用途是：',
+    id: 19071
+  },
+  {
+    answer: '隋朝',
+    indexes: 'zggdkjxcyngcd',
+    question: '中国古代科举形成于哪个朝代？',
+    id: 19072
+  },
+  {
+    answer: '东周',
+    indexes: 'wgngdsyzcszsmsh',
+    question: '我国牛耕的使用最初是在什么时候？',
+    id: 19073
+  },
+  {
+    answer: '1991.12',
+    indexes: 'qwslszsmshjtd',
+    question: '请问苏联是在什么时候解体的？',
+    id: 19074
+  },
+  {
+    answer: '黄遵宪',
+    indexes: 'zgssbcwsjzglbydbcdagsrs',
+    question: '中国史上被称为“诗界之哥伦布”“一代霸才”的爱国诗人是：',
+    id: 19075
+  },
+  {
+    answer: '丹麦奥地利法国',
+    indexes: 'plsz19sjlqsnddtyzzzxhhnjggjfszz',
+    question: '普鲁士在19世纪六七十年代的统一战争中先后和哪几个国家发生战争？',
+    id: 19076
+  },
+  {
+    answer: '西安',
+    indexes: 'tcddczasjtdnl',
+    question: '唐朝的都城长安是今天的哪里？',
+    id: 19077
+  },
+  {
+    answer: '七七事变',
+    indexes: 'fszbjlgqdlssbmj',
+    question: '发生在北京卢沟桥的历史事变名叫？',
+    id: 19078
+  },
+  {
+    answer: '海上保险',
+    indexes: 'qyzzdbxs',
+    question: '起源最早的保险是：',
+    id: 19079
+  },
+  {
+    answer: '造房',
+    indexes: 'zqrljtdjbynzsygxzmq',
+    question: '早期人类家庭的进步，与哪种事业关系最密切？',
+    id: 19080
+  },
+  {
+    answer: '1986年',
+    indexes: 'qenblhwrfsz',
+    question: '切尔诺贝利核污染发生在：',
+    id: 19081
+  },
+  {
+    answer: '兴庆',
+    indexes: 'xxddcz',
+    question: '西夏的都城在',
+    id: 19082
+  },
+  {
+    answer: '907年',
+    indexes: 'wdsgsqksy',
+    question: '五代十国时期开始于',
+    id: 19083
+  },
+  {
+    answer: '会稽郡',
+    indexes: 'qftxwssljjtdjssy',
+    question: '秦分天下为三十六郡，今天的江苏属于',
+    id: 19084
+  },
+  {
+    answer: '3000万年',
+    indexes: 'xsdjjydsn',
+    question: '新生代距今有多少年？',
+    id: 19085
+  },
+  {
+    answer: '鸵鸟龙',
+    indexes: 'klsjddpgjssml',
+    question: '恐龙世界的短跑冠军是什么龙？',
+    id: 19086
+  },
+  {
+    answer: '震龙',
+    indexes: 'yzdzdklssm',
+    question: '已知的最大恐龙是什么？',
+    id: 19087
+  },
+  {
+    answer: '《羊城体育报》',
+    indexes: 'z1998ndljfbznjbzbtsft',
+    question: '在1998年的“陆俊风波”中，哪家报纸被推上法庭？',
+    id: 19088
+  },
+  {
+    answer: '德国',
+    indexes: 'zdyzbzcxzqsnggjdrzxzdzbzsdxw',
+    question: '在第一张报纸出现之前是哪个国家的人最先在大字报纸上读新闻？',
+    id: 19089
+  },
+  {
+    answer: '秦始皇兵马俑',
+    indexes: 'bcwsjdbqgds',
+    question: '被称为“世界第八奇观”的是：',
+    id: 19090
+  },
+  {
+    answer: '唐',
+    indexes: 'wggdhjwdzshzngcd',
+    question: '我国古代画家吴道子生活在哪个朝代？',
+    id: 19091
+  },
+  {
+    answer: '司马炎',
+    indexes: 'xjdcjz',
+    question: '西晋的创建者：',
+    id: 19092
+  },
+  {
+    answer: '年',
+    indexes: 'rlysyldycdysznn',
+    question: '人类有史以来第一次登月是在哪年？',
+    id: 19093
+  },
+  {
+    answer: '周',
+    indexes: 'qwgmsy',
+    question: '卿为官名，始于:',
+    id: 19094
+  },
+  {
+    answer: '东巴文',
+    indexes: 'bswqrldzgwhycmqsjswyhhzdxxwzs',
+    question: '被视为全人类的珍贵文化遗产，目前世界上唯一还活着的象形文字是：',
+    id: 19095
+  },
+  {
+    answer: '扬州',
+    indexes: 'wgzmnhjzylcsyyxngdf',
+    question: '我国著名女画家张玉良出生于以下哪个地方:',
+    id: 19096
+  },
+  {
+    answer: '致远',
+    indexes: 'zzrjwzzzdscjsnszjcxdjbxclwgjq',
+    question: '在中日甲午战争中，邓世昌驾驶哪艘战舰冲向敌舰，不幸触雷，为国捐躯？',
+    id: 19097
+  },
+  {
+    answer: '永陵',
+    indexes: 'qcddyzlsnz',
+    question: '清朝的第一座陵是哪座',
+    id: 19098
+  },
+  {
+    answer: '薛岳',
+    indexes: 'krzzqjzhsczshzdzggmdjls',
+    question: '抗日战争期间，指挥三次长沙会战的中国国民党将领是',
+    id: 19099
+  },
+  {
+    answer: '公民在遭受自然灾害',
+    indexes: 'gjwgxfgdxlxxznyzqkbsgmhdwzbzqdtj',
+    question: '根据我国宪法规定，下列选项中哪一种情况不是公民获得物质帮助权的条件?',
+    id: 19100
+  },
+  {
+    answer: '鹤',
+    indexes: 'gdwltxgldgwgdezxqbhgzykfxbzgjgpddjbzsdtaygybtnzdypwgdbzsxysmtam',
+    question:
+      '古代为了体现官吏的官位高低而在胸前、背后各缀一块方形补子，根据官品的等级，“补子”上的图案也各有不同，你知道一品文官的补子上绣有什么图案吗？',
+    id: 19101
+  },
+  {
+    answer: '1900年5月26日',
+    indexes: 'dhzjdsdswylfxdzycjds600dnjdj6wjzgwwtfxy',
+    question: '敦煌藏经洞是道士王圆箓发现的，藏有从晋到宋600多年间的近6万件珍贵文物。它发现于',
+    id: 19102
+  },
+  {
+    answer: '1906',
+    indexes: 'sjsfnzzqdxjqdgjsflsy_________n',
+    question: '世界上妇女最早取得选举权的国家是芬兰，始于_________年。',
+    id: 19103
+  },
+  {
+    answer: '逃避猛兽',
+    indexes: 'zygtyswl',
+    question: '在远古跳远是为了：',
+    id: 19104
+  },
+  {
+    answer: '唐朝',
+    indexes: 'cltzsyhs',
+    question: '垂帘听政始于何时？',
+    id: 19105
+  },
+  {
+    answer: '1999',
+    indexes: 'zjdqjszjwlsnynsjhjrdztkh',
+    question: '“拯救地球就是拯救未来”是哪一年世界环境日的主题口号？',
+    id: 19106
+  },
+  {
+    answer: '1860年',
+    indexes: 'yfljcynnhsymy',
+    question: '英法联军曾于哪年火烧圆明园？',
+    id: 19107
+  },
+  {
+    answer: '1958',
+    indexes: 'hypyfajslhypyssdwljmqwhypyfadsynyn',
+    question: '汉语拼音方案结束了汉语拼音史上的紊乱局面，请问汉语拼音方案诞生于哪一年。',
+    id: 19108
+  },
+  {
+    answer: '1959',
+    indexes: 'azbzzfxznyn',
+    question: '爱滋病最早发现在哪一年？',
+    id: 19109
+  },
+  {
+    answer: '古巴比伦',
+    indexes: 'xxwzsgdnydqdwz',
+    question: '楔形文字是古代哪一地区的文字？',
+    id: 19110
+  },
+  {
+    answer: '明代',
+    indexes: 'gwlcdssqjsfszngcd',
+    question: '广为流传的《苏三起解》是发生在哪个朝代?',
+    id: 19111
+  },
+  {
+    answer: '十八',
+    indexes: 'bdgsjysmsj',
+    question: '彼得宫始建于什么世纪：',
+    id: 19112
+  },
+  {
+    answer: '关原合战',
+    indexes: 'smzhdcjkkzltxds',
+    question: '什么之后，德川家康控制了天下大势？',
+    id: 19113
+  },
+  {
+    answer: '亚历山大灯塔',
+    indexes: 'sjqdqjjzsjzwds',
+    question: '世界七大奇迹建造时间最晚的是',
+    id: 19114
+  },
+  {
+    answer: '丰臣秀吉',
+    indexes: 'ssbystjhxzksdxzzfmdfmljsnwjc',
+    question: '石山本愿寺投降后，信长开始多线作战，奉命对付毛利家是哪位家臣？',
+    id: 19115
+  },
+  {
+    answer: '奈良',
+    indexes: 'rblssdpcjzdsxzd',
+    question: '日本历史上的平城京指的是现在的：',
+    id: 19116
+  },
+  {
+    answer: '司烜',
+    indexes: 'zczmzgyxjrdgddglj',
+    question: '周朝专门掌管元宵节燃灯、观灯的官吏叫：',
+    id: 19117
+  },
+  {
+    answer: '1832年',
+    indexes: 'afecsy',
+    question: '艾菲尔出生于?',
+    id: 19118
+  },
+  {
+    answer: '刑具名',
+    indexes: 'fxsdcwsrhyld',
+    question: '法西斯的称谓是如何由来的？',
+    id: 19119
+  },
+  {
+    answer: '太阳',
+    indexes: 'grswhdsnzttyxzndgd',
+    question: '古人所谓黄道是哪种天体运行周年的轨道？',
+    id: 19120
+  },
+  {
+    answer: '醋',
+    indexes: 'grsdzzdsjtd',
+    question: '古人说的酢指的是今天的：',
+    id: 19121
+  },
+  {
+    answer: '重檐庑殿顶',
+    indexes: 'gdwdzdjzgds',
+    question: '古代屋顶中等级最高的是:',
+    id: 19122
+  },
+  {
+    answer: '张自忠',
+    indexes: 'zkrzzzgmdxsdzgjls',
+    question: '在抗日战争中国民党牺牲的最高将领是：',
+    id: 19123
+  },
+  {
+    answer: '张道陵',
+    indexes: 'djsyscld',
+    question: '道教是由谁创立的？',
+    id: 19124
+  },
+  {
+    answer: '1918年',
+    indexes: 'zgdbyjfzyzzhsxdaxz',
+    question: '中国的北洋军阀在一战中何时向德奥宣战？',
+    id: 19125
+  },
+  {
+    answer: '化妆品',
+    indexes: 'mlkgssyjjyhzspdgs',
+    question: '玫琳凯公司是一家经营何种商品的公司？',
+    id: 19126
+  },
+  {
+    answer: '沈雁冰',
+    indexes: 'xzgdyrwhbbzss',
+    question: '新中国第一任文化部部长是谁？',
+    id: 19127
+  },
+  {
+    answer: '红宝石',
+    indexes: 'qcsqwwypgdcgdxqy',
+    question: '清朝时期，文、武一品官的朝冠顶镶嵌有：',
+    id: 19128
+  },
+  {
+    answer: '战国',
+    indexes: 'djygcdxjsqwsq',
+    question: '都江堰工程的修建时期为（）时期。',
+    id: 19129
+  },
+  {
+    answer: '赵一曼',
+    indexes: 'yxjwmzyxnwsnx',
+    question: '以下几位民族英雄哪位是女性？',
+    id: 19130
+  },
+  {
+    answer: '第五次',
+    indexes: 'zyhyppjfldjcfwjdcw',
+    question: '遵义会议批评揭发了第几次反围剿的错误？',
+    id: 19131
+  },
+  {
+    answer: '4',
+    indexes: 'gdyddzxzdfwjj',
+    question: '古代印度的“种姓制度”分为几级？',
+    id: 19132
+  },
+  {
+    answer: '36',
+    indexes: '2001nqgpxcldszmyy',
+    question: '2001年全国评选出了多少种名优烟?',
+    id: 19133
+  },
+  {
+    answer: '1861年',
+    indexes: 'zmgbblbzfhnbblzzjjxdmgnzqsynyn',
+    question: '在美国北部联邦政府和南部邦联州之间进行的美国内战起始于那一年？',
+    id: 19134
+  },
+  {
+    answer: '塔',
+    indexes: 'zggdjzzsljdxszwdydyzjzlxs',
+    question: '中国古代建筑中数量极大、形式最为多样的一种建筑类型是：',
+    id: 19135
+  },
+  {
+    answer: '佟麟阁',
+    indexes: 'krzzzdywwkjrkxsdzggjjls',
+    question: '抗日战争中，第一位为抗击日寇牺牲的中国高级将领是：',
+    id: 19136
+  },
+  {
+    answer: '唐',
+    indexes: 'gy618907nswggddngcd',
+    question: '公元618—907年，是我国古代的哪个朝代？',
+    id: 19137
+  },
+  {
+    answer: '204',
+    indexes: 'zzgzqswsxfxdwsrhsjjydswn',
+    question: '在中国，重庆市巫山县发现的巫山人化石，距今有多少万年？',
+    id: 19138
+  },
+  {
+    answer: '1982年',
+    indexes: 'zsmsjzhrmghgmzbzrzzzwgmls',
+    question: '在什么时间，中华人民共和国民政部追认张自忠为革命烈士？',
+    id: 19139
+  },
+  {
+    answer: '1206',
+    indexes: 'znyntmzzwnhjmgenhyzkhltdhjmggdhwhcjsh',
+    question:
+      '在哪一年铁木真在斡难河（今蒙古鄂嫩河）源召开忽里台大会，即蒙古国大汗位，号成吉思汗：',
+    id: 19140
+  },
+  {
+    answer: '塞尔维亚',
+    indexes: 'csaxdghcfdndgsnyggjdqn',
+    question: '刺杀奥匈帝国皇储菲迪男大公是哪一个国家的青年:',
+    id: 19141
+  },
+  {
+    answer: '潜水艇',
+    indexes: 'dgzezzzyyklqzsqwdjzezzqlzsm',
+    question: '德国在二战中，主要依靠狼群战术，请问德军在二战中群狼指什么？',
+    id: 19142
+  },
+  {
+    answer: '洛阳',
+    indexes: 'zgjdzzlszzcdzddgcs',
+    question: '中国建都最早，历时最长，朝代最多的古城是',
+    id: 19143
+  },
+  {
+    answer: '4',
+    indexes: 'lsslmjtzzgjcszjdz',
+    question: '历史上罗马教廷组织过几次十字军东征',
+    id: 19144
+  },
+  {
+    answer: '汉武帝',
+    indexes: 'nywhdpzqcsxy',
+    question: '哪一位皇帝派张骞出使西域',
+    id: 19145
+  },
+  {
+    answer: '1915',
+    indexes: 'yskdszhdgdhdsz',
+    question: '袁世凯当上“中华帝国”的皇帝是在',
+    id: 19146
+  },
+  {
+    answer: '临时政府迁都北京',
+    indexes: 'byjfzqjldbzs',
+    question: '北洋军阀政权建立的标志是',
+    id: 19147
+  },
+  {
+    answer: '丰岛海战',
+    indexes: 'jwzzbfdbzs',
+    question: '甲午战争爆发的标志是',
+    id: 19148
+  },
+  {
+    answer: '地主',
+    indexes: 'gj1931nmzdqddtdgglxfxdsncgmddrs',
+    question: '根椐1931年毛泽东确定的土地改革路线分析，当时农村革命的敌人是',
+    id: 19149
+  },
+  {
+    answer: '1983年',
+    indexes: 'gdjyzxkszdscnynkszqgtgsxd',
+    question: '高等教育自学考试制度是从哪一年开始在全国推广施行的？',
+    id: 19150
+  },
+  {
+    answer: '1878年',
+    indexes: 'wgdymptypdlphsfxd',
+    question: '我国第一枚普通邮票----大龙票何时发行的?',
+    id: 19151
+  },
+  {
+    answer: '新军',
+    indexes: 'wcqydzylls',
+    question: '武昌起义的主要力量是',
+    id: 19152
+  },
+  {
+    answer: '嘉庆时',
+    indexes: 'qcgsslksy',
+    question: '清朝国势衰落开始于',
+    id: 19153
+  },
+  {
+    answer: '裴秀',
+    indexes: 'zgzzdlsdtjsszbd',
+    question: '中国最早的历史地图集是谁主编的？',
+    id: 19154
+  },
+  {
+    answer: '梁启超',
+    indexes: 'gxsdsznywswxbflxzy',
+    question: '国学四大师中哪一位是戊戌变法领袖之一',
+    id: 19155
+  },
+  {
+    answer: '1973',
+    indexes: 'rllssdycxqdgmdybhdqwzzdqzxydbcccsldqrsnyn',
+    question:
+      '人类历史上，第一次掀起大规模的以保护地球为宗旨的群众性运动，并从此产生了地球日，是哪一年？',
+    id: 19156
+  },
+  {
+    answer: '英国',
+    indexes: 'fxgajjdmnwhnflttmnydnkgxjqaflcsnggjdr',
+    question: '发现古埃及绝代美女王后诺弗雷托托木乃伊的女考古学家乔安-弗雷彻是哪个国家的人？',
+    id: 19157
+  },
+  {
+    answer: '27',
+    indexes: 'zglcssddnj',
+    question: '诸葛亮出山时多大年纪？',
+    id: 19158
+  },
+  {
+    answer: '关羽',
+    indexes: 'hsthssdjw',
+    question: '汉寿亭候是谁的爵位？',
+    id: 19159
+  },
+  {
+    answer: '孔秀',
+    indexes: 'gyqlzdqzsddygjlss',
+    question: '关羽千里走单骑中杀的第一个将领是谁？',
+    id: 19160
+  },
+  {
+    answer: '《南京条约》',
+    indexes: 'ngbpdtysygbzgqdd',
+    question: '哪个不平等条约是英国逼中国签定的?',
+    id: 19161
+  },
+  {
+    answer: '容国团',
+    indexes: 'zglssdywhdtysjgjds',
+    question: '中国历史上第一位获得体育世界冠军的是:',
+    id: 19162
+  },
+  {
+    answer: '总理衙门的建立',
+    indexes: 'jdzgzyjgbzmdhksdbzs',
+    question: '近代中国中央机构半殖民地化开始的标志是：',
+    id: 19163
+  },
+  {
+    answer: '7',
+    indexes: 'zglsshg70sdhdyjw',
+    question: '中国历史上活过70岁的皇帝有几位？',
+    id: 19164
+  },
+  {
+    answer: '秋瑾',
+    indexes: 'sjbxqjmbddqhjykhshrsx',
+    question: '诗句“不惜千金买宝刀，貂裘换酒也堪豪”是何人所写？',
+    id: 19165
+  },
+  {
+    answer: '秦朝',
+    indexes: 'fldwzwyzflxssy',
+    question: '“法律答问”作为一种法律形式始于',
+    id: 19166
+  },
+  {
+    answer: '120万',
+    indexes: 'fedzysfgssldsjd',
+    question: '凡尔登战役双方共损失了多少军队？',
+    id: 19167
+  },
+  {
+    answer: '姬',
+    indexes: 'qcszxddgwtx',
+    question: '“启”传说中夏代的国王，他姓？',
+    id: 19168
+  },
+  {
+    answer: '西周',
+    indexes: 'mgdssmsddqtq',
+    question: '“毛公鼎”是什么时代的青铜器？',
+    id: 19169
+  },
+  {
+    answer: '1965年',
+    indexes: 'z19561966ndjszwgsyqbzjszsmsj',
+    question: '在1956——1966年的建设中，我国石油全部自给是在什么时间',
+    id: 19170
+  },
+  {
+    answer: '自主开放外交',
+    indexes: 'zzxpgdwgrzqwgxcdbdfbgftxdwjsxs',
+    question: '《自政新篇》规定外国人“准其为国献策，但不得诽谤国法”，体现的外交思想是',
+    id: 19171
+  },
+  {
+    answer: '四五运动',
+    indexes: 'wfssrbddlqzjcdlssjs',
+    question: '为粉碎四人帮奠定了群众基础的历史事件是',
+    id: 19172
+  },
+  {
+    answer: '1962年',
+    indexes: 'qqrdhdzksznyn',
+    question: '七千人大会的召开是在那一年',
+    id: 19173
+  },
+  {
+    answer: '正确指出了国内的主要矛盾',
+    indexes: 'zgbddzygxs',
+    question: '中共八大的主要贡献是',
+    id: 19174
+  },
+  {
+    answer: '中共七届二中全会',
+    indexes: 'jjlzgyxmzzygmxshzygmzbdzdwtdhys',
+    question: '解决了中国有新民主主义革命向社会主义革命转变的重大问题的会议是',
+    id: 19175
+  },
+  {
+    answer: '解放战争初期',
+    indexes: 'mzdtcyqfdpdszlhdzmldsz',
+    question: '毛泽东提出“一切反动派都是纸老虎”的著名论断是在',
+    id: 19176
+  },
+  {
+    answer: '抗日根据地大生产运动',
+    indexes: 'xlcszwzqkrzzdslddlwzjcds',
+    question: '下列措施中为争取抗日战争的胜利奠定了物质基础的是',
+    id: 19177
+  },
+  {
+    answer: '百团大战',
+    indexes: 'zkzdxcjdjdlqgrmkzslxxdzys',
+    question: '在抗战的相持阶段，坚定了全国人民抗战胜利信心的战役是',
+    id: 19178
+  },
+  {
+    answer: '东北抗联',
+    indexes: 'yxjdzylzlygds',
+    question: '以下军队中，与李兆麟有关的是',
+    id: 19179
+  },
+  {
+    answer: '周恩来',
+    indexes: 'zwgzycppwgdzzdxnsdltzbbk',
+    question: '在文革中，严辞批评文革的种种倒行逆施的老同志不包括',
+    id: 19180
+  },
+  {
+    answer: '18世纪末',
+    indexes: 'gdsnysqdgdwdsrsxj',
+    question: '歌德是哪一时期德国的伟大诗人、思想家',
+    id: 19181
+  },
+  {
+    answer: '“七七”事变后',
+    indexes: 'gglddechzsxkrmztyzxzsxcsz',
+    question: '国共两党第二次合作实现，抗日民族统一战线正式形成是在：',
+    id: 19182
+  },
+  {
+    answer: '第三等人',
+    indexes: 'ychfdsdrzqdnzzsy',
+    question: '元朝划分的四等人中，契丹、女真族属于',
+    id: 19183
+  },
+  {
+    answer: '张之洞',
+    indexes: 'gy1890nsszhbhycblhytc',
+    question: '公元1890年，是谁在湖北汉阳创办了汉阳铁厂？',
+    id: 19184
+  },
+  {
+    answer: '五丈原',
+    indexes: 'zsgyyzzglbsyhc',
+    question: '在《三国演义中》诸葛亮病逝于何处？',
+    id: 19185
+  },
+  {
+    answer: '白起',
+    indexes: 'zgsqcjxlksjhmsswzjdqgjlss',
+    question: '战国时期曾经下令坑杀（即活埋）四十万赵军的秦国将领是谁？',
+    id: 19186
+  },
+  {
+    answer: '18000',
+    indexes: 'wgmqfxdzzdsssjjdsnqdysxl',
+    question: '我国目前发现的最早的首饰是距今多少年前的原始项链？',
+    id: 19187
+  },
+  {
+    answer: '1936',
+    indexes: 'lxynynss',
+    question: '鲁迅于哪一年逝世？',
+    id: 19188
+  },
+  {
+    answer: '巨鹿之战',
+    indexes: 'pfczzgcycynczz',
+    question: '破釜沉舟这个成语出于哪次战争？',
+    id: 19189
+  },
+  {
+    answer: '武则天',
+    indexes: 'wzjllykwzbyghrpsdwggdzzjs',
+    question: '为自己立了一块《无字碑》以供后人评说的我国古代政治家是？',
+    id: 19190
+  },
+  {
+    answer: '3条',
+    indexes: 'zggdbfdsczlyjt',
+    question: '中国古代北方的“丝绸之路”有几条？',
+    id: 19191
+  },
+  {
+    answer: '顺治',
+    indexes: 'xlrwzssqddhd',
+    question: '下列人物中谁是清代的皇帝？',
+    id: 19192
+  },
+  {
+    answer: '1980年',
+    indexes: 'wgnckstxjtlccbzrzs',
+    question: '我国农村开始推行家庭联产承包责任制是',
+    id: 19193
+  },
+  {
+    answer: '中国',
+    indexes: 'zsjlsszztjrkdgjs',
+    question: '在世界历史上最早统计人口的国家是',
+    id: 19194
+  },
+  {
+    answer: '1991.12',
+    indexes: 'qwslsmshjtd',
+    question: '请问苏联什么时候解体的',
+    id: 19195
+  },
+  {
+    answer: '1901',
+    indexes: 'dycnbejsnynbfd',
+    question: '第一次诺贝尔奖是哪一年颁发的',
+    id: 19196
+  },
+  {
+    answer: '壮族',
+    indexes: 'lsjswgngssmzcszdrw',
+    question: '“刘三姐”是我国哪个少数民族传说中的人物？',
+    id: 19197
+  },
+  {
+    answer: '父子',
+    indexes: 'lqchlscssmgx',
+    question: '梁启超和梁思成是什么关系？',
+    id: 19198
+  },
+  {
+    answer: '公媳',
+    indexes: 'lhyhlqcssmgx',
+    question: '林徽因和梁启超是什么关系？',
+    id: 19199
+  },
+  {
+    answer: '1936年10月19日',
+    indexes: 'lxssy',
+    question: '鲁迅逝世于：',
+    id: 19200
+  },
+  {
+    answer: '1924年',
+    indexes: 'aycsnnksjd',
+    question: '奥运村是哪年开始建的？',
+    id: 19201
+  },
+  {
+    answer: '诸葛尚',
+    indexes: 'xlnygbsqtrdxd',
+    question: '下列哪一个不是其他人的兄弟？',
+    id: 19202
+  },
+  {
+    answer: '英国',
+    indexes: 'ppqsy19sjdnggj',
+    question: '乒乓球始于19世纪的哪个国家？',
+    id: 19203
+  },
+  {
+    answer: '9月3日',
+    indexes: 'zgkrzzsljnrs',
+    question: '中国抗日战争胜利纪念日是：',
+    id: 19204
+  },
+  {
+    answer: '地道战',
+    indexes: 'krzzsqzjzpysjcdhkzdrmqzfml',
+    question: '抗日战争时期，在冀中平原上，坚持敌后抗战的人民群众发明了：',
+    id: 19205
+  },
+  {
+    answer: '叶挺',
+    indexes: 'krzzsqxsjddyrjzs',
+    question: '抗日战争时期，新四军的第一任军长是：',
+    id: 19206
+  },
+  {
+    answer: '陈嘉庚',
+    indexes: 'krzzsqgddaghqdzgdkzzclzydgxqwnyhqdlxss',
+    question: '抗日战争时期，广大的爱国华侨对祖国的抗战作出了卓越的贡献。请问南洋华侨的领袖是谁？',
+    id: 19207
+  },
+  {
+    answer: '宋学义',
+    indexes: 'krzzqjlyswzsdgsjyhxqwtydyszcfbzgzlwsyxytx',
+    question:
+      '抗日战争期间，狼牙山五壮士的故事家喻户晓，请问跳崖的勇士中除副班长葛振林外谁也幸运脱险？',
+    id: 19208
+  },
+  {
+    answer: '唐太宗',
+    indexes: 'lzybszszysfgrfzdyyjzdrfswmfzswlbsdhegcd',
+    question:
+      '柳宗元《捕蛇者说》中“以俟夫观人风者得焉”一句中的“人风”实为“民风”，这是为了避谁的讳而改称的？',
+    id: 19209
+  },
+  {
+    answer: '藏族',
+    indexes: 'tddtfsjtngzdzx',
+    question: '唐代的吐蕃是今天哪个族的祖先：',
+    id: 19210
+  },
+  {
+    answer: '宋代',
+    indexes: 'wgzzcxzbsz',
+    question: '我国最早出现纸币是在：',
+    id: 19211
+  },
+  {
+    answer: '西周',
+    indexes: 'wggdyyzjtzwtsngcdcxd',
+    question: '我国古代有一种井田制，问它是哪个朝代出现的。',
+    id: 19212
+  },
+  {
+    answer: '1928',
+    indexes: 'nynlbclxyslflzjsxy',
+    question: '哪一年，刘伯承留学于苏联伏龙芝军事学院：',
+    id: 19213
+  },
+  {
+    answer: '陈子昂',
+    indexes: 'sbsyctsj',
+    question: '谁不属于初唐四杰：',
+    id: 19214
+  },
+  {
+    answer: '秦始皇',
+    indexes: 'hdzwgjysdzschsy',
+    question: '皇帝作为国家元首的正式称号，始于：',
+    id: 19215
+  },
+  {
+    answer: '中国银行',
+    indexes: 'wgzzfxgjxykdyxs',
+    question: '我国最早发行国际信用卡的银行是：',
+    id: 19216
+  },
+  {
+    answer: '舅舅',
+    indexes: 'hdjjwqspqjjhqbdsmr',
+    question: '汉大将军卫青是骠骑将军霍去病的什么人？',
+    id: 19217
+  },
+  {
+    answer: '经典理论遇到困难',
+    indexes: 'lssdzwzns',
+    question: '历史上的“紫外灾难”是：',
+    id: 19218
+  },
+  {
+    answer: '希腊',
+    indexes: 'bqlsnggjfmd',
+    question: '冰淇淋是哪个国家发明的？',
+    id: 19219
+  },
+  {
+    answer: '阿波罗',
+    indexes: 'zgxlbcwstysds',
+    question: '在古希腊被成为是“太阳神”的是：',
+    id: 19220
+  },
+  {
+    answer: '韩信',
+    indexes: 'ssyzjcwlfrylxrnglsrw',
+    question: '“生死一知己，存亡两妇人”用来形容哪个历史人物？',
+    id: 19221
+  },
+  {
+    answer: '柴桑',
+    indexes: 'sgslbwldkcjpzglzneysqjm',
+    question: '三国时，刘备为了对抗曹军，派诸葛亮在哪儿与孙权结盟？',
+    id: 19222
+  },
+  {
+    answer: '孙思邈',
+    indexes: 'zwggdnwmyhd101s',
+    question: '在我国古代哪位名医活到101岁',
+    id: 19223
+  },
+  {
+    answer: '库斯特',
+    indexes: 'bqmwsjdzxds',
+    question: '被取名为“世界的中心”的是：',
+    id: 19224
+  },
+  {
+    answer: '中法战争结束后',
+    indexes: 'lssqzfztwslxssy',
+    question: '历史上清政府在台湾设立行省始于：',
+    id: 19225
+  },
+  {
+    answer: '制造和使用工具',
+    indexes: 'ylrybjrlyxdbtdtdswxjbxlnyxzwryfjdzzybz',
+    question: '与类人猿比较，人类有许多不同的特点，生物学家把下列哪一项作为人猿分界的最重要标准',
+    id: 19226
+  },
+  {
+    answer: '夏',
+    indexes: 'zgdygcdsngc',
+    question: '中国第一个朝代是那个朝？',
+    id: 19227
+  },
+  {
+    answer: '耆，古稀，耋，耄，期颐',
+    indexes: 'xljwggdnlcwaxddsxplzqds',
+    question: '下列将我国古代年龄称谓按小到大顺序排列正确的是：',
+    id: 19228
+  },
+  {
+    answer: '李渊',
+    indexes: 'tcddyghdss',
+    question: '唐朝的第一个皇帝是谁',
+    id: 19229
+  },
+  {
+    answer: '蝙蝠',
+    indexes: 'lddfmsmf',
+    question: '雷达的发明是模仿：',
+    id: 19230
+  },
+  {
+    answer: '1923年',
+    indexes: 'zmdgdddzfsz',
+    question: '著名的“关东大地震”发生在',
+    id: 19231
+  },
+  {
+    answer: '淮南王刘安',
+    indexes: 'xcdfssfmd',
+    question: '相传豆腐是谁发明的？',
+    id: 19232
+  },
+  {
+    answer: '吴国',
+    indexes: 'gy230njjwwddlywrdcdddtw',
+    question: '公元230年，（）将军卫温等带领一万人的船队达到台湾。',
+    id: 19233
+  },
+  {
+    answer: '重庆',
+    indexes: 'zgdwdznl',
+    question: '中国的“雾都”在哪里？',
+    id: 19234
+  },
+  {
+    answer: '英国',
+    indexes: 'femstaqjdzzakndesnyggjdr',
+    question: '《福尔摩斯探案全集》的作者阿.柯南道尔是哪一个国家的人？',
+    id: 19235
+  },
+  {
+    answer: '追求利润',
+    indexes: 'zscjjzqyjxscjyhddzjmds',
+    question: '在市场经济中，企业进行生产经营活动的直接目的是',
+    id: 19236
+  },
+  {
+    answer: '阿拉伯',
+    indexes: 'yzlzzcxznl',
+    question: '圆周率最早出现在哪里？',
+    id: 19237
+  },
+  {
+    answer: '九个',
+    indexes: 'zzlzzbpslccjydj',
+    question: '赵子龙在长坂坡杀了曹操几员大将?',
+    id: 19238
+  },
+  {
+    answer: '七座',
+    indexes: 'hzyyzzldqpmtlccjzdy',
+    question: '汉中一役赵子龙单枪匹马挑了曹操几座大营?',
+    id: 19239
+  },
+  {
+    answer: '215',
+    indexes: 'lx7gyzdydst',
+    question: '连续7个月最多有多少天？',
+    id: 19240
+  },
+  {
+    answer: '韩',
+    indexes: 'qshdygmddzhgs',
+    question: '秦始皇第一个灭掉的诸侯国是：',
+    id: 19241
+  },
+  {
+    answer: '西奥多·罗斯福',
+    indexes: 'jzsznqdmgzts',
+    question: '就职时最年轻的美国总统是：',
+    id: 19242
+  },
+  {
+    answer: '1919年3月',
+    indexes: 'gcgjcldsjs',
+    question: '共产国际成立的时间是',
+    id: 19243
+  },
+  {
+    answer: '18周岁以上有政治权利的公民',
+    indexes: 'xfgdwgxyxjqhbxjqdrs',
+    question: '《宪法》规定我国享有选举权和被选举权的人是()',
+    id: 19244
+  },
+  {
+    answer: '魏忠贤',
+    indexes: 'bssdwzbztddrws',
+    question: '不是三大无字碑中提到的人物是',
+    id: 19245
+  },
+  {
+    answer: '东汉殇帝',
+    indexes: 'cgzjwgy29wwwhdqzzxds',
+    question: '从古至今，我国有29位娃娃皇帝，其中最小的是：',
+    id: 19246
+  },
+  {
+    answer: '一种文学思潮',
+    indexes: 'xfxdpwxzds',
+    question: '西方现代派文学指的是',
+    id: 19247
+  },
+  {
+    answer: '10',
+    indexes: 'dwmy100wdddzmsjxstjxhydd',
+    question: '当我们用100瓦的电灯照明时，经()小时它将消耗一度电。',
+    id: 19248
+  },
+  {
+    answer: '周',
+    indexes: 'wztygy655nbgzlwhhkscyczgy690nzlwdghw',
+    question: '武则天于公元655年被高宗立为皇后，开始参与朝政，公元690年自立为帝，国号为:',
+    id: 19249
+  },
+  {
+    answer: '左宗棠',
+    indexes: 'wzxhlsmjsnbywlsz',
+    question: '文章西汉两司马，经世南北一卧龙是指()。',
+    id: 19250
+  },
+  {
+    answer: '法国',
+    indexes: 'zynsxsynggjsjmgd',
+    question: '自由女神像是由哪个国家送给美国的?',
+    id: 19251
+  },
+  {
+    answer: '刘伯承',
+    indexes: 'jfzzcqsdzcdldrss',
+    question: '解放战争初期山东战场的领导人是谁?',
+    id: 19252
+  },
+  {
+    answer: '骊山',
+    indexes: 'qshljzzhc',
+    question: '秦始皇陵建造在何处?',
+    id: 19253
+  },
+  {
+    answer: '150万',
+    indexes: 'decsjdzqjzddyczysdlgldhzzdjgssldsry',
+    question: '第二次世界大战期间最大的一次战役--斯大林格勒大会战中，德军共损失了多少人员？',
+    id: 19254
+  },
+  {
+    answer: '60年代',
+    indexes: 'AMX30zztkssmsjscd',
+    question: 'AMX-30主战坦克是什么时间生产的？',
+    id: 19255
+  },
+  {
+    answer: '《改造我们的学习》',
+    indexes: 'mzdtzznpwzzdgyssqsjyxdkxdjs',
+    question: '毛泽东同志在哪篇文章中对古语“实事求是”给予新的科学的解释？',
+    id: 19256
+  },
+  {
+    answer: '司南',
+    indexes: 'znzzzdxsjsm',
+    question: '指南针最早的形式叫什么？',
+    id: 19257
+  },
+  {
+    answer: '春秋时期',
+    indexes: 'nzdzgscsmshqksznysczsytqdm',
+    question: '您知道中国是从什么时候起开始在农业生产种使用铁器的吗？',
+    id: 19258
+  },
+  {
+    answer: '基因学说的诞生',
+    indexes: 'nzdxmnyxbzbcwdssxwhlyldsdbglm',
+    question: '您知道下面哪一项不在被称为当时思想文化领域里的三大变革里吗？',
+    id: 19259
+  },
+  {
+    answer: '120',
+    indexes: 'b2zztksxfzzzdsmmhtpdtk',
+    question: '豹2主战坦克是西方最早装多少mm滑膛炮的坦克：',
+    id: 19260
+  },
+  {
+    answer: '范瑾',
+    indexes: 'zgdygnszs',
+    question: '中国第一个女市长是',
+    id: 19261
+  },
+  {
+    answer: '王灿芝',
+    indexes: 'zgdygnfxys',
+    question: '中国第一个女飞行员是',
+    id: 19262
+  },
+  {
+    answer: '第四代战斗机',
+    indexes: 'mgdF22mqzdjsydjdzdj',
+    question: '美国的F－22猛禽战斗机属于第几代战斗机？',
+    id: 19263
+  },
+  {
+    answer: '1227年',
+    indexes: 'cjshbsynyn',
+    question: '成吉思汗病逝于哪一年：',
+    id: 19264
+  },
+  {
+    answer: '2000',
+    indexes: 'xb20ydrmbsnynfxd',
+    question: '新版20元的人民币是哪一年发行的？',
+    id: 19265
+  },
+  {
+    answer: '李大钊',
+    indexes: '1927nzbjbjfzzlshdgcdcsrs',
+    question: '1927年在北京被军阀张作霖杀害的共产党创始人是',
+    id: 19266
+  },
+  {
+    answer: '武汉和南京国民政府合并',
+    indexes: 'lssdnhhlsz',
+    question: '历史上的“宁汉合流”是指',
+    id: 19267
+  },
+  {
+    answer: '改革币制',
+    indexes: 'gmzfscqdwdczdcszcxjwmxds',
+    question: '国民政府所采取的稳定财政的措施中，成效较为明显的是',
+    id: 19268
+  },
+  {
+    answer: '于谦',
+    indexes: 'qcwjcsslhfsrdxfssgqbpylqbzrjdzzss',
+    question: '“千锤万击出深山，烈火焚烧若等闲。粉身碎骨全不怕，要留清白在人间。”的作者是谁？',
+    id: 19269
+  },
+  {
+    answer: '章邯',
+    indexes: 'xyzjldbqhksl30wqjjzdslqjtjdzjs',
+    question: '项羽在巨鹿大败秦后，坑杀了30万秦军降卒，当时率秦军投降的主将是：',
+    id: 19270
+  },
+  {
+    answer: '清代王懿荣',
+    indexes: 'wgdygfxhyjjgwdxzss',
+    question: '我国第一个发现和研究甲骨文的学者是谁？',
+    id: 19271
+  },
+  {
+    answer: '南京',
+    indexes: 'mxlwyngdf',
+    question: '明孝陵位于哪个地方：',
+    id: 19272
+  },
+  {
+    answer: '康熙出过天花',
+    indexes: 'kx6sjwhdsywdsdwgrnhrtclsmjy',
+    question: '康熙6岁继位皇帝，是因为当时的外国人南怀仁提出了什么建议？',
+    id: 19273
+  },
+  {
+    answer: '曹锟',
+    indexes: 'xlsrzsbsbysj',
+    question: '下列四人中，谁不是“北洋三杰”',
+    id: 19274
+  },
+  {
+    answer: '楚',
+    indexes: 'cqsqtjgzbzydzhgs',
+    question: '春秋时期同晋国争霸中原的诸侯国是？',
+    id: 19275
+  },
+  {
+    answer: '商朝',
+    indexes: 'wgywzkkdlsschsksd',
+    question: '我国有文字可考的历史是从何时开始的？',
+    id: 19276
+  },
+  {
+    answer: '南通',
+    indexes: 'bcwzgjddycds',
+    question: '被称为中国近代第一城的是',
+    id: 19277
+  },
+  {
+    answer: '三国时期',
+    indexes: 'jasrdsds',
+    question: '建安诗人的时代是？',
+    id: 19278
+  },
+  {
+    answer: '田文',
+    indexes: 'mcjdmzs',
+    question: '孟尝君的名字是',
+    id: 19279
+  },
+  {
+    answer: '湖北省',
+    indexes: 'fmhzyssdbssxzngsdr',
+    question: '发明活字印刷术的毕升是现在哪个省的人？',
+    id: 19280
+  },
+  {
+    answer: '15',
+    indexes: '1981ncjzgdldyctfksdydsr',
+    question: '1981年，参加祖国大陆第一次“托福”考试的有多少人？',
+    id: 19281
+  },
+  {
+    answer: '曹操',
+    indexes: 'htbsss',
+    question: '华佗被谁所杀？',
+    id: 19282
+  },
+  {
+    answer: '随州',
+    indexes: 'xlnyxbsygjzzy',
+    question: '下列哪一项不属于古“九州”之一？',
+    id: 19283
+  },
+  {
+    answer: '曹操',
+    indexes: 'sgyyzlbsyhrzs',
+    question: '三国演义中吕布死于何人之手',
+    id: 19284
+  },
+  {
+    answer: '盐',
+    indexes: 'zgxlrmgmnlsy',
+    question: '在古希腊,人们购买奴隶是用：',
+    id: 19285
+  },
+  {
+    answer: '两宋之交',
+    indexes: 'jcncrlqzshzngsq',
+    question: '杰出女词人李清照生活在哪个时期？',
+    id: 19286
+  },
+  {
+    answer: '前秦',
+    indexes: 'wgzzdjsyxsngcd',
+    question: '我国最早的军事院校是哪个朝代：',
+    id: 19287
+  },
+  {
+    answer: '36',
+    indexes: 'qshtyzghzqgsljxyzlgjtbtxfcldsgj',
+    question: '秦始皇统一中国后，在全国设立郡县以治理国家，他把天下分成了多少个郡？',
+    id: 19288
+  },
+  {
+    answer: '上杉谦信',
+    indexes: 'rbfmzmfzfhmds',
+    question: '日本发明在米饭中放红梅的是',
+    id: 19289
+  },
+  {
+    answer: '孙殿英',
+    indexes: 'ljdqdlddldds',
+    question: '率军盗取东陵的东陵大盗是',
+    id: 19290
+  },
+  {
+    answer: '陆逊',
+    indexes: 'sgzyjhslyblbdddbdss',
+    question: '三国中用计火烧连营把刘备打得大败的是谁？',
+    id: 19291
+  },
+  {
+    answer: '蔡锷',
+    indexes: 'tyhgjsxyszzfq',
+    question: '讨袁护国军首先由谁组织发起',
+    id: 19292
+  },
+  {
+    answer: '美国',
+    indexes: 'zzdjydbxcynggj',
+    question: '最早的家用电冰箱产于哪个国家？',
+    id: 19293
+  },
+  {
+    answer: '中国',
+    indexes: 'sjszzdfldjscxznggj',
+    question: '世界上最早的风力等级是出现在哪个国家？',
+    id: 19294
+  },
+  {
+    answer: '“一二九”',
+    indexes: 'jnlhzjzdlhzsnccazdyhz',
+    question: '《记念刘和珍君》中的“刘和珍”是哪次惨案中的遇害者？',
+    id: 19295
+  },
+  {
+    answer: '１９９１年底',
+    indexes: 'swashzyghglmjtsznyn',
+    question: '苏维埃社会主义共和国联盟解体是在哪一年？',
+    id: 19296
+  },
+  {
+    answer: '1985年',
+    indexes: 'xcdhhlsnynjcd',
+    question: '现存的黄鹤楼是哪一年建成的？',
+    id: 19297
+  },
+  {
+    answer: '王夫之',
+    indexes: 'wggdrwsjswzgcbylrdzgysedlczdsxjs',
+    question: '我国古代认为世界是物质构成，不依赖人的主观意识而独立存在的思想家是：',
+    id: 19298
+  },
+  {
+    answer: '杨贵妃',
+    indexes: 'zggdsdmnzbczxhdsnyg',
+    question: '中国古代四大美女中，被称作“羞花”的是哪一个？',
+    id: 19299
+  },
+  {
+    answer: '酸梅',
+    indexes: 'gddrbrshqkzyddwsjbdrjcdshcnzyxcwsysmxcxf',
+    question:
+      '古代的日本人生活清苦，只有达到武士级别的人进餐的时候才能佐以小菜，武士以什么小菜下饭？',
+    id: 19300
+  },
+  {
+    answer: '望厦条约',
+    indexes: 'qzfhmgqdddygbpdtys',
+    question: '清政府和美国签定的第一个不平等条约是',
+    id: 19301
+  },
+  {
+    answer: '弥衡说黄祖',
+    indexes: 'rsmzzsssjshwlyssss',
+    question: '“汝似庙中之神，虽受祭祀，恨无灵验”是谁说谁？',
+    id: 19302
+  },
+  {
+    answer: '保加利亚',
+    indexes: 'mgzgzdsnggj',
+    question: '“玫瑰之国”指的是哪个国家？',
+    id: 19303
+  },
+  {
+    answer: '袁绍',
+    indexes: 'qmzjsccshrsldbhmwdgdsexsjxlewm',
+    question: '青梅煮酒时，曹操说何人色厉胆薄，好谋无断；干大事而惜身，见小利而亡命？',
+    id: 19304
+  },
+  {
+    answer: '丁磊',
+    indexes: '2003ndzgsfss',
+    question: '2003年的中国首富是谁？',
+    id: 19305
+  },
+  {
+    answer: '7月',
+    indexes: 'zgdlfzsdbdsngyf',
+    question: '在古代历法中，“申”代表的是哪个月份？',
+    id: 19306
+  },
+  {
+    answer: '汉',
+    indexes: 'mwdyhgmsngcd',
+    question: '马王堆一号古墓是哪个朝代',
+    id: 19307
+  },
+  {
+    answer: '大理石',
+    indexes: 'bsxtsysmstqc',
+    question: '比萨斜塔是用什么石头砌成？',
+    id: 19308
+  },
+  {
+    answer: '１９８８年７月１日',
+    indexes: 'zgrmjfjc1955nsxjxz1966nbqxwjxykssxxdjxzdssmsh',
+    question:
+      '中国人民解放军从1955年实行军衔制，1966年被取消。我军现又开始实行新的军衔制度是什么时候？',
+    id: 19309
+  },
+  {
+    answer: '饮酒食肉，谈笑弈棋',
+    indexes: 'htjgyggldsgyshxt',
+    question: '华佗给关羽刮骨疗毒时关羽是何形态？',
+    id: 19310
+  },
+  {
+    answer: '《唐六典》',
+    indexes: 'zggdzzdybbjwzdxzfds',
+    question: '中国古代最早的一部比较完整的行政法典是：',
+    id: 19311
+  },
+  {
+    answer: '大食',
+    indexes: 'tczzsjxlnygjcdoz',
+    question: '唐朝造纸术经下列哪一国家传到欧洲',
+    id: 19312
+  },
+  {
+    answer: '和尚',
+    indexes: 'mckghdzyzczgsm',
+    question: '明朝开国皇帝朱元璋曾做过什么？',
+    id: 19313
+  },
+  {
+    answer: '南京',
+    indexes: 'hxqfdjtqyjghtptgzctwxfsnddtjtjsxzdsmdf',
+    question:
+      '洪秀全发动金田起义，建国号太平天国，自称天王。咸丰三年定都天京，天京是现在的什么地方？',
+    id: 19314
+  },
+  {
+    answer: '1972年',
+    indexes: 'mgztnksnynfh',
+    question: '美国总统尼克松哪一年访华？',
+    id: 19315
+  },
+  {
+    answer: '西汉',
+    indexes: 'wgymwrlytsy',
+    question: '我国以煤为燃料冶铁始于',
+    id: 19316
+  },
+  {
+    answer: '神宗',
+    indexes: 'wasbffszscnghdzwqj',
+    question: '王安石变法发生在宋朝哪个皇帝在位期间？',
+    id: 19317
+  },
+  {
+    answer: '正红旗',
+    indexes: 'qcsbjcdxzmsymznyqzsd',
+    question: '清朝时，北京城的西直门是由满族哪一旗驻守的？',
+    id: 19318
+  },
+  {
+    answer: '德国',
+    indexes: 'sjsdybyxzrgsfsynggjzdd',
+    question: '世界上第一部《有限责任公司法》是由哪个国家制定的？',
+    id: 19319
+  },
+  {
+    answer: '新石器',
+    indexes: 'yswhswglssngsdzqdwh',
+    question: '仰韶文化是我国历史上哪个时代中期的文化？',
+    id: 19320
+  },
+  {
+    answer: '木头',
+    indexes: 'sjsdylmtcdzycls',
+    question: '世界上第一辆摩托车的主要材料是：',
+    id: 19321
+  },
+  {
+    answer: '蔡元培',
+    indexes: 'zwgzztcxfzds',
+    question: '在我国最早提倡学分制的是：',
+    id: 19322
+  },
+  {
+    answer: '科举制度',
+    indexes: 'mzlczzsscrppdsd',
+    question: '“谬种流传”最早是宋朝人批评当时的：',
+    id: 19323
+  },
+  {
+    answer: '礼',
+    indexes: 'zggdhyfzzydyyssm',
+    question: '中国古代婚姻法最重要的渊源是什么？',
+    id: 19324
+  },
+  {
+    answer: '苏美尔人',
+    indexes: 'zzdxxwzsyzs',
+    question: '最早的楔形文字使用者是：',
+    id: 19325
+  },
+  {
+    answer: '隋朝',
+    indexes: 'kjzdscyhs',
+    question: '科举制度始创于何时？',
+    id: 19326
+  },
+  {
+    answer: '商',
+    indexes: 'chsqdzgtzzcw',
+    question: '从何时起，对最高统治者称“王”？',
+    id: 19327
+  },
+  {
+    answer: '特务机关',
+    indexes: 'mdddchxcs',
+    question: '明代的东厂和西厂是：',
+    id: 19328
+  },
+  {
+    answer: '2个',
+    indexes: 'dyjged',
+    question: '鼎有几个“耳朵”？',
+    id: 19329
+  },
+  {
+    answer: '华佗',
+    indexes: 'gdtcwqxwssc',
+    question: '古代体操五禽戏为谁所创？',
+    id: 19330
+  },
+  {
+    answer: '荀子',
+    indexes: 'zglsszzjlhfjhqlyfzcslzdsxjs',
+    question: '中国历史上最早将礼和法结合起来，以“法治”充实“礼治”的思想家是：',
+    id: 19331
+  },
+  {
+    answer: '中国人',
+    indexes: 'dygcczwxzddrs',
+    question: '第一个测出子午线长度的人是？',
+    id: 19332
+  },
+  {
+    answer: '《教育界》',
+    indexes: 'zgzzdjyzykws',
+    question: '中国最早的教育专业刊物是：',
+    id: 19333
+  },
+  {
+    answer: '梁思成',
+    indexes: 'zggjzxkdktzs',
+    question: '中国古建筑学科的开拓者是：',
+    id: 19334
+  },
+  {
+    answer: '赵飞燕',
+    indexes: 'xcwggdnzzswdmns',
+    question: '相传我国古代能作“掌上舞”的美女是：',
+    id: 19335
+  },
+  {
+    answer: '山东',
+    indexes: 'cqsdqghlgzxzdngs',
+    question: '春秋时的齐国和鲁国，在现在的哪个省？',
+    id: 19336
+  },
+  {
+    answer: '官名',
+    indexes: 'fmzcsz',
+    question: '“驸马”最初是指：',
+    id: 19337
+  },
+  {
+    answer: '龙',
+    indexes: 'zgdymypsysmtawzt',
+    question: '中国第一枚邮票是以什么图案为主图',
+    id: 19338
+  },
+  {
+    answer: '宫廷',
+    indexes: 'zzblwcxy',
+    question: '最早芭蕾舞出现于：',
+    id: 19339
+  },
+  {
+    answer: '以唱戏为职业的人',
+    indexes: 'zggdlrzds',
+    question: '中国古代伶人指的是',
+    id: 19340
+  },
+  {
+    answer: '关羽',
+    indexes: 'ssflhz',
+    question: '谁收服了黄忠？',
+    id: 19341
+  },
+  {
+    answer: '曹髦',
+    indexes: 'smzzxlrjzsssdh',
+    question: '“司马昭之心，路人皆知”是谁说的话？',
+    id: 19342
+  },
+  {
+    answer: '焦触、张南',
+    indexes: 'zcbzzqcccysqdlyzjgcjdblydjbstmss',
+    question: '在赤壁之战前，曹操曾与孙权打了一仗，结果曹军大败，两员大将被杀，他们是谁？',
+    id: 19343
+  },
+  {
+    answer: '王平',
+    indexes: 'sscccctdlbcd',
+    question: '谁是从曹操处投到刘备处的？',
+    id: 19344
+  },
+  {
+    answer: '辛眦',
+    indexes: 'xlwrnygbsysdbx',
+    question: '下列文人，哪一个不是袁绍的部下？',
+    id: 19345
+  },
+  {
+    answer: '博望坡',
+    indexes: 'zglccdszsznl',
+    question: '诸葛亮初次打胜仗是在哪里？',
+    id: 19346
+  },
+  {
+    answer: '乌桓',
+    indexes: 'zmdgchsccgdsmdfsxd',
+    question: '著名的《观沧海》是曹操攻打什么地方时写的？',
+    id: 19347
+  },
+  {
+    answer: '临沮',
+    indexes: 'gyfzznlbq',
+    question: '关羽父子在哪里被擒？',
+    id: 19348
+  },
+  {
+    answer: '护驾有功',
+    indexes: 'dzyhdsxg',
+    question: '董卓因何当上相国？',
+    id: 19349
+  },
+  {
+    answer: '上方谷',
+    indexes: 'smyfzznczyzjhsm',
+    question: '司马懿父子在哪次战役中几乎丧命？',
+    id: 19350
+  },
+  {
+    answer: '说了曹操的坏话',
+    indexes: 'kryhlybccsl',
+    question: '孔融因何理由被曹操杀了？',
+    id: 19351
+  },
+  {
+    answer: '1931年',
+    indexes: 'jybsbsy',
+    question: '九一八事变始于',
+    id: 19352
+  },
+  {
+    answer: '唐代',
+    indexes: 'ygsdssmshdqq',
+    question: '《阳关三叠》是什么时候的琴曲？',
+    id: 19353
+  },
+  {
+    answer: '孙中山',
+    indexes: 'sszszdcsr',
+    question: '谁是“中山装”的创始人？',
+    id: 19354
+  },
+  {
+    answer: '唐代',
+    indexes: 'xcgyyzjcdzzdfgcsy',
+    question: '现存关于遗嘱继承的最早的法规产生于：',
+    id: 19355
+  },
+  {
+    answer: '30分钟',
+    indexes: 'QQsgjtzstcsdjtzxyzsqdjjxbm',
+    question: 'QQ三国军团战，试图参赛的军团长需要在赛前多久进行报名？',
+    id: 19356
+  },
+  {
+    answer: '每周星期六',
+    indexes: 'QQsgjtzmgxqsmshjx',
+    question: 'QQ三国军团战，每个星期什么时候进行？',
+    id: 19357
+  },
+  {
+    answer: '没有匹配到对手',
+    indexes: 'QQsgjtzsmqkxcsdwhzdhs',
+    question: 'QQ三国军团战，什么情况下，参赛队伍会自动获胜？',
+    id: 19358
+  },
+  {
+    answer: '50级及以上',
+    indexes: 'QQsgjtzjtcywjddjyqs',
+    question: 'QQ三国军团战，军团参与玩家的等级要求是？',
+    id: 19359
+  },
+  {
+    answer: '70人',
+    indexes: 'QQsgjtzmgjtcywjslsxs',
+    question: 'QQ三国军团战，每个军团参与玩家数量上限是？',
+    id: 19360
+  },
+  {
+    answer: '率先击破对手军团长雕像的队伍',
+    indexes: 'QQsgjtzzzpdsfdyjs',
+    question: 'QQ三国军团战，最终评定胜负的依据是？',
+    id: 19361
+  },
+  {
+    answer: '战斗积分',
+    indexes: 'QQsgjtzyxsfppdjdxyjs',
+    question: 'QQ三国军团战，影响双方匹配的决定性依据是？',
+    id: 19362
+  },
+  {
+    answer: '击杀数和击破节点数',
+    indexes: 'QQsgjtzjtzdjfsrhjsd',
+    question: 'QQ三国军团战，军团战斗积分是如何计算的？',
+    id: 19363
+  },
+  {
+    answer: '10级以内',
+    indexes: 'QQsgjtzjsdskyhdzdjfqwjshzjjcdddwjkyhdjfn',
+    question:
+      'QQ三国军团战，击杀对手可以获得战斗积分，请问击杀和自己级差多大的玩家可以获得积分呢？',
+    id: 19364
+  },
+  {
+    answer: '10级以内',
+    indexes: 'QQsgjtzjsdskyhdzdjfqwjshzjjcddd',
+    question: 'QQ三国军团战，击杀对手可以获得战斗积分，请问击杀和自己级差多大的',
+    id: 19365
+  },
+  {
+    answer: 'F9',
+    indexes: 'scdkjjssm',
+    question: '商城的快捷键是什么？',
+    id: 19366
+  },
+  {
+    answer: '凤',
+    indexes: 'sgyyzzssgqylzhcswysjpXkzhxXsz',
+    question: "三国演义中,在汜水关前有路诸侯曾说'吾有上将潘X可斩华雄'X是指？",
+    id: 19367
+  },
+  {
+    answer: '煮酒论英雄',
+    indexes: 'mchxzqsspyxjsrqjwlzyssjybxrszsssdssgyyzlbhccdydgszggss',
+    question:
+      '勉从虎穴暂栖身，说破英雄惊煞人．巧将闻雷作掩饰，随机应变信如神>这首诗说的是<三国演义>中刘备和曹操的一段故事．这个故事是',
+    id: 19368
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'gycldmsnxszqd',
+    question: '关于草料的描述，哪些是正确的：',
+    id: 19369
+  },
+  {
+    answer: '1945',
+    indexes: 'gdyzdsnynbzd',
+    question: '广岛原子弹是哪一年爆炸的',
+    id: 19370
+  },
+  {
+    answer: '6月6日',
+    indexes: 'nmddlfsy1944n',
+    question: '诺曼底登陆发生于1944年：',
+    id: 19371
+  },
+  {
+    answer: '88层',
+    indexes: 'shjmdsg4205mjbsjzgdygjzwyjc',
+    question: '上海金茂大厦高420.5米,居本世纪中国第一高建筑,问有几层?',
+    id: 19372
+  },
+  {
+    answer: '1.1--1.4米',
+    indexes: 'xhczhcsgdddssbxgmxhp',
+    question: '小孩乘坐火车身高达到多少时必须购买小孩票？',
+    id: 19373
+  },
+  {
+    answer: '22.4%',
+    indexes: 'lwzsgxszzrkdbfzds',
+    question: '李、王、张三个姓氏占总人口的百分之多少？',
+    id: 19374
+  },
+  {
+    answer: '1842年',
+    indexes: 'zynjtyszgjdssdygbpdtynynqdd',
+    question: '中英〈南京条约〉是中国近代史上第一个不平等条约，哪一年签定的',
+    id: 19375
+  },
+  {
+    answer: '1941',
+    indexes: 'rbsnntxmgdzzg',
+    question: '日本是哪年偷袭美国的珍珠港',
+    id: 19376
+  },
+  {
+    answer: '8月15日',
+    indexes: '1945nrbzfzsxbwtjtjdsjs',
+    question: '1945年日本政府正式宣布无条件投降的时间是？',
+    id: 19377
+  },
+  {
+    answer: '14立方米',
+    indexes: 'cnrdbzytycldydslfmdkq',
+    question: '成年人的鼻子一天要处理大约多少立方米的空气',
+    id: 19378
+  },
+  {
+    answer: '1946',
+    indexes: 'NBAznyncl',
+    question: 'NBA在哪一年创立？',
+    id: 19379
+  },
+  {
+    answer: '1948年12月1日',
+    indexes: 'zgrmyxclsnyncld',
+    question: '中国人民银行成立是哪一年成立的？',
+    id: 19380
+  },
+  {
+    answer: '1997年4月1日',
+    indexes: 'wgtldyctssznyn',
+    question: '我国铁路第一次提速是在哪一年？',
+    id: 19381
+  },
+  {
+    answer: '四世同堂',
+    indexes: 'lsczy40nddzps',
+    question: '老舍创作于40年代的作品是：',
+    id: 19382
+  },
+  {
+    answer: '46条',
+    indexes: 'zcrttxbydstrst',
+    question: '正常人体体细胞有多少条染色体',
+    id: 19383
+  },
+  {
+    answer: '43.1℃',
+    indexes: 'rzsswdtwljxs',
+    question: '人中暑死亡的体温临界线是',
+    id: 19384
+  },
+  {
+    answer: 'mx0.4%',
+    indexes: 'drtxyzdjjnddddsrhsqzj',
+    question: '当人体血液中的酒精浓度达到多少，人会失去知觉？',
+    id: 19385
+  },
+  {
+    answer: '1949年11月11日',
+    indexes: 'zgrmjfjkjldjgshscl',
+    question: '中国人民解放军空军领导机构是何时成立?',
+    id: 19386
+  },
+  {
+    answer: '10月24日',
+    indexes: 'lhgrwnyt',
+    question: '联合国日为哪一天？',
+    id: 19387
+  },
+  {
+    answer: '巴黎',
+    indexes: '1924nalpkydhdjbds',
+    question: '1924年奥林匹克运动会的举办地是？',
+    id: 19388
+  },
+  {
+    answer: '24个月',
+    indexes: 'mqwgfhtjdsyrylqsybxjdzzqxw',
+    question: '目前我国符合条件的失业人员领取失业保险金的最长期限为',
+    id: 19389
+  },
+  {
+    answer: '4年',
+    indexes: 'gjzrkxydjz1977nclylzdyglxjnkq',
+    question: '国家自然科学一等奖自1977年创立以来最多有过连续几年空缺',
+    id: 19390
+  },
+  {
+    answer: '意大利',
+    indexes: '1347nnggjdywsrqfldyzhybxd',
+    question: '1347年，哪个国家的一位商人签发了第一张海运保险单？',
+    id: 19391
+  },
+  {
+    answer: '1914年',
+    indexes: 'slrwsjsdycsjdzddhxtfsz',
+    question: '“萨拉热窝事件”是第一次世界大战的导火线，它发生在',
+    id: 19392
+  },
+  {
+    answer: '45亿',
+    indexes: 'dqxcldsn',
+    question: '地球形成了多少年',
+    id: 19393
+  },
+  {
+    answer: '841年',
+    indexes: 'wgyqqjnkssnn',
+    question: '我国有确切纪年开始是哪年?',
+    id: 19394
+  },
+  {
+    answer: '浙江大学',
+    indexes: '1992ny4sdxhbds',
+    question: '1992年由4所大学合并的是：',
+    id: 19395
+  },
+  {
+    answer: '24万以上',
+    indexes: 'tsddzsdsrsw',
+    question: '唐山大地震使多少人死亡：',
+    id: 19396
+  },
+  {
+    answer: '4.6万人',
+    indexes: 'gmgmjdbljclsgydsr',
+    question: '国民革命军第八路军成立时共有多少人。',
+    id: 19397
+  },
+  {
+    answer: '周恩来、王若飞',
+    indexes: '1945n8yymzdyqfzqtgmdtpdy',
+    question: '1945年8月，与毛泽东一起赴重庆同国民党谈判的有',
+    id: 19398
+  },
+  {
+    answer: '廖仲恺',
+    indexes: '1924nhpjxjljxdddbs',
+    question: '1924年，黄埔军校建立，军校的党代表是：',
+    id: 19399
+  },
+  {
+    answer: '1984年',
+    indexes: 'wgxxxfbbynyn',
+    question: '我国现行宪法颁布于哪一年？',
+    id: 19400
+  },
+  {
+    answer: '光绪二十年',
+    indexes: 'zrjwzzs18941895nzgjmkjrbqldzz1894ngzwjwsqgxjn',
+    question:
+      '中日甲午战争是1894～1895年中国军民抗击日本侵略的战争。1894年干支为甲午，是清光绪几年：',
+    id: 19401
+  },
+  {
+    answer: '1840',
+    indexes: 'ypzzfsznyn',
+    question: '鸦片战争发生在哪一年？',
+    id: 19402
+  },
+  {
+    answer: '1934年',
+    indexes: 'dgrqblsznyn',
+    question: '德国入侵波兰是在哪一年：',
+    id: 19403
+  },
+  {
+    answer: '1940年春',
+    indexes: 'wjwclnjwgmzfdsjs',
+    question: '汪精卫成立南京伪国民政府的时间是',
+    id: 19404
+  },
+  {
+    answer: '五二Ｏ惨案',
+    indexes: '1947ngmdfdpckzygtqfjefnzfphdxsydzzdlxcas',
+    question:
+      '1947年国民党反动派残酷镇压国统区“反饥饿、反内战、反迫害”的学生运动，制造的流血惨案是？',
+    id: 19405
+  },
+  {
+    answer: '10月16日',
+    indexes: 'zgdykyzdbzdrqs1964nd',
+    question: '中国第一颗原子弹爆炸的日期是1964年的：',
+    id: 19406
+  },
+  {
+    answer: '冯玉祥',
+    indexes: '1924nfdbjzbdzxjls',
+    question: '1924年发动北京政变的直系将领是',
+    id: 19407
+  },
+  {
+    answer: '1847',
+    indexes: 'sjzmdfmjadsdsynyn',
+    question: '世界著名的发明家爱迪生诞生于那一年？',
+    id: 19408
+  },
+  {
+    answer: '1949年',
+    indexes: 'wsqnjzsqdy',
+    question: '“五四”青年节正式确定于：',
+    id: 19409
+  },
+  {
+    answer: '14年多',
+    indexes: 'alsssmzlstczddycplqlsdj',
+    question: '安禄山、史思明之乱是唐朝最大的一次叛乱，其历时多久？',
+    id: 19410
+  },
+  {
+    answer: '1949',
+    indexes: 'bybdxygyzzcly_________n4y4r',
+    question: '北约（北大西洋公约组织），成立于_________年4月4日。',
+    id: 19411
+  },
+  {
+    answer: '45号',
+    indexes: 'lqjxqddycfchscdqysdsh',
+    question: '篮球巨星乔丹第一次复出后所穿的球衣是多少号？',
+    id: 19412
+  },
+  {
+    answer: '1946年',
+    indexes: 'zgrmjfjdsy1927n8y1rqchyjjbgqznyngczgrmjfjd',
+    question:
+      '中国人民解放军诞生于1927年8月1日，其称呼也几经变更，其在哪一年改称中国人民解放军的？',
+    id: 19413
+  },
+  {
+    answer: '1234',
+    indexes: 'asjsxplyxlssj1zhswadycqgdbdh2wmzgjl3gmddscwjbdp4zhghgrmzfcl',
+    question:
+      '按时间顺序排列以下历史事件：1中华苏维埃第一次全国代表大会；2伪满洲国建立；3国民党第四次围剿被打破；4中华共和国人民政府成立',
+    id: 19414
+  },
+  {
+    answer: '刘伯承、邓小平',
+    indexes: '1947n6ylljjlyjfjzlqlyjdbsds',
+    question: '1947年6月，率领晋冀鲁豫解放军主力千里跃进大别山的是',
+    id: 19415
+  },
+  {
+    answer: '9月2日',
+    indexes: '1945nrbzsqstjsdsjs',
+    question: '1945年日本正式签署投降书的时间是',
+    id: 19416
+  },
+  {
+    answer: '4个',
+    indexes: '1940nczgjnbcdzqyjg',
+    question: '1940年春，中国境内并存的政权有几个',
+    id: 19417
+  },
+  {
+    answer: '1.45亿年',
+    indexes: 'zljdycgyq205yndgqyqdsn',
+    question: '侏罗纪大约从公元前2.05亿年到公前元前多少年?',
+    id: 19418
+  },
+  {
+    answer: '巴黎',
+    indexes: 'lhgjykxjwhzzslhgzmjgzy1946n11y4rclzbsz',
+    question: '联合国教育、科学及文化组织是联合国专门机构之一。1946年11月4日成立，总部设在：',
+    id: 19419
+  },
+  {
+    answer: '14',
+    indexes: 'qwnplz1794nbrydrjjldst',
+    question: '请问拿破仑在1794年被热月党人监禁了多少天？',
+    id: 19420
+  },
+  {
+    answer: '14年多',
+    indexes: 'alsssmzlstczddycplqlsdj',
+    question: '安禄山、史思明之乱是唐朝最大的一次叛乱，其历时多久：',
+    id: 19421
+  },
+  {
+    answer: '1954年',
+    indexes: 'qzgltcsj',
+    question: '青藏公路通车时间',
+    id: 19422
+  },
+  {
+    answer: '氐族',
+    indexes: '4sjxbqtyhhlydzqsngssmzjld',
+    question: '4世纪下半期统一黄河流域的政权是哪个少数民族建立的',
+    id: 19423
+  },
+  {
+    answer: '鲁国',
+    indexes: 'gyq594nsxcsmamssdgjs',
+    question: '公元前594年，实行“初税亩”，按亩收税的国家是：',
+    id: 19424
+  },
+  {
+    answer: '94年',
+    indexes: 'Internetwznynjrzg',
+    question: 'Internet网在哪一年进入中国？',
+    id: 19425
+  },
+  {
+    answer: '40分钟',
+    indexes: 'QQsgjtzycbsdbsszsxs',
+    question: 'QQ三国军团战，一场比赛的比赛时长上限是？',
+    id: 19426
+  },
+  {
+    answer: '苹果',
+    indexes: 'yxngsysg',
+    question: '以下哪个属于水果',
+    id: 19427
+  },
+  {
+    answer: '荞麦',
+    indexes: 'yxngslxsw',
+    question: '以下哪个是凉性食物？',
+    id: 19428
+  },
+  {
+    answer: '兰花',
+    indexes: 'nghhbyfrfj',
+    question: '哪个花卉不宜放入房间？',
+    id: 19429
+  },
+  {
+    answer: '鸡蛋',
+    indexes: 'ngswbysc',
+    question: '哪个食物不宜生吃？',
+    id: 19430
+  },
+  {
+    answer: '螃蟹',
+    indexes: 'yxngsyfbycdsw',
+    question: '以下哪个是孕妇不宜吃的食物',
+    id: 19431
+  },
+  {
+    answer: '海豚',
+    indexes: 'yxngdwhyy',
+    question: '以下哪个动物会游泳？',
+    id: 19432
+  },
+  {
+    answer: '龙井',
+    indexes: 'yxngcsbfjc',
+    question: '以下哪个茶是不发酵茶？',
+    id: 19433
+  },
+  {
+    answer: '宝鸡',
+    indexes: 'yxngcsbsshcs',
+    question: '以下哪个城市不是省会城市',
+    id: 19434
+  },
+  {
+    answer: '太湖',
+    indexes: 'yxngswgddsh',
+    question: '以下哪个是我国的淡水湖',
+    id: 19435
+  },
+  {
+    answer: '马铃薯',
+    indexes: 'yxngswszzdx',
+    question: '以下哪个食物生长在地下？',
+    id: 19436
+  },
+  {
+    answer: '粳米',
+    indexes: 'yxngsywg',
+    question: '以下哪个属于五谷？',
+    id: 19437
+  },
+  {
+    answer: '桂皮',
+    indexes: 'yxngsytrdwp',
+    question: '以下哪个属于天然调味品',
+    id: 19438
+  },
+  {
+    answer: '吉他',
+    indexes: 'yxnzbsyzhmzlq',
+    question: '以下哪种不属于中华民族乐器',
+    id: 19439
+  },
+  {
+    answer: '猪',
+    indexes: 'yxngdwsjc',
+    question: '以下哪个动物是家畜？',
+    id: 19440
+  },
+  {
+    answer: '鸡',
+    indexes: 'yxngdwbsnl',
+    question: '以下哪个动物不是鸟类？',
+    id: 19441
+  },
+  {
+    answer: '眼睛',
+    indexes: 'yxngsrdgjqg',
+    question: '以下哪个是人的感觉器官？',
+    id: 19442
+  },
+  {
+    answer: '主板',
+    indexes: 'yxngdzyjkyzzdndzjl',
+    question: '以下哪个电子元件可以装在电脑的主机里？',
+    id: 19443
+  },
+  {
+    answer: '骨髓',
+    indexes: 'yxngqgzzlxy',
+    question: '以下哪个器官制造了血液？',
+    id: 19444
+  },
+  {
+    answer: '阿拉伯',
+    indexes: 'yxngbswgsyydmz',
+    question: '以下哪个不是我国所拥有的民族？',
+    id: 19445
+  },
+  {
+    answer: '尼泊尔',
+    indexes: 'yxngswglslg',
+    question: '以下哪个是我国陆上邻国？',
+    id: 19446
+  },
+  {
+    answer: '清华大学',
+    indexes: 'yxngdxddzzbj',
+    question: '以下哪个大学的地址在北京？',
+    id: 19447
+  },
+  {
+    answer: '玫瑰',
+    indexes: 'yxngzwsygm',
+    question: '以下哪个植物属于灌木？',
+    id: 19448
+  },
+  {
+    answer: '乘坐飞机',
+    indexes: 'yxngcnrdrcxwbxsysfz',
+    question: '以下哪个成年人的日常行为必须使用身份证？',
+    id: 19449
+  },
+  {
+    answer: '人参',
+    indexes: 'yxngbsysc',
+    question: '以下哪个不属于蔬菜？',
+    id: 19450
+  },
+  {
+    answer: '工商银行',
+    indexes: 'yxngsgyzyx',
+    question: '以下哪个是国有制银行？',
+    id: 19451
+  },
+  {
+    answer: '脆皮乳猪',
+    indexes: 'yxngbscc',
+    question: '以下哪个不是川菜？',
+    id: 19452
+  },
+  {
+    answer: '非常6+1',
+    indexes: 'yxngsmqzydstdlm',
+    question: '以下哪个是目前中央电视台的栏目',
+    id: 19453
+  },
+  {
+    answer: '李咏',
+    indexes: 'yxngsmqzydstdlmzcr',
+    question: '以下哪个是目前中央电视台的栏目主持人',
+    id: 19454
+  },
+  {
+    answer: '老虎',
+    indexes: 'yxnzdwsrsdw',
+    question: '以下哪种动物是肉食动物？',
+    id: 19455
+  },
+  {
+    answer: '播放电影',
+    indexes: 'yxngbsyzrxx',
+    question: '以下哪个不属于自然现象？',
+    id: 19456
+  },
+  {
+    answer: '鲨鱼',
+    indexes: 'yxngbsdsy',
+    question: '以下哪个不是淡水鱼？',
+    id: 19457
+  },
+  {
+    answer: '赤壁之战',
+    indexes: 'dmcbszdfbyzlbtqcsseqdjzxdssmzy',
+    question: '杜牧<赤壁>诗中东风不与周郎便,铜雀春深锁二乔的句子写的是什么战役;.',
+    id: 19458
+  },
+  {
+    answer: '生水',
+    indexes: 'xmnzssbnghd',
+    question: '下面哪种水是不能够喝的？',
+    id: 19459
+  },
+  {
+    answer: '腹部手术后的患者',
+    indexes: 'xmngrbyhnn',
+    question: '下面哪个人不宜喝牛奶',
+    id: 19460
+  },
+  {
+    answer: '三打祝家庄',
+    indexes: 'xlgszbssgyyzdyxs',
+    question: '下列故事中不是三国演义中的一项是:',
+    id: 19461
+  },
+  {
+    answer: '中华鲟',
+    indexes: 'yxngdwycx',
+    question: '以下哪个动物有触须',
+    id: 19462
+  },
+  {
+    answer: '太阳出来喜洋洋',
+    indexes: 'yxnggqsscmg',
+    question: '以下哪个歌曲是四川民歌',
+    id: 19463
+  },
+  {
+    answer: '达芬奇密码',
+    indexes: 'yxngxsbszgzjdzz',
+    question: '以下哪个小说不是中国作家的著作',
+    id: 19464
+  },
+  {
+    answer: '糖醋黄河鲤鱼',
+    indexes: 'yxngcysylc',
+    question: '以下哪个菜肴属于鲁菜',
+    id: 19465
+  },
+  {
+    answer: '桃',
+    indexes: 'yxngsgzdsctdwg',
+    question: '以下哪个水果指的是传统的五果？',
+    id: 19466
+  },
+  {
+    answer: '黍',
+    indexes: 'yxngszgctdwg',
+    question: '以下哪个是中国传统的五谷',
+    id: 19467
+  },
+  {
+    answer: '复活节',
+    indexes: 'yxbszgctjrds',
+    question: '以下不是中国传统节日的是',
+    id: 19468
+  },
+  {
+    answer: '刘备',
+    indexes: 'ydxxkhraqxrkzdss',
+    question: '＂一代枭雄，宽厚仁爱，求贤若渴＂指的是谁',
+    id: 19469
+  },
+  {
+    answer: '玻璃翠',
+    indexes: 'yxnghhshscfz',
+    question: '以下哪个花卉适合水插繁殖',
+    id: 19470
+  },
+  {
+    answer: '喜马拉雅山脉',
+    indexes: 'xmsyyzsmds',
+    question: '下面属于亚洲山脉的是',
+    id: 19471
+  },
+  {
+    answer: '心',
+    indexes: 'yxngsyzyzdwz',
+    question: '以下哪个属于中医中的五脏',
+    id: 19472
+  },
+  {
+    answer: '杨振宁',
+    indexes: 'yxngrhdgnbewlxj',
+    question: '以下哪个人获得过诺贝尔物理学奖',
+    id: 19473
+  },
+  {
+    answer: '天鹅湖',
+    indexes: 'qqzmdblwjs',
+    question: '全球著名的芭蕾舞剧是',
+    id: 19474
+  },
+  {
+    answer: '齐白石',
+    indexes: 'zgjxdzmhjs',
+    question: '中国近现代著名画家是',
+    id: 19475
+  },
+  {
+    answer: '关羽',
+    indexes: 'sgyyzdwhsjzds',
+    question: '三国演义中的五虎上将指的是',
+    id: 19476
+  },
+  {
+    answer: '羊肉串',
+    indexes: 'yxngxcjyxbfw',
+    question: '以下哪个小吃具有西北风味？',
+    id: 19477
+  },
+  {
+    answer: '粉底',
+    indexes: 'yxngsmrhzp',
+    question: '以下哪个是美容化妆品？',
+    id: 19478
+  },
+  {
+    answer: '肥皂',
+    indexes: 'yxngbscydhfhzp',
+    question: '以下哪个不是常用的护发化妆品？',
+    id: 19479
+  },
+  {
+    answer: '金',
+    indexes: 'yxngsgzjs',
+    question: '以下哪个是贵重金属？',
+    id: 19480
+  },
+  {
+    answer: '乌梅',
+    indexes: 'yxngsswsw',
+    question: '以下哪个是酸味食物？',
+    id: 19481
+  },
+  {
+    answer: '青海',
+    indexes: 'hhljyxngsf',
+    question: '黄河流经以下哪个省份？',
+    id: 19482
+  },
+  {
+    answer: '嘉士伯',
+    indexes: 'yxngpjbsgypp',
+    question: '以下哪个啤酒不是国有品牌？',
+    id: 19483
+  },
+  {
+    answer: '少林功夫',
+    indexes: 'yxbsyzxccygddys',
+    question: '以下不属于周星驰参与过的电影是？',
+    id: 19484
+  },
+  {
+    answer: '李',
+    indexes: 'yxngxcjcwlscddgx',
+    question: '以下哪个姓曾经成为历史朝代的国姓？',
+    id: 19485
+  },
+  {
+    answer: '新加坡',
+    indexes: 'yxngcsbsyzg',
+    question: '以下哪个城市不属于中国？',
+    id: 19486
+  },
+  {
+    answer: '洛阳',
+    indexes: 'ngcscjsgdhdddc',
+    question: '哪个城市曾经是古代皇帝的都城？',
+    id: 19487
+  },
+  {
+    answer: '五粮液',
+    indexes: 'yxngjcdzsc',
+    question: '以下哪个酒产地在四川？',
+    id: 19488
+  },
+  {
+    answer: '商业银行',
+    indexes: 'ngszgyxzy',
+    question: '哪个是中国银行之一？',
+    id: 19489
+  },
+  {
+    answer: '微软',
+    indexes: 'ngsITqyzy',
+    question: '哪个是IT企业之一？',
+    id: 19490
+  },
+  {
+    answer: '海量内存',
+    indexes: 'ngsITqyjszy',
+    question: '哪个是IT前沿技术之一？',
+    id: 19491
+  },
+  {
+    answer: '有限责任公司',
+    indexes: 'ngsgsqylx',
+    question: '哪个是公司企业类型？',
+    id: 19492
+  },
+  {
+    answer: '麦当劳',
+    indexes: 'ngscjkcdzy',
+    question: '哪个是常见快餐店之一？',
+    id: 19493
+  },
+  {
+    answer: '大钟',
+    indexes: 'ngsmdqdsd',
+    question: '哪个是卖电器的商店？',
+    id: 19494
+  },
+  {
+    answer: '农业',
+    indexes: 'ngswdwzscbm',
+    question: '哪个是五大物质生产部门？',
+    id: 19495
+  },
+  {
+    answer: '中国工商银行',
+    indexes: 'ngsgywdyxzy',
+    question: '哪个是国有五大银行之一？',
+    id: 19496
+  },
+  {
+    answer: '西湖龙井',
+    indexes: 'ngszgsdmczy',
+    question: '哪个是中国“十大名茶”之一？',
+    id: 19497
+  },
+  {
+    answer: '立春',
+    indexes: 'ngs24jqzy',
+    question: '哪个是24节气之一？',
+    id: 19498
+  },
+  {
+    answer: '口',
+    indexes: 'ngsxxzrtwgzy',
+    question: '哪个是相学中人体五官之一？',
+    id: 19499
+  },
+  {
+    answer: '端午节',
+    indexes: 'ngszgdctjr',
+    question: '哪个是中国的传统节日？',
+    id: 19500
+  },
+  {
+    answer: '铁拐李',
+    indexes: 'bxghzdbxynyg',
+    question: '八仙过海中的八仙有哪一个？',
+    id: 19501
+  },
+  {
+    answer: '吃寒食',
+    indexes: 'qmsjrmhjxnxhd',
+    question: '清明时节人们会进行哪项活动？',
+    id: 19502
+  },
+  {
+    answer: '20℃',
+    indexes: 'ngsrtzsydwjwd',
+    question: '哪个是人体最适宜的外界温度？',
+    id: 19503
+  },
+  {
+    answer: '口',
+    indexes: 'ngsxxzrtwgzy',
+    question: '哪个是相学中人体五官之一？',
+    id: 19504
+  },
+  {
+    answer: '英国',
+    indexes: 'lhgcrlsgsng',
+    question: '联合国常任理事国是哪个？',
+    id: 19505
+  },
+  {
+    answer: '华山',
+    indexes: 'yxngsswyzy',
+    question: '以下哪个山是五岳之一？',
+    id: 19506
+  },
+  {
+    answer: '东北平原',
+    indexes: 'ngpywyzg',
+    question: '哪个平原位于中国？',
+    id: 19507
+  },
+  {
+    answer: '京',
+    indexes: 'ngszgsqjczy',
+    question: '哪个是中国省区简称之一？',
+    id: 19508
+  },
+  {
+    answer: '江苏',
+    indexes: 'ngdqymyjj',
+    question: '哪个地区有梅雨季节？',
+    id: 19509
+  },
+  {
+    answer: '台风',
+    indexes: 'ngsyqhzcdzrzh',
+    question: '哪个属于气候造成的自然灾害？',
+    id: 19510
+  },
+  {
+    answer: '地面初期震动',
+    indexes: 'ngsdzqdyj',
+    question: '哪个是地震前的预警？',
+    id: 19511
+  },
+  {
+    answer: '床下',
+    indexes: 'nlssnbzjaqddf',
+    question: '哪里是室内避震较安全的地方？',
+    id: 19512
+  },
+  {
+    answer: '四季不分明',
+    indexes: 'rdjfhyxqhyngtz',
+    question: '热带季风海洋性气候有哪个特征？',
+    id: 19513
+  },
+  {
+    answer: '又叫社风',
+    indexes: 'nxsdhlfdzqjs',
+    question: '哪项是对寒露风的正确解释？',
+    id: 19514
+  },
+  {
+    answer: '冰雹',
+    indexes: 'ngsdnyncswhdqhxx',
+    question: '哪个是对农业能产生危害的气候现象？',
+    id: 19515
+  },
+  {
+    answer: '原意为圣婴',
+    indexes: 'ngdeenndjszq',
+    question: '哪个对厄尔尼诺的解释正确？',
+    id: 19516
+  },
+  {
+    answer: '干冰',
+    indexes: 'rgjyszlyzbshzwz',
+    question: '人工降雨是在冷云中播撒何种物质？',
+    id: 19517
+  },
+  {
+    answer: '60-100次',
+    indexes: 'yxngplfwsyzcrmfzxtplfw',
+    question: '以下哪个频率范围属于正常人每分钟心跳频率范围？',
+    id: 19518
+  },
+  {
+    answer: '1分',
+    indexes: 'yxngmzbsmqzzltdrmbmz',
+    question: '以下哪个面值不是目前正在流通的人民币面值？',
+    id: 19519
+  },
+  {
+    answer: '1级',
+    indexes: 'ngsyrddytfdjb',
+    question: '哪个属于热带低压台风的级别？',
+    id: 19520
+  },
+  {
+    answer: '中国',
+    indexes: 'ngscyd31jtfwyhtfmmhddgjhdq',
+    question: '哪个是参与第31届台风委员会台风命名活动的国家和地区？',
+    id: 19521
+  },
+  {
+    answer: '玉兔',
+    indexes: 'ngsd31jtfwyhzsmmdtfmz',
+    question: '哪个是第31届台风委员会中所命名的台风名字？',
+    id: 19522
+  },
+  {
+    answer: '悟空',
+    indexes: 'ngsd31jtfwyhzzgsmmdtfmzy',
+    question: '哪个是第31届台风委员会中中国所命名的台风名字有？',
+    id: 19523
+  },
+  {
+    answer: '热带雨林气候',
+    indexes: 'zlyjwz15ysdsynzqh',
+    question: '最冷月均温在15℃以上的属于哪种气候？',
+    id: 19524
+  },
+  {
+    answer: '白色',
+    indexes: 'sdssmys',
+    question: '闪电是什么颜色？',
+    id: 19525
+  },
+  {
+    answer: '阿尔卑斯山',
+    indexes: 'ffhcxzsmdf',
+    question: '焚风会出现在什么地方？',
+    id: 19526
+  },
+  {
+    answer: '金字塔',
+    indexes: 'xlnygjgbsybj',
+    question: '下列哪一个景观不属于北京？',
+    id: 19527
+  },
+  {
+    answer: '雨水',
+    indexes: 'xlngjqsy24jq',
+    question: '下列哪个节气属于24节气？',
+    id: 19528
+  },
+  {
+    answer: '赤',
+    indexes: 'ngsrlrykykddqcg',
+    question: '哪个是人类肉眼可以看到的七彩光？',
+    id: 19529
+  },
+  {
+    answer: '干旱',
+    indexes: 'ngsdwgyxzddqxzh',
+    question: '哪个是对我国影响最大的气象灾害？',
+    id: 19530
+  },
+  {
+    answer: '海淀',
+    indexes: 'xlngsbjsddm',
+    question: '下列哪个是北京市的地名?',
+    id: 19531
+  },
+  {
+    answer: '床下',
+    indexes: 'nlssnbzjaqddf',
+    question: '哪里是室内避震较安全的地方？',
+    id: 19532
+  },
+  {
+    answer: '四季不分明',
+    indexes: 'rdjfhyxqhyngtz',
+    question: '热带季风海洋性气候有哪个特征？',
+    id: 19533
+  },
+  {
+    answer: '又叫社风',
+    indexes: 'nxsdhlfdzqjs',
+    question: '哪项是对寒露风的正确解释？',
+    id: 19534
+  },
+  {
+    answer: '原意为圣婴',
+    indexes: 'ngdeenndjszq',
+    question: '哪个对厄尔尼诺的解释正确？',
+    id: 19535
+  },
+  {
+    answer: '干冰',
+    indexes: 'rgjyszlyzbshzwz',
+    question: '人工降雨是在冷云中播撒何种物质？',
+    id: 19536
+  },
+  {
+    answer: '白色',
+    indexes: 'sdssmys',
+    question: '闪电是什么颜色？',
+    id: 19537
+  },
+  {
+    answer: '阿尔卑斯山',
+    indexes: 'ffhcxzsmdf',
+    question: '焚风会出现在什么地方？',
+    id: 19538
+  },
+  {
+    answer: '金字塔',
+    indexes: 'xlnygjgbsybj',
+    question: '下列哪一个景观不属于北京？',
+    id: 19539
+  },
+  {
+    answer: '雨水',
+    indexes: 'xlngjqsy24jq',
+    question: '下列哪个节气属于24节气？',
+    id: 19540
+  },
+  {
+    answer: '赤',
+    indexes: 'ngsrlrykykddqcg',
+    question: '哪个是人类肉眼可以看到的七彩光？',
+    id: 19541
+  },
+  {
+    answer: '1',
+    indexes: 'xlsyzrsdsnyg',
+    question: '下列属于自然数的是哪一个？',
+    id: 19542
+  },
+  {
+    answer: '1',
+    indexes: 'xlsyqsdsnyg',
+    question: '下列属于奇数的是哪一个？',
+    id: 19543
+  },
+  {
+    answer: '2',
+    indexes: 'xlsyosdsnyg',
+    question: '下列属于偶数的是哪一个？',
+    id: 19544
+  },
+  {
+    answer: 'Ⅰ',
+    indexes: 'xlsylmszdsnyg',
+    question: '下列属于罗马数字的是哪一个？',
+    id: 19545
+  },
+  {
+    answer: '等于号',
+    indexes: 'xlsygxfhdsnyg',
+    question: '下列属于关系符号的是哪一个？',
+    id: 19546
+  },
+  {
+    answer: '2',
+    indexes: 'xlsyzsdsnyg',
+    question: '下列属于质数的是哪一个？',
+    id: 19547
+  },
+  {
+    answer: '四分之五',
+    indexes: 'xlsyjfsdsnyg',
+    question: '下列属于假分数的是哪一个？',
+    id: 19548
+  },
+  {
+    answer: '公里',
+    indexes: 'xlsyzddwdsnyg',
+    question: '下列属于长度单位的是哪一个？',
+    id: 19549
+  },
+  {
+    answer: '33',
+    indexes: 'xlnb3zcdssnyg',
+    question: '下列能被3整除的数是哪一个？',
+    id: 19550
+  },
+  {
+    answer: '4',
+    indexes: 'xlsyhsdsnyg',
+    question: '下列属于合数的是哪一个？',
+    id: 19551
+  },
+  {
+    answer: '.',
+    indexes: 'xlsycxsdsnyg',
+    question: '下列属于纯小数的是哪一个？',
+    id: 19552
+  },
+  {
+    answer: '年',
+    indexes: 'xlsysjdwdsnyg',
+    question: '下列属于时间单位的是哪一个？',
+    id: 19553
+  },
+  {
+    answer: '3.4',
+    indexes: 'xlsydxsdsnyg',
+    question: '下列属于带小数的是哪一个？',
+    id: 19554
+  },
+  {
+    answer: '五分之二',
+    indexes: 'xlsyzfsdsnyg',
+    question: '下列属于真分数的是哪一个？',
+    id: 19555
+  },
+  {
+    answer: '三分之十二',
+    indexes: 'xlsykyhczsdfssnyg',
+    question: '下列属于可以化成整数的分数是哪一个？',
+    id: 19556
+  },
+  {
+    answer: '九分之四',
+    indexes: 'xlsyzjfsdsnyg',
+    question: '下列属于最简分数的是哪一个？',
+    id: 19557
+  },
+  {
+    answer: '35°',
+    indexes: 'xlsydyxxdjdsnyg',
+    question: '下列属于第一象限的角的是哪一个？',
+    id: 19558
+  },
+  {
+    answer: '4',
+    indexes: 'xlkykpfgdsnyg',
+    question: '下列可以开平方根的是哪一个？',
+    id: 19559
+  },
+  {
+    answer: '0.333……',
+    indexes: 'xlsyxhxsdsnyg',
+    question: '下列属于循环小数的是哪一个？',
+    id: 19560
+  },
+  {
+    answer: '54°和36°',
+    indexes: 'xlsyhwyjdsnyd',
+    question: '下列属于互为余角的是哪一对？',
+    id: 19561
+  },
+  {
+    answer: '米',
+    indexes: 'xlnygdwsdlzdddw',
+    question: '下列哪一个单位是度量长度的单位？',
+    id: 19562
+  },
+  {
+    answer: '吨',
+    indexes: 'xlnygdwsyzldw',
+    question: '下列哪一个单位属于质量单位？',
+    id: 19563
+  },
+  {
+    answer: '平方米',
+    indexes: 'xlnygdwsymjdw',
+    question: '下列哪一个单位属于面积单位？',
+    id: 19564
+  },
+  {
+    answer: '立方米',
+    indexes: 'xlnygdwsytjdw',
+    question: '下列哪一个单位属于体积单位？',
+    id: 19565
+  },
+  {
+    answer: '度',
+    indexes: 'xlnygdwsypmjdw',
+    question: '下列哪一个单位属于平面角单位？',
+    id: 19566
+  },
+  {
+    answer: '千克/米3',
+    indexes: 'xlnygdwsymddw',
+    question: '下列哪一个单位属于密度单位？',
+    id: 19567
+  },
+  {
+    answer: '年',
+    indexes: 'xlnygdwsysjdw',
+    question: '下列哪一个单位属于时间单位？',
+    id: 19568
+  },
+  {
+    answer: '千米/小时',
+    indexes: 'xlnygdwsysddw',
+    question: '下列哪一个单位属于速度单位？',
+    id: 19569
+  },
+  {
+    answer: '达因',
+    indexes: 'xlnygdwsylddw',
+    question: '下列哪一个单位属于力的单位？',
+    id: 19570
+  },
+  {
+    answer: '1',
+    indexes: 'xlnygssqs',
+    question: '下列哪一个数是奇数？',
+    id: 19571
+  },
+  {
+    answer: '2',
+    indexes: 'xlnygssos',
+    question: '下列哪一个数是偶数？',
+    id: 19572
+  },
+  {
+    answer: '9',
+    indexes: 'xlnygsqs',
+    question: '下列哪一个是奇数？',
+    id: 19573
+  },
+  {
+    answer: '加号',
+    indexes: 'xlnygssxysfh',
+    question: '下列哪一个是数学运算符号？',
+    id: 19574
+  },
+  {
+    answer: '朱',
+    indexes: 'mcdgxs',
+    question: '明朝的国姓是？',
+    id: 19575
+  },
+  {
+    answer: '李时珍',
+    indexes: 'bcgmdzzw',
+    question: '《本草纲目》的作者为？',
+    id: 19576
+  },
+  {
+    answer: '封建制度的腐朽',
+    indexes: 'ywydsbdgbyyzy',
+    question: '洋务运动失败的根本原因在于？',
+    id: 19577
+  },
+  {
+    answer: '发动武装起义',
+    indexes: 'zcjjgmpmcdzgmzgmddybs',
+    question: '资产阶级革命派迈出的中国民主革命的第一步是?',
+    id: 19578
+  },
+  {
+    answer: '关羽',
+    indexes: 'ngssgwhsj',
+    question: '哪个是蜀国五虎上将？',
+    id: 19579
+  },
+  {
+    answer: '一',
+    indexes: 'yzyjbh',
+    question: '“一”字有几笔画？',
+    id: 19580
+  },
+  {
+    answer: '一',
+    indexes: 'yzyjbh',
+    question: '“乙”字有几笔画？',
+    id: 19581
+  },
+  {
+    answer: '二',
+    indexes: 'yzyjbh',
+    question: '“乂”字有几笔画？',
+    id: 19582
+  },
+  {
+    answer: '二',
+    indexes: 'bzyjbh',
+    question: '“匕”字有几笔画？',
+    id: 19583
+  },
+  {
+    answer: '二',
+    indexes: 'jzyjbh',
+    question: '“九”字有几笔画？',
+    id: 19584
+  },
+  {
+    answer: '二',
+    indexes: 'szyjbh',
+    question: '“十”字有几笔画？',
+    id: 19585
+  },
+  {
+    answer: '二',
+    indexes: 'bzyjbh',
+    question: '“卜”字有几笔画？',
+    id: 19586
+  },
+  {
+    answer: '1',
+    indexes: 'szyyxlngxxbsdysyy',
+    question: '数字“一”与下列哪个选项表示的意思一样？',
+    id: 19587
+  },
+  {
+    answer: '3',
+    indexes: 'szsyxlngxxbsdysyy',
+    question: '数字“三”与下列哪个选项表示的意思一样？',
+    id: 19588
+  },
+  {
+    answer: '5',
+    indexes: 'szwyxlngxxbsdysyy',
+    question: '数字“五”与下列哪个选项表示的意思一样？',
+    id: 19589
+  },
+  {
+    answer: '6',
+    indexes: 'szlyxlngxxbsdysyy',
+    question: '数字“六”与下列哪个选项表示的意思一样？',
+    id: 19590
+  },
+  {
+    answer: '7',
+    indexes: 'szqyxlngxxbsdysyy',
+    question: '数字“七”与下列哪个选项表示的意思一样？',
+    id: 19591
+  },
+  {
+    answer: '9',
+    indexes: 'szjyxlngxxbsdysyy',
+    question: '数字“九”与下列哪个选项表示的意思一样？',
+    id: 19592
+  },
+  {
+    answer: '猪',
+    indexes: 'yxsybrdwds',
+    question: '以下属于哺乳动物的是：',
+    id: 19593
+  },
+  {
+    answer: '二',
+    indexes: 'dzyjbh',
+    question: '“丁”字有几笔画？',
+    id: 19594
+  },
+  {
+    answer: '二',
+    indexes: 'qzyjbh',
+    question: '“七”字有几笔画？',
+    id: 19595
+  },
+  {
+    answer: '三',
+    indexes: 'qzyjbh',
+    question: '“千”字有几笔画？',
+    id: 19596
+  },
+  {
+    answer: '三',
+    indexes: 'czyjbh',
+    question: '“川”字有几笔画？',
+    id: 19597
+  },
+  {
+    answer: '三',
+    indexes: 'yzyjbh',
+    question: '“义”字有几笔画？',
+    id: 19598
+  },
+  {
+    answer: '三',
+    indexes: 'yzyjbh',
+    question: '“也”字有几笔画？',
+    id: 19599
+  },
+  {
+    answer: '壹',
+    indexes: 'szyyxlngxxbsdysyy',
+    question: '数字“一”与下列哪个选项表示的意思一样？',
+    id: 19600
+  },
+  {
+    answer: '叁',
+    indexes: 'szsyxlngxxbsdysyy',
+    question: '数字“三”与下列哪个选项表示的意思一样？',
+    id: 19601
+  },
+  {
+    answer: '伍',
+    indexes: 'szwyxlngxxbsdysyy',
+    question: '数字“五”与下列哪个选项表示的意思一样？',
+    id: 19602
+  },
+  {
+    answer: '柒',
+    indexes: 'szqyxlngxxbsdysyy',
+    question: '数字“七”与下列哪个选项表示的意思一样？',
+    id: 19603
+  },
+  {
+    answer: '玖',
+    indexes: 'szjyxlngxxbsdysyy',
+    question: '数字“九”与下列哪个选项表示的意思一样？',
+    id: 19604
+  },
+  {
+    answer: '铁',
+    indexes: 'yxsyjsds',
+    question: '以下属于金属的是：',
+    id: 19605
+  },
+  {
+    answer: '三',
+    indexes: 'szyjbh',
+    question: '“三”字有几笔画？',
+    id: 19606
+  },
+  {
+    answer: '三',
+    indexes: 'gzyjbh',
+    question: '“干”字有几笔画？',
+    id: 19607
+  },
+  {
+    answer: '三',
+    indexes: 'yzyjbh',
+    question: '“于”字有几笔画？',
+    id: 19608
+  },
+  {
+    answer: '三',
+    indexes: 'szyjbh',
+    question: '“上”字有几笔画？',
+    id: 19609
+  },
+  {
+    answer: '三',
+    indexes: 'xzyjbh',
+    question: '“下”字有几笔画？',
+    id: 19610
+  },
+  {
+    answer: '四',
+    indexes: 'wzyjbh',
+    question: '“午”字有几笔画？',
+    id: 19611
+  },
+  {
+    answer: '四',
+    indexes: 'rzyjbh',
+    question: '“壬”字有几笔画？',
+    id: 19612
+  },
+  {
+    answer: '四',
+    indexes: 'szyjbh',
+    question: '“升”字有几笔画？',
+    id: 19613
+  },
+  {
+    answer: '四',
+    indexes: 'yzyjbh',
+    question: '“夭”字有几笔画？',
+    id: 19614
+  },
+  {
+    answer: '四',
+    indexes: 'zzyjbh',
+    question: '“长”字有几笔画？',
+    id: 19615
+  },
+  {
+    answer: '2',
+    indexes: 'szeyxlngxxbsdysyy',
+    question: '数字“二”与下列哪个选项表示的意思一样？',
+    id: 19616
+  },
+  {
+    answer: '4',
+    indexes: 'szsyxlngxxbsdysyy',
+    question: '数字“四”与下列哪个选项表示的意思一样？',
+    id: 19617
+  },
+  {
+    answer: '8',
+    indexes: 'szbyxlngxxbsdysyy',
+    question: '数字“八”与下列哪个选项表示的意思一样？',
+    id: 19618
+  },
+  {
+    answer: '英勇',
+    indexes: 'xmsybycds',
+    question: '下面属于褒义词的是：',
+    id: 19619
+  },
+  {
+    answer: '四',
+    indexes: 'fzyjbh',
+    question: '“丰”字有几笔画？',
+    id: 19620
+  },
+  {
+    answer: '四',
+    indexes: 'kzyjbh',
+    question: '“开”字有几笔画？',
+    id: 19621
+  },
+  {
+    answer: '四',
+    indexes: 'jzyjbh',
+    question: '“井”字有几笔画？',
+    id: 19622
+  },
+  {
+    answer: '四',
+    indexes: 'fzyjbh',
+    question: '“夫”字有几笔画？',
+    id: 19623
+  },
+  {
+    answer: '四',
+    indexes: 'tzyjbh',
+    question: '“天”字有几笔画？',
+    id: 19624
+  },
+  {
+    answer: '四',
+    indexes: 'yzyjbh',
+    question: '“元”字有几笔画？',
+    id: 19625
+  },
+  {
+    answer: '四',
+    indexes: 'wzyjbh',
+    question: '“无”字有几笔画？',
+    id: 19626
+  },
+  {
+    answer: '四',
+    indexes: 'bzyjbh',
+    question: '“不”字有几笔画？',
+    id: 19627
+  },
+  {
+    answer: '五',
+    indexes: 'szyjbh',
+    question: '“生”字有几笔画？',
+    id: 19628
+  },
+  {
+    answer: '贰',
+    indexes: 'szeyxlngxxbsdysyy',
+    question: '数字“二”与下列哪个选项表示的意思一样？',
+    id: 19629
+  },
+  {
+    answer: '肆',
+    indexes: 'szsyxlngxxbsdysyy',
+    question: '数字“四”与下列哪个选项表示的意思一样？',
+    id: 19630
+  },
+  {
+    answer: '陆',
+    indexes: 'szlyxlngxxbsdysyy',
+    question: '数字“六”与下列哪个选项表示的意思一样？',
+    id: 19631
+  },
+  {
+    answer: '捌',
+    indexes: 'szbyxlngxxbsdysyy',
+    question: '数字“八”与下列哪个选项表示的意思一样？',
+    id: 19632
+  },
+  {
+    answer: '吕不韦',
+    indexes: 'xmsbsshczdrw',
+    question: '下面谁不是《水浒传》中的人物？',
+    id: 19633
+  },
+  {
+    answer: '米卢',
+    indexes: 'sllzgddycdrsjbjsjd',
+    question: '谁率领中国队第一次打入世界杯决赛阶段',
+    id: 19634
+  },
+  {
+    answer: '孔融',
+    indexes: 'ngsjaqzzy',
+    question: '哪个是建安七子之一？',
+    id: 19635
+  },
+  {
+    answer: '杜宾犬',
+    indexes: 'xlnzgsydxq',
+    question: '下列哪种狗属于大型犬',
+    id: 19636
+  },
+  {
+    answer: '熊猴',
+    indexes: 'xlnzdwsylzldw',
+    question: '下列哪种动物属于灵长类动物',
+    id: 19637
+  },
+  {
+    answer: '食蚁兽',
+    indexes: 'xlnzdwystbzlw',
+    question: '下列哪种动物用舌头捕捉猎物',
+    id: 19638
+  },
+  {
+    answer: '非洲狮',
+    indexes: 'nzdwsymkdw',
+    question: '哪种动物属于猫科动物？',
+    id: 19639
+  },
+  {
+    answer: '苍蝇',
+    indexes: 'nzczsykc',
+    question: '哪种虫子属于昆虫？',
+    id: 19640
+  },
+  {
+    answer: '带鱼',
+    indexes: 'nzdwsyyl',
+    question: '哪种动物属于鱼类？',
+    id: 19641
+  },
+  {
+    answer: '海豚',
+    indexes: 'nzbrdwshzhl',
+    question: '哪种哺乳动物生活在海里？',
+    id: 19642
+  },
+  {
+    answer: '羊',
+    indexes: 'xlnygsyscdw',
+    question: '下列哪一个属于食草动物？',
+    id: 19643
+  },
+  {
+    answer: '鸡',
+    indexes: 'nzdwrydqlg',
+    question: '哪种动物容易得禽流感?',
+    id: 19644
+  },
+  {
+    answer: '蜜蜂',
+    indexes: 'xlnyzsfxlkc',
+    question: '下列哪一种是飞行类昆虫?',
+    id: 19645
+  },
+  {
+    answer: '蚂蚁',
+    indexes: 'xlnyzkcshzdb',
+    question: '下列哪一种昆虫生活在地表?',
+    id: 19646
+  },
+  {
+    answer: '蜻蜓',
+    indexes: 'xlnyzkcsyc',
+    question: '下列哪一种昆虫是益虫?',
+    id: 19647
+  },
+  {
+    answer: '蝉',
+    indexes: 'yxnygsyhjdcz',
+    question: '以下哪一个属于会“叫“的虫子?',
+    id: 19648
+  },
+  {
+    answer: '蜻蜓',
+    indexes: 'xlnzsgldkczy',
+    question: '下列哪种是古老的昆虫之一?',
+    id: 19649
+  },
+  {
+    answer: '空中生活',
+    indexes: 'xlnygskcshcszy',
+    question: '下列哪一个是昆虫生活场所之一?',
+    id: 19650
+  },
+  {
+    answer: '消灭虫源',
+    indexes: 'yxnygsxmzldff',
+    question: '以下哪一个是消灭蟑螂的方法?',
+    id: 19651
+  },
+  {
+    answer: '蜻蜓',
+    indexes: 'xlnygbssrrlansxjbhbytdkc',
+    question: '下列哪一个不是骚扰人类安宁,吮吸疾病和病原体的昆虫?',
+    id: 19652
+  },
+  {
+    answer: '苍蝇',
+    indexes: 'nzczsykc',
+    question: '哪种虫子属于昆虫？',
+    id: 19653
+  },
+  {
+    answer: '带鱼',
+    indexes: 'nzdwyl',
+    question: '哪种动物鱼类？',
+    id: 19654
+  },
+  {
+    answer: '蜻蜓',
+    indexes: 'xlnzsgldkczy',
+    question: '下列哪种是古老的昆虫之一?',
+    id: 19655
+  },
+  {
+    answer: '空中生活',
+    indexes: 'xlnygskcshcszy',
+    question: '下列哪一个是昆虫生活场所之一?',
+    id: 19656
+  },
+  {
+    answer: '中秋',
+    indexes: 'yxngbsyessjq',
+    question: '以下哪个不属于二十四节气？',
+    id: 19657
+  },
+  {
+    answer: '巴西',
+    indexes: 'xlnggjsymz',
+    question: '下列哪个国家属于美洲',
+    id: 19658
+  },
+  {
+    answer: '芬兰',
+    indexes: 'xlnggjsyoz',
+    question: '下列哪个国家属于欧洲',
+    id: 19659
+  },
+  {
+    answer: '青蛙',
+    indexes: 'xlnzdwsylqdw',
+    question: '下列哪种动物属于两栖动物',
+    id: 19660
+  },
+  {
+    answer: '乌贼',
+    indexes: 'xlnzshszzwdhjgbstdysd',
+    question: '下列哪种是会随着周围的环境改变身体的颜色的',
+    id: 19661
+  },
+  {
+    answer: '秦桧',
+    indexes: 'zglssdhjsng',
+    question: '中国历史上的汉奸是哪个？',
+    id: 19662
+  },
+  {
+    answer: '胡亥',
+    indexes: 'sywghddsnw',
+    question: '属于亡国皇帝的是哪位？',
+    id: 19663
+  },
+  {
+    answer: '刘邦',
+    indexes: 'sykghddsnw',
+    question: '属于开国皇帝的是哪位？',
+    id: 19664
+  },
+  {
+    answer: '粟裕',
+    indexes: 'zgsddjsnw',
+    question: '中国十大大将是哪位？',
+    id: 19665
+  },
+  {
+    answer: '秦穆公',
+    indexes: 'sycqwbdsnw',
+    question: '属于春秋五霸的是哪位？',
+    id: 19666
+  },
+  {
+    answer: '齐国',
+    indexes: 'nggjsyzgqxzy',
+    question: '哪个国家属于战国七雄之一？',
+    id: 19667
+  },
+  {
+    answer: '朱德',
+    indexes: 'xlnwsyzgsdys',
+    question: '下列哪位属于中国十大元帅',
+    id: 19668
+  },
+  {
+    answer: '朱德',
+    indexes: 'nwszgsdyszy',
+    question: '哪位是中国十大元帅之一？',
+    id: 19669
+  },
+  {
+    answer: '九华山',
+    indexes: 'xlngsahdlyjq',
+    question: '下列哪个是安徽的旅游景区',
+    id: 19670
+  },
+  {
+    answer: '漓江',
+    indexes: 'xlngsgxdlyjq',
+    question: '下列哪个是广西的旅游景区',
+    id: 19671
+  },
+  {
+    answer: '天山天池',
+    indexes: 'xlngsxjdlyjq',
+    question: '下列哪个是新疆的旅游景区',
+    id: 19672
+  },
+  {
+    answer: '北京故宫',
+    indexes: 'xlngsysjwdg',
+    question: '下列哪个属于世界五大宫',
+    id: 19673
+  },
+  {
+    answer: '武汉东湖',
+    indexes: 'xlngshbdlyjq',
+    question: '下列哪个是湖北的旅游景区',
+    id: 19674
+  },
+  {
+    answer: '颐和园',
+    indexes: 'bjsysjwhycdjdsng',
+    question: '北京属于世界文化遗产的景点是哪个？',
+    id: 19675
+  },
+  {
+    answer: '海明威',
+    indexes: 'cjhdnbewxjdsnw',
+    question: '曾经获得诺贝尔文学奖的是哪位？',
+    id: 19676
+  },
+  {
+    answer: '蓟门烟树',
+    indexes: 'syyjbjdsng',
+    question: '属于燕京八景的是哪个？',
+    id: 19677
+  },
+  {
+    answer: '文学',
+    indexes: 'syzcnbejdzldsng',
+    question: '属于最初诺贝尔奖的种类的是哪个？',
+    id: 19678
+  },
+  {
+    answer: '贝多芬',
+    indexes: 'xlnwssjzmdylj',
+    question: '下列哪位是世界著名的音乐家',
+    id: 19679
+  },
+  {
+    answer: '鲁迅',
+    indexes: 'xlngrszgzmwxj',
+    question: '下列哪个人是中国著名文学家',
+    id: 19680
+  },
+  {
+    answer: '哥白尼',
+    indexes: 'xlnwssjzmdkxj',
+    question: '下列哪位是世界著名的科学家',
+    id: 19681
+  },
+  {
+    answer: '大雁',
+    indexes: 'nznsyhn',
+    question: '哪种鸟属于候鸟？',
+    id: 19682
+  },
+  {
+    answer: '蜥蜴',
+    indexes: 'nzdwsypxl',
+    question: '哪种动物属于爬行类？',
+    id: 19683
+  },
+  {
+    answer: '眼睛王蛇',
+    indexes: 'ntszgcdds',
+    question: '哪条是中国产的毒蛇？',
+    id: 19684
+  },
+  {
+    answer: '苍蝇',
+    indexes: 'nzkcsyhc',
+    question: '哪种昆虫属于害虫？',
+    id: 19685
+  },
+  {
+    answer: '熊',
+    indexes: 'nzdwdm',
+    question: '哪种动物冬眠？',
+    id: 19686
+  },
+  {
+    answer: '袋鼠',
+    indexes: 'nzdwyd',
+    question: '哪种动物有袋？',
+    id: 19687
+  },
+  {
+    answer: '棕榈树',
+    indexes: 'shzrddzw',
+    question: '生活在热带的植物？',
+    id: 19688
+  },
+  {
+    answer: '骆驼',
+    indexes: 'shzsmldsw',
+    question: '生活在沙漠里的生物？',
+    id: 19689
+  },
+  {
+    answer: '袋鼠',
+    indexes: 'nzdwshzadly',
+    question: '哪种动物生活在澳大利亚？',
+    id: 19690
+  },
+  {
+    answer: '猫头鹰',
+    indexes: 'nzdwslsdtd',
+    question: '哪只动物是老鼠的天敌？',
+    id: 19691
+  },
+  {
+    answer: '北极熊',
+    indexes: 'nzdwshzbj',
+    question: '哪种动物生活在北极？',
+    id: 19692
+  },
+  {
+    answer: '武松',
+    indexes: 'nwslshh',
+    question: '哪位是梁山好汉？',
+    id: 19693
+  },
+  {
+    answer: '杨宗宝',
+    indexes: 'nwsyjjzdrw',
+    question: '哪位是杨家将中的人物？',
+    id: 19694
+  },
+  {
+    answer: '茶馆',
+    indexes: 'nbxsslsdmz',
+    question: '哪部小说是老舍的名著？',
+    id: 19695
+  },
+  {
+    answer: '春节',
+    indexes: 'ngjrszgctjr',
+    question: '哪个节日是中国传统节日？',
+    id: 19696
+  },
+  {
+    answer: '中国',
+    indexes: 'nggjcyyz',
+    question: '哪个国家处于亚洲?',
+    id: 19697
+  },
+  {
+    answer: '荷兰',
+    indexes: 'nggjcyoz',
+    question: '哪个国家处于欧洲?',
+    id: 19698
+  },
+  {
+    answer: '南非',
+    indexes: 'nggjcyfz',
+    question: '哪个国家处于非洲?',
+    id: 19699
+  },
+  {
+    answer: '巴西',
+    indexes: 'nggjcymz',
+    question: '哪个国家处于美洲?',
+    id: 19700
+  },
+  {
+    answer: '澳大利亚',
+    indexes: 'nggjcydyz',
+    question: '哪个国家处于大洋洲?',
+    id: 19701
+  },
+  {
+    answer: '柴油机车',
+    indexes: 'tygszyzzscngcp',
+    question: '通用公司主要制造生产哪个产品？',
+    id: 19702
+  },
+  {
+    answer: 'VISA',
+    indexes: 'ngssjwdxykzy',
+    question: '哪个是世界五大信用卡之一？',
+    id: 19703
+  },
+  {
+    answer: '海南',
+    indexes: 'ngszgwdjjtqzy',
+    question: '哪个是中国五大经济特区之一？',
+    id: 19704
+  },
+  {
+    answer: '资产',
+    indexes: 'ngshjdwdflzy',
+    question: '哪个是会计的五大分类之一？',
+    id: 19705
+  },
+  {
+    answer: '美国',
+    indexes: 'ngssjwdjjqgzy',
+    question: '哪个是世界五大经济强国之一？',
+    id: 19706
+  },
+  {
+    answer: '白酒',
+    indexes: 'nzsjdjyflzy',
+    question: '哪种是酒的经营分类之一？',
+    id: 19707
+  },
+  {
+    answer: '韩国',
+    indexes: 'ngsgj',
+    question: '哪个是国家？',
+    id: 19708
+  },
+  {
+    answer: '故宫',
+    indexes: 'ngsbjgjz',
+    question: '哪个是北京古建筑？',
+    id: 19709
+  },
+  {
+    answer: '撒哈拉沙漠',
+    indexes: 'ngssjsdsmzy',
+    question: '哪个是世界十大沙漠之一？',
+    id: 19710
+  },
+  {
+    answer: '甲',
+    indexes: 'ngstgdmczy',
+    question: '哪个是天干的名称之一？',
+    id: 19711
+  },
+  {
+    answer: '青藏高原',
+    indexes: 'nggywyyz',
+    question: '哪个高原位于亚洲？',
+    id: 19712
+  },
+  {
+    answer: '广西',
+    indexes: 'ngsszgzzqzy',
+    question: '哪个省是中国自治区之一？',
+    id: 19713
+  },
+  {
+    answer: '王',
+    indexes: 'ngsgdbjcdcyzy',
+    question: '哪个是古代表敬称的词语之一？',
+    id: 19714
+  },
+  {
+    answer: '松嫩平原',
+    indexes: 'ngszgzyspljdzy',
+    question: '哪个是中国主要商品粮基地之一？',
+    id: 19715
+  },
+  {
+    answer: '天坛',
+    indexes: 'ngsbjdjdzy',
+    question: '哪个是北京的景点之一？',
+    id: 19716
+  },
+  {
+    answer: '键盘',
+    indexes: 'ngsdnyjzy',
+    question: '哪个是电脑硬件之一？',
+    id: 19717
+  },
+  {
+    answer: '龙',
+    indexes: 'ngswxqzy',
+    question: '哪个是五形拳之一？',
+    id: 19718
+  },
+  {
+    answer: '大拇指',
+    indexes: 'ngsszch',
+    question: '哪个是手指称呼？',
+    id: 19719
+  },
+  {
+    answer: '少林',
+    indexes: 'ngswdmpzy',
+    question: '哪个是五大门派之一？',
+    id: 19720
+  },
+  {
+    answer: '陈毅',
+    indexes: 'ngssdyszy',
+    question: '哪个是十大元帅之一？',
+    id: 19721
+  },
+  {
+    answer: '公',
+    indexes: 'ngsjwzy',
+    question: '哪个是爵位之一？',
+    id: 19722
+  },
+  {
+    answer: '红',
+    indexes: 'ngschdyszy',
+    question: '哪个是彩虹的颜色之一？',
+    id: 19723
+  },
+  {
+    answer: '满族',
+    indexes: 'ngswslssmzzy',
+    question: '哪个是五十六少数民族之一？',
+    id: 19724
+  },
+  {
+    answer: '北京晚报',
+    indexes: 'ngsbjdbkzy',
+    question: '哪个是北京的报刊之一？',
+    id: 19725
+  },
+  {
+    answer: '北方话',
+    indexes: 'ngszgqdfyzy',
+    question: '哪个是中国七大方言之一？',
+    id: 19726
+  },
+  {
+    answer: '川',
+    indexes: 'ngszgbdcxzy',
+    question: '哪个是中国八大菜系之一？',
+    id: 19727
+  },
+  {
+    answer: '嵇康',
+    indexes: 'ngszlqxzy',
+    question: '哪个是竹林七贤之一？',
+    id: 19728
+  },
+  {
+    answer: '孔子',
+    indexes: 'ngscqzgzzbjzy',
+    question: '哪个是春秋战国诸子百家之一？',
+    id: 19729
+  },
+  {
+    answer: '后唐',
+    indexes: 'ngswdzy',
+    question: '哪个是五代之一？',
+    id: 19730
+  },
+  {
+    answer: '吴',
+    indexes: 'ngssgzy',
+    question: '哪个是十国之一？',
+    id: 19731
+  },
+  {
+    answer: '李白',
+    indexes: 'ngswr',
+    question: '哪个是文人？',
+    id: 19732
+  },
+  {
+    answer: '英国',
+    indexes: 'ngsezffxstmgzy',
+    question: '哪个是二战反法西斯同盟国之一？',
+    id: 19733
+  },
+  {
+    answer: '德国',
+    indexes: 'ngsezzxgzy',
+    question: '哪个是二战轴心国之一？',
+    id: 19734
+  },
+  {
+    answer: '沈钧儒',
+    indexes: 'ngsjghqjzzy',
+    question: '哪个是救国会“七君子“之一？',
+    id: 19735
+  },
+  {
+    answer: '庞雄',
+    indexes: 'ngshhg72lszy',
+    question: '哪个是黄花岗72烈士之一？',
+    id: 19736
+  },
+  {
+    answer: '胡秀兰',
+    indexes: 'ngsbntjrwzy',
+    question: '哪个是八女投江人物之一？',
+    id: 19737
+  },
+  {
+    answer: '李白',
+    indexes: 'ngszxlyzy',
+    question: '哪个是竹溪六逸之一？',
+    id: 19738
+  },
+  {
+    answer: '华金昆',
+    indexes: 'ngsjlwlzy',
+    question: '哪个是金陵五老之一？',
+    id: 19739
+  },
+  {
+    answer: '英国',
+    indexes: 'ngseztmgzy',
+    question: '哪个是二战同盟国之一？',
+    id: 19740
+  },
+  {
+    answer: '北京',
+    indexes: 'ngslcgdzy',
+    question: '哪个是六朝古都之一？',
+    id: 19741
+  },
+  {
+    answer: '黄莺',
+    indexes: 'xlnygsykyfdn',
+    question: '下列哪一个属于可以飞的鸟？',
+    id: 19742
+  },
+  {
+    answer: '霸王龙',
+    indexes: 'xlnygsysrkl',
+    question: '下列哪一个属于食肉恐龙？',
+    id: 19743
+  },
+  {
+    answer: '马',
+    indexes: 'nzdwzzsj',
+    question: '哪种动物站着睡觉?',
+    id: 19744
+  },
+  {
+    answer: '珊瑚鱼',
+    indexes: 'nzyshzhl',
+    question: '哪种鱼生活在海里?',
+    id: 19745
+  },
+  {
+    answer: '中华鲟',
+    indexes: 'nzyshzdsl',
+    question: '哪种鱼生活在淡水里?',
+    id: 19746
+  },
+  {
+    answer: '鸵鸟',
+    indexes: 'nznbhf',
+    question: '哪种鸟不会飞?',
+    id: 19747
+  },
+  {
+    answer: '海星',
+    indexes: 'nzsyjpdw',
+    question: '哪种属于棘皮动物?',
+    id: 19748
+  },
+  {
+    answer: '牡蛎',
+    indexes: 'nzsyrtdw',
+    question: '哪种属于软体动物?',
+    id: 19749
+  },
+  {
+    answer: '海鸥',
+    indexes: 'nzsyhn',
+    question: '哪种属于海鸟？',
+    id: 19750
+  },
+  {
+    answer: '灰喜鹊',
+    indexes: 'nznsyyn',
+    question: '哪种鸟属于益鸟？',
+    id: 19751
+  },
+  {
+    answer: '歇斯底里',
+    indexes: 'yxngsbyc',
+    question: '以下哪个是贬义词？',
+    id: 19752
+  },
+  {
+    answer: '大',
+    indexes: 'xmngzbsdyz',
+    question: '下面哪个字不是多音字？',
+    id: 19753
+  },
+  {
+    answer: '熬',
+    indexes: 'ngsdyz',
+    question: '哪个是多音字？',
+    id: 19754
+  },
+  {
+    answer: '谭嗣同',
+    indexes: 'wxljzzdsng',
+    question: '“戊戌六君子”指的是哪个？',
+    id: 19755
+  },
+  {
+    answer: '茶馆',
+    indexes: 'ngbslxdzp',
+    question: '哪个不是鲁迅的作品？',
+    id: 19756
+  },
+  {
+    answer: '书剑恩仇录',
+    indexes: 'ngbsjydxs',
+    question: '哪个不是金庸的小说？',
+    id: 19757
+  },
+  {
+    answer: '马克思',
+    indexes: 'ngbszgdsxj',
+    question: '哪个不是中国的思想家？',
+    id: 19758
+  },
+  {
+    answer: '牛小二',
+    indexes: 'ngbsshzdrw',
+    question: '哪个不是《水浒》中的人物？',
+    id: 19759
+  },
+  {
+    answer: '萤火虫',
+    indexes: 'xlnygsyqcmdkc',
+    question: '下列哪一个属于鞘翅目的昆虫?',
+    id: 19760
+  },
+  {
+    answer: '蚂蚁',
+    indexes: 'xlnzsymcmdkc',
+    question: '下列哪种属于膜翅目的昆虫?',
+    id: 19761
+  },
+  {
+    answer: '蝉的幼虫',
+    indexes: 'nyzkcsztrzscd',
+    question: '哪一种昆虫是在土壤中生存的?',
+    id: 19762
+  },
+  {
+    answer: '跳蚤',
+    indexes: 'xlnzsyjslkc',
+    question: '下列哪种属于寄生类昆虫?',
+    id: 19763
+  },
+  {
+    answer: '蜜蜂',
+    indexes: 'xlnyzkcyd',
+    question: '下列哪一种昆虫有毒?',
+    id: 19764
+  },
+  {
+    answer: '陶家驹',
+    indexes: 'xlnygsywgdkcxj',
+    question: '下列哪一个属于我国的昆虫学家?',
+    id: 19765
+  },
+  {
+    answer: '变色龙',
+    indexes: 'yxnyzczkybhzjdst',
+    question: '以下哪一种虫子可以变化自己的身体?',
+    id: 19766
+  },
+  {
+    answer: '紫光灯',
+    indexes: 'zxsyjscjdscfssnyg',
+    question: '在学术研究时常见的搜虫方式是哪一个?',
+    id: 19767
+  },
+  {
+    answer: '捕蝇草',
+    indexes: 'nyzzwskcdtd',
+    question: '哪一种植物是昆虫的天敌?',
+    id: 19768
+  },
+  {
+    answer: '山雀',
+    indexes: 'nyzdwskcdtd',
+    question: '哪一种动物是昆虫的天敌?',
+    id: 19769
+  },
+  {
+    answer: '跳蚤',
+    indexes: 'nyzsyhdkc',
+    question: '哪一种是有害的昆虫?',
+    id: 19770
+  },
+  {
+    answer: '冬虫夏草',
+    indexes: 'xlnygsyykc',
+    question: '下列哪一个是药用昆虫?',
+    id: 19771
+  },
+  {
+    answer: '蝉',
+    indexes: 'xlnygsytcmkc',
+    question: '下列哪一个属于同翅目昆虫?',
+    id: 19772
+  },
+  {
+    answer: '蚊',
+    indexes: 'xlnygsylcmkc',
+    question: '下列哪一个属于两翅目昆虫?',
+    id: 19773
+  },
+  {
+    answer: '门',
+    indexes: 'xlnygsykcdgmfl',
+    question: '下列哪一个属于昆虫的各目分类?',
+    id: 19774
+  },
+  {
+    answer: '马陆',
+    indexes: 'xlnygsyyxkc',
+    question: '下列哪一个属于医学昆虫？',
+    id: 19775
+  },
+  {
+    answer: '赤眼蜂',
+    indexes: 'xlnygsyyxkcdtd',
+    question: '下列哪一个属于医学昆虫的天敌？',
+    id: 19776
+  },
+  {
+    answer: '蜜蜂',
+    indexes: 'xlnygskzshdkc',
+    question: '下列哪一个是空中生活的昆虫？',
+    id: 19777
+  },
+  {
+    answer: '贰',
+    indexes: 'xlsywgddxszdsnyg',
+    question: '下列属于我国的大写数字的是哪一个？',
+    id: 19778
+  },
+  {
+    answer: '6和35',
+    indexes: 'xlsyhzsdsnyz',
+    question: '下列属于互质数的是哪一组？',
+    id: 19779
+  },
+  {
+    answer: '.333……',
+    indexes: 'xlsycxhxsdsnyg',
+    question: '下列属于纯循环小数的是哪一个？',
+    id: 19780
+  },
+  {
+    answer: '钱学森',
+    indexes: 'xlnywssxj',
+    question: '下列哪一位是数学家？',
+    id: 19781
+  },
+  {
+    answer: '祖冲之',
+    indexes: 'xlnywszgsxj',
+    question: '下列哪一位是中国数学家？',
+    id: 19782
+  },
+  {
+    answer: '大气压',
+    indexes: 'xlnygdwsyylddw',
+    question: '下列哪一个单位属于压力的单位？',
+    id: 19783
+  },
+  {
+    answer: '马力',
+    indexes: 'xlnygdwsyglddw',
+    question: '下列哪一个单位属于功率的单位？',
+    id: 19784
+  },
+  {
+    answer: '安培',
+    indexes: 'xlnygdwsydclddw',
+    question: '下列哪一个单位属于电磁量的单位？',
+    id: 19785
+  },
+  {
+    answer: '焦耳',
+    indexes: 'xlnygdwsynlddw',
+    question: '下列哪一个单位属于能量的单位？',
+    id: 19786
+  },
+  {
+    answer: '电磁亨利',
+    indexes: 'xlnygdwsydgddw',
+    question: '下列哪一个单位属于电感的单位？',
+    id: 19787
+  },
+  {
+    answer: '里',
+    indexes: 'xlnygdwsyszdzddw',
+    question: '下列哪一个单位属于市制的长度单位？',
+    id: 19788
+  },
+  {
+    answer: '担',
+    indexes: 'xlnygdwsyszdzldw',
+    question: '下列哪一个单位属于市制的质量单位？',
+    id: 19789
+  },
+  {
+    answer: '分贝',
+    indexes: 'xlnygdwsyyxdw',
+    question: '下列哪一个单位属于音响单位？',
+    id: 19790
+  },
+  {
+    answer: '2',
+    indexes: 'xlnygss20yndzs',
+    question: '下列哪一个数是20以内的质数？',
+    id: 19791
+  },
+  {
+    answer: '勺',
+    indexes: 'xlnygdwsyszdrljldw',
+    question: '下列哪一个单位属于市制的容量计量单位？',
+    id: 19792
+  },
+  {
+    answer: '祖冲之',
+    indexes: 'xlngszggdzmdsxj',
+    question: '下列哪个是中国古代著名的数学家？',
+    id: 19793
+  },
+  {
+    answer: '华罗庚',
+    indexes: 'xlngszgjxdzmdsxj',
+    question: '下列哪个是中国近现代著名的数学家？',
+    id: 19794
+  },
+  {
+    answer: '伊藤清',
+    indexes: 'xlngsjjxdzmdsxj',
+    question: '下列哪个世界近现代著名的数学家？',
+    id: 19795
+  },
+  {
+    answer: '高斯',
+    indexes: 'xlnygssxj',
+    question: '下列哪一个是数学家？',
+    id: 19796
+  },
+  {
+    answer: '2',
+    indexes: 'xlnygszs',
+    question: '下列哪一个是质数？',
+    id: 19797
+  },
+  {
+    answer: '230',
+    indexes: 'xlnygsnbwzc',
+    question: '下列哪一个数能被五整除？',
+    id: 19798
+  },
+  {
+    answer: '2的平方根',
+    indexes: 'xlnygsbsss',
+    question: '下列哪一个数不是实数？',
+    id: 19799
+  },
+  {
+    answer: '圆柱体',
+    indexes: 'xlnygsltjhtx',
+    question: '下列哪一个是立体几何图形？',
+    id: 19800
+  },
+  {
+    answer: '30度角',
+    indexes: 'xlnygjsrj',
+    question: '下列哪一个角是锐角？',
+    id: 19801
+  },
+  {
+    answer: '有一个角是直角的三角形',
+    indexes: 'xlnygszjsjx',
+    question: '下列哪一个是直角三角形？',
+    id: 19802
+  },
+  {
+    answer: '32',
+    indexes: 'xlnygss2ddccfsz',
+    question: '下列哪一个数是2的多次乘方数值？',
+    id: 19803
+  },
+  {
+    answer: '36',
+    indexes: 'xlnygss2h3dgbs',
+    question: '下列哪一个数是2和3的公倍数？',
+    id: 19804
+  },
+  {
+    answer: '35',
+    indexes: 'xlnygssyls',
+    question: '下列哪一个数是有理数？',
+    id: 19805
+  },
+  {
+    answer: '北美洲板块',
+    indexes: 'xlnygs8dbkzy',
+    question: '下列哪一个是8大板块之一？',
+    id: 19806
+  },
+  {
+    answer: '诗',
+    indexes: 'xlnygsrjsxdjdzzwjzdnr',
+    question: '下列哪一个是儒家思想的经典著作《五经》中的内容？',
+    id: 19807
+  },
+  {
+    answer: '朱元璋的父亲',
+    indexes: 'zmdsqmydghdshbzfwhdjzlydsnw',
+    question: '在明代生前没有当过皇帝死后被追封为皇帝建造陵园的是哪位？',
+    id: 19808
+  },
+  {
+    answer: '赤道多雨气候',
+    indexes: 'xlnygsydjwqh',
+    question: '下列哪一个属于低经纬气候？',
+    id: 19809
+  },
+  {
+    answer: '副热带干旱与半干旱气候',
+    indexes: 'xlnygsyzjwqh',
+    question: '下列哪一个属于中经纬气候？',
+    id: 19810
+  },
+  {
+    answer: '北京',
+    indexes: 'nygszgdsd',
+    question: '哪一个是中国的首都?',
+    id: 19811
+  },
+  {
+    answer: '地球',
+    indexes: 'nygszmdxt',
+    question: '哪一个是著明的星体?',
+    id: 19812
+  },
+  {
+    answer: '水星',
+    indexes: 'ngsyjdxx',
+    question: '哪个属于九大行星？',
+    id: 19813
+  },
+  {
+    answer: '美学价值',
+    indexes: 'ngsylyzydjz',
+    question: '哪个属于旅游资源的价值',
+    id: 19814
+  },
+  {
+    answer: '承德',
+    indexes: 'xlngshbsddm',
+    question: '下列哪个是河北省的地名?',
+    id: 19815
+  },
+  {
+    answer: '包头',
+    indexes: 'xlngsnmgzzqddm',
+    question: '下列哪个是内蒙古自治区的地名?',
+    id: 19816
+  },
+  {
+    answer: '太原',
+    indexes: 'xlngssxsddm',
+    question: '下列哪个是山西省的地名?',
+    id: 19817
+  },
+  {
+    answer: '易县',
+    indexes: 'xlngslnsddm',
+    question: '下列哪个是辽宁省的地名?',
+    id: 19818
+  },
+  {
+    answer: '南京',
+    indexes: 'xlngsjssddm',
+    question: '下列哪个是江苏省的地名?',
+    id: 19819
+  },
+  {
+    answer: '杭州',
+    indexes: 'xlngszjsddm',
+    question: '下列哪个是浙江省的地名?',
+    id: 19820
+  },
+  {
+    answer: '马鞍山',
+    indexes: 'xlngsahsddm',
+    question: '下列哪个是安徽省的地名?',
+    id: 19821
+  },
+  {
+    answer: '南昌',
+    indexes: 'xlngsjxsddm',
+    question: '下列哪个是江西省的地名?',
+    id: 19822
+  },
+  {
+    answer: '开元',
+    indexes: 'xlngsfjsddm',
+    question: '下列哪个是福建省的地名?',
+    id: 19823
+  },
+  {
+    answer: '济南',
+    indexes: 'xlngssdsddm',
+    question: '下列哪个是山东省的地名?',
+    id: 19824
+  },
+  {
+    answer: '南海',
+    indexes: 'xlngsgdsddm',
+    question: '下列哪个是广东省的地名?',
+    id: 19825
+  },
+  {
+    answer: '桂林',
+    indexes: 'xlngsgxsddm',
+    question: '下列哪个是广西省的地名?',
+    id: 19826
+  },
+  {
+    answer: '均县',
+    indexes: 'xlngshbsddm',
+    question: '下列哪个是湖北省的地名?',
+    id: 19827
+  },
+  {
+    answer: '桃源',
+    indexes: 'xlngshnsddm',
+    question: '下列哪个是湖南省的地名?',
+    id: 19828
+  },
+  {
+    answer: '洛阳',
+    indexes: 'xlngshnsddm',
+    question: '下列哪个是河南省的地名?',
+    id: 19829
+  },
+  {
+    answer: '成都',
+    indexes: 'xlngsscsddm',
+    question: '下列哪个是四川省的地名?',
+    id: 19830
+  },
+  {
+    answer: '昆明',
+    indexes: 'xlngsynsddm',
+    question: '下列哪个是云南省的地名?',
+    id: 19831
+  },
+  {
+    answer: '拉萨',
+    indexes: 'xlngsxzzzqddm',
+    question: '下列哪个是西藏自治区的地名?',
+    id: 19832
+  },
+  {
+    answer: '西安',
+    indexes: 'xlngssxsddm',
+    question: '下列哪个是陕西省的地名?',
+    id: 19833
+  },
+  {
+    answer: '兰州',
+    indexes: 'xlngsgssddm',
+    question: '下列哪个是甘肃省的地名?',
+    id: 19834
+  },
+  {
+    answer: '银川',
+    indexes: 'xlngsnxhzzzqddm',
+    question: '下列哪个是宁夏回族自治区的地名?',
+    id: 19835
+  },
+  {
+    answer: '哈密',
+    indexes: 'xlngsxjsddm',
+    question: '下列哪个是新疆省的地名?',
+    id: 19836
+  },
+  {
+    answer: '台北',
+    indexes: 'xlngstwddm',
+    question: '下列哪个是台湾的地名?',
+    id: 19837
+  },
+  {
+    answer: '太和门',
+    indexes: 'xlngsbjggzdgjz',
+    question: '下列哪个是北京故宫中的古建筑?',
+    id: 19838
+  },
+  {
+    answer: '永安寺',
+    indexes: 'xlngsbjbhzdgjz',
+    question: '下列哪个是北京北海中的古建筑?',
+    id: 19839
+  },
+  {
+    answer: '西天门',
+    indexes: 'xlngsbjttzdgjz',
+    question: '下列哪个是北京天坛中的古建筑?',
+    id: 19840
+  },
+  {
+    answer: '法兰克福',
+    indexes: 'xmngcszdg',
+    question: '下面哪个城市在德国？',
+    id: 19841
+  },
+  {
+    answer: '东京',
+    indexes: 'xmngcszrb',
+    question: '下面哪个城市在日本？',
+    id: 19842
+  },
+  {
+    answer: '毛岸英',
+    indexes: 'nwlsskmyczcsxsd',
+    question: '哪位烈士是抗美援朝战场上牺牲的？',
+    id: 19843
+  },
+  {
+    answer: '屈原',
+    indexes: 'nwsagwr',
+    question: '哪位是爱国文人？',
+    id: 19844
+  },
+  {
+    answer: '文天祥',
+    indexes: 'nwsmzyx',
+    question: '哪位是民族英雄？',
+    id: 19845
+  },
+  {
+    answer: '董存瑞',
+    indexes: 'nwlssjfzzzxsd',
+    question: '哪位烈士是解放战争中牺牲的？',
+    id: 19846
+  },
+  {
+    answer: '杨靖宇',
+    indexes: 'nwlsskrzzzxsd',
+    question: '哪位烈士是抗日战争中牺牲的？',
+    id: 19847
+  },
+  {
+    answer: '齿轮',
+    indexes: 'ngsghdnr',
+    question: '哪个是国徽的内容？',
+    id: 19848
+  },
+  {
+    answer: '工人',
+    indexes: 'ngsgqswjxdhy',
+    question: '哪个是国旗上五角星的含义？',
+    id: 19849
+  },
+  {
+    answer: '关天培',
+    indexes: 'nwswqyqlzdzzxsdyx',
+    question: '哪位是晚清与侵略者斗争中牺牲的英雄？',
+    id: 19850
+  },
+  {
+    answer: '谭嗣同',
+    indexes: 'nwswxljzzy',
+    question: '哪位是戊戌六君子之一？',
+    id: 19851
+  },
+  {
+    answer: '南京条约',
+    indexes: 'ngsqzftqlzqddbpdty',
+    question: '哪个是清政府同侵略者签订的不平等条约？',
+    id: 19852
+  },
+  {
+    answer: '蜜蜂',
+    indexes: 'nygkcsyc',
+    question: '哪一个昆虫是益虫?',
+    id: 19853
+  },
+  {
+    answer: '棉铃虫',
+    indexes: 'nygkcshc',
+    question: '哪一个昆虫是害虫?',
+    id: 19854
+  },
+  {
+    answer: '啄木鸟',
+    indexes: 'nyznsyn',
+    question: '哪一种鸟是益鸟?',
+    id: 19855
+  },
+  {
+    answer: '扬子鳄?',
+    indexes: 'nyzsgjyjbhdw',
+    question: '哪一种是国家一级保护动物?',
+    id: 19856
+  },
+  {
+    answer: '猕猴?',
+    indexes: 'nyzsgjejbhdw',
+    question: '哪一种是国家二级保护动物?',
+    id: 19857
+  },
+  {
+    answer: '熊猴',
+    indexes: 'nyzssl',
+    question: '哪一种是兽类?',
+    id: 19858
+  },
+  {
+    answer: '鳄蜥',
+    indexes: 'nyzslqpxdw',
+    question: '哪一种是两栖爬行动物?',
+    id: 19859
+  },
+  {
+    answer: '彩鹳?',
+    indexes: 'nyzsnl',
+    question: '哪一种是鸟类?',
+    id: 19860
+  },
+  {
+    answer: '猫狗大战',
+    indexes: 'xlnybdyjsdsdwdgs',
+    question: '下列哪一部电影讲述的是动物的故事？',
+    id: 19861
+  },
+  {
+    answer: '猎豹',
+    indexes: 'xlnygsymkdw',
+    question: '下列哪一个属于猫科动物？',
+    id: 19862
+  },
+  {
+    answer: '渡渡鸟',
+    indexes: 'xlnygsyjmjddw',
+    question: '下列哪一个是已经灭绝的动物？',
+    id: 19863
+  },
+  {
+    answer: '非洲狮',
+    indexes: 'xlnygsyfzdrsdw',
+    question: '下列哪一个属于非洲的肉食动物?',
+    id: 19864
+  },
+  {
+    answer: '牛羚',
+    indexes: 'xlnygsyfzcsdw',
+    question: '下列哪一个属于非洲草食动物？',
+    id: 19865
+  },
+  {
+    answer: '鸵鸟',
+    indexes: 'xlnygsyfzddw',
+    question: '下列哪一个属于非洲的动物？',
+    id: 19866
+  },
+  {
+    answer: '东北虎',
+    indexes: 'xlnygsyyzdw',
+    question: '下列哪一个属于亚洲动物？',
+    id: 19867
+  },
+  {
+    answer: '大熊猫',
+    indexes: 'xlnygsyzxdw',
+    question: '下列哪一个属于珍稀动物？',
+    id: 19868
+  },
+  {
+    answer: '水母',
+    indexes: 'xlnygsywjzdw',
+    question: '下列哪一个属于无脊椎动物？',
+    id: 19869
+  },
+  {
+    answer: '金鱼',
+    indexes: 'xlnygsyyl',
+    question: '下列哪一个属于鱼类？',
+    id: 19870
+  },
+  {
+    answer: '金丝雀',
+    indexes: 'xlnygsynl',
+    question: '下列哪一个属于鸟类？',
+    id: 19871
+  },
+  {
+    answer: '蛇',
+    indexes: 'xlnygbsyrtdw',
+    question: '下列哪一个不属于软体动物？',
+    id: 19872
+  },
+  {
+    answer: '爱慕斯成犬',
+    indexes: 'xlnzgbsydxq',
+    question: '下列哪种狗不属于大型犬？',
+    id: 19873
+  },
+  {
+    answer: '半月神仙',
+    indexes: 'xlnyzbsyrdy',
+    question: '下列哪一种不属于热带鱼？',
+    id: 19874
+  },
+  {
+    answer: '长爪沙鼠',
+    indexes: 'xlnyzbsylzldw',
+    question: '下列哪一种不属于灵长类动物？',
+    id: 19875
+  },
+  {
+    answer: '驼鹿',
+    indexes: 'xlnyzsygbjddw',
+    question: '下列哪一种属于古北界的动物？',
+    id: 19876
+  },
+  {
+    answer: '猪',
+    indexes: 'xlnyzsyotldw',
+    question: '下列哪一种属于偶蹄类动物？',
+    id: 19877
+  },
+  {
+    answer: '大鳗螈',
+    indexes: 'xlnyzbsypxdw',
+    question: '下列哪一种不属于爬行动物？',
+    id: 19878
+  },
+  {
+    answer: '珊瑚',
+    indexes: 'xlnzsqcdw',
+    question: '下列哪种是腔肠动物',
+    id: 19879
+  },
+  {
+    answer: '猪八戒',
+    indexes: 'xlnygrwdmzzxyjzsydwmmd',
+    question: '下列哪一个人物的名字在西游记中是以动物命名的？',
+    id: 19880
+  },
+  {
+    answer: '红珊瑚',
+    indexes: 'xlnygsygjyjbhdhydw',
+    question: '下列哪一个属于国家一级保护的海洋动物？',
+    id: 19881
+  },
+  {
+    answer: '黄莺',
+    indexes: 'xlnygsykyfdn',
+    question: '下列哪一个属于可以飞的鸟？',
+    id: 19882
+  },
+  {
+    answer: '羊',
+    indexes: 'xlnygsyscdw',
+    question: '下列哪一个属于食草动物？',
+    id: 19883
+  },
+  {
+    answer: '霸王龙',
+    indexes: 'xlnygsysrkl',
+    question: '下列哪一个属于食肉恐龙？',
+    id: 19884
+  },
+  {
+    answer: '鸡',
+    indexes: 'nzdwrydqlg',
+    question: '哪种动物容易得禽流感?',
+    id: 19885
+  },
+  {
+    answer: '夏力曼黑寡妇',
+    indexes: 'nzzzyd',
+    question: '哪种蜘蛛有毒?',
+    id: 19886
+  },
+  {
+    answer: '马',
+    indexes: 'nzdwzzsj',
+    question: '哪种动物站着睡觉?',
+    id: 19887
+  },
+  {
+    answer: '狼',
+    indexes: 'nzdwxhqj',
+    question: '哪种动物喜欢群居?',
+    id: 19888
+  },
+  {
+    answer: '珊瑚鱼',
+    indexes: 'nzyshzhl',
+    question: '哪种鱼生活在海里?',
+    id: 19889
+  },
+  {
+    answer: '中华鲟',
+    indexes: 'nzyshzdsl',
+    question: '哪种鱼生活在淡水里?',
+    id: 19890
+  },
+  {
+    answer: '海葵',
+    indexes: 'nzsyqcdw',
+    question: '哪种属于腔肠动物?',
+    id: 19891
+  },
+  {
+    answer: '鸵鸟',
+    indexes: 'nznbhf',
+    question: '哪种鸟不会飞?',
+    id: 19892
+  },
+  {
+    answer: '海星',
+    indexes: 'nzsyjpdw',
+    question: '哪种属于棘皮动物?',
+    id: 19893
+  },
+  {
+    answer: '牡蛎',
+    indexes: 'nzsyrtdw',
+    question: '哪种属于软体动物?',
+    id: 19894
+  },
+  {
+    answer: '大雁',
+    indexes: 'nzsysqnl',
+    question: '哪种属于水栖鸟类?',
+    id: 19895
+  },
+  {
+    answer: '虾',
+    indexes: 'nzsyjzdw',
+    question: '哪种属于节肢动物？',
+    id: 19896
+  },
+  {
+    answer: '朱鹮',
+    indexes: 'nzsyzxnl',
+    question: '哪种属于珍稀鸟类？',
+    id: 19897
+  },
+  {
+    answer: '海鸥',
+    indexes: 'nzsyhn',
+    question: '哪种属于海鸟？',
+    id: 19898
+  },
+  {
+    answer: '灰喜鹊',
+    indexes: 'nznsyyn',
+    question: '哪种鸟属于益鸟？',
+    id: 19899
+  },
+  {
+    answer: '蝴蝶',
+    indexes: 'xlnygsykc',
+    question: '下列哪一个属于昆虫？',
+    id: 19900
+  },
+  {
+    answer: '蜻蜓',
+    indexes: 'ngkchf',
+    question: '哪个昆虫会飞？',
+    id: 19901
+  },
+  {
+    answer: '蝗虫',
+    indexes: 'ngkcbhf',
+    question: '哪个昆虫不会飞？',
+    id: 19902
+  },
+  {
+    answer: '苍蝇',
+    indexes: 'ngkcshc',
+    question: '哪个昆虫是害虫?',
+    id: 19903
+  },
+  {
+    answer: '蜜蜂',
+    indexes: 'ngkcsyc',
+    question: '哪个昆虫是益虫?',
+    id: 19904
+  },
+  {
+    answer: '石渠记',
+    indexes: 'syyzbjzdsnz',
+    question: '属于<<永州八记>>中的是哪种?',
+    id: 19905
+  },
+  {
+    answer: '笑里藏刀',
+    indexes: 'syssljdsng',
+    question: '属于三十六记的是哪个?',
+    id: 19906
+  },
+  {
+    answer: '关羽',
+    indexes: 'qzcnywsfxyjldrw',
+    question: '请指出哪一位是非西游记里的人物?',
+    id: 19907
+  },
+  {
+    answer: '岳飞',
+    indexes: 'qzcnywswgdmzyx',
+    question: '请指出哪一位是我国的民族英雄?',
+    id: 19908
+  },
+  {
+    answer: '唐朝',
+    indexes: 'qzcnygswgdgdcd',
+    question: '请指出哪一个是我国的古代朝代?',
+    id: 19909
+  },
+  {
+    answer: '北京',
+    indexes: 'qzcwgdcssnyg',
+    question: '请指出我国的城市是哪一个?',
+    id: 19910
+  },
+  {
+    answer: '黄继光',
+    indexes: 'qscnygrwwwgkzsqdrw',
+    question: '请说出哪一个人物为我国抗战时期的人物?',
+    id: 19911
+  },
+  {
+    answer: '巴黎',
+    indexes: 'nygcsbswgd',
+    question: '哪一个城市不是我国的?',
+    id: 19912
+  },
+  {
+    answer: '四明三千里',
+    indexes: 'czzwhxbdsjsnyj',
+    question: '出自<<早望海霞边>>的诗句是哪一句?',
+    id: 19913
+  },
+  {
+    answer: '西上太白峰',
+    indexes: 'czdtbfdsjsnyj',
+    question: '出自<<登太白峰>>的诗句是哪一句?',
+    id: 19914
+  },
+  {
+    answer: '狮子',
+    indexes: 'xlnygsysrdw',
+    question: '下列哪一个属于食肉动物?',
+    id: 19915
+  },
+  {
+    answer: '驼',
+    indexes: 'xlnygdwsyssdw',
+    question: '下列哪一个动物属于素食动物?',
+    id: 19916
+  },
+  {
+    answer: '赤壁之战',
+    indexes: 'nygssgyylmdsj',
+    question: '哪一个是三国演义里面的事件?',
+    id: 19917
+  },
+  {
+    answer: '天台邻四明',
+    indexes: 'czttxwdsjsnyj',
+    question: '出自<<天台晓望>>的诗句是哪一句?',
+    id: 19918
+  },
+  {
+    answer: '飞珠散轻霞',
+    indexes: 'czwlspbdsjsnyj',
+    question: '出自<<望庐山瀑布>>的诗句是哪一句?',
+    id: 19919
+  },
+  {
+    answer: '日尔曼',
+    indexes: 'nygbszgdssmz',
+    question: '哪一个不是中国的少数民族?',
+    id: 19920
+  },
+  {
+    answer: '曹汝霖',
+    indexes: 'nywrwsmgz',
+    question: '哪一位人物是卖国贼?',
+    id: 19921
+  },
+  {
+    answer: '乔家大院',
+    indexes: 'nybzpbsyzgwtddy',
+    question: '哪一部作品不属于中国文坛的第一',
+    id: 19922
+  },
+  {
+    answer: '李清照',
+    indexes: 'nywrwsyzgwtddy',
+    question: '哪一位人物属于中国文坛的第一',
+    id: 19923
+  },
+  {
+    answer: '王二小的故事',
+    indexes: 'nybsygkrzzdrwgshyp',
+    question: '哪一部是有关抗日战争的人物故事或影片?',
+    id: 19924
+  },
+  {
+    answer: '曹雪芹',
+    indexes: 'nywsqcdsr',
+    question: '哪一位是清朝的诗人?',
+    id: 19925
+  },
+  {
+    answer: '书湖阴先生壁',
+    indexes: 'czywasdssnys',
+    question: '出自于<<王安石>>的诗是哪一首?',
+    id: 19926
+  },
+  {
+    answer: '秋登兰山寄张五',
+    indexes: 'czymhrdssnys',
+    question: '出自于<<孟浩然>>的诗是哪一首?',
+    id: 19927
+  },
+  {
+    answer: '春夜喜雨',
+    indexes: 'czydfdssnys',
+    question: '出自于“杜甫“的诗是哪一首?',
+    id: 19928
+  },
+  {
+    answer: '蝶恋花',
+    indexes: 'czyoyxdssnys',
+    question: '出自于“欧阳修“的诗是哪一首?',
+    id: 19929
+  },
+  {
+    answer: '春思',
+    indexes: 'czylbdssnys',
+    question: '出自于“李白“的诗是哪一首?',
+    id: 19930
+  },
+  {
+    answer: '无题',
+    indexes: 'czylsydssnys',
+    question: '出自于“李商隐“的诗是哪一首?',
+    id: 19931
+  },
+  {
+    answer: '天净沙秋思',
+    indexes: 'nybsyq',
+    question: '哪一部是元曲?',
+    id: 19932
+  },
+  {
+    answer: '琵琶行',
+    indexes: 'czybjydssnys',
+    question: '出自于“白居易“的诗是哪一首?',
+    id: 19933
+  },
+  {
+    answer: '比喻',
+    indexes: 'nyzsxcff',
+    question: '哪一种是修辞方法?',
+    id: 19934
+  },
+  {
+    answer: '送别',
+    indexes: 'czywwdssnys',
+    question: '出自于“王唯“的诗是哪一首?',
+    id: 19935
+  },
+  {
+    answer: '滨江道',
+    indexes: 'nygdqbsbjddm',
+    question: '哪一个地区不是北京的地名?',
+    id: 19936
+  },
+  {
+    answer: '闺怨',
+    indexes: 'czywcldssnys',
+    question: '出自于“王昌龄“的诗是哪一首?',
+    id: 19937
+  },
+  {
+    answer: '蝴蝶',
+    indexes: 'xldwnygsykc',
+    question: '下列动物哪一个属于昆虫?',
+    id: 19938
+  },
+  {
+    answer: '江南春',
+    indexes: 'czydmdssnys',
+    question: '出自于“杜牧“的诗是哪一首?',
+    id: 19939
+  },
+  {
+    answer: '祥林嫂',
+    indexes: 'nywrwsxszxgdrw',
+    question: '哪一位人物是小说中虚构的人物?',
+    id: 19940
+  },
+  {
+    answer: '江雪',
+    indexes: 'czylzydssnys',
+    question: '出自于“柳宗元“的诗是哪一首?',
+    id: 19941
+  },
+  {
+    answer: '雨後烟景绿',
+    indexes: 'czlryszdsjsnyj',
+    question: '出自<<落日忆山中>>的诗句是哪一句?',
+    id: 19942
+  },
+  {
+    answer: '上元谁夫人',
+    indexes: 'czsyfrdsjsnyj',
+    question: '出自<<上元夫人>>的诗句是哪一句?',
+    id: 19943
+  },
+  {
+    answer: '李白',
+    indexes: 'qzcnywstcdsr',
+    question: '请指出哪一位是唐朝的诗人?',
+    id: 19944
+  },
+  {
+    answer: '欧阳修',
+    indexes: 'qzcnywsscdsr',
+    question: '请指出哪一位是宋朝的诗人?',
+    id: 19945
+  },
+  {
+    answer: '东望黄鹤山',
+    indexes: 'czwhhldsjsnyj',
+    question: '出自<<望黄鹤楼>>的诗句是哪一句?',
+    id: 19946
+  },
+  {
+    answer: '赢政',
+    indexes: 'nywskghd',
+    question: '哪一位是开国皇帝?',
+    id: 19947
+  },
+  {
+    answer: '孔子',
+    indexes: 'nygsrjxpdrw',
+    question: '哪一个是儒家学派的人物?',
+    id: 19948
+  },
+  {
+    answer: '儒',
+    indexes: 'nygsxqsddxslp',
+    question: '哪一个是先秦时代的学术流派?',
+    id: 19949
+  },
+  {
+    answer: '清泉映疏松',
+    indexes: 'czwyyhdsjsnyj',
+    question: '出自<<望月有怀>>的诗句是哪一句?',
+    id: 19950
+  },
+  {
+    answer: '欧阳修',
+    indexes: 'qzcnywsscdsr',
+    question: '请指出哪一位是宋朝的诗人?',
+    id: 19951
+  },
+  {
+    answer: '两岸猿声啼不住',
+    indexes: 'qzcnyssjbsczlbds',
+    question: '请指出哪一首诗句不是出自李白的诗？',
+    id: 19952
+  },
+  {
+    answer: '顺治',
+    indexes: 'nywsqcdhd',
+    question: '哪一位是清朝的皇帝?',
+    id: 19953
+  },
+  {
+    answer: '不向东山久',
+    indexes: 'czydsesdsjsnyj',
+    question: '出自<<忆东山二首>>的诗句是哪一句?',
+    id: 19954
+  },
+  {
+    answer: '蜀国多仙山',
+    indexes: 'czdemsdsjsnyj',
+    question: '出自<<登峨嵋山>>的诗句是哪一句?',
+    id: 19955
+  },
+  {
+    answer: '武则天',
+    indexes: 'qzcnywstcdhd',
+    question: '请指出哪一位是唐朝的皇帝？',
+    id: 19956
+  },
+  {
+    answer: '孔子',
+    indexes: 'nygsrjxpdrw',
+    question: '哪一个是儒家学派的人物?',
+    id: 19957
+  },
+  {
+    answer: '白发四老人',
+    indexes: 'czssshdsjsnyj',
+    question: '出自<<商山四皓>>的诗句是哪一句?',
+    id: 19958
+  },
+  {
+    answer: '欧阳修',
+    indexes: 'qzcnywsscdsr',
+    question: '请指出哪一位是宋朝的诗人?',
+    id: 19959
+  },
+  {
+    answer: '访古登岘首',
+    indexes: 'czxshgdsjsnyj',
+    question: '出自<<岘山怀古>>的诗句是哪一句?',
+    id: 19960
+  },
+  {
+    answer: '香',
+    indexes: 'xmngssxjgd',
+    question: '下面哪个是上下结构的?',
+    id: 19961
+  },
+  {
+    answer: '到',
+    indexes: 'xmngszyjgd',
+    question: '下面哪个是左右结构的?',
+    id: 19962
+  },
+  {
+    answer: '沦老卧江海',
+    indexes: 'czyxsstdsjsnyj',
+    question: '出自<<游谢氏山亭>>的诗句是哪一句?',
+    id: 19963
+  },
+  {
+    answer: '行歌入谷口',
+    indexes: 'czcrylftdsjsnyj',
+    question: '出自<<春日游罗敷潭>>的诗句是哪一句?',
+    id: 19964
+  },
+  {
+    answer: '赵',
+    indexes: 'wybjxzqwgxszdsng',
+    question: '位于百家姓中前五个姓氏中的是那个?',
+    id: 19965
+  },
+  {
+    answer: '孙权',
+    indexes: 'nywssgyyzdrw',
+    question: '哪一位是《三国演义》中的人物?',
+    id: 19966
+  },
+  {
+    answer: '阮小二',
+    indexes: 'nywsshzdrw',
+    question: '哪一位是《水浒》中的人物?',
+    id: 19967
+  },
+  {
+    answer: '惜彼落日暮',
+    indexes: 'czynyqlqdsjsnyj',
+    question: '出自<<游南阳清泠泉>>的诗句是哪一句?',
+    id: 19968
+  },
+  {
+    answer: '秦鹿奔野草',
+    indexes: 'czdgwgzchgdsjsnyj',
+    question: '出自<<登广武古战场怀古>>的诗句是哪一句?',
+    id: 19969
+  },
+  {
+    answer: '水调歌头',
+    indexes: 'czyssdssnys',
+    question: '出自于<<苏轼>>的诗是哪一首?',
+    id: 19970
+  },
+  {
+    answer: '主语',
+    indexes: 'syjzjgdsnz',
+    question: '属于句子结构的是哪种?',
+    id: 19971
+  },
+  {
+    answer: '如梦令',
+    indexes: 'czylqzdssnys',
+    question: '出自于<<李清照>>的诗是哪一首?',
+    id: 19972
+  },
+  {
+    answer: '汉江回万里',
+    indexes: 'czjlwhjdsjsnyj',
+    question: '出自<<金陵望汉江>>的诗句是哪一句?',
+    id: 19973
+  },
+  {
+    answer: '烛龙栖寒门',
+    indexes: 'czbfxdsjsnyj',
+    question: '出自<<北风行>>的诗句是哪一句?',
+    id: 19974
+  },
+  {
+    answer: '待月月未出',
+    indexes: 'czgxjsdyyhdsjsnyj',
+    question: '出自<<挂席江上待月有怀>>的诗句是哪一句?',
+    id: 19975
+  },
+  {
+    answer: '楼观岳阳尽',
+    indexes: 'czyxsedyyldsjsnyj',
+    question: '出自<<与夏十二登岳阳楼>>的诗句是哪一句?',
+    id: 19976
+  },
+  {
+    answer: '涤荡千古愁',
+    indexes: 'czyrhsdsjsnyj',
+    question: '出自<<友人会宿>>的诗句是哪一句?',
+    id: 19977
+  },
+  {
+    answer: '玉壶系青丝',
+    indexes: 'czdjbzdsjsnyj',
+    question: '出自<<待酒不至>>的诗句是哪一句?',
+    id: 19978
+  },
+  {
+    answer: '春草如有意',
+    indexes: 'czdzdsjsnyj',
+    question: '出自<<独酌>>的诗句是哪一句?',
+    id: 19979
+  },
+  {
+    answer: '顺治',
+    indexes: 'nywsqcdhd',
+    question: '哪一位是清朝的皇帝?',
+    id: 19980
+  },
+  {
+    answer: '赢政',
+    indexes: 'nywskghd',
+    question: '哪一位是开国皇帝?',
+    id: 19981
+  },
+  {
+    answer: '劝君莫拒杯',
+    indexes: 'czdjdsjsnyj',
+    question: '出自<<对酒>>的诗句是哪一句?',
+    id: 19982
+  },
+  {
+    answer: '我行至商洛',
+    indexes: 'czgshmdsjsnyj',
+    question: '出自<<过四皓墓>>的诗句是哪一句?',
+    id: 19983
+  },
+  {
+    answer: '置酒延落景',
+    indexes: 'czjlfhtzjdsjsnyj',
+    question: '出自<<金陵凤凰台置酒>>的诗句是哪一句?',
+    id: 19984
+  },
+  {
+    answer: '天宫水西寺',
+    indexes: 'czysxjzmfdsjsnyj',
+    question: '出自<<游水西简郑明府>>的诗句是哪一句?',
+    id: 19985
+  },
+  {
+    answer: '武则天',
+    indexes: 'qzcnywstcdhd',
+    question: '请指出哪一位是唐朝的皇帝？',
+    id: 19986
+  },
+  {
+    answer: '欧阳修',
+    indexes: 'qzcnywsscdsr',
+    question: '请指出哪一位是宋朝的诗人?',
+    id: 19987
+  },
+  {
+    answer: '两岸猿声啼不住',
+    indexes: 'qzcnyssjbsczlbds',
+    question: '请指出哪一首诗句不是出自李白的诗？',
+    id: 19988
+  },
+  {
+    answer: '孔子',
+    indexes: 'nygsrjxpdrw',
+    question: '哪一个是儒家学派的人物?',
+    id: 19989
+  },
+  {
+    answer: '儒',
+    indexes: 'nygsxqsddxslp',
+    question: '哪一个是先秦时代的学术流派?',
+    id: 19990
+  },
+  {
+    answer: '歌鼓燕赵儿',
+    indexes: 'czhdntgjdsjsnyj',
+    question: '出自<<邯郸南亭观妓>>的诗句是哪一句?',
+    id: 19991
+  },
+  {
+    answer: '楚臣伤江枫',
+    indexes: 'cztyrzxytyzdsjsnyj',
+    question: '出自<<同友人舟行游台越作>>的诗句是哪一句?',
+    id: 19992
+  },
+  {
+    answer: '明宰试舟楫',
+    indexes: 'czqyyldsfyxtcdsjsnyj',
+    question: '出自<<秋夜与刘砀山泛宴喜亭池>>的诗句是哪一句?',
+    id: 19993
+  },
+  {
+    answer: '燕草如碧丝',
+    indexes: 'czcsdsjsnyj',
+    question: '出自<<春思>>的诗句是哪一句?',
+    id: 19994
+  },
+  {
+    answer: '歌谣',
+    indexes: 'ywkfwnz',
+    question: '韵文可分为哪种？',
+    id: 19995
+  },
+  {
+    answer: '鲜花儿',
+    indexes: 'ngkycyhjehy',
+    question: '哪个可以词语后加“儿”话音？',
+    id: 19996
+  },
+  {
+    answer: '双唇音',
+    indexes: 'afybwjsmflngszqd',
+    question: '按发音部位给声母分类，哪个是正确的？',
+    id: 19997
+  },
+  {
+    answer: '塞音',
+    indexes: 'afyffflsmkfwnz',
+    question: '按发音方法分类声母可分为哪种？',
+    id: 19998
+  },
+  {
+    answer: '制',
+    indexes: 'xlngwzqdzhidfy',
+    question: '下列哪个为正确的zhi的发音？',
+    id: 19999
+  },
+  {
+    answer: '自',
+    indexes: 'xlngwzqdzidfy',
+    question: '下列哪个为正确的zi的发音？',
+    id: 20000
+  },
+  {
+    answer: '吃',
+    indexes: 'xlngwzqdchidfy',
+    question: '下列哪个为正确的chi的发音？',
+    id: 20001
+  },
+  {
+    answer: '次',
+    indexes: 'xlngwzqdcidfy',
+    question: '下列哪个为正确的ci的发音？',
+    id: 20002
+  },
+  {
+    answer: '是',
+    indexes: 'xlngwzqdshidfy',
+    question: '下列哪个为正确的shi的发音？',
+    id: 20003
+  },
+  {
+    answer: '丝',
+    indexes: 'xlngwzqdsidfy',
+    question: '下列哪个为正确的si的发音？',
+    id: 20004
+  },
+  {
+    answer: '曾',
+    indexes: 'xlngwzqdengdfy',
+    question: '下列哪个为正确的eng的发音？',
+    id: 20005
+  },
+  {
+    answer: '真',
+    indexes: 'xlngwzqdendfy',
+    question: '下列哪个为正确的en的发音？',
+    id: 20006
+  },
+  {
+    answer: '应',
+    indexes: 'xlngwzqdingdfy',
+    question: '下列哪个为正确的ing的发音？',
+    id: 20007
+  },
+  {
+    answer: '因',
+    indexes: 'xlngwzqdindfy',
+    question: '下列哪个为正确的in的发音？',
+    id: 20008
+  },
+  {
+    answer: '顺治',
+    indexes: 'yxnwsqchd',
+    question: '以下哪位是清朝皇帝？',
+    id: 20009
+  },
+  {
+    answer: '朱元璋',
+    indexes: 'xlnwsmchd',
+    question: '下列哪位是明朝皇帝？',
+    id: 20010
+  },
+  {
+    answer: '美',
+    indexes: 'xlnggjcjgbgljhsymy',
+    question: '下列哪个国家参加过八国联军，火烧圆明园？',
+    id: 20011
+  },
+  {
+    answer: '天安门',
+    indexes: 'nzshccm',
+    question: '哪座是皇城城门？',
+    id: 20012
+  },
+  {
+    answer: '继',
+    indexes: 'xlngwzqdidfy',
+    question: '下列哪个为正确的i的发音？',
+    id: 20013
+  },
+  {
+    answer: '脖',
+    indexes: 'xlngwzqd0dfy',
+    question: '下列哪个为正确的0的发音？',
+    id: 20014
+  },
+  {
+    answer: '才',
+    indexes: 'xlngwzqdaidfy',
+    question: '下列哪个为正确的ai的发音？',
+    id: 20015
+  },
+  {
+    answer: '被',
+    indexes: 'xlngwzqdeidfy',
+    question: '下列哪个为正确的ei的发音？',
+    id: 20016
+  },
+  {
+    answer: '啦',
+    indexes: 'ngsqsc',
+    question: '哪个是轻生词？',
+    id: 20017
+  },
+  {
+    answer: '的',
+    indexes: 'ngszc',
+    question: '哪个是助词？',
+    id: 20018
+  },
+  {
+    answer: '血液',
+    indexes: 'xlngcyydcxess',
+    question: '下列哪个词语应读成xùe（四声）',
+    id: 20019
+  },
+  {
+    answer: '血脓',
+    indexes: 'xlngcyydcxiss',
+    question: '下列哪个词语应读成xiě（三声）',
+    id: 20020
+  },
+  {
+    answer: '哥哥',
+    indexes: 'ngsydzmc',
+    question: '哪个属于叠字名词？',
+    id: 20021
+  },
+  {
+    answer: '听听',
+    indexes: 'ngsydzdc',
+    question: '哪个属于叠字动词？',
+    id: 20022
+  },
+  {
+    answer: '玲珑',
+    indexes: 'lmcdegyjbdqsdsng',
+    question: '联绵词第二个音节不读轻声的是哪个？',
+    id: 20023
+  },
+  {
+    answer: '妯娌',
+    indexes: 'lmcdegyjdqsdsng',
+    question: '联绵词第二个音节读轻声的是哪个？',
+    id: 20024
+  },
+  {
+    answer: '品',
+    indexes: 'ngzsypzxjgd',
+    question: '哪个字属于品字形结构的？',
+    id: 20025
+  },
+  {
+    answer: '思',
+    indexes: 'ngzsysxxjgd',
+    question: '哪个字属于上下形结构的？',
+    id: 20026
+  },
+  {
+    answer: '意',
+    indexes: 'ngzsyszxxjgd',
+    question: '哪个字属于上中下形结构的？',
+    id: 20027
+  },
+  {
+    answer: '惫',
+    indexes: 'ngzsyszxxjgd',
+    question: '哪个字属于上中下形结构的？',
+    id: 20028
+  },
+  {
+    answer: '村',
+    indexes: 'ngzsyzyxjgd',
+    question: '哪个字属于左右形结构的？',
+    id: 20029
+  },
+  {
+    answer: '街',
+    indexes: 'ngzsyzzyxjgd',
+    question: '哪个字属于左中右形结构的？',
+    id: 20030
+  },
+  {
+    answer: '圆',
+    indexes: 'ngzsyqbwxjgd',
+    question: '哪个字属于全包围形结构的？',
+    id: 20031
+  },
+  {
+    answer: '医',
+    indexes: 'ngzsybbwxjgd',
+    question: '哪个字属于半包围形结构的？',
+    id: 20032
+  },
+  {
+    answer: '冰',
+    indexes: 'ngsyppbssbd',
+    question: '哪个属于偏旁部首是冫的？',
+    id: 20033
+  },
+  {
+    answer: '滩',
+    indexes: 'ngsyppbsssd',
+    question: '哪个属于偏旁部首是氵的？',
+    id: 20034
+  },
+  {
+    answer: '讨',
+    indexes: 'ngsyppbssyd',
+    question: '哪个属于偏旁部首是讠的？',
+    id: 20035
+  },
+  {
+    answer: '制',
+    indexes: 'ngsyppbssdd',
+    question: '哪个属于偏旁部首是刂的？',
+    id: 20036
+  },
+  {
+    answer: '军',
+    indexes: 'ngsyppbssmd',
+    question: '哪个属于偏旁部首是冖的？',
+    id: 20037
+  },
+  {
+    answer: '宝',
+    indexes: 'ngsyppbssm',
+    question: '哪个属于偏旁部首是宀？',
+    id: 20038
+  },
+  {
+    answer: '谷',
+    indexes: 'ngzsybzp',
+    question: '哪个字属于八字旁？',
+    id: 20039
+  },
+  {
+    answer: '仓',
+    indexes: 'ngzsyrzt',
+    question: '哪个字属于人字头？',
+    id: 20040
+  },
+  {
+    answer: '原',
+    indexes: 'ngzsyczp',
+    question: '哪个字属于厂字旁？',
+    id: 20041
+  },
+  {
+    answer: '劳',
+    indexes: 'ngzsylzp',
+    question: '哪个字属于力字旁？',
+    id: 20042
+  },
+  {
+    answer: '艰',
+    indexes: 'ngzsyyzp',
+    question: '哪个字属于又字旁?',
+    id: 20043
+  },
+  {
+    answer: '份',
+    indexes: 'ngsyppbssrd',
+    question: '哪个属于偏旁部首是亻的？',
+    id: 20044
+  },
+  {
+    answer: '却',
+    indexes: 'ngsyppbssjd',
+    question: '哪个属于偏旁部首是卩的？',
+    id: 20045
+  },
+  {
+    answer: '队',
+    indexes: 'ngsyppbssfzzd',
+    question: '哪个属于偏旁部首是阝（在左）的？',
+    id: 20046
+  },
+  {
+    answer: '句',
+    indexes: 'ngsyppbssbd',
+    question: '哪个属于偏旁部首是勹的？',
+    id: 20047
+  },
+  {
+    answer: '私',
+    indexes: 'ngsyppbsssd',
+    question: '哪个属于偏旁部首是厶的？',
+    id: 20048
+  },
+  {
+    answer: '匡',
+    indexes: 'ngsyppbssfd',
+    question: '哪个属于偏旁部首是匚的？',
+    id: 20049
+  },
+  {
+    answer: '冈',
+    indexes: 'ngsyppbssjd',
+    question: '哪个属于偏旁部首是冂的？',
+    id: 20050
+  },
+  {
+    answer: '影',
+    indexes: 'ngsyppbsssd',
+    question: '哪个属于偏旁部首是彡的？',
+    id: 20051
+  },
+  {
+    answer: '悄',
+    indexes: 'ngsyppbssxd',
+    question: '哪个属于偏旁部首是忄的？',
+    id: 20052
+  },
+  {
+    answer: '底',
+    indexes: 'ngsyppbssgd',
+    question: '哪个属于偏旁部首是广的？',
+    id: 20053
+  },
+  {
+    answer: '梦',
+    indexes: 'ngsyppbssxd',
+    question: '哪个属于偏旁部首是夕的？',
+    id: 20054
+  },
+  {
+    answer: '邀',
+    indexes: 'ngsyppbsscd',
+    question: '哪个属于偏旁部首是辶的？',
+    id: 20055
+  },
+  {
+    answer: '封',
+    indexes: 'ngsyppbsscd',
+    question: '哪个属于偏旁部首是寸的？',
+    id: 20056
+  },
+  {
+    answer: '打',
+    indexes: 'ngsyppbsssd',
+    question: '哪个属于偏旁部首是扌的？',
+    id: 20057
+  },
+  {
+    answer: '语言',
+    indexes: 'dbjsjllgdnxzxmdngnr',
+    question: '东巴经书记录了古代纳西族先民的哪个内容？',
+    id: 20058
+  },
+  {
+    answer: '甲骨文',
+    indexes: 'zgwzdybdtjllngjd',
+    question: '中国文字的演变，大体经历了哪个阶段？',
+    id: 20059
+  },
+  {
+    answer: '篆',
+    indexes: 'ngsyszgsfdzt',
+    question: '哪个属于是中国书法的字体？',
+    id: 20060
+  },
+  {
+    answer: '蒙古族',
+    indexes: 'chzwngmzyzjdwz',
+    question: '除汉字外，哪个民族有自己的文字？',
+    id: 20061
+  },
+  {
+    answer: '“自由”',
+    indexes: 'mgynjxgsjzzpxhdhdtmds',
+    question: '美国于２０００年举行过“世纪之字”评选活动，获得提名的是？',
+    id: 20062
+  },
+  {
+    answer: '弋',
+    indexes: 'ngssyrydcdhz',
+    question: '哪个是属于容易读错的汉字？',
+    id: 20063
+  },
+  {
+    answer: '姬',
+    indexes: 'ngswggldxszmcjygynxwzxdsh',
+    question: '哪个是我国古老的姓氏，证明曾经有过以女性为中心的社会？',
+    id: 20064
+  },
+  {
+    answer: '袄',
+    indexes: 'ngsyppbssyd',
+    question: '哪个属于偏旁部首是衣的？',
+    id: 20065
+  },
+  {
+    answer: '她',
+    indexes: 'ngsyppbssnd',
+    question: '哪个属于偏旁部首是女的？',
+    id: 20066
+  },
+  {
+    answer: '社',
+    indexes: 'ngsyppbsssd',
+    question: '哪个属于偏旁部首是示的？',
+    id: 20067
+  },
+  {
+    answer: '金文',
+    indexes: 'zggwznrbjffdsnzwz',
+    question: '战国古文字，内容比较丰富的是哪种文字？',
+    id: 20068
+  },
+  {
+    answer: '故乡',
+    indexes: 'ngcydysszwyldjyddys',
+    question: '哪个词语的意思，是做为“原来的”“旧有的”的意思？',
+    id: 20069
+  },
+  {
+    answer: '故去',
+    indexes: 'ngcydysszwswdyjbzddys',
+    question: '哪个词语的意思，是做为“死亡的，已经不在的”的意思？',
+    id: 20070
+  },
+  {
+    answer: '邓',
+    indexes: 'ngsyppbssfzyd',
+    question: '哪个属于偏旁部首是阝（在右）的？',
+    id: 20071
+  },
+  {
+    answer: '比喻',
+    indexes: 'ngsyxcg',
+    question: '哪个属于修辞格？',
+    id: 20072
+  },
+  {
+    answer: '汉语',
+    indexes: 'ngsylhgyy',
+    question: '哪个属于联合国语言？',
+    id: 20073
+  },
+  {
+    answer: '比喻',
+    indexes: 'btxcsfyng',
+    question: '标题修辞手法，有哪个？',
+    id: 20074
+  },
+  {
+    answer: '给',
+    indexes: 'ngzsdyz',
+    question: '哪个字是多音字？',
+    id: 20075
+  },
+  {
+    answer: '山',
+    indexes: 'ngzsxxz',
+    question: '哪个字是象形字？',
+    id: 20076
+  },
+  {
+    answer: '跑步',
+    indexes: 'ngcsdc',
+    question: '哪个词是动词？',
+    id: 20077
+  },
+  {
+    answer: '台灯',
+    indexes: 'ngcsmc',
+    question: '哪个词是名词？',
+    id: 20078
+  },
+  {
+    answer: '清澈',
+    indexes: 'ngcsxrc',
+    question: '哪个词是形容词？',
+    id: 20079
+  },
+  {
+    answer: '按步就班',
+    indexes: 'ngclmycbz',
+    question: '哪个词里面有错别字？',
+    id: 20080
+  },
+  {
+    answer: '比喻',
+    indexes: 'ngsxcff',
+    question: '哪个是修辞方法？',
+    id: 20081
+  },
+  {
+    answer: '美丽',
+    indexes: 'ngsbyc',
+    question: '哪个是褒义词？',
+    id: 20082
+  },
+  {
+    answer: '愚蠢',
+    indexes: 'ngsbyc',
+    question: '哪个是贬义词？',
+    id: 20083
+  },
+  {
+    answer: '知书达礼',
+    indexes: 'ngscy',
+    question: '哪个是成语？',
+    id: 20084
+  },
+  {
+    answer: '借尸还魂',
+    indexes: 'ngcysssljzy',
+    question: '哪个成语是三十六计之一？',
+    id: 20085
+  },
+  {
+    answer: '横',
+    indexes: 'xlnygzktdybsh',
+    question: '下列哪一个字开头第一笔是横？',
+    id: 20086
+  },
+  {
+    answer: '昆',
+    indexes: 'xlnygzktdybss',
+    question: '下列哪一个字开头第一笔是竖？',
+    id: 20087
+  },
+  {
+    answer: '心',
+    indexes: 'xlnygzktdybsp',
+    question: '下列哪一个字开头第一笔是撇？',
+    id: 20088
+  },
+  {
+    answer: '安',
+    indexes: 'xlnygzktdybsn',
+    question: '下列哪一个字开头第一笔是捺？',
+    id: 20089
+  },
+  {
+    answer: '书',
+    indexes: 'xlnygzktdybsz',
+    question: '下列哪一个字开头第一笔是折？',
+    id: 20090
+  },
+  {
+    answer: '王',
+    indexes: 'xlnygzktdebsh',
+    question: '下列哪一个字开头第二笔是横？',
+    id: 20091
+  },
+  {
+    answer: '横',
+    indexes: 'xlnygzktdebss',
+    question: '下列哪一个字开头第二笔是竖？',
+    id: 20092
+  },
+  {
+    answer: '呐喊',
+    indexes: 'nybslxzp',
+    question: '那一部是鲁迅作品？',
+    id: 20093
+  },
+  {
+    answer: '道士塔',
+    indexes: 'nybsyqyzp',
+    question: '那一部是余秋雨作品？',
+    id: 20094
+  },
+  {
+    answer: '骆驼祥子',
+    indexes: 'nybslszp',
+    question: '那一部是老舍作品？',
+    id: 20095
+  },
+  {
+    answer: '伊凡诺夫',
+    indexes: 'nybsqhfzp',
+    question: '那一部是契诃夫作品？',
+    id: 20096
+  },
+  {
+    answer: '童年',
+    indexes: 'nybsgejzp',
+    question: '那一部是高尔基作品？',
+    id: 20097
+  },
+  {
+    answer: '双城记',
+    indexes: 'nybscesdgszp',
+    question: '那一部是查尔斯·狄更斯作品？',
+    id: 20098
+  },
+  {
+    answer: '皆大欢喜',
+    indexes: 'nybsssbyzp',
+    question: '那一部是莎士比亚作品？',
+    id: 20099
+  },
+  {
+    answer: '红楼梦魇',
+    indexes: 'nybszalzp',
+    question: '那一部是张爱玲作品？',
+    id: 20100
+  },
+  {
+    answer: '平淡生活',
+    indexes: 'nybshyzp',
+    question: '那一部是海岩作品？',
+    id: 20101
+  },
+  {
+    answer: '连城决',
+    indexes: 'nybsjyzp',
+    question: '那一部是金庸作品？',
+    id: 20102
+  },
+  {
+    answer: '荷塘月色',
+    indexes: 'nybszzqzp',
+    question: '那一部是朱自清作品？',
+    id: 20103
+  },
+  {
+    answer: '送你一匹马',
+    indexes: 'nybssmzp',
+    question: '那一部是三毛作品？',
+    id: 20104
+  },
+  {
+    answer: '明月出天山',
+    indexes: 'czmydgsdsjsnyj',
+    question: '出自<<明月度关山>>的诗句是哪一句?',
+    id: 20105
+  },
+  {
+    answer: '赵客缦胡缨',
+    indexes: 'czxkxdsjsnyj',
+    question: '出自<<侠客行>>的诗句是哪一句?',
+    id: 20106
+  },
+  {
+    answer: '李白',
+    indexes: 'qzcnywstcdsr',
+    question: '请指出哪一位是唐朝的诗人?',
+    id: 20107
+  },
+  {
+    answer: '武则天',
+    indexes: 'qzcnywstcdhd',
+    question: '请指出哪一位是唐朝的皇帝？',
+    id: 20108
+  },
+  {
+    answer: '高阁横秀气',
+    indexes: 'czgcbzstdsjsnyj',
+    question: '出自<<过崔八丈水亭>>的诗句是哪一句?',
+    id: 20109
+  },
+  {
+    answer: '日落沙明天倒开',
+    indexes: 'czdlmfzesdsjsnyj',
+    question: '出自<<东鲁门泛舟二首>>的诗句是哪一句?',
+    id: 20110
+  },
+  {
+    answer: '鸡鸣发黄山',
+    indexes: 'czsxhdsjsnyj',
+    question: '出自<<宿虾湖>>的诗句是哪一句?',
+    id: 20111
+  },
+  {
+    answer: '圣达有去就',
+    indexes: 'czjnltwssdsjsnyj',
+    question: '出自<<纪南陵题五松山>>的诗句是哪一句?',
+    id: 20112
+  },
+  {
+    answer: '昨夜巫山下',
+    indexes: 'czswsxdsjsnyj',
+    question: '出自<<宿巫山下>>的诗句是哪一句?',
+    id: 20113
+  },
+  {
+    answer: '岱宗夫如何',
+    indexes: 'czwydsjsnyj',
+    question: '出自<<望岳>>的诗句是哪一句?',
+    id: 20114
+  },
+  {
+    answer: '东郡趋庭日',
+    indexes: 'czdgzcldsjsnyj',
+    question: '出自<<登衮州城楼>>的诗句是哪一句?',
+    id: 20115
+  },
+  {
+    answer: '胡马大宛名',
+    indexes: 'czfbchmdsjsnyj',
+    question: '出自<<房兵曹胡马>>的诗句是哪一句?',
+    id: 20116
+  },
+  {
+    answer: '素练风霜起',
+    indexes: 'czhydsjsnyj',
+    question: '出自<<画鹰>>的诗句是哪一句?',
+    id: 20117
+  },
+  {
+    answer: '已从招提游',
+    indexes: 'czylmfxsdsjsnyj',
+    question: '出自<<游龙门奉先寺>>的诗句是哪一句?',
+    id: 20118
+  },
+  {
+    answer: '二年客东都',
+    indexes: 'czzlbdsjsnyj',
+    question: '出自赠李白的诗句是哪一句?',
+    id: 20119
+  },
+  {
+    answer: '风林纤月落',
+    indexes: 'czyyzszdsjsnyj',
+    question: '出自<<夜宴左氏庄>>的诗句是哪一句?',
+    id: 20120
+  },
+  {
+    answer: '东藩住皂盖',
+    indexes: 'czplbhylxtdsjsnyj',
+    question: '出自<<陪李北海宴历下亭>>的诗句是哪一句?',
+    id: 20121
+  },
+  {
+    answer: '李侯有佳句',
+    indexes: 'czylsebtxfsyjdsjsnyj',
+    question: '出自<<与李十二白同寻范十隐居>>的诗句是哪一句?',
+    id: 20122
+  },
+  {
+    answer: '寂寞书斋里',
+    indexes: 'czdryhlbdsjsnyj',
+    question: '出自<<冬日有怀李白>>的诗句是哪一句?',
+    id: 20123
+  },
+  {
+    answer: '今日潘怀县',
+    indexes: 'czjryfxhbscmfdsjsnyj',
+    question: '出自<<九日杨奉先会白水崔明府>>的诗句是哪一句?',
+    id: 20124
+  },
+  {
+    answer: '徐悲鸿',
+    indexes: 'qzcxlnywswgxddhj',
+    question: '请指出下列哪一位是我国现代的画家?',
+    id: 20125
+  },
+  {
+    answer: '鲁迅',
+    indexes: 'qzcxlnywswgxddzj',
+    question: '请指出下列哪一位是我国现代的作家?',
+    id: 20126
+  },
+  {
+    answer: '吾舅政如此',
+    indexes: 'czbsmfjzxydgzdsjsnyj',
+    question: '出自<<白水明府舅宅喜雨，得过字>>的诗句是哪一句?',
+    id: 20127
+  },
+  {
+    answer: '不作河西尉',
+    indexes: 'czgdhxzdsjsnyj',
+    question: '出自<<官定後戏赠>>的诗句是哪一句?',
+    id: 20128
+  },
+  {
+    answer: '君不见鞲上鹰',
+    indexes: 'czqyxdsjsnyj',
+    question: '出自去<<矣行>>的诗句是哪一句?',
+    id: 20129
+  },
+  {
+    answer: '东山气鸿蒙',
+    indexes: 'czftgjstdlqzdsjsnyj',
+    question: '出自<<奉同郭给事汤东灵湫作>>的诗句是哪一句?',
+    id: 20130
+  },
+  {
+    answer: '堂上不合生枫树',
+    indexes: 'czfxlsfxhsszgdsjsnyj',
+    question: '出自<<奉先刘少府新画山水障歌>>的诗句是哪一句?',
+    id: 20131
+  },
+  {
+    answer: '杜陵有布衣',
+    indexes: 'czzjffxxyhwbzdsjsnyj',
+    question: '出自<<自京赴奉先县咏怀五百字>>的诗句是哪一句?',
+    id: 20132
+  },
+  {
+    answer: '音',
+    indexes: 'xmngszqdindfy',
+    question: '下面哪个是正确的in的发音?',
+    id: 20133
+  },
+  {
+    answer: '人',
+    indexes: 'xmngszqdendfy',
+    question: '下面哪个是正确的en的发音?',
+    id: 20134
+  },
+  {
+    answer: '阿Q',
+    indexes: 'qzcxlnywslxxszdrw',
+    question: '请指出下列哪一位是鲁迅小说中的人物?',
+    id: 20135
+  },
+  {
+    answer: '凡.高',
+    indexes: 'qzcxlnywswgdhj',
+    question: '请指出下列哪一位是外国的画家?',
+    id: 20136
+  },
+  {
+    answer: '朝光入瓮牖',
+    indexes: 'czhrxcjlfdsjsnyj',
+    question: '出自<<晦日寻崔戢李封>>的诗句是哪一句?',
+    id: 20137
+  },
+  {
+    answer: '鄙夫行衰谢',
+    indexes: 'czslfclhxdsjsnyj',
+    question: '出自送<<率府程录还乡>>的诗句是哪一句?',
+    id: 20138
+  },
+  {
+    answer: '客从南县来',
+    indexes: 'czbsxcsfsjwgzssydsjsnyj',
+    question: '出自<<白水县崔少府十九翁高斋三十韵>>的诗句是哪一句?',
+    id: 20139
+  },
+  {
+    answer: '我经华原来',
+    indexes: 'czscgszesydsjsnyj',
+    question: '出自<<三川观水涨二十韵>>的诗句是哪一句?',
+    id: 20140
+  },
+  {
+    answer: '避地岁时晚',
+    indexes: 'czbdxdsjsnyj',
+    question: '出自<<避地下>>的诗句是哪一句?',
+    id: 20141
+  },
+  {
+    answer: '长安城头头白乌',
+    indexes: 'czawsdsjsnyj',
+    question: '出自<<哀王孙>>的诗句是哪一句?',
+    id: 20142
+  },
+  {
+    answer: '少陵野老吞声哭',
+    indexes: 'czajtdsjsnyj',
+    question: '出自<<哀江头>>的诗句是哪一句?',
+    id: 20143
+  },
+  {
+    answer: '孟冬十郡良家子',
+    indexes: 'czbctdsjsnyj',
+    question: '出自<<悲陈陶>>的诗句是哪一句?',
+    id: 20144
+  },
+  {
+    answer: '我军青阪在东门',
+    indexes: 'czbqbdsjsnyj',
+    question: '出自<<悲青阪>>的诗句是哪一句?',
+    id: 20145
+  },
+  {
+    answer: '战哭多新鬼',
+    indexes: 'czdxdsjsnyj',
+    question: '出自<<对雪>>的诗句是哪一句?',
+    id: 20146
+  },
+  {
+    answer: '闺中只独看',
+    indexes: 'czyydsjsnyj',
+    question: '出自<<月夜>>的诗句是哪一句?',
+    id: 20147
+  },
+  {
+    answer: '文章有神交有道',
+    indexes: 'czxdxfyjxhzgdsjsnyj',
+    question: '出自<<薛端薛复筵简薛华醉歌>>的诗句是哪一句?',
+    id: 20148
+  },
+  {
+    answer: '近闻韦氏妹',
+    indexes: 'czyrjwsmdsjsnyj',
+    question: '出自<<元日寄韦氏妹>>的诗句是哪一句?',
+    id: 20149
+  },
+  {
+    answer: '国破山河在',
+    indexes: 'czcwdsjsnyj',
+    question: '出自<<春望>>的诗句是哪一句?',
+    id: 20150
+  },
+  {
+    answer: '骥子春犹隔',
+    indexes: 'czyyzdsjsnyj',
+    question: '出自<<忆幼子>>的诗句是哪一句?',
+    id: 20151
+  },
+  {
+    answer: '张岱年',
+    indexes: 'xlnywswgdzxj',
+    question: '下列哪一位是我国的哲学家?',
+    id: 20152
+  },
+  {
+    answer: '杭州',
+    indexes: 'xlnyzswgnfdcs',
+    question: '下列哪一座是我国南方的城市?',
+    id: 20153
+  },
+  {
+    answer: '狗',
+    indexes: 'xlnygssesx',
+    question: '下列哪一个是十二属相?',
+    id: 20154
+  },
+  {
+    answer: '蓝马羚',
+    indexes: 'qzcxlnygsyjmjddw',
+    question: '请指出下列哪一个是已经灭绝的动物?',
+    id: 20155
+  },
+  {
+    answer: '安娜·卡列尼娜',
+    indexes: 'qzcnygbsyfgzp',
+    question: '请指出哪一个不属于梵高作品?',
+    id: 20156
+  },
+  {
+    answer: '无家对寒食',
+    indexes: 'czybwrydydsjsnyj',
+    question: '出自<<一百五日夜对月>>的诗句是哪一句?',
+    id: 20157
+  },
+  {
+    answer: '骥子好男儿',
+    indexes: 'czqxdsjsnyj',
+    question: '出自<<遣兴>>的诗句是哪一句?',
+    id: 20158
+  },
+  {
+    answer: '五城何迢迢',
+    indexes: 'czslzxdsjsnyj',
+    question: '出自<<塞芦子>>下的诗句是哪一句?',
+    id: 20159
+  },
+  {
+    answer: '骆驼祥子',
+    indexes: 'qzcnygbsybxdzp',
+    question: '请指出哪一个不属于冰心的作品?',
+    id: 20160
+  },
+  {
+    answer: '闲情',
+    indexes: 'qzcnygsybxdzp',
+    question: '请指出哪一个属于冰心的作品?',
+    id: 20161
+  },
+  {
+    answer: '两棵丝柏树',
+    indexes: 'qzcnygsyfgzp',
+    question: '请指出哪一个属于梵高作品?',
+    id: 20162
+  },
+  {
+    answer: '鸡鸣风雨交',
+    indexes: 'czygsddsjsnyj',
+    question: '出自<<雨过苏端>>的诗句是哪一句?',
+    id: 20163
+  },
+  {
+    answer: '皇天久不雨',
+    indexes: 'czxqdsjsnyj',
+    question: '出自<<喜晴>>的诗句是哪一句?',
+    id: 20164
+  },
+  {
+    answer: '社戏',
+    indexes: 'qzcxgnybslxdzp',
+    question: '请指出下更哪一部是鲁迅的作品?',
+    id: 20165
+  },
+  {
+    answer: '毛泽东',
+    indexes: 'qzcxgnywswgjgcqdgjldr',
+    question: '请指出下更哪一位是我国建国初期的国家领导人?',
+    id: 20166
+  },
+  {
+    answer: '罗斯福',
+    indexes: 'qzcxlnywsmgdzt',
+    question: '请指出下列哪一位是美国的总统?',
+    id: 20167
+  },
+  {
+    answer: '不谓生戎马',
+    indexes: 'czzfmctxyzgwtydsjsnyj',
+    question: '出自<<郑附马池台喜遇郑广文同饮>>的诗句是哪一句?',
+    id: 20168
+  },
+  {
+    answer: '去年潼关破',
+    indexes: 'czshdsjsnyj',
+    question: '出自<<述怀>>的诗句是哪一句?',
+    id: 20169
+  },
+  {
+    answer: '红旗渠',
+    indexes: 'qzcxlnybswgxddzz',
+    question: '请指出下列哪一部是我国现代的著作?',
+    id: 20170
+  },
+  {
+    answer: '扁鹊',
+    indexes: 'qzcxlnywswggddyxj',
+    question: '请指出下列哪一位是我国古代的医学家',
+    id: 20171
+  },
+  {
+    answer: '牛顿',
+    indexes: 'qzcxlnywskxj',
+    question: '请指出下列哪一位是科学家?',
+    id: 20172
+  },
+  {
+    answer: '去凭游客寄',
+    indexes: 'czdjsdsjsnyj',
+    question: '出自得家书的诗句是哪一句?',
+    id: 20173
+  },
+  {
+    answer: '威弧不能弦',
+    indexes: 'czfesssyfhzpgdsjsnyj',
+    question: '出自<<樊二十三寺御赴汉中判官>>的诗句是哪一句?',
+    id: 20174
+  },
+  {
+    answer: '王羲之',
+    indexes: 'qzcxlnywswggddsfj',
+    question: '请指出下列哪一位是我国古代的书法家?',
+    id: 20175
+  },
+  {
+    answer: '弘历',
+    indexes: 'qzcxlnywswgqcdhd',
+    question: '请指出下列哪一位是我国清朝的皇帝?',
+    id: 20176
+  },
+  {
+    answer: '关羽',
+    indexes: 'qzcxlnywswggddwj',
+    question: '请指出下列哪一位是我国古代的武将?',
+    id: 20177
+  },
+  {
+    answer: '骢马新凿蹄',
+    indexes: 'czszsjsyfwwpgdsjsnyj',
+    question: '出自<<送长孙九侍御赴武威判官>>的诗句是哪一句?',
+    id: 20178
+  },
+  {
+    answer: '南风作秋声',
+    indexes: 'czscdyfhxpgdsjsnyj',
+    question: '出自<<送从弟亚赴河西判官>>的诗句是哪一句?',
+    id: 20179
+  },
+  {
+    answer: '我爱你',
+    indexes: 'xmngszwdy',
+    question: '下面哪个是主谓短语?',
+    id: 20180
+  },
+  {
+    answer: '打人',
+    indexes: 'xmngsdbdy',
+    question: '下面哪个是动宾短语?',
+    id: 20181
+  },
+  {
+    answer: '家',
+    indexes: 'xmngsbjdxs',
+    question: '下面哪个是巴金的小说?',
+    id: 20182
+  },
+  {
+    answer: '昔没贼中时',
+    indexes: 'czswslpsctgjfypgdsjsnyj',
+    question: '出自<<送韦十六评事充同谷郡防御判官>>的诗句是哪一句?',
+    id: 20183
+  },
+  {
+    answer: '送远秋风落',
+    indexes: 'czsylpgsxfdsjsnyj',
+    question: '出自<<送杨六判官使西蕃>>的诗句是哪一句?',
+    id: 20184
+  },
+  {
+    answer: '羯胡腥四海',
+    indexes: 'czslzlpgdsjsnyj',
+    question: '出自<<送灵州李判官>>的诗句是哪一句?',
+    id: 20185
+  },
+  {
+    answer: '望庐山瀑布',
+    indexes: 'xmnyssdtmslbd',
+    question: '下面哪一首诗的题目是李白的?',
+    id: 20186
+  },
+  {
+    answer: '望岳',
+    indexes: 'xmnyssdtmsdfd',
+    question: '下面哪一首诗的题目是杜甫的?',
+    id: 20187
+  },
+  {
+    answer: '出尔反尔',
+    indexes: 'nygcsbyc',
+    question: '哪一个词是贬义词?',
+    id: 20188
+  },
+  {
+    answer: '和蔼可亲',
+    indexes: 'nygcsbyc',
+    question: '哪一个词是褒义词?',
+    id: 20189
+  },
+  {
+    answer: '扈圣登黄阁',
+    indexes: 'czfzybgldsjsnyj',
+    question: '出自<<奉赠严八阁老>>的诗句是哪一句?',
+    id: 20190
+  },
+  {
+    answer: '天上秋期近',
+    indexes: 'czydsjsnyj',
+    question: '出自<<月>>的诗句是哪一句?',
+    id: 20191
+  },
+  {
+    answer: '尚书',
+    indexes: 'nygsysswj',
+    question: '哪一个属于<<四书>><<五经>>?',
+    id: 20192
+  },
+  {
+    answer: '孔乙己',
+    indexes: 'nybxsslxxd',
+    question: '哪一部小说是鲁迅写的?',
+    id: 20193
+  },
+  {
+    answer: '陈胜',
+    indexes: 'nygswggdnmqydlx',
+    question: '哪一个是我国古代农民起义的领袖?',
+    id: 20194
+  },
+  {
+    answer: '风色萧萧暮',
+    indexes: 'czcydsjsnyj',
+    question: '出自<<村夜>>的诗句是哪一句?',
+    id: 20195
+  },
+  {
+    answer: '三川不可到',
+    indexes: 'czwxkhdsjsnyj',
+    question: '出自<<晚行口号>>的诗句是哪一句?',
+    id: 20196
+  },
+  {
+    answer: '灯花何太喜',
+    indexes: 'czdzcsdsjsnyj',
+    question: '出自<<独酌成诗>>的诗句是哪一句?',
+    id: 20197
+  },
+  {
+    answer: '苍生未苏息',
+    indexes: 'czjdseydsjsnyj',
+    question: '出自<<建都十二韵>>的诗句是哪一句?',
+    id: 20198
+  },
+  {
+    answer: '秋瑾',
+    indexes: 'xlnygszgjdsdrw',
+    question: '下列哪一个是中国近代史的人物?',
+    id: 20199
+  },
+  {
+    answer: '顺治',
+    indexes: 'qzcxlnygsqcdnh',
+    question: '请指出下列哪一个是清朝的年号?',
+    id: 20200
+  },
+  {
+    answer: '雨果',
+    indexes: 'xlnywsfgdwxj',
+    question: '下列哪一位是法国的文学家?',
+    id: 20201
+  },
+  {
+    answer: '但西',
+    indexes: 'xlnywsydlwsfxsqdrw',
+    question: '下列哪一位是意大利文世复兴时期的人物?',
+    id: 20202
+  },
+  {
+    answer: '五岭皆炎热',
+    indexes: 'czjywgztdsjsnyj',
+    question: '出自<<寄杨五桂州谭>>的诗句是哪一句?',
+    id: 20203
+  },
+  {
+    answer: '东阁官梅动诗兴',
+    indexes: 'czhpddszdtskfzmxyjjdsjsnyj',
+    question: '出自<<和裴迪登蜀州东亭送客逢早梅相忆见寄>>的诗句是哪一句?',
+    id: 20204
+  },
+  {
+    answer: '将军胆气雄',
+    indexes: 'czjzwsjjcjdsjsnyj',
+    question: '出自<<寄赠王十将军承俊>>的诗句是哪一句?',
+    id: 20205
+  },
+  {
+    answer: '力疾坐清晓',
+    indexes: 'czfclddbzzczdsjsnyj',
+    question: '出自<<奉酬李都督表丈早春作>>的诗句是哪一句?',
+    id: 20206
+  },
+  {
+    answer: '时出碧鸡坊',
+    indexes: 'czxjdsjsnyj',
+    question: '出自<<西郊>>的诗句是哪一句?',
+    id: 20207
+  },
+  {
+    answer: '舍南舍北皆春水',
+    indexes: 'czkzdsjsnyj',
+    question: '出自<<客至>>的诗句是哪一句?',
+    id: 20208
+  },
+  {
+    answer: '好雨知时节',
+    indexes: 'czcyxydsjsnyj',
+    question: '出自<<春夜喜雨>>的诗句是哪一句?',
+    id: 20209
+  },
+  {
+    answer: '为人性僻耽佳句',
+    indexes: 'czjszsrhsldsdsjsnyj',
+    question: '出自<<江上值水如海势聊短述>>的诗句是哪一句?',
+    id: 20210
+  },
+  {
+    answer: '望极春城上',
+    indexes: 'cztxjbqldjzdsjsnyj',
+    question: '出自<<题新津北桥楼得郊字>>的诗句是哪一句?',
+    id: 20211
+  },
+  {
+    answer: '僧来不语自鸣钟',
+    indexes: 'czmdsaszljpsddsjsnyj',
+    question: '出自<<暮登四安寺钟楼寄裴十迪>>的诗句是哪一句?',
+    id: 20212
+  },
+  {
+    answer: '野寺江天豁',
+    indexes: 'czyxjsdsjsnyj',
+    question: '出自<<游修觉寺>>的诗句是哪一句?',
+    id: 20213
+  },
+  {
+    answer: '寺忆曾游处',
+    indexes: 'czlydsjsnyj',
+    question: '出自<<陆游>>的诗句是哪一句?',
+    id: 20214
+  },
+  {
+    answer: '三月桃花浪',
+    indexes: 'ccsdsjsnyj',
+    question: '出<<春水>>的诗句是哪一句?',
+    id: 20215
+  },
+  {
+    answer: '坦腹江亭卧',
+    indexes: 'czjtdsjsnyj',
+    question: '出自<<江亭>>的诗句是哪一句?',
+    id: 20216
+  },
+  {
+    answer: '春来常早起',
+    indexes: 'czzqdsjsnyj',
+    question: '出自<<早起>>的诗句是哪一句?',
+    id: 20217
+  },
+  {
+    answer: '花飞有底急',
+    indexes: 'czkxdsjsnyj',
+    question: '出自<<可惜>>的诗句是哪一句?',
+    id: 20218
+  },
+  {
+    answer: '落日在帘钩',
+    indexes: 'czlrdsjsnyj',
+    question: '出自<<落日>>的诗句是哪一句?',
+    id: 20219
+  },
+  {
+    answer: '开樽独酌迟',
+    indexes: 'czdzdsjsnyj',
+    question: '出自<<独酌>>的诗句是哪一句?',
+    id: 20220
+  },
+  {
+    answer: '整履步青芜',
+    indexes: 'czxbdsjsnyj',
+    question: '出自<<徐步>>的诗句是哪一句?',
+    id: 20221
+  },
+  {
+    answer: '寒食江村路',
+    indexes: 'czhsdsjsnyj',
+    question: '出自<<寒食>>的诗句是哪一句?',
+    id: 20222
+  },
+  {
+    answer: '蜀王将此镜',
+    indexes: 'czsjdsjsnyj',
+    question: '出自<<石镜>>的诗句是哪一句?',
+    id: 20223
+  },
+  {
+    answer: '茂陵多病後',
+    indexes: 'czqtdsjsnyj',
+    question: '出自<<琴台>>的诗句是哪一句?',
+    id: 20224
+  },
+  {
+    answer: '凉气晓萧萧',
+    indexes: 'czcydsjsnyj',
+    question: '出自<<朝雨>>的诗句是哪一句?',
+    id: 20225
+  },
+  {
+    answer: '村晚惊风度',
+    indexes: 'czwqdsjsnyj',
+    question: '出自<<晚晴>>的诗句是哪一句?',
+    id: 20226
+  },
+  {
+    answer: '楠树色冥冥',
+    indexes: 'czgndsjsnyj',
+    question: '出自<<高楠>>的诗句是哪一句?',
+    id: 20227
+  },
+  {
+    answer: '独绕虚斋里',
+    indexes: 'czesdsjsnyj',
+    question: '出自<<恶树>>的诗句是哪一句?',
+    id: 20228
+  },
+  {
+    answer: '南京久客耕南亩',
+    indexes: 'czjtdsjsnyj',
+    question: '出自<<进艇>>的诗句是哪一句?',
+    id: 20229
+  },
+  {
+    answer: '一室他乡远',
+    indexes: 'czysdsjsnyj',
+    question: '出自<<一室>>的诗句是哪一句?',
+    id: 20230
+  },
+  {
+    answer: '故人南郡去',
+    indexes: 'czwhslgwgdsjsnyj',
+    question: '出自<<闻斛斯六官未归>>的诗句是哪一句?',
+    id: 20231
+  },
+  {
+    answer: '贫嗟出入劳',
+    indexes: 'czfqcxccdjtwesdsjsnyj',
+    question: '出自<<赴青城县出成都寄陶王二少>>的诗句是哪一句?',
+    id: 20232
+  },
+  {
+    answer: '野桥齐渡马',
+    indexes: 'czywygcsxdsjsnyj',
+    question: '出自<<野望因过常少仙>>的诗句是哪一句?',
+    id: 20233
+  },
+  {
+    answer: '近闻宽法离新州',
+    indexes: 'czjdwdsjsnyj',
+    question: '出自<<寄杜位>>的诗句是哪一句?',
+    id: 20234
+  },
+  {
+    answer: '兵戈不见老莱衣',
+    indexes: 'czshssjdsjdsjsnyj',
+    question: '出自<<送韩十四江东省觐>>的诗句是哪一句?',
+    id: 20235
+  },
+  {
+    answer: '自为青城客',
+    indexes: 'czzrsdsjsnyj',
+    question: '出自<<丈人山>>的诗句是哪一句?',
+    id: 20236
+  },
+  {
+    answer: '故人亦流落',
+    indexes: 'czspwfdcdsjsnyj',
+    question: '出自<<送裴五赴东川>>的诗句是哪一句?',
+    id: 20237
+  },
+  {
+    answer: '远师虞秘监',
+    indexes: 'czzyswsmdsjsnyj',
+    question: '出自<<赠虞十五司马>>的诗句是哪一句?',
+    id: 20238
+  },
+  {
+    answer: '倚江楠树草堂前',
+    indexes: 'cznswfysbtdsjsnyj',
+    question: '出自<<楠树为风雨所拔叹>>的诗句是哪一句?',
+    id: 20239
+  },
+  {
+    answer: '八月秋高风怒号',
+    indexes: 'czmwwqfspgdsjsnyj',
+    question: '出自<<茅屋为秋风所破歌>>的诗句是哪一句?',
+    id: 20240
+  },
+  {
+    answer: '分手开元末',
+    indexes: 'czftxlzbddsjsnyj',
+    question: '出自<<逢唐兴刘主簿弟>>的诗句是哪一句?',
+    id: 20241
+  },
+  {
+    answer: '叶县郎官宰',
+    indexes: 'czjjwmfdsjsnyj',
+    question: '出自<<敬简王明府>>的诗句是哪一句?',
+    id: 20242
+  },
+  {
+    answer: '甲子西南异',
+    indexes: 'czzjwmfdsjsnyj',
+    question: '出自<<重简王明府>>的诗句是哪一句?',
+    id: 20243
+  },
+  {
+    answer: '忆年十五心尚孩',
+    indexes: 'czbyjxdsjsnyj',
+    question: '出自<<百忧集行>>的诗句是哪一句?',
+    id: 20244
+  },
+  {
+    answer: '君不见徐卿二子生绝奇',
+    indexes: 'czxqezgdsjsnyj',
+    question: '出自<<徐卿二子歌>>的诗句是哪一句?',
+    id: 20245
+  },
+  {
+    answer: '成都猛将有花卿',
+    indexes: 'czxzhqgdsjsnyj',
+    question: '出自<<戏作花卿歌>>的诗句是哪一句?',
+    id: 20246
+  },
+  {
+    answer: '有柏生崇冈',
+    indexes: 'czbbdsjsnyj',
+    question: '出自<<病柏>>的诗句是哪一句?',
+    id: 20247
+  },
+  {
+    answer: '准',
+    indexes: 'xmngszqdundfy',
+    question: '下面哪个是正确的un的发音?',
+    id: 20248
+  },
+  {
+    answer: '拨云见日',
+    indexes: 'xmngscy',
+    question: '下面哪个是成语?',
+    id: 20249
+  },
+  {
+    answer: '彭德怀',
+    indexes: 'qzcxlnywsxzgsqdsdys',
+    question: '请指出下列哪一位是新中国时期的十大元帅?',
+    id: 20250
+  },
+  {
+    answer: '赤壁之战',
+    indexes: 'qzcxlnywswggddzy',
+    question: '请指出下列哪一位是我国古代的战役?',
+    id: 20251
+  },
+  {
+    answer: '吴道子',
+    indexes: 'qzcxlnywswggddhj',
+    question: '请指出下列哪一位是我国古代的画家?',
+    id: 20252
+  },
+  {
+    answer: '李白',
+    indexes: 'qzcxlnywswggddsr',
+    question: '请指出下列哪一位是我国古代的诗人?',
+    id: 20253
+  },
+  {
+    answer: '诸葛亮',
+    indexes: 'qzcxlnywswggddwc',
+    question: '请指出下列哪一位是我国古代的文臣?',
+    id: 20254
+  },
+  {
+    answer: '大阪',
+    indexes: 'qzcxgnyzsrbdcs',
+    question: '请指出下更哪一座是日本的城市?',
+    id: 20255
+  },
+  {
+    answer: '纽约',
+    indexes: 'qzcxlnyzsmgdcs',
+    question: '请指出下列哪一座是美国的城市?',
+    id: 20256
+  },
+  {
+    answer: '巴顿',
+    indexes: 'qzcxgnywsdecsjdzzdrw',
+    question: '请指出下更哪一位是第二次世界大战中的人物?',
+    id: 20257
+  },
+  {
+    answer: '家',
+    indexes: 'qzcxlnybsbjdzp',
+    question: '请指出下列哪一部是巴金的作品?',
+    id: 20258
+  },
+  {
+    answer: '骆驼祥子',
+    indexes: 'qzcxlnybslsdzp',
+    question: '请指出下列哪一部是老舍的作品?',
+    id: 20259
+  },
+  {
+    answer: '西游记',
+    indexes: 'qzcxlnywswggddzz',
+    question: '请指出下列哪一位是我国古代的著作?',
+    id: 20260
+  },
+  {
+    answer: '朱自清',
+    indexes: 'qzcxlnywswxj',
+    question: '请指出下列哪一位是文学家?',
+    id: 20261
+  },
+  {
+    answer: '苏轼',
+    indexes: 'qzcxlnywswgscdwxj',
+    question: '请指出下列哪一位是我国宋朝的文学家?',
+    id: 20262
+  },
+  {
+    answer: '刘邦',
+    indexes: 'qzcxlnywswghcdlsrw',
+    question: '请指出下列哪一位是我国汉朝的历史人物?',
+    id: 20263
+  },
+  {
+    answer: '刘备',
+    indexes: 'qzcxlnywswgsgsqdlsrw',
+    question: '请指出下列哪一位是我国三国时期的历史人物?',
+    id: 20264
+  },
+  {
+    answer: '陈毅',
+    indexes: 'qzcxlnywswgjfzzsqdgcdjl',
+    question: '请指出下列哪一位是我国解放战争时期的共产党将领?',
+    id: 20265
+  },
+  {
+    answer: '吴佩孚',
+    indexes: 'qzcxlnywswgmgsqdjf',
+    question: '请指出下列哪一位是我国民国时期的军阀?',
+    id: 20266
+  },
+  {
+    answer: '江西',
+    indexes: 'qzcxlnygshjzzsqsjgddf',
+    question: '请指出下列哪一个是红军长征时期所经过的地方?',
+    id: 20267
+  },
+  {
+    answer: '江姐',
+    indexes: 'qzcxlnywshyxszdrw',
+    question: '请指出下列哪一位是<<红岩>>小说中的人物?',
+    id: 20268
+  },
+  {
+    answer: '美国',
+    indexes: 'qzcxlnygsqlwgdbgljdgj',
+    question: '请指出下列哪一个是侵略我国的<<八国联军<<的国家?',
+    id: 20269
+  },
+  {
+    answer: '李世民',
+    indexes: 'qzcxlnywswgtcsqdlsrw',
+    question: '请指出下列哪一位是我国唐朝时期的历史人物?',
+    id: 20270
+  },
+  {
+    answer: '南京',
+    indexes: 'qzcxlnygswggdcddsd',
+    question: '请指出下列哪一个是我国古代朝代的首都?',
+    id: 20271
+  },
+  {
+    answer: '楚',
+    indexes: 'qzcxlnygswgcqsqdbz',
+    question: '请指出下列哪一个是我国春秋时期的霸主?',
+    id: 20272
+  },
+  {
+    answer: '华罗庚',
+    indexes: 'qzcxlznywswgdsxj',
+    question: '请指出下列中哪一位是我国的数学家?',
+    id: 20273
+  },
+  {
+    answer: '鸡',
+    indexes: 'qzcxlnygdwsjql',
+    question: '请指出下列哪一个动物是家禽类?',
+    id: 20274
+  },
+  {
+    answer: '牛',
+    indexes: 'qzcxlnyzdwsscdw',
+    question: '请指出下列哪一种动物是食草动物?',
+    id: 20275
+  },
+  {
+    answer: '洪秀全',
+    indexes: 'qzcxlnywstptgsqdjl',
+    question: '请指出下列哪一位是太平天国时期的将领?',
+    id: 20276
+  },
+  {
+    answer: '遇事不慌',
+    indexes: 'qzcxlnyjbscy',
+    question: '请指出下列哪一句不是成语?',
+    id: 20277
+  },
+  {
+    answer: '哈姆莱特',
+    indexes: 'xlnybsssbydzp',
+    question: '下列哪一部是莎士比亚的作品?',
+    id: 20278
+  },
+  {
+    answer: '韩愈',
+    indexes: 'xlnywstsbdj',
+    question: '下列哪一位是唐宋八大家?',
+    id: 20279
+  },
+  {
+    answer: '契诃夫',
+    indexes: 'xlnywsegdwxj',
+    question: '下列哪一位是俄国的文学家?',
+    id: 20280
+  },
+  {
+    answer: '老子',
+    indexes: 'xlnywscqzgsqdsxj',
+    question: '下列哪一位是春秋战国时期的思想家?',
+    id: 20281
+  },
+  {
+    answer: '孙悟空',
+    indexes: 'xlnywsshzdrw',
+    question: '下列哪一位是神话中的人物?',
+    id: 20282
+  },
+  {
+    answer: '谭嗣同',
+    indexes: 'xlnywsqcwxbfdljz',
+    question: '下列哪一位是清朝戊戌变法的六君子?',
+    id: 20283
+  },
+  {
+    answer: '林黛玉',
+    indexes: 'syhlmzjlsecdsnw',
+    question: '属于《红楼梦》中金陵十二叉的是哪位？',
+    id: 20284
+  },
+  {
+    answer: '孙悟空',
+    indexes: 'syxyjzqqjrsnyw',
+    question: '属于《西游记》中去取经人是哪一位？',
+    id: 20285
+  },
+  {
+    answer: '蓝鲸',
+    indexes: 'sybrdwdsng',
+    question: '属于哺乳动物的是哪个？',
+    id: 20286
+  },
+  {
+    answer: '鲨鱼',
+    indexes: 'syrgyldsng',
+    question: '属于软骨鱼类的是哪个？',
+    id: 20287
+  },
+  {
+    answer: '腊八',
+    indexes: 'syzgrmdjrdsng',
+    question: '属于中国人民的节日的是哪个？',
+    id: 20288
+  },
+  {
+    answer: '世界节俭日',
+    indexes: 'sysjrmdjrdsng',
+    question: '属于世界人民的节日的是哪个？',
+    id: 20289
+  },
+  {
+    answer: '马来西亚',
+    indexes: 'syyzdgjsng',
+    question: '属于亚洲的国家是哪个？',
+    id: 20290
+  },
+  {
+    answer: '芬兰',
+    indexes: 'syozdgjsng',
+    question: '属于欧洲的国家是哪个？',
+    id: 20291
+  },
+  {
+    answer: '坦桑尼亚',
+    indexes: 'syfzdgjsng',
+    question: '属于非洲的国家是哪个？',
+    id: 20292
+  },
+  {
+    answer: '汤加',
+    indexes: 'sydyzdgjsng',
+    question: '属于大洋洲的国家是哪个？',
+    id: 20293
+  },
+  {
+    answer: '刘邦',
+    indexes: 'xlnygssywggyqdrw',
+    question: '下列哪一个是属于我国公元前的人物?',
+    id: 20294
+  },
+  {
+    answer: '孙武',
+    indexes: 'xlnywswggddjsj',
+    question: '下列哪一位是我国古代的军事家?',
+    id: 20295
+  },
+  {
+    answer: '安娜·卡列尼娜',
+    indexes: 'qzcxlnygslfnglywqtestdzp',
+    question: '请指出下列哪一个是列夫·尼古拉耶维奇·托尔斯泰的作品?',
+    id: 20296
+  },
+  {
+    answer: '安娜·卡列尼娜',
+    indexes: 'qzcxlnygsbsygdzp',
+    question: '请指出下列哪一个是不是雨果的作品?',
+    id: 20297
+  },
+  {
+    answer: '红色旗面',
+    indexes: 'qtczczggqdybf',
+    question: '请挑出组成中国国旗的一部分？',
+    id: 20298
+  },
+  {
+    answer: '马提尼克',
+    indexes: 'sybmzdgjsng',
+    question: '属于北美洲的国家是哪个？',
+    id: 20299
+  },
+  {
+    answer: '智利',
+    indexes: 'synmzdgjsng',
+    question: '属于南美洲的国家是哪个？',
+    id: 20300
+  },
+  {
+    answer: '京西稻',
+    indexes: 'sybjdtcsnyz',
+    question: '属于北京的特产是哪一种？',
+    id: 20301
+  },
+  {
+    answer: '西安',
+    indexes: 'syzgqdgddsnyg',
+    question: '属于中国七大古都的是哪一个？',
+    id: 20302
+  },
+  {
+    answer: '鹿鼎记',
+    indexes: 'qzcjyzpdsnyg',
+    question: '请指出金庸作品的是哪一个?',
+    id: 20303
+  },
+  {
+    answer: '风铃中的刀声',
+    indexes: 'qzcnygsgldzp',
+    question: '请指出哪一个是古龙的作品?',
+    id: 20304
+  },
+  {
+    answer: '鹿鼎记',
+    indexes: 'qzcnygbslysdzp',
+    question: '请指出哪一个不是梁羽生的作品?',
+    id: 20305
+  },
+  {
+    answer: '是',
+    indexes: 'aycydbycsng',
+    question: '暗喻常用的比喻词，是哪个？',
+    id: 20306
+  },
+  {
+    answer: '用事物特征代本体事物',
+    indexes: 'ngsjddzlzy',
+    question: '哪个是借代的种类之一？',
+    id: 20307
+  },
+  {
+    answer: '表示引文的省略',
+    indexes: 'ngsslhdyf',
+    question: '哪个是省略号的用法？',
+    id: 20308
+  },
+  {
+    answer: '报刊名',
+    indexes: 'yxngkyysmh',
+    question: '以下哪个可以用书名号？',
+    id: 20309
+  },
+  {
+    answer: '编年体',
+    indexes: 'yxngtlsyssld',
+    question: '以下哪个体例属于史书里的？',
+    id: 20310
+  },
+  {
+    answer: '《春秋》',
+    indexes: 'xlngsssygdzmssz',
+    question: '下列哪个史书属于古代著名史书作？',
+    id: 20311
+  },
+  {
+    answer: '《周语》',
+    indexes: 'ngsygyssld',
+    question: '哪个属于《国语》史书里的？',
+    id: 20312
+  },
+  {
+    answer: '《八伯之歌》',
+    indexes: 'ngsysystc',
+    question: '哪个属于四言诗体裁？',
+    id: 20313
+  },
+  {
+    answer: '《汉广》',
+    indexes: 'ngsycgtc',
+    question: '哪个属于楚歌体裁？',
+    id: 20314
+  },
+  {
+    answer: '儒',
+    indexes: 'ngsyzzflzd',
+    question: '哪个属于诸子分类中的？',
+    id: 20315
+  },
+  {
+    answer: '解释事物的状态',
+    indexes: 'ngsfszqd',
+    question: '哪个说法是正确的？',
+    id: 20316
+  },
+  {
+    answer: '感谢信',
+    indexes: 'ngsyzysx',
+    question: '哪个属于专用书信？',
+    id: 20317
+  },
+  {
+    answer: '通知',
+    indexes: 'ngsygwl',
+    question: '哪个属于公文类？',
+    id: 20318
+  },
+  {
+    answer: '广告稿',
+    indexes: 'ngsyxcl',
+    question: '哪个属于宣传类？',
+    id: 20319
+  },
+  {
+    answer: '请柬',
+    indexes: 'ngsylyld',
+    question: '哪个属于礼仪类的？',
+    id: 20320
+  },
+  {
+    answer: '收条',
+    indexes: 'ngsyqjld',
+    question: '哪个属于契据类的？',
+    id: 20321
+  },
+  {
+    answer: '童话',
+    indexes: 'xlngbsysdwxtcd',
+    question: '下列哪个不属于四大文学体裁的？',
+    id: 20322
+  },
+  {
+    answer: '服装',
+    indexes: 'xlngszdrwwmdmx',
+    question: '下列哪个是针对人物外貌的描写？',
+    id: 20323
+  },
+  {
+    answer: '时间',
+    indexes: 'ngsyxszjbdys',
+    question: '哪个属于叙事最基本的“要素”？',
+    id: 20324
+  },
+  {
+    answer: '景物的形状',
+    indexes: 'ngsyxjwzwdjbfm',
+    question: '哪个属于写景物作文的基本方面？',
+    id: 20325
+  },
+  {
+    answer: '细观察',
+    indexes: 'nzffkytgzwsp',
+    question: '哪种方法可以提高作文水平？',
+    id: 20326
+  },
+  {
+    answer: '年龄',
+    indexes: 'xrdwzyzyxlngfm',
+    question: '写人的文章，应注意下列哪个方面？',
+    id: 20327
+  },
+  {
+    answer: '慈母手中线',
+    indexes: 'xlnjczyyzy',
+    question: '下列哪句出自于《游子吟》？',
+    id: 20328
+  },
+  {
+    answer: '爷娘闻女来',
+    indexes: 'xlnjczymlc',
+    question: '下列哪句出自于《木兰辞》？',
+    id: 20329
+  },
+  {
+    answer: '国破山河在',
+    indexes: 'xlnjczycw',
+    question: '下列哪句出自于《春望》？',
+    id: 20330
+  },
+  {
+    answer: '使人听此凋朱颜',
+    indexes: 'xlnjczysdn',
+    question: '下列哪句出自于《蜀道难》？',
+    id: 20331
+  },
+  {
+    answer: '血液粘稠',
+    indexes: 'bsxyjcdxm',
+    question: '不属血液检查的项目：',
+    id: 20332
+  },
+  {
+    answer: '鼎的盖子上',
+    indexes: 'cslsjzggbtgjtmbtdxztzsyzcygybtqzdttjcbyyzggdmtcbdbjhmcsnzdtjcbyyzsznlm',
+    question:
+      '传说龙生九子个个不同，根据它们不同的性质特征，所用之处也各有不同，其中的“飸餮”经常被应用在广告等媒体传播的颁奖会名称上，你知道它经常被用于装饰在哪里吗？',
+    id: 20333
+  },
+  {
+    answer: '金星',
+    indexes: 'gjmwwnsdjdxxzys',
+    question: '国际名为“维纳斯”的九大行星之一是',
+    id: 20334
+  },
+  {
+    answer: '5个',
+    indexes: 'mgxlxjmslbrdxyfwjgcc',
+    question: '美国心理学家马斯洛把人的需要分为几个层次',
+    id: 20335
+  },
+  {
+    answer: '紫檀木',
+    indexes: 'swhmjjzyszyztmszmwmymhlmjcmzcdjjcczwdmczzjjdbncwhmjjqz_________shmzdjp',
+    question:
+      '所谓红木家具主要是指用紫檀木、酸枝木、乌木，瘿木、花梨木、鸡翅木制成的家具，除此之外的木材制作家具都不能称为红木家具，其中_________是红木中的极品。',
+    id: 20336
+  },
+  {
+    answer: '风',
+    indexes: 'xysjdtfgxysjszzgnzqsjdymddtfgtmjstlfdrblkdlhaxd',
+    question:
+      '西域三绝独特风光.“西域三绝”，是在中国乃至全世界都有名的独特风光。它们就是：吐鲁番的热、巴里坤的凉和安西的：',
+    id: 20337
+  },
+  {
+    answer: '小肠',
+    indexes: 'rtzzdqgssm',
+    question: '人体最长的器官是什么？',
+    id: 20338
+  },
+  {
+    answer: '肝',
+    indexes: 'rtzzydqgssm',
+    question: '人体最重要的器官是什么？',
+    id: 20339
+  },
+  {
+    answer: '镫骨肌',
+    indexes: 'rtzxdjrssm',
+    question: '人体最小的肌肉是什么？',
+    id: 20340
+  },
+  {
+    answer: '卵细胞',
+    indexes: 'rtzddxbssm',
+    question: '人体最大的细胞是什么？',
+    id: 20341
+  },
+  {
+    answer: '古典音乐',
+    indexes: 'yxnzyllxbslyymz',
+    question: '以下哪种音乐类型不是来源于美洲？',
+    id: 20342
+  },
+  {
+    answer: '中国',
+    indexes: 'yltysyzylxdtydltsyfhzljbdyzyxffqwsjszzyyyltydgjsnggj',
+    question:
+      '医疗体育是一种医疗性的体育锻炼，它是预防和治疗疾病的一种有效方法。请问，世界上最早应用医疗体育的国家是哪个国家？',
+    id: 20343
+  },
+  {
+    answer: '白族',
+    indexes: 'syjswgngmzdctjr',
+    question: '“三月街”是我国哪个民族的传统节日？',
+    id: 20344
+  },
+  {
+    answer: '红枣',
+    indexes: 'brywhwsswds',
+    question: '被人誉为活维生素丸的是：',
+    id: 20345
+  },
+  {
+    answer: '千与千寻的神隐',
+    indexes: 'yxnxzpsgqjdzp',
+    question: '以下哪些作品是宫崎骏的作品？',
+    id: 20346
+  },
+  {
+    answer: '莫扎特、凯鲁比尼、柏辽兹、威尔第、福莱',
+    indexes: 'nwwzqjdahqzzmscwdahq',
+    question: '那五位作曲家的《安魂曲》最著名，俗称五大安魂曲？',
+    id: 20347
+  },
+  {
+    answer: '百窍通',
+    indexes: 'yqtqtxxyj',
+    question: '“一窍通”请填写下一句：',
+    id: 20348
+  },
+  {
+    answer: '帝力',
+    indexes: 'ddwdsd',
+    question: '东帝汶的首都：',
+    id: 20349
+  },
+  {
+    answer: '汉文帝、汉武帝',
+    indexes: 'xlnzrwbsfzgx',
+    question: '下列哪组人物不是父子关系',
+    id: 20350
+  },
+  {
+    answer: '白教、红教、黄教',
+    indexes: 'zcfjynjdfz',
+    question: '藏传佛教有哪几大分支：',
+    id: 20351
+  },
+  {
+    answer: '刘秀',
+    indexes: 'dxtjysyg',
+    question: '夺席谈经与谁有关：',
+    id: 20352
+  },
+  {
+    answer: '六场',
+    indexes: 'NBAlssjsszzdyjc',
+    question: 'NBA历史上加时赛最长的有几场？',
+    id: 20353
+  },
+  {
+    answer: '曼纽特·博尔',
+    indexes: 'NBAlsszgdqyss',
+    question: 'NBA历史上最高的球员是谁？',
+    id: 20354
+  },
+  {
+    answer: '活塞',
+    indexes: 'NBAdcbsdfzgdsngqd',
+    question: 'NBA单场比赛得分最高的是哪个球队？',
+    id: 20355
+  },
+  {
+    answer: '杰里·卢卡斯',
+    indexes: 'dcbsqdlbqzddqyss',
+    question: '单场比赛抢到篮板球最多的球员是谁？',
+    id: 20356
+  },
+  {
+    answer: '迈克尔.乔丹',
+    indexes: 'NBApjdfzgdqyss',
+    question: 'NBA平均得分最高的球员是谁？',
+    id: 20357
+  },
+  {
+    answer: '维凯拉斯',
+    indexes: 'gjawhdyrzxss',
+    question: '国际奥委会第一任主席是谁？',
+    id: 20358
+  },
+  {
+    answer: '伊菲图斯',
+    indexes: 'xlnwmydrggjawhzx',
+    question: '下列哪位没有担任过国际奥委会主席？',
+    id: 20359
+  },
+  {
+    answer: '李宁',
+    indexes: 'zgydysdjayhhddjpzd',
+    question: '中国运动员谁单届奥运会获得的金牌最多？',
+    id: 20360
+  },
+  {
+    answer: '刘长春',
+    indexes: 'dyccjayhdjzgydyss',
+    question: '第一次参加奥运会的旧中国运动员是谁？',
+    id: 20361
+  },
+  {
+    answer: '欧文斯',
+    indexes: 'yjcdydcnhhhcjfslncfzdydzzmmds',
+    question: '以杰出的运动才能和辉煌成就粉碎了纳粹分子的优等种族美梦的是？',
+    id: 20362
+  },
+  {
+    answer: '邓亚萍',
+    indexes: 'lxhdsjayhgjdzgydysnyw',
+    question: '连续获得三届奥运会冠军的中国运动员是哪一位？',
+    id: 20363
+  },
+  {
+    answer: '王正廷',
+    indexes: 'gjawhddywzgwyss',
+    question: '国际奥委会的第一位中国委员是谁？',
+    id: 20364
+  },
+  {
+    answer: '罗杰·米拉',
+    indexes: 'sssjbnlzddcsqy',
+    question: '谁是世界杯年龄最大的参赛球员？',
+    id: 20365
+  },
+  {
+    answer: '马拉多纳',
+    indexes: 'sjbsbfgcszdxsss',
+    question: '世界杯上被犯规次数最多选手是谁？',
+    id: 20366
+  },
+  {
+    answer: '亨利·德斯格朗吉',
+    indexes: 'scblhfzxcs',
+    question: '谁创办了环法自行车赛?',
+    id: 20367
+  },
+  {
+    answer: '孝',
+    indexes: 'xlnxbsrjwc',
+    question: '下列哪项不是儒家“五常”？',
+    id: 20368
+  },
+  {
+    answer: '刘因',
+    indexes: 'ycdyqsjtsscyywxbxxsxlnwbsyyjwdj',
+    question: '元朝的元曲是继唐诗、宋词又一文学表现形式，下列哪位不属于元剧五大家？',
+    id: 20369
+  },
+  {
+    answer: '柳亚子',
+    indexes: 'nssqcmnstmhyxecldzmjbwxttxlnwsnsddbrw',
+    question: '南社是清朝末年受同盟会影响而成立的著名进步文学团体，下列哪位是南社的代表人物？',
+    id: 20370
+  },
+  {
+    answer: '《聊斋志异》是我国第一部优秀的白话短篇小说集',
+    indexes: 'dxlwxzpjmsbzqds',
+    question: '对下列文学作品集描述不正确的是？',
+    id: 20371
+  },
+  {
+    answer: '胡宁事渔钓',
+    indexes: 'xlnjbsczyzqdzpjj',
+    question: '下列哪句不是出自颜真卿的《赠裴将军》？',
+    id: 20372
+  },
+  {
+    answer: '柳宗元《溪居》',
+    indexes: 'jwzzlxcnyzzjssczngsrdnbzp',
+    question: '久为簪组累，幸此南夷谪。这句诗是出自哪个诗人的哪部作品？',
+    id: 20373
+  },
+  {
+    answer: '李益《江南曲》',
+    indexes: 'xlnssbsqyjj',
+    question: '下列哪首诗不是七言绝句？',
+    id: 20374
+  },
+  {
+    answer: '王昌龄《芙蓉楼送辛渐》',
+    indexes: 'hyljyrwpmskcsgcznss',
+    question: '“寒雨连江夜入吴，平明送客楚山孤。”出自哪首诗？',
+    id: 20375
+  },
+  {
+    answer: '西鄙人《哥舒歌》',
+    indexes: 'bdqxggsyddcznss',
+    question: '“北斗七星高，哥舒夜带刀。”出自哪首诗？',
+    id: 20376
+  },
+  {
+    answer: '杜甫《春宿左省》',
+    indexes: 'xlwhdybjxdcznss',
+    question: '“星临万户动，月傍九霄多。”出自哪首诗？',
+    id: 20377
+  },
+  {
+    answer: '王维《桃源行》',
+    indexes: 'ykyczysjrqjshzcznss',
+    question: '“遥看一处攒云树，近入千家散花竹。”出自哪首诗？',
+    id: 20378
+  },
+  {
+    answer: '丽人行',
+    indexes: 'dfxlnbzpsyqylf',
+    question: '杜甫下列哪部作品属于七言乐府？',
+    id: 20379
+  },
+  {
+    answer: '李白《听蜀僧浚弹琴》',
+    indexes: 'ssblqxxemfcznss',
+    question: '“蜀僧抱绿绮，西下峨眉峰。”出自哪首诗？',
+    id: 20380
+  },
+  {
+    answer: '元结《石鱼湖上醉歌并序》',
+    indexes: 'ewlznzgyzzcznss',
+    question: '“而往来者，乃作歌以长之。”出自哪首诗？',
+    id: 20381
+  },
+  {
+    answer: '晚年叙志示翟处士',
+    indexes: 'xlnbbsysndzp',
+    question: '下列哪部不是虞世南的作品？',
+    id: 20382
+  },
+  {
+    answer: '对酒醉题屈突明府厅',
+    indexes: 'xlnbbswywdzp',
+    question: '下列哪部不是韦应物的作品？',
+    id: 20383
+  },
+  {
+    answer: '巫山峡',
+    indexes: 'xmnbzpshfrd',
+    question: '下面哪部作品是黄甫冉的？',
+    id: 20384
+  },
+  {
+    answer: '落叶满空山',
+    indexes: 'xlnjbsczlbdcs',
+    question: '下列哪句不是出自李白的《春思》？',
+    id: 20385
+  },
+  {
+    answer: '1级',
+    indexes: 'ngsyrddytfdjb',
+    question: '哪个属于热带低压台风的级别？',
+    id: 20386
+  },
+  {
+    answer: '中国',
+    indexes: 'ngscyd31jtfwyhtfmmhddgjhdq',
+    question: '哪个是参与第31届台风委员会台风命名活动的国家和地区？',
+    id: 20387
+  },
+  {
+    answer: '玉兔',
+    indexes: 'ngsd31jtfwyhzsmmdtfmz',
+    question: '哪个是第31届台风委员会中所命名的台风名字？',
+    id: 20388
+  },
+  {
+    answer: '悟空',
+    indexes: 'ngsd31jtfwyhzzgsmmdtfmzy',
+    question: '哪个是第31届台风委员会中中国所命名的台风名字有？',
+    id: 20389
+  },
+  {
+    answer: '热带雨林气候',
+    indexes: 'zlyjwz15ysdsynzqh',
+    question: '最冷月均温在15℃以上的属于哪种气候？',
+    id: 20390
+  },
+  {
+    answer: '120度角',
+    indexes: 'xlsydjdsnyg',
+    question: '下列属于钝角的是哪一个？',
+    id: 20391
+  },
+  {
+    answer: '123',
+    indexes: 'xlsydwsdsnyg',
+    question: '下列属于多位数的是哪一个？',
+    id: 20392
+  },
+  {
+    answer: '45°和135°',
+    indexes: 'xlsyhwbjdsnyd',
+    question: '下列属于互为补角的是哪一对？',
+    id: 20393
+  },
+  {
+    answer: '10',
+    indexes: 'xlnygsos',
+    question: '下列哪一个是偶数？',
+    id: 20394
+  },
+  {
+    answer: '葡萄牙',
+    indexes: '16sjoznggjyzgts',
+    question: '16世纪欧洲哪个国家与中国通商？',
+    id: 20395
+  },
+  {
+    answer: '1元',
+    indexes: 'rmbdmzynx',
+    question: '人民币的面值有哪些？',
+    id: 20396
+  },
+  {
+    answer: '11',
+    indexes: 'xlnygssdy10xy50dzs',
+    question: '下列哪一个数是大于10小于50的质数？',
+    id: 20397
+  },
+  {
+    answer: '61',
+    indexes: 'xlnygssdy50xy100dzs',
+    question: '下列哪一个数是大于50小于100的质数？',
+    id: 20398
+  },
+  {
+    answer: '91度角',
+    indexes: 'xlnygjsdj',
+    question: '下列哪一个角是钝角？',
+    id: 20399
+  },
+  {
+    answer: '12.561279…',
+    indexes: 'xlnygsswls',
+    question: '下列哪一个数是无理数？',
+    id: 20400
+  },
+  {
+    answer: '1948',
+    indexes: 'xlnygnfssdsxss',
+    question: '下列哪一个年份所属的生肖是鼠？',
+    id: 20401
+  },
+  {
+    answer: '1949',
+    indexes: 'xlnygnfssdsxsn',
+    question: '下列哪一个年份所属的生肖是牛？',
+    id: 20402
+  },
+  {
+    answer: '1950',
+    indexes: 'xlnygnfssdsxsh',
+    question: '下列哪一个年份所属的生肖是虎？',
+    id: 20403
+  },
+  {
+    answer: '1951',
+    indexes: 'xlnygnfssdsxst',
+    question: '下列哪一个年份所属的生肖是兔？',
+    id: 20404
+  },
+  {
+    answer: '1940',
+    indexes: 'xlnygnfssdsxsl',
+    question: '下列哪一个年份所属的生肖是龙？',
+    id: 20405
+  },
+  {
+    answer: '1941',
+    indexes: 'xlnygnfssdsxss',
+    question: '下列哪一个年份所属的生肖是蛇？',
+    id: 20406
+  },
+  {
+    answer: '1942',
+    indexes: 'xlnygnfssdsxsm',
+    question: '下列哪一个年份所属的生肖是马？',
+    id: 20407
+  },
+  {
+    answer: '1943',
+    indexes: 'xlnygnfssdsxsy',
+    question: '下列哪一个年份所属的生肖是羊？',
+    id: 20408
+  },
+  {
+    answer: '1944',
+    indexes: 'xlnygnfssdsxsh',
+    question: '下列哪一个年份所属的生肖是猴？',
+    id: 20409
+  },
+  {
+    answer: '1945',
+    indexes: 'xlnygnfssdsxsj',
+    question: '下列哪一个年份所属的生肖是鸡？',
+    id: 20410
+  },
+  {
+    answer: '1934',
+    indexes: 'xlnygnfssdsxsg',
+    question: '下列哪一个年份所属的生肖是狗？',
+    id: 20411
+  },
+  {
+    answer: '1947',
+    indexes: 'xlnygnfssdsxsz',
+    question: '下列哪一个年份所属的生肖是猪？',
+    id: 20412
+  },
+  {
+    answer: '第4',
+    indexes: 'sjdszyd65jzz10ggjwg',
+    question: '世界淡水资源的65％集中在10个国家,我国：',
+    id: 20413
+  },
+  {
+    answer: '钢芯镀铜合金',
+    indexes: 'zgrmyxy2002n11y18rqzqgfxddwtrmb5jybszwjhsqjscz',
+    question:
+      '中国人民银行于2002年11月18日起在全国发行的第五套人民币5角硬币色泽为金黄色，其金属材质：',
+    id: 20414
+  },
+  {
+    answer: '北京-010',
+    indexes: 'gndcsdhqhdpzqds',
+    question: '国内大城市电话区号搭配正确地是:',
+    id: 20415
+  },
+  {
+    answer: '24个',
+    indexes: 'zxnzsqxzjymxs1700gldsdxxfxrdqyznyjdsgxn',
+    question: '在新年钟声敲响之际，以每小时1700公里的速度向西飞行，绕地球一周，能迎接多少个新年：',
+    id: 20416
+  },
+  {
+    answer: '1969年7月',
+    indexes: 'dysfwyqdzrabl11hfcsznynfsskd',
+    question: '第一艘飞往月球的载人“阿波罗11号”飞船，是在哪一年发射升空的？',
+    id: 20417
+  },
+  {
+    answer: '1978年',
+    indexes: 'zhrmghghkdjtlsnynbbssd',
+    question: '<<中华人民共和国户口登记条例>>是哪一年颁布实施的？',
+    id: 20418
+  },
+  {
+    answer: '184',
+    indexes: 'wgtgdyzbmcxtfdhhms',
+    question: '我国提供的邮政编码查询特服电话号码是？',
+    id: 20419
+  },
+  {
+    answer: '1%',
+    indexes: '1998nzgkxjjrdrljyzjhzbwclqzdbfzj',
+    question: '1998年中国科学家加入到《人类基因组》计划中，并完成了其中的百分之几？',
+    id: 20420
+  },
+  {
+    answer: '1895年',
+    indexes: 'xdlqydsnynymgcrzgd',
+    question: '现代篮球运动是哪一年由（美国）传入中国的?',
+    id: 20421
+  },
+  {
+    answer: '桑托斯',
+    indexes: '1994nsjbjsbqssdqqwbxdsytyssdq',
+    question: '1994年世界杯决赛巴乔射失点球，请问巴西队谁也同样射失点球？',
+    id: 20422
+  },
+  {
+    answer: '10:01',
+    indexes: 'sjbbsjgzxsdbfsds',
+    question: '世界杯比赛结果最悬殊的比分是多少？',
+    id: 20423
+  },
+  {
+    answer: '109.5个',
+    indexes: 'zgzjwznldsgspsgj',
+    question: '中国至今为止拿了多少个世乒赛冠军?',
+    id: 20424
+  },
+  {
+    answer: '1901年',
+    indexes: 'ACmlsznynsdlsgj',
+    question: 'AC米兰是在哪一年首夺联赛冠军?',
+    id: 20425
+  },
+  {
+    answer: '真源了无取',
+    indexes: 'xlnjbsczmhrsyssfdddbz',
+    question: '下列哪句不是出自孟浩然《宿业师山房待丁大不至》？',
+    id: 20426
+  },
+  {
+    answer: '十四为君妇',
+    indexes: 'xlnjbsczlqsczf',
+    question: '下列哪句不是出自李颀《送陈章甫》？',
+    id: 20427
+  },
+  {
+    answer: '或骑麒麟翳凤凰',
+    indexes: 'xlnjbsczlzyyw',
+    question: '下列哪句不是出自柳宗元《渔翁》？',
+    id: 20428
+  },
+  {
+    answer: '梅柳渡江春',
+    indexes: 'xlnjbsczccjzsdsy',
+    question: '下列哪句不是出自岑参《寄左省杜拾遗》？',
+    id: 20429
+  },
+  {
+    answer: '武帝祠前云欲散',
+    indexes: 'xlnjbsczywjm',
+    question: '下列哪句不是出祖咏《望蓟门》？',
+    id: 20430
+  },
+  {
+    answer: '舍南舍北皆春水',
+    indexes: 'xlnjbscdfyw',
+    question: '下列哪句不是出杜甫《野望》？',
+    id: 20431
+  },
+  {
+    answer: '永夜角声悲自语',
+    indexes: 'xlnjbscdfgy',
+    question: '下列哪句不是出杜甫《阁夜》？',
+    id: 20432
+  },
+  {
+    answer: '三年谪宦此栖迟',
+    indexes: 'xlnjbsclyxxsshg',
+    question: '下列哪句不是出刘禹锡《西塞山怀古》？',
+    id: 20433
+  },
+  {
+    answer: '闲坐悲君亦自悲',
+    indexes: 'xlnjbsclsyjs',
+    question: '下列哪句不是出李商隐《锦瑟》？',
+    id: 20434
+  },
+  {
+    answer: '蜡炬成灰泪始干',
+    indexes: 'xlnjbsclsycy',
+    question: '下列哪句不是出李商隐《春雨》？',
+    id: 20435
+  },
+  {
+    answer: '卢家少妇郁金香',
+    indexes: 'xlnjbscqtypn',
+    question: '下列哪句不是出秦韬玉《贫女》？',
+    id: 20436
+  },
+  {
+    answer: '初日郢门山',
+    indexes: 'xlnjbsczskszphsrbg',
+    question: '下列哪句不是出自司空曙《贼平后送人北归》？',
+    id: 20437
+  },
+  {
+    answer: '知音世所稀',
+    indexes: 'xlnjbsczdmls',
+    question: '下列哪句不是出自杜牧《旅宿》？',
+    id: 20438
+  },
+  {
+    answer: '君自故乡来',
+    indexes: 'xlnjsczwwzs',
+    question: '下列哪句是出自王维《杂诗》？',
+    id: 20439
+  },
+  {
+    answer: '功盖三分国',
+    indexes: 'xlnjsczdfbzt',
+    question: '下列哪句是出自杜甫《八阵图》？',
+    id: 20440
+  },
+  {
+    answer: '孤云将野鹤',
+    indexes: 'xlnjsczlzqssr',
+    question: '下列哪句是出自刘长卿《送上人》？',
+    id: 20441
+  },
+  {
+    answer: '寥落古行宫',
+    indexes: 'xlnjsczyzxg',
+    question: '下列哪句是出自元稹《行宫》？',
+    id: 20442
+  },
+  {
+    answer: '近乡情更怯',
+    indexes: 'xlnjsczlpdhj',
+    question: '下列哪句是出自李频《渡汉江》？',
+    id: 20443
+  },
+  {
+    answer: '至今窥牧马',
+    indexes: 'xlnjsczxbrgsg',
+    question: '下列哪句是出自西鄙人《哥舒歌》？',
+    id: 20444
+  },
+  {
+    answer: '帘外春寒赐锦袍',
+    indexes: 'xlnjsczwclcgq',
+    question: '下列哪句是出自王昌龄《春宫曲》？',
+    id: 20445
+  },
+  {
+    answer: '受降城外月如霜',
+    indexes: 'xlnjsczlyyssjcwd',
+    question: '下列哪句是出自李益《夜上受降城闻笛》？',
+    id: 20446
+  },
+  {
+    answer: '天阶夜色凉如水',
+    indexes: 'xlnjsczdmqx',
+    question: '下列哪句是出自杜牧《秋夕》？',
+    id: 20447
+  },
+  {
+    answer: '八骏日行三万里',
+    indexes: 'xlnjsczlsyyc',
+    question: '下列哪句是出自李商隐《瑶池》？',
+    id: 20448
+  },
+  {
+    answer: '塞外悲风切',
+    indexes: 'xlnjsczlsmymzckx',
+    question: '下列哪句是出自李世民《饮马长城窟行》？',
+    id: 20449
+  },
+  {
+    answer: '烟霞断续生',
+    indexes: 'xlnjsczlzgwt',
+    question: '下列哪句是出自李治《过温汤》？',
+    id: 20450
+  },
+  {
+    answer: '水炫珠光遇泉客',
+    indexes: 'xlnjsczlxsc',
+    question: '下列哪句是出自李显《石淙》？',
+    id: 20451
+  },
+  {
+    answer: '缅想封唐处',
+    indexes: 'xlnjsczlljgjyg',
+    question: '下列哪句是出自李隆基《过晋阳宫》？',
+    id: 20452
+  },
+  {
+    answer: '夜抱九仙骨',
+    indexes: 'xlnjsczlhcllmyzwlj',
+    question: '下列哪句是出自李亨《赐梨李泌与诸王联句》？',
+    id: 20453
+  },
+  {
+    answer: '主人若也勤挑拨',
+    indexes: 'xlnjsczlbyd',
+    question: '下列哪句是出自李昪《咏灯》？',
+    id: 20454
+  },
+  {
+    answer: '多谢长条似相识',
+    indexes: 'xlnjsczlycgrqn',
+    question: '下列哪句是出自李煜《赐宫人庆奴》？',
+    id: 20455
+  },
+  {
+    answer: '虏障抵祁连',
+    indexes: 'xlnjsczlzlgsy',
+    question: '下列哪句是出自卢照邻《关山月》？',
+    id: 20456
+  },
+  {
+    answer: '旌悬九月霜',
+    indexes: 'xlnjsczlzllts',
+    question: '下列哪句是出自卢照邻《陇头水》？',
+    id: 20457
+  },
+  {
+    answer: '风花乱舞衣',
+    indexes: 'xlnjsczlzlzyl',
+    question: '下列哪句是出自卢照邻《折杨柳》？',
+    id: 20458
+  },
+  {
+    answer: '少年飞翠盖',
+    indexes: 'xlnjsczlbysnx',
+    question: '下列哪句是出自李百药《少年行》？',
+    id: 20459
+  },
+  {
+    answer: '金凤上层台',
+    indexes: 'xlnjsczlbyfdwd',
+    question: '下列哪句是出自李百药《赋得魏都》？',
+    id: 20460
+  },
+  {
+    answer: '伫兼司隶局',
+    indexes: 'xlnjsczlyzczqz',
+    question: '下列哪句是出自刘祎之《酬郑沁州》？',
+    id: 20461
+  },
+  {
+    answer: '金炉任意熏',
+    indexes: 'xlnjsczzqgdhbywhssxz',
+    question: '下列哪句是出自赵谦光《答户部员外贺遂涉戏赠》？',
+    id: 20462
+  },
+  {
+    answer: '宣王六月兵',
+    indexes: 'xlnjsczcryfhszszsxb',
+    question: '下列哪句是出自崔日用《奉和圣制送张说巡边》？',
+    id: 20463
+  },
+  {
+    answer: '林莺醉里歌',
+    indexes: 'xlnjsczzjltjqdxydgzy',
+    question: '下列哪句是出自张九龄《天津桥东旬宴得歌字韵》？',
+    id: 20464
+  },
+  {
+    answer: '莓苔烂锦章',
+    indexes: 'xlnjsczyjwx',
+    question: '下列哪句是出自杨炯《巫峡》？',
+    id: 20465
+  },
+  {
+    answer: '悲风愁杀人',
+    indexes: 'xlnjsczyjzcn',
+    question: '下列哪句是出自杨炯《战城南》？',
+    id: 20466
+  },
+  {
+    answer: '尽此盈樽酒',
+    indexes: 'xlnjsczszwszlzg',
+    question: '下列哪句是出自宋之问《送赵六贞固》？',
+    id: 20467
+  },
+  {
+    answer: '朝夜翳云族',
+    indexes: 'xlnjsczszwwqzwbjyqj',
+    question: '下列哪句是出自宋之问《温泉庄卧病寄杨七炯》？',
+    id: 20468
+  },
+  {
+    answer: '河塞掌中来',
+    indexes: 'xlnjsczcsfhdlsgdymyz',
+    question: '下列哪句是出自崔湜《奉和登骊山高顶寓目应制》？',
+    id: 20469
+  },
+  {
+    answer: '边书驿骑归',
+    indexes: 'xlnjsczcsbc',
+    question: '下列哪句是出自崔湜《边愁》？',
+    id: 20470
+  },
+  {
+    answer: '佳期不可驻',
+    indexes: 'xlnjsczwbclq',
+    question: '下列哪句是出自王勃《采莲曲》？',
+    id: 20471
+  },
+  {
+    answer: '相传称乱石',
+    indexes: 'xlnjsczdsynhlssz',
+    question: '下列哪句是出自杜审言《南海乱石山作》？',
+    id: 20472
+  },
+  {
+    answer: '君行霰雪飞',
+    indexes: 'xlnjsczsjssssfyz',
+    question: '下列哪句是出自宋璟《送苏尚书赴益州》？',
+    id: 20473
+  },
+  {
+    answer: '相命且衔杯',
+    indexes: 'xlnjsczlkszbzxfszw',
+    question: '下列哪句是出自李夔《使至汴州喜逢宋之问》？',
+    id: 20474
+  },
+  {
+    answer: '风花思舞巾',
+    indexes: 'xlnjsczlxzyl',
+    question: '下列哪句是出自刘宪《折杨柳》？',
+    id: 20475
+  },
+  {
+    answer: '梦寐殊悠哉',
+    indexes: 'xlnjsczstscktzlasf',
+    question: '下列哪句是出自苏颋《蜀城哭台州乐安少府》？',
+    id: 20476
+  },
+  {
+    answer: '田秋麦气清',
+    indexes: 'xlnjsczlbwxrymlz',
+    question: '下列哪句是出自骆宾王《夏日游目聊作》？',
+    id: 20477
+  },
+  {
+    answer: '乌裘十上还',
+    indexes: 'xlnjsczlbwtzyh',
+    question: '下列哪句是出自骆宾王《途中有怀》？',
+    id: 20478
+  },
+  {
+    answer: '惊月绕疏枝',
+    indexes: 'xlnjsczlbwqysywhrz',
+    question: '下列哪句是出自骆宾王《秋夜送阎五还润州》？',
+    id: 20479
+  },
+  {
+    answer: '鼓声振原隰',
+    indexes: 'xlnjsczlxyjjx',
+    question: '下列哪句是出自刘希夷《将军行》？',
+    id: 20480
+  },
+  {
+    answer: '轻重有殊伦',
+    indexes: 'xlnjsczczagjyp',
+    question: '下列哪句是出自陈子昂《观荆玉篇》？',
+    id: 20481
+  },
+  {
+    answer: '汉寿为地名，亭侯为官名',
+    indexes: 'lbbccdbhgybfgysdccfhwhsthhsthzqdjsw',
+    question: '刘备被曹操打败后，关羽被俘。关羽受到曹操封号为“汉寿亭侯”。“汉寿亭侯”正确的解释为？',
+    id: 20482
+  },
+  {
+    answer: '燧人氏',
+    indexes: 'xlnxbslszjzwmdtz',
+    question: '下列哪项不是历史中记载我们的太祖？',
+    id: 20483
+  },
+  {
+    answer: '姚',
+    indexes: 'sdxsm',
+    question: '舜帝姓什么？',
+    id: 20484
+  },
+  {
+    answer: '舜帝',
+    indexes: 'dwxzjhsngsgxddwhjszh',
+    question: '“德为先，重教化”是哪个上古先帝的文化精神之魂？',
+    id: 20485
+  },
+  {
+    answer: '山西临汾市',
+    indexes: 'ydlzxjzgngdf',
+    question: '尧帝陵在现今中国哪个地方？',
+    id: 20486
+  },
+  {
+    answer: '亳（今河南商丘市）',
+    indexes: 'sclcqdcjqhqgwcxlngdfsscddygdc',
+    question: '商朝屡次迁都，曾经前后迁过五次，下列哪个地方是商朝的第一个都城？',
+    id: 20487
+  },
+  {
+    answer: '熊',
+    indexes: 'hdbldttssm',
+    question: '黄帝部落的图腾是什么？',
+    id: 20488
+  },
+  {
+    answer: '河南邓州',
+    indexes: 'xcddczn',
+    question: '夏朝的都城在哪？',
+    id: 20489
+  },
+  {
+    answer: '汉光武帝',
+    indexes: 'xlnghcddwsydhdw',
+    question: '下列哪个汉朝的帝王属于东汉帝王？',
+    id: 20490
+  },
+  {
+    answer: '六镇起义',
+    indexes: 'wxwdshzzryhajjmdjrhzyyflgzrmdqyxlngqysfsbwsqd',
+    question:
+      '魏孝文帝死后，政治日益黑暗，阶级矛盾尖锐化，终于引发了各族人民大起义，下列哪个起义是发生北魏时期的？',
+    id: 20491
+  },
+  {
+    answer: '甘肃',
+    indexes: 'swkyxsptsnlr',
+    question: '孙悟空原型石磐陀是哪里人？',
+    id: 20492
+  },
+  {
+    answer: '沈括',
+    indexes: 'xlnwbsbssqymdbswz',
+    question: '下列哪位不是北宋时期有名的北宋五子？',
+    id: 20493
+  },
+  {
+    answer: '唐朝',
+    indexes: 'tzkskjzxckkmzdygxkmqwtzkcxzngcd',
+    question: '童子科是科举制下常科科目中的一个小科目，请问童子科出现在哪个朝代？',
+    id: 20494
+  },
+  {
+    answer: '商朝',
+    indexes: 'lsszmdtdzcjtzscszngcd',
+    question: '历史上著名的土地政策井田制是产生在哪个朝代？',
+    id: 20495
+  },
+  {
+    answer: '车骑将军',
+    indexes: 'xlnxbssgdwjgz',
+    question: '下列哪项不是三国的武将官职？',
+    id: 20496
+  },
+  {
+    answer: '唐庄宗喜欢蹴鞠',
+    indexes: 'xlgyhdmahdmscwdsnx',
+    question: '下列关于皇帝们爱好的描述错误的是哪项？',
+    id: 20497
+  },
+  {
+    answer: '南丰窑',
+    indexes: 'xlngbswglsssxsnymdcqyk',
+    question: '下列哪个不是我国历史上山西省内有名的瓷器窑口？',
+    id: 20498
+  },
+  {
+    answer: '耀州窑',
+    indexes: 'xlngbswglsshbsnymdcqyk',
+    question: '下列哪个不是我国历史上河北省内有名的瓷器窑口？',
+    id: 20499
+  },
+  {
+    answer: '赵公明',
+    indexes: 'csdqypwnkdcsbzyweqsjsdsmyysydeysbtyswzcswcshpcsqwxlnwcszcs',
+    question:
+      '财神的起源颇为难考，但财神不止一位，而且所祭祀的神明也因时因地而有所不同，有所谓“正财神”、“文财神”和“偏财神”，请问下列哪位才是“正财神”？',
+    id: 20500
+  },
+  {
+    answer: '龙渊',
+    indexes: 'oyzhgjdsgddmzjscszyybjwldzjslsszqwzbjjsm',
+    question:
+      '欧冶子和干将都是古代的名铸剑师，传说中有一把剑为两大铸剑师联手所铸，请问这把剑叫什么？',
+    id: 20501
+  },
+  {
+    answer: '纯钧',
+    indexes: 'gdzjtwoyzctmzlybjjchoyzyljsjewqwzbjjsm',
+    question: '古代铸剑天王欧冶子承天命铸了一把剑，剑成后欧冶子也力尽神竭而亡，请问这把剑叫什么？',
+    id: 20502
+  },
+  {
+    answer: '匈奴',
+    indexes: 'hcsdzbdatlsgdngmzdsl',
+    question: '号称“上帝之鞭”的阿提拉是古代哪个民族的首领？',
+    id: 20503
+  },
+  {
+    answer: '姜夔',
+    indexes: 'xlnwsrbsysdwypcr',
+    question: '下列哪位诗人不属于宋代婉约派词人？',
+    id: 20504
+  },
+  {
+    answer: '姜夔',
+    indexes: 'glcpsyswdb',
+    question: '格律词派是以谁为代表？',
+    id: 20505
+  },
+  {
+    answer: '复照青苔上',
+    indexes: 'xlnjsczwwlc',
+    question: '下列哪句是出自王维《鹿柴》？',
+    id: 20506
+  },
+  {
+    answer: '“黯然销魂者，惟别而已矣”--王勃(膝王阁序》',
+    indexes: 'xlnxzmymjdcccwd',
+    question: '下列哪项中名言名句的出处错误的？',
+    id: 20507
+  },
+  {
+    answer: '《尔雅》是我国第一部诗集',
+    indexes: 'xlnxgywxzpdmsscwd',
+    question: '下列哪项关于文学作品的描述是错误的？',
+    id: 20508
+  },
+  {
+    answer: '《江湖集》',
+    indexes: 'xlngbszxsdsrddbz',
+    question: '下列哪个不是中兴四大诗人的代表作？',
+    id: 20509
+  },
+  {
+    answer: '《韩非子》纵横家重要著作。反映韩非思想',
+    indexes: 'dyxlzpdmsngscwd',
+    question: '对于下列作品的描述，哪个是错误的？',
+    id: 20510
+  },
+  {
+    answer: '《四书》',
+    indexes: 'bsnjdkjslbgjsksmsdxlnbsbsybksm',
+    question: '北宋年间的科举设礼部贡举，所考书目甚多，下列哪部书不属于必考书目？',
+    id: 20511
+  },
+  {
+    answer: '《离骚》是我国第一首优秀的长篇抒情诗',
+    indexes: 'dxlwxzpjmsbzqds',
+    question: '对下列文学作品集描述不正确的是？',
+    id: 20512
+  },
+  {
+    answer: '《观猎》',
+    indexes: 'xlnxbsyqyls',
+    question: '下列哪项不属于七言律诗？',
+    id: 20513
+  },
+  {
+    answer: '羌笛何须怨杨柳',
+    indexes: 'xlnjsczwzhcs',
+    question: '下列哪句是出自王之涣《出塞》？',
+    id: 20514
+  },
+  {
+    answer: '流水十年间',
+    indexes: 'xlnjbsczlzqslzcghyby',
+    question: '下列哪句不是出自刘长卿《送李中丞归汉阳别业》？',
+    id: 20515
+  },
+  {
+    answer: '落月抱寒光',
+    indexes: 'xlnjsczlbwqrsydfj',
+    question: '下列哪句是出自骆宾王《秋日送尹大赴京》？',
+    id: 20516
+  },
+  {
+    answer: '寒灯独夜人',
+    indexes: 'xlnjbsczmhrqzgqjysr',
+    question: '下列哪句不是出自孟浩然《秦中感秋寄远上人》？',
+    id: 20517
+  },
+  {
+    answer: '传记',
+    indexes: 'xlnzwtbssjzdwt',
+    question: '下列哪种文体不是《史记》中的文体？',
+    id: 20518
+  },
+  {
+    answer: '八尺龙须方锦褥',
+    indexes: 'xlnjsczhhyl',
+    question: '下列哪句是出自韩翃《已凉》？',
+    id: 20519
+  },
+  {
+    answer: '风急夜江秋',
+    indexes: 'xlnjsczlbwdgbj',
+    question: '下列哪句是出自骆宾王《渡瓜步江》？',
+    id: 20520
+  },
+  {
+    answer: '苍苍茂陵树',
+    indexes: 'xlnjsczwblgt',
+    question: '下列哪句是出自王勃《临高台》？',
+    id: 20521
+  },
+  {
+    answer: '碧海青天夜夜心',
+    indexes: 'xlnjsczlsyce',
+    question: '下列哪句是出自李商隐《嫦娥》？',
+    id: 20522
+  },
+  {
+    answer: '孤灯闻楚角',
+    indexes: 'xlnjbsczlsylh',
+    question: '下列哪句不是出自李商隐《落花》？',
+    id: 20523
+  },
+  {
+    answer: '晨登每惆怅',
+    indexes: 'xlnjsczlzlfsyzzzafzyy',
+    question: '下列哪句是出自卢照邻《奉使益州至长安发钟阳驿》？',
+    id: 20524
+  },
+  {
+    answer: '飞体',
+    indexes: 'xlnzztbsstzszdzt',
+    question: '下列哪种字体不是宋太宗擅长的字体？',
+    id: 20525
+  },
+  {
+    answer: '持衡临万姓',
+    indexes: 'xlnjsczlsmzqjsb',
+    question: '下列哪句是出自李世民《执契静三边》？',
+    id: 20526
+  },
+  {
+    answer: '谿宿密云蒸',
+    indexes: 'xlnjsczlbwbtcl',
+    question: '下列哪句是出自骆宾王《北眺舂陵》？',
+    id: 20527
+  },
+  {
+    answer: '炮',
+    indexes: 'gjxqdqzhzgxqbyyxlnxbsgjxqdqz',
+    question: '国际象棋的棋子和中国象棋不一样，下列哪项不是国际象棋的棋子？',
+    id: 20528
+  },
+  {
+    answer: '妆成独见时',
+    indexes: 'xlnjsczlxycnx',
+    question: '下列哪句是出自刘希夷《春女行》？',
+    id: 20529
+  },
+  {
+    answer: '黄图归路难',
+    indexes: 'xlnjsczlbwtcfmxcdlsj',
+    question: '下列哪句是出自骆宾王《同崔驸马晓初登楼思京》？',
+    id: 20530
+  },
+  {
+    answer: '崔颢《黄鹤楼》',
+    indexes: 'qcllhysfcqqywzcznss',
+    question: '“晴川历历汉阳树，芳草萋萋鹦鹉洲。”出自哪首诗？',
+    id: 20531
+  },
+  {
+    answer: '道泰偃戈船',
+    indexes: 'xlnjsczlbyhxslykmc',
+    question: '下列哪句是出自李百药《和许侍郎游昆明池》？',
+    id: 20532
+  },
+  {
+    answer: '终谢巨川舟',
+    indexes: 'xlnjsczzjlccnwcy',
+    question: '下列哪句是出自张九龄《敕赐宁王池宴》？',
+    id: 20533
+  },
+  {
+    answer: '巴西',
+    indexes: 'cjsjbcszddgjdsng',
+    question: '参加世界杯次数最多的国家队是哪个？',
+    id: 20534
+  },
+  {
+    answer: '空忆谢将军',
+    indexes: 'xlnjbsczlbybnzhg',
+    question: '下列哪句不是出自李白《夜泊牛渚怀古》？',
+    id: 20535
+  },
+  {
+    answer: '月晓听鸡鸣',
+    indexes: 'xlnjsczsjpjyj',
+    question: '下列哪句是出自宋璟《蒲津迎驾》？',
+    id: 20536
+  },
+  {
+    answer: '第三届：在美国普林斯顿大学',
+    indexes: 'xldymjayhcbdmscwds',
+    question: '下列对于每届奥运会承办地描述错误的是？',
+    id: 20537
+  },
+  {
+    answer: '高丘烜望祀',
+    indexes: 'xlnjsczyjxlx',
+    question: '下列哪句是出自杨炯《西陵峡》？',
+    id: 20538
+  },
+  {
+    answer: '冲飙卷塞蓬',
+    indexes: 'xlnjsczxybhwrx',
+    question: '下列哪句是出自徐彦伯《胡无人行》？',
+    id: 20539
+  },
+  {
+    answer: '绿华社（口技）',
+    indexes: 'xlnxdsczmylzzmscwds',
+    question: '下列哪项对宋朝著名娱乐组织描述错误的是？',
+    id: 20540
+  },
+  {
+    answer: '是以陷邻境',
+    indexes: 'xlnjbscztxzjzljkzetz',
+    question: '下列哪句不是出自唐玄宗《经邹鲁祭孔子而叹之》？',
+    id: 20541
+  },
+  {
+    answer: '天寒梦泽深',
+    indexes: 'xlnjbsczqqssgrb',
+    question: '下列哪句不是出自钱起《送僧归日本》？',
+    id: 20542
+  },
+  {
+    answer: '公元前776年',
+    indexes: 'gddyjalpkydhsnynjxd',
+    question: '古代第一届奥林匹克运动会是哪一年举行的？',
+    id: 20543
+  },
+  {
+    answer: '但见泪痕湿',
+    indexes: 'xlnjsczlbyq',
+    question: '下列哪句是出自李白《怨情》？',
+    id: 20544
+  },
+  {
+    answer: '绿蚁新醅酒',
+    indexes: 'xlnjsczbjywlsj',
+    question: '下列哪句是出自白居易《问刘十九》？',
+    id: 20545
+  },
+  {
+    answer: '坐看云起时',
+    indexes: 'xlnjbsczwwgxjs',
+    question: '下列哪句不是出自王维《过香积寺》？',
+    id: 20546
+  },
+  {
+    answer: '元代古碑',
+    indexes: 'xlnxbsdjsbj',
+    question: '下列哪项不是大觉寺八景？',
+    id: 20547
+  },
+  {
+    answer: '暂嘱曦轮勿遽斜',
+    indexes: 'xlnjsczlxlcryyyc',
+    question: '下列哪句是出自李显《立春日游苑迎春》？',
+    id: 20548
+  },
+  {
+    answer: '池风泛早凉',
+    indexes: 'xlnjsczyjsljfsf',
+    question: '下列哪句是出自杨炯《送临津房少府》？',
+    id: 20549
+  },
+  {
+    answer: '长鸣向北州',
+    indexes: 'xlnjsczyjzlm',
+    question: '下列哪句是出自杨炯《紫骝马》？',
+    id: 20550
+  },
+  {
+    answer: '韩愈',
+    indexes: 'dfyzbxgzjbwsrcwbxxlnwbsbxzy',
+    question: '杜甫《饮中八仙歌》中将八位诗人称为“八仙”，下列哪位不是“八仙”之一？',
+    id: 20551
+  },
+  {
+    answer: '旧时王谢堂前燕',
+    indexes: 'xlnjsczlyxwyx',
+    question: '下列哪句是出自刘禹锡《乌衣巷》？',
+    id: 20552
+  },
+  {
+    answer: '江西',
+    indexes: 'bssqdsrhtjswgngsdr',
+    question: '北宋时期的诗人黄庭坚是我国哪个省的人？',
+    id: 20553
+  },
+  {
+    answer: '芳菲不及新',
+    indexes: 'xlnjsczzjlzyl',
+    question: '下列哪句是出自张九龄《折杨柳》？',
+    id: 20554
+  },
+  {
+    answer: '宿莽竞含秋',
+    indexes: 'xlnjsczlbwzfss',
+    question: '下列哪句是出自骆宾王《至分水戍》？',
+    id: 20555
+  },
+  {
+    answer: '闽清窑',
+    indexes: 'xlngbswglssjxsnymdcqyk',
+    question: '下列哪个不是我国历史上江西省内有名的瓷器窑口？',
+    id: 20556
+  },
+  {
+    answer: '峰雾抱莲昏',
+    indexes: 'xlnjsczlsmjpxjzd',
+    question: '下列哪句是出自李世民《经破薛举战地》？',
+    id: 20557
+  },
+  {
+    answer: '天子按雕戈',
+    indexes: 'xlnjsczlzlszh',
+    question: '下列哪句是出自卢照邻《上之回》？',
+    id: 20558
+  },
+  {
+    answer: '香梵遍秋空',
+    indexes: 'xlnjsczcryfhjyjrdcesftyz',
+    question: '下列哪句是出自崔日用《奉和九月九日登慈恩寺浮图应制》？',
+    id: 20559
+  },
+  {
+    answer: '羽翮两逶迤',
+    indexes: 'xlnjsczczayyp',
+    question: '下列哪句是出自陈子昂《鸳鸯篇》？',
+    id: 20560
+  },
+  {
+    answer: '别操绕繁弦',
+    indexes: 'xlnjsczlbwswmfcxfdh',
+    question: '下列哪句是出自骆宾王《送王明府参选赋得鹤》？',
+    id: 20561
+  },
+  {
+    answer: '归山深浅去',
+    indexes: 'xlnjsczpdscj',
+    question: '下列哪句是出自裴迪《送崔九》？',
+    id: 20562
+  },
+  {
+    answer: '保长',
+    indexes: 'xlnzffbswasbfstxdxf',
+    question: '下列哪种方法不是王安石变法时推行的新法？',
+    id: 20563
+  },
+  {
+    answer: '红碧相杂敷清流',
+    indexes: 'xlnjsczljyhhslh',
+    question: '下列哪句是出自李璟《游后湖赏莲花》？',
+    id: 20564
+  },
+  {
+    answer: '方丹',
+    indexes: 'ljsjbjqzddssss',
+    question: '历届世界杯进球最多的射手是谁？',
+    id: 20565
+  },
+  {
+    answer: '虹饮江皋霁',
+    indexes: 'xlnjsczszwzhyzszynss',
+    question: '下列哪句是出自宋之问《自衡阳至韶州谒能禅师》？',
+    id: 20566
+  },
+  {
+    answer: '客舍青青柳色新',
+    indexes: 'xlnjsczwwwcq',
+    question: '下列哪句是出自王维《渭城曲》？',
+    id: 20567
+  },
+  {
+    answer: '惊栖多众音',
+    indexes: 'xlnjsczszwyydt',
+    question: '下列哪句是出自宋之问《夜饮东亭》？',
+    id: 20568
+  },
+  {
+    answer: '接汉疑星落',
+    indexes: 'xlnjsczlzlswygd',
+    question: '下列哪句是出自卢照邻《十五夜观灯》？',
+    id: 20569
+  },
+  {
+    answer: '梅芳带雪花',
+    indexes: 'xlnjsczgzchrzjlt',
+    question: '下列哪句是出自高正臣《晦日置酒林亭》？',
+    id: 20570
+  },
+  {
+    answer: '满盖荷凋翠',
+    indexes: 'xlnjsczlzjyjr',
+    question: '下列哪句是出自李治《九月九日》？',
+    id: 20571
+  },
+  {
+    answer: '帷屏向月空',
+    indexes: 'xlnjsczcsjyy',
+    question: '下列哪句是出自崔湜《婕妤怨》？',
+    id: 20572
+  },
+  {
+    answer: '飞泉洒液恒疑雨',
+    indexes: 'xlnjsczdrjfhszxryscs',
+    question: '下列哪句是出自狄仁杰《奉和圣制夏日游石淙山》？',
+    id: 20573
+  },
+  {
+    answer: '杜甫《哀王孙》',
+    indexes: 'xlnssbswyls',
+    question: '下列哪首诗不是五言律诗？',
+    id: 20574
+  },
+  {
+    answer: '游目眺皇畿',
+    indexes: 'xlnjsczlzycestzfsf',
+    question: '下列哪句是出自李治《谒慈恩寺题奘法师房》？',
+    id: 20575
+  },
+  {
+    answer: '使我长叹息',
+    indexes: 'xlnjsczszwtzlss',
+    question: '下列哪句是出自宋之问《题张老松树》？',
+    id: 20576
+  },
+  {
+    answer: '当君怀归日',
+    indexes: 'xlnjbsczqwdxxsyzby',
+    question: '下列哪句不是出自邱为的《寻西山隐者不遇》？',
+    id: 20577
+  },
+  {
+    answer: '玉帛资王会',
+    indexes: 'xlnjsczlbyflj',
+    question: '下列哪句是出自李百药《赋礼记》？',
+    id: 20578
+  },
+  {
+    answer: '燕台一去客心惊',
+    indexes: 'xlnjbscwwjywczz',
+    question: '下列哪句不是出王维《积雨辋川庄作》？',
+    id: 20579
+  },
+  {
+    answer: '风清晓漏闻',
+    indexes: 'xlnjsczdsyqyyljzmfz',
+    question: '下列哪句是出自杜审言《秋夜宴临津郑明府宅》？',
+    id: 20580
+  },
+  {
+    answer: '扒村窑',
+    indexes: 'xlngbswglsszjsnymdcqyk',
+    question: '下列哪个不是我国历史上浙江省内有名的瓷器窑口？',
+    id: 20581
+  },
+  {
+    answer: '游泳',
+    indexes: 'zgaysshdjpszddsnxyd',
+    question: '中国奥运史上获得金牌数最多的是哪项运动？',
+    id: 20582
+  },
+  {
+    answer: '不于祖龙留面目',
+    indexes: 'xlnjsczlytjlzh',
+    question: '下列哪句是出自李煜《题金楼子后》？',
+    id: 20583
+  },
+  {
+    answer: '三元更废兴',
+    indexes: 'xlnjsczczagysssbs',
+    question: '下列哪句是出自陈子昂《感遇诗三十八首》？',
+    id: 20584
+  },
+  {
+    answer: '天回百川澍',
+    indexes: 'xlnjsczszwjlsncch',
+    question: '下列哪句是出自宋之问《景龙四年春祠海》？',
+    id: 20585
+  },
+  {
+    answer: '晨飙断曙声',
+    indexes: 'xlnjsczlyzxjhdwg',
+    question: '下列哪句是出自刘祎之《孝敬皇帝挽歌》？',
+    id: 20586
+  },
+  {
+    answer: '猗欤此推择',
+    indexes: 'xlnjsczlljczzcsytzy',
+    question: '下列哪句是出自李隆基《赐诸州刺史以题座右》？',
+    id: 20587
+  },
+  {
+    answer: '怀君属秋夜',
+    indexes: 'xlnjsczwywqyjqyw',
+    question: '下列哪句是出自韦应物《秋夜寄邱员外》？',
+    id: 20588
+  },
+  {
+    answer: '斯托克顿',
+    indexes: 'NBAqdzddqyss',
+    question: 'NBA抢断最多的球员是谁？',
+    id: 20589
+  },
+  {
+    answer: '樵人归欲尽',
+    indexes: 'xlnjbsczlbzyssgcg',
+    question: '下列哪句不是出自李白《子夜四时歌：春歌》？',
+    id: 20590
+  },
+  {
+    answer: '夏早摘芙蕖',
+    indexes: 'xlnjsczlxsyzngzdz',
+    question: '下列哪句是出自刘宪《侍宴长宁公主东庄》？',
+    id: 20591
+  },
+  {
+    answer: '十年一觉扬州梦',
+    indexes: 'xlnjsczdmqh',
+    question: '下列哪句是出自杜牧《遣怀》？',
+    id: 20592
+  },
+  {
+    answer: '阳和不散穷途恨',
+    indexes: 'xlnjbscwywjldyx',
+    question: '下列哪句不是出韦应物《寄李儋元锡》？',
+    id: 20593
+  },
+  {
+    answer: '沾裳即此地',
+    indexes: 'xlnjsczlzlwsg',
+    question: '下列哪句是出自卢照邻《巫山高》？',
+    id: 20594
+  },
+  {
+    answer: '安期始遗舄',
+    indexes: 'xlnjbsczczadbdchg',
+    question: '下列哪句不是出自陈子昂的《白帝城怀古》？',
+    id: 20595
+  },
+  {
+    answer: '归望逐春来',
+    indexes: 'xlnjsczzwzssssfyz',
+    question: '下列哪句是出自郑惟忠《送苏尚书赴益州》？',
+    id: 20596
+  },
+  {
+    answer: '闻香暗识莲',
+    indexes: 'xlnjsczycydj',
+    question: '下列哪句是出自姚崇《夜渡江》？',
+    id: 20597
+  },
+  {
+    answer: '飞水千寻瀑',
+    indexes: 'xlnjsczyjgxx',
+    question: '下列哪句是出自杨炯《广溪峡》？',
+    id: 20598
+  },
+  {
+    answer: '明朝有封事',
+    indexes: 'xlnjbsczlbdjmsb',
+    question: '下列哪句不是出自李白《渡荆门送别》？',
+    id: 20599
+  },
+  {
+    answer: '浮盖下奔涛',
+    indexes: 'xlnjsczlbydhj',
+    question: '下列哪句是出自李百药《渡汉江》？',
+    id: 20600
+  },
+  {
+    answer: '两岸猿声啼不住',
+    indexes: 'xlnjsczlbxjl',
+    question: '下列哪句是出自李白《下江陵》？',
+    id: 20601
+  },
+  {
+    answer: '金缕晨鸡未学鸣',
+    indexes: 'xlnjsczcryfhlcyyycyz',
+    question: '下列哪句是出自崔日用《奉和立春游苑迎春应制》？',
+    id: 20602
+  },
+  {
+    answer: '才子能歌夜未央',
+    indexes: 'xlnjsczcryyyalgzz',
+    question: '下列哪句是出自崔日用《夜宴安乐公主宅》？',
+    id: 20603
+  },
+  {
+    answer: '杯接近臣欢',
+    indexes: 'xlnjsczcssyzngzdzyz',
+    question: '下列哪句是出自崔湜《侍宴长宁公主东庄应制》？',
+    id: 20604
+  },
+  {
+    answer: '奇毛自偶麟',
+    indexes: 'xlnjsczxysynyz',
+    question: '下列哪句是出自许圉师《咏牛应制》？',
+    id: 20605
+  },
+  {
+    answer: '孤独异乡春',
+    indexes: 'xlnjbsczlyxsxzm',
+    question: '下列哪句不是出自刘禹锡《蜀先主庙》？',
+    id: 20606
+  },
+  {
+    answer: '昨夜上皇新授□',
+    indexes: 'xlnjsczzhjlteszy',
+    question: '下列哪句是出自张祜《集灵台二首之一》？',
+    id: 20607
+  },
+  {
+    answer: '雨前茶',
+    indexes: 'xlnzcbsgdmczy',
+    question: '下列那种茶不是古代名茶之一？',
+    id: 20608
+  },
+  {
+    answer: '赤丸夜语飞电光',
+    indexes: 'xlnjbsczmhrdsyssfdddbz',
+    question: '下列哪句不是出自孟浩然的《宿业师山房待丁大不至》？',
+    id: 20609
+  },
+  {
+    answer: '数丛沙草群鸥散',
+    indexes: 'xlnjbscwtyswm',
+    question: '下列哪句不是出温庭筠《苏武庙》？',
+    id: 20610
+  },
+  {
+    answer: '征战二庭深',
+    indexes: 'xlnjsczqzzngzcza',
+    question: '下列哪句是出自乔知之《拟古赠陈子昂》？',
+    id: 20611
+  },
+  {
+    answer: '銮仪使',
+    indexes: 'xlnxbsqcdzepwzjg',
+    question: '下列哪项不是清朝的正二品文职京官？',
+    id: 20612
+  },
+  {
+    answer: '宋朝',
+    indexes: 'gddrjGDPfzsngcdddd',
+    question: '古代的人均GDP峰值是哪个朝代达到的？',
+    id: 20613
+  },
+  {
+    answer: '乾隆',
+    indexes: 'zglssdhdsdsmzz',
+    question: '中国历史上的皇帝谁的寿命最长?',
+    id: 20614
+  },
+  {
+    answer: '康熙',
+    indexes: 'zglssdhdsdzzsjzz',
+    question: '中国历史上的皇帝谁的执政时间最长?',
+    id: 20615
+  },
+  {
+    answer: '闺中少妇不知愁',
+    indexes: 'xlnjsczwclgy',
+    question: '下列哪句是出自王昌龄《闺怨》？',
+    id: 20616
+  },
+  {
+    answer: '短勺氏',
+    indexes: 'zcdgsnzslgjymfwlzxlnzbslzzy',
+    question: '《左传·定公四年》中说鲁公将殷民分为六族，下列哪族不是六族之一？',
+    id: 20617
+  },
+  {
+    answer: '再顾给事中',
+    indexes: 'xlnjsczycysctzkhyz',
+    question: '下列哪句是出自阎朝隐《侍从途中口号应制》？',
+    id: 20618
+  },
+  {
+    answer: '喝米酒',
+    indexes: 'xlnxbsgdzqjdfs',
+    question: '下列哪项不是古代中秋节的风俗？',
+    id: 20619
+  },
+  {
+    answer: '李白',
+    indexes: 'mhqglxhcdjwdxkzjscznwsrzp',
+    question: '“名花倾国两相欢，常得君王带笑看。”这句诗出自哪位诗人作品？',
+    id: 20620
+  },
+  {
+    answer: '近种篱边菊',
+    indexes: 'xlnjbsczmdcjhg',
+    question: '下列哪句不是出自马戴《楚江怀古》？',
+    id: 20621
+  },
+  {
+    answer: '蒂尼·博格斯',
+    indexes: 'NBAlsszadqyss',
+    question: 'NBA历史上最矮的球员是谁？',
+    id: 20622
+  },
+  {
+    answer: '慧心宗',
+    indexes: 'xlngpxbsszdfz',
+    question: '下列哪个派系不是禅宗的分支？',
+    id: 20623
+  },
+  {
+    answer: '韩愈',
+    indexes: 'xlnwsrbsywtwdsq',
+    question: '下列哪位诗人不属于晚唐五代时期？',
+    id: 20624
+  },
+  {
+    answer: '韩愈',
+    indexes: 'xlnwbsyhjcr',
+    question: '下列哪位不属于花间词人？',
+    id: 20625
+  },
+  {
+    answer: '太康',
+    indexes: 'xlnwbsscdw',
+    question: '下列哪位不是商朝的王？',
+    id: 20626
+  },
+  {
+    answer: '初闻涕泪满衣裳',
+    indexes: 'xlnjbscdfdg',
+    question: '下列哪句不是出杜甫《登高》？',
+    id: 20627
+  },
+  {
+    answer: '丹绮双鸳鸯',
+    indexes: 'xlnjsczwbqyz',
+    question: '下列哪句是出自王勃《秋夜长》？',
+    id: 20628
+  },
+  {
+    answer: '风烟望五津',
+    indexes: 'xlnjbsczlbwzyycbx',
+    question: '下列哪句不是出自骆宾王《在狱咏蝉并序》？',
+    id: 20629
+  },
+  {
+    answer: '野蔬充膳甘长藿',
+    indexes: 'xlnjbscyzqbhssze',
+    question: '下列哪句不是出元稹《遣悲怀三首之二》？',
+    id: 20630
+  },
+  {
+    answer: '邀人傅粉粉',
+    indexes: 'xlnjsbsczwwdwctj',
+    question: '下列哪句诗不是出自王维的《渭川田家》？',
+    id: 20631
+  },
+  {
+    answer: '春风十里扬州路',
+    indexes: 'xlnjsczdmzbeszy',
+    question: '下列哪句是出自杜牧《赠别二首之一》？',
+    id: 20632
+  },
+  {
+    answer: '万里',
+    indexes: 'wyhdalpkjzxzdzgrs',
+    question: '唯一获得奥林匹克金质勋章的中国人是？',
+    id: 20633
+  },
+  {
+    answer: '时雨侔昔贤',
+    indexes: 'xlnjsczlljszztskzyd',
+    question: '下列哪句是出自李隆基《送忠州太守康昭远等》？',
+    id: 20634
+  },
+  {
+    answer: '姬',
+    indexes: 'dkxsm',
+    question: '帝喾姓什么？',
+    id: 20635
+  },
+  {
+    answer: '王事宁怠遑',
+    indexes: 'xlnjsczljfszsflzcleez',
+    question: '下列哪句是出自李峤《奉使筑朔方六州城率尔而作》？',
+    id: 20636
+  },
+  {
+    answer: '指挥使',
+    indexes: 'xlnxbsqcdzspwzjg',
+    question: '下列哪项不是清朝的正三品武职京官？',
+    id: 20637
+  },
+  {
+    answer: '感时心绪杳难平',
+    indexes: 'xlnjsczlyjysros',
+    question: '下列哪句是出自李煜《九月十日偶书》？',
+    id: 20638
+  },
+  {
+    answer: '垂条拂髻鬟',
+    indexes: 'xlnjsczcszyl',
+    question: '下列哪句是出自崔湜《折杨柳》？',
+    id: 20639
+  },
+  {
+    answer: '美国',
+    indexes: 'lqsyngrfmd',
+    question: '篮球是由哪国人发明得？',
+    id: 20640
+  },
+  {
+    answer: '明珠在钓矶',
+    indexes: 'xlnjsczstkmcyzdwbbxsyjs',
+    question: '下列哪句是出自苏颋《昆明池晏坐答王兵部珣三韵见示》？',
+    id: 20641
+  },
+  {
+    answer: '风物凄凄宿雨收',
+    indexes: 'xlnjbschfrcs',
+    question: '下列哪句不是出皇甫冉《春思》？',
+    id: 20642
+  },
+  {
+    answer: '天门阵',
+    indexes: 'xlnxbsscdcpm',
+    question: '下列哪项不是宋词的词牌名？',
+    id: 20643
+  },
+  {
+    answer: '舜帝',
+    indexes: 'mzxchhjyssbyfdzcfxcwzmywsgdwdymqwzsnwdw',
+    question:
+      '毛主席曾挥毫“九疑山上白云飞，帝子乘风下翠微”赞美一位上古帝王的英名，请问这是哪位帝王？',
+    id: 20644
+  },
+  {
+    answer: '蚩尤',
+    indexes: 'zldzshdhszjdzz',
+    question: '“涿鹿大战”是皇帝和谁之间的战争？',
+    id: 20645
+  },
+  {
+    answer: '环佩空归月下魂',
+    indexes: 'xlnjbscdfyhgjwszs',
+    question: '下列哪句不是出杜甫《咏怀古迹五首之四》？',
+    id: 20646
+  },
+  {
+    answer: '月斜楼上五更钟',
+    indexes: 'xlnjbsclsywtesze',
+    question: '下列哪句不是出李商隐《无题二首之二》？',
+    id: 20647
+  },
+  {
+    answer: '君家何处住',
+    indexes: 'xlnjsczchzgxeszy',
+    question: '下列哪句是出自崔颢《长干行二首之一》？',
+    id: 20648
+  },
+  {
+    answer: '马毛带雪汗气蒸',
+    indexes: 'xlnjbsczdfjhjy',
+    question: '下列哪句不是出自杜甫《寄韩谏议》？',
+    id: 20649
+  },
+  {
+    answer: '晚憩王少府东阁',
+    indexes: 'xlnbbsyzqdzp',
+    question: '下列哪部不是颜真卿的作品？',
+    id: 20650
+  },
+  {
+    answer: '功疑复夏初',
+    indexes: 'xlnjsczjcxhhdwg',
+    question: '下列哪句是出自贾曾《孝和皇帝挽歌》？',
+    id: 20651
+  },
+  {
+    answer: '送和西蕃使',
+    indexes: 'xlnjsczdsyshxfs',
+    question: '下列哪句是出自杜审言《送和西蕃使》？',
+    id: 20652
+  },
+  {
+    answer: '惭非熏风唱',
+    indexes: 'xlnjsczlszhjryblcs',
+    question: '下列哪句是出自李适《中和节日宴百僚赐诗》？',
+    id: 20653
+  },
+  {
+    answer: '胡庭沙正飞',
+    indexes: 'xlnjsczlzlzjy',
+    question: '下列哪句是出自卢照邻《昭君怨》？',
+    id: 20654
+  },
+  {
+    answer: '春生积石河',
+    indexes: 'xlnjsczcryfhsjcgzsxf',
+    question: '下列哪句是出自崔日用《奉和送金城公主适西蕃》？',
+    id: 20655
+  },
+  {
+    answer: '万里相驰逐',
+    indexes: 'xlnjsczcsdmx',
+    question: '下列哪句是出自崔湜《大漠行》？',
+    id: 20656
+  },
+  {
+    answer: '碰床',
+    indexes: 'jjtcnzxmbbkxlnx',
+    question: '竞技体操男子项目不包括下列哪项？',
+    id: 20657
+  },
+  {
+    answer: '周屏辞金殿',
+    indexes: 'xlnjsczlyzfhbyw',
+    question: '下列哪句是出自刘祎之《奉和别越王》？',
+    id: 20658
+  },
+  {
+    answer: '金轮法王',
+    indexes: 'mczxzffdsdfwhwddfzwtcxzbwxlnwbsybwzl',
+    question: '明朝在西藏分封的三大法王和五大地方之王，统称西藏八王，下列哪位不属于八王之列？',
+    id: 20659
+  },
+  {
+    answer: '丹陵幸旧宫',
+    indexes: 'xlnjsczlsmzxwg',
+    question: '下列哪句是出自李世民《重幸武功》？',
+    id: 20660
+  },
+  {
+    answer: '“江京”',
+    indexes: 'xlngbsnjlssdcw',
+    question: '下列哪个不是南京历史上的称谓？',
+    id: 20661
+  },
+  {
+    answer: '《水调歌头》',
+    indexes: 'xlngbsyqzdqp',
+    question: '下列哪个不是元曲中的曲牌？',
+    id: 20662
+  },
+  {
+    answer: '《石壕吏》',
+    indexes: 'dfpbzhnhbjnszlhdsydzpxlnbbszyqjdzp',
+    question: '杜甫漂泊在湖南湖北境内时，作了很多失意的作品，下列哪部不是这一期间的作品？',
+    id: 20663
+  },
+  {
+    answer: '《世说新语》是我国最早的章回体小说集',
+    indexes: 'dxlwxzpjmsbzqds',
+    question: '对下列文学作品集描述不正确的是？',
+    id: 20664
+  },
+  {
+    answer: '《登楼赋》',
+    indexes: 'smxrshcddwrbcwfsxlnbzpbsfsdbz',
+    question: '司马相如是汉朝的大文人，被称为“赋圣”，下列那部作品不是“赋圣”代表作？',
+    id: 20665
+  },
+  {
+    answer: '《包身工》是我国第一篇写实文学作品',
+    indexes: 'dxlwxzpjmsbzqds',
+    question: '对下列文学作品集描述不正确的是？',
+    id: 20666
+  },
+  {
+    answer: '《书王知载朐山杂咏后》',
+    indexes: 'xlnssbsytyspsrdzp',
+    question: '下列哪首诗不属于田园诗派诗人的作品？',
+    id: 20667
+  },
+  {
+    answer: '《狂人日记》是我国文学史上第一篇反封建的小说',
+    indexes: 'xlnxgywxzpdmsscwd',
+    question: '下列哪项关于文学作品的描述是错误的？',
+    id: 20668
+  },
+  {
+    answer: '《逍遥子》',
+    indexes: 'xlnbzpbsxqzzsw',
+    question: '下列哪部作品不是先秦诸子散文？',
+    id: 20669
+  },
+  {
+    answer: '《咏怀五百字》',
+    indexes: 'xlnxbsywyls',
+    question: '下列哪项不属于五言律诗？',
+    id: 20670
+  },
+  {
+    answer: '20',
+    indexes: 'bshjzzdqmshtzy500yrqzgydswnx',
+    question: '北宋画家张择端《清明上河图》中有500余人，其中共有多少位女性？',
+    id: 20671
+  },
+  {
+    answer: '莫待无花空折枝',
+    indexes: 'xlnjsczdqnjly',
+    question: '下列哪句是出自杜秋娘《金缕衣》？',
+    id: 20672
+  },
+  {
+    answer: '《小石潭记》',
+    indexes: 'xlspbjytwyytsdsnx',
+    question: '下列诗篇不具有托物寓意特色的是哪项？',
+    id: 20673
+  },
+  {
+    answer: '佛香阁',
+    indexes: 'xlngftbszjcdzcft',
+    question: '下列哪个佛堂不是紫禁城的藏传佛堂？',
+    id: 20674
+  },
+  {
+    answer: '夜久侵罗袜',
+    indexes: 'xlnjsczlbyjy',
+    question: '下列哪句是出自李白《玉阶怨》？',
+    id: 20675
+  },
+  {
+    answer: '独往岂殊调',
+    indexes: 'xlnjbsczlbwdyh',
+    question: '下列哪句不是出自骆宾王的《咏怀》？',
+    id: 20676
+  },
+  {
+    answer: '闻鸡起舞',
+    indexes: 'xlngbssgddg',
+    question: '下列哪个不是三国的典故？',
+    id: 20677
+  },
+  {
+    answer: '讵回道林辙',
+    indexes: 'xlnjsczszwjnsxyzjsbz',
+    question: '下列哪句是出自宋之问《见南山夕阳召监师不至》？',
+    id: 20678
+  },
+  {
+    answer: '吴山高渐出',
+    indexes: 'xlnjsczlbydyxgcyszlm',
+    question: '下列哪句是出自李百药《登叶县故城谒沈诸梁庙》？',
+    id: 20679
+  },
+  {
+    answer: '忧从望里宽',
+    indexes: 'xlnjsczlbwwxxf',
+    question: '下列哪句是出自骆宾王《望乡夕泛》？',
+    id: 20680
+  },
+  {
+    answer: '孟浩然《夏日南亭怀辛大》',
+    indexes: 'hfsxqzldqxcznss',
+    question: '“荷风送香气，竹露滴清响。”出自哪首诗？',
+    id: 20681
+  },
+  {
+    answer: '庶敦朝野意',
+    indexes: 'xlnjsczlsjysbcblzsyssh',
+    question: '下列哪句是出自李适《九月十八赐百僚追赏因书所怀》？',
+    id: 20682
+  },
+  {
+    answer: '千秋乐未央',
+    indexes: 'xlnjsczlslddybl',
+    question: '下列哪句是出自李适《麟德殿宴百僚》？',
+    id: 20683
+  },
+  {
+    answer: '王粲',
+    indexes: 'jaqzzwxcjzgdss',
+    question: '建安七子中文学成就最高的是谁？',
+    id: 20684
+  },
+  {
+    answer: '风多杂鼓声',
+    indexes: 'xlnjsczyjcjx',
+    question: '下列哪句是出自杨炯《从军行》？',
+    id: 20685
+  },
+  {
+    answer: '岳王剑',
+    indexes: 'xlnbjbsyzggdmj',
+    question: '下列哪把剑不属于中国古代名剑？',
+    id: 20686
+  },
+  {
+    answer: '松声晚窗里',
+    indexes: 'xlnjbsczwcldtcdnzwyysycsf',
+    question: '下列哪句不是出自王昌龄的《同从弟南斋玩月忆山阴崔少府》？',
+    id: 20687
+  },
+  {
+    answer: '万户声明发',
+    indexes: 'xlnjsczlyzfhtznftpgzcj',
+    question: '下列哪句是出自刘祎之《奉和太子纳妃太平公主出降》？',
+    id: 20688
+  },
+  {
+    answer: '庶洽朝野意',
+    indexes: 'xlnjsczlszhjcbgyjyssh',
+    question: '下列哪句是出自李适《中和节赐百官燕集因示所怀》？',
+    id: 20689
+  },
+  {
+    answer: '南浦清江万里桥',
+    indexes: 'xlnjbscdfwgjshnhb',
+    question: '下列哪句不是出杜甫《闻官军收河南河北》？',
+    id: 20690
+  },
+  {
+    answer: '课成应第一',
+    indexes: 'xlnjsczlljslyzrht',
+    question: '下列哪句是出自李隆基《送李邕之任滑台》？',
+    id: 20691
+  },
+  {
+    answer: '表瑞良在兹',
+    indexes: 'xlnjsczlljwtdx',
+    question: '下列哪句是出自李隆基《温汤对雪》？',
+    id: 20692
+  },
+  {
+    answer: '心驰明月关',
+    indexes: 'xlnjsczyjzyl',
+    question: '下列哪句是出自杨炯《折杨柳》？',
+    id: 20693
+  },
+  {
+    answer: '烟销日出不见人',
+    indexes: 'xlnjbsczgsygxbx',
+    question: '下列哪句不是出自高适《燕歌行并序》？',
+    id: 20694
+  },
+  {
+    answer: '举头望明月',
+    indexes: 'xlnjsczlbys',
+    question: '下列哪句是出自李白《夜思》？',
+    id: 20695
+  },
+  {
+    answer: '洪州窑',
+    indexes: 'xlngbswglssfjsnymdcqyk',
+    question: '下列哪个不是我国历史上福建省内有名的瓷器窑口？',
+    id: 20696
+  },
+  {
+    answer: '杨亿',
+    indexes: 'bsnjjxzdqzcmzzddswgxlnwbswgzl',
+    question: '北宋年间奸邪众多，其中臭名昭著的当属“五鬼”，下列哪位不是“五鬼”之列？',
+    id: 20697
+  },
+  {
+    answer: '忽见陌头杨柳色',
+    indexes: 'xlnjsczwclyjy',
+    question: '下列哪句是出自王昌龄《玉阶怨》？',
+    id: 20698
+  },
+  {
+    answer: '曳葛似攀樛',
+    indexes: 'xlnjsczlbwzfs',
+    question: '下列哪句是出自骆宾王《至分陕》？',
+    id: 20699
+  },
+  {
+    answer: '刘政会',
+    indexes: 'xlnwbsytdymdsbxs',
+    question: '下列哪位不属于唐代有名的十八学士？',
+    id: 20700
+  },
+  {
+    answer: '波似洞庭秋',
+    indexes: 'xlnjsczlhynbcsykjdyz',
+    question: '下列哪句是出自李怀远《凝碧池侍宴看竞渡应制》？',
+    id: 20701
+  },
+  {
+    answer: '烟鸟栖初定',
+    indexes: 'xlnjbsczccdygsxjdcesft',
+    question: '下列哪句不是出自岑参的《与高适薛据登慈恩寺浮图》？',
+    id: 20702
+  },
+  {
+    answer: '愿君多采撷',
+    indexes: 'xlnjsczwwxs',
+    question: '下列哪句是出自王维《相思》？',
+    id: 20703
+  },
+  {
+    answer: '故国三千里',
+    indexes: 'xlnjsczzhhmz',
+    question: '下列哪句是出自张祜《何满子》？',
+    id: 20704
+  },
+  {
+    answer: '巫山连楚梦',
+    indexes: 'xlnjsczwbjnn',
+    question: '下列哪句是出自王勃《江南弄》？',
+    id: 20705
+  },
+  {
+    answer: '李白《赠孟浩然》',
+    indexes: 'zypzsmhbsjcznss',
+    question: '“醉月频中圣，迷花不事君”出自哪首诗？',
+    id: 20706
+  },
+  {
+    answer: '死生长别离',
+    indexes: 'xlnjbsczmdcjhg',
+    question: '下列哪句不是出自马戴《楚江怀古》？',
+    id: 20707
+  },
+  {
+    answer: '戏凫分断岸',
+    indexes: 'xlnjsczlzlhjzb',
+    question: '下列哪句是出自卢照邻《还京赠别》？',
+    id: 20708
+  },
+  {
+    answer: '衔泥力尚微',
+    indexes: 'xlnjsczzzyy',
+    question: '下列哪句是出自张鷟《咏燕》？',
+    id: 20709
+  },
+  {
+    answer: '左丘失明',
+    indexes: 'xmngqjbsxybjdzyqj',
+    question: '下面哪个情节不是《项羽本纪》的主要情节？',
+    id: 20710
+  },
+  {
+    answer: '清史',
+    indexes: 'xlnxbsyesssdfc',
+    question: '下列哪项不属于“二十四史”的范畴？',
+    id: 20711
+  },
+  {
+    answer: '晓月怜筝柱',
+    indexes: 'xlnjsczxybfs',
+    question: '下列哪句是出自徐彦伯《芳树》？',
+    id: 20712
+  },
+  {
+    answer: '持此谢高鸟',
+    indexes: 'xlnjbsczlbgsy',
+    question: '下列哪句不是出自李白《关山月》？',
+    id: 20713
+  },
+  {
+    answer: '刘禹锡',
+    indexes: 'bjyzxsybwqljhylwljnzcjhsrczwxsjlqwxlnwbsyjlzl',
+    question:
+      '白居易在香山与八位耆老集会、燕乐，为了纪念这次集会，世人称之为“香山九老”，请问下列哪位不属于九老之列？',
+    id: 20714
+  },
+  {
+    answer: '光光草露团',
+    indexes: 'xlnjsczycqywy',
+    question: '下列哪句是出自姚崇《秋夜望月》？',
+    id: 20715
+  },
+  {
+    answer: '九日送人',
+    indexes: 'xmnbzpbsrhd',
+    question: '下面哪部作品不是任华的？',
+    id: 20716
+  },
+  {
+    answer: '萧条异代不同时',
+    indexes: 'xlnjbscdfyhgjwszs',
+    question: '下列哪句不是出杜甫《咏怀古迹五首之三》？',
+    id: 20717
+  },
+  {
+    answer: '前旌阙塞通',
+    indexes: 'xlnjsczzjlfhsztcszz',
+    question: '下列哪句是出自张九龄《奉和圣制途次陕州作》？',
+    id: 20718
+  },
+  {
+    answer: '金门披玉馆',
+    indexes: 'xlnjsczlxdlsgdym',
+    question: '下列哪句是出自李显《登骊山高顶寓目》？',
+    id: 20719
+  },
+  {
+    answer: '华歆',
+    indexes: 'xlnwsgrwbscwwjzl',
+    question: '下列哪位三国人物不是曹魏五君之列？',
+    id: 20720
+  },
+  {
+    answer: '指麾八荒定',
+    indexes: 'xlnjsczlsmxwgqsg',
+    question: '下列哪句是出自李世民《幸武功庆善宫》？',
+    id: 20721
+  },
+  {
+    answer: '请人吃饭',
+    indexes: 'cjszgzzydctjrznlxnzjtzgrdhyyxjhxlnxbszgrgndjh',
+    question:
+      '春节是中国最重要的传统节日，在农历新年这几天中国人都会有一些忌讳，下列哪项不是中国人过年的忌讳？',
+    id: 20722
+  },
+  {
+    answer: '转战入皋兰',
+    indexes: 'xlnjsczlzlzlm',
+    question: '下列哪句是出自卢照邻《紫骝马》？',
+    id: 20723
+  },
+  {
+    answer: '祭祀',
+    indexes: 'xlnxbsydyljddzdhly',
+    question: '下列哪项不属于大禹陵祭典的制度和礼仪？',
+    id: 20724
+  },
+  {
+    answer: '裴里匹底斯',
+    indexes: 'mlsspswjnsesld',
+    question: '马拉松赛跑是为纪念谁而设立的？',
+    id: 20725
+  },
+  {
+    answer: '新妆曲未终',
+    indexes: 'xlnjsczdsydzsysmr',
+    question: '下列哪句是出自杜审言《代张侍御伤美人》？',
+    id: 20726
+  },
+  {
+    answer: '袒鞑',
+    indexes: 'zglssyydwhcbdlsjcwhslgxlngmzbswhzl',
+    question: '中国历史上有一段五胡称霸的历史，简称五胡十六国，下列那个民族不是五胡之列？',
+    id: 20727
+  },
+  {
+    answer: '滢荧心欲无',
+    indexes: 'xlnjsczszwdth',
+    question: '下列哪句是出自宋之问《洞庭湖》？',
+    id: 20728
+  },
+  {
+    answer: '陈',
+    indexes: 'xlnglssdgjmyddbj',
+    question: '下列哪个历史上的国家没有定都汴京？',
+    id: 20729
+  },
+  {
+    answer: '齐威王',
+    indexes: 'zhzbsfszcqsqdyqzddzzsjgdcycqwbzsxlsbswbzy',
+    question:
+      '诸侯争霸是发生在春秋时期的一起重大的政治事件。古代曾有“春秋五霸”之说，下列谁不是五霸之一？',
+    id: 20730
+  },
+  {
+    answer: '中峰绕瑞烟',
+    indexes: 'xlnjsczdsyplsdsyfcyznsyz',
+    question: '下列哪句是出自杜审言《蓬莱三殿侍宴奉敕咏终南山应制》？',
+    id: 20731
+  },
+  {
+    answer: '生',
+    indexes: 'xlngbsyzjzdzyjs',
+    question: '下列哪个不是元杂剧中的主要角色？',
+    id: 20732
+  },
+  {
+    answer: '土鳖',
+    indexes: 'xlnxbsyzggdzmdjddy',
+    question: '下列哪项不属于中国古代著名的九大毒药？',
+    id: 20733
+  },
+  {
+    answer: '高粱酒',
+    indexes: 'xlnzjbsgdjrqj',
+    question: '下列哪种酒不是古代节日庆酒？',
+    id: 20734
+  },
+  {
+    answer: '东日华组练',
+    indexes: 'xlnjsczlljxlycxfdxltjyysqg',
+    question: '下列哪句是出自李隆基《校猎义成喜逢大雪率题九韵以示群官》？',
+    id: 20735
+  },
+  {
+    answer: '东关望渐赊',
+    indexes: 'xlnjsczyjsfcwsf',
+    question: '下列哪句是出自杨炯《送丰城王少府》？',
+    id: 20736
+  },
+  {
+    answer: '李商隐《韩碑》',
+    indexes: 'xlnssbsqylf',
+    question: '下列哪首诗不是七言乐府？',
+    id: 20737
+  },
+  {
+    answer: '元宗道',
+    indexes: 'xlnwsrbsymdhqz',
+    question: '下列哪位诗人不属于明代后七子？',
+    id: 20738
+  },
+  {
+    answer: '戴复古',
+    indexes: 'nscxlygspjhpxlnwdjhpdyxzd',
+    question: '南宋出现了一个诗派“江湖派”，下列哪位对江湖派的影响最大？',
+    id: 20739
+  },
+  {
+    answer: '王丽萍',
+    indexes: 'xlnwsjydymydpsjjl',
+    question: '下列哪位射箭运动员没有打破世界纪录？',
+    id: 20740
+  },
+  {
+    answer: '依然蹑云背',
+    indexes: 'xlnjsczwbhmyx',
+    question: '下列哪句是出自王勃《忽梦游仙》？',
+    id: 20741
+  },
+  {
+    answer: '三次',
+    indexes: 'mgcdztzmqdhfsdgmdnmqyhcyblwzzybnmqycdtbwjqwhcygfsljcnmqy',
+    question:
+      '每个朝代在统治末期都会发生大规模的农民起义，汉朝也不例外，最终也被农民起义催得土崩瓦解，请问汉朝一共发生了几次农民起义？',
+    id: 20742
+  },
+  {
+    answer: '西凉',
+    indexes: 'xlngdfbshcsqdwhzd',
+    question: '下列哪个地方不是汉朝时期的乌恒驻地？',
+    id: 20743
+  },
+  {
+    answer: '冰□已镂津',
+    indexes: 'xlnjsczlzss',
+    question: '下列哪句是出自李治《守岁》？',
+    id: 20744
+  },
+  {
+    answer: '阁道遂成墟',
+    indexes: 'xlnjsczlxxqshl',
+    question: '下列哪句是出自李显《幸秦始皇陵》？',
+    id: 20745
+  },
+  {
+    answer: '王军霞',
+    indexes: 'dyghowsjdzgrss',
+    question: '第一个获欧文斯奖的中国人是谁？',
+    id: 20746
+  },
+  {
+    answer: '侍宴应诏赋韵得前字',
+    indexes: 'xlnbbslbdzp',
+    question: '下列哪部不是李白的作品？',
+    id: 20747
+  },
+  {
+    answer: '李颀《燕歌行》',
+    indexes: 'xlgysrjqzpdjscwdsnx',
+    question: '下列关于诗人及其作品的介绍错误的是哪项？',
+    id: 20748
+  },
+  {
+    answer: '寥廓烟云表',
+    indexes: 'xlnjsczlzydces',
+    question: '下列哪句是出自李治《谒大慈恩寺》？',
+    id: 20749
+  },
+  {
+    answer: '平砧捣文练',
+    indexes: 'xlnjsczqzzcj',
+    question: '下列哪句是出自乔知之《从军》？',
+    id: 20750
+  },
+  {
+    answer: '土豆',
+    indexes: 'ctszgrjjzzsyxsycqhbszsdqsbhzyzhctysgjddfxlnxbsswdqszy',
+    question:
+      '传统上中国人讲究在正式宴席上要吃“七荤八素”,这是对“七素、八荤”这一中华传统饮食规矩的颠覆，下列哪项不是所谓的七素之一？',
+    id: 20751
+  },
+  {
+    answer: '二十四桥明月夜',
+    indexes: 'xlnjsczdmjyzhcpg',
+    question: '下列哪句是出自杜牧《寄扬州韩绰判官》？',
+    id: 20752
+  },
+  {
+    answer: '罗宪',
+    indexes: 'sgmjmcdfqnhmxltsxlnwbsxlrw',
+    question: '三国名将马超的父亲乃汉末西凉太守，下列哪位不是西凉人物？',
+    id: 20753
+  },
+  {
+    answer: '关平',
+    indexes: 'sgsqywmdwhjshhqyyshhwhsjxlnwbsyshhwhsj',
+    question: '三国时期有闻名的五虎将，蜀汉后期也有蜀汉后五虎上将，下列哪位不属于蜀汉后五虎上将？',
+    id: 20754
+  },
+  {
+    answer: '彭泽菊初收',
+    indexes: 'xlnjsczlxjyjrxlwtdgdqz',
+    question: '下列哪句是出自李显《九月九日幸临渭亭登高得秋字》？',
+    id: 20755
+  },
+  {
+    answer: '勿以恶小而为之',
+    indexes: 'xlnjsbsczyxqsw',
+    question: '下列哪句诗不是出自于先秦散文？',
+    id: 20756
+  },
+  {
+    answer: '复值接舆醉',
+    indexes: 'xlnjbsczlcqslzcghyby',
+    question: '下列哪句不是出自刘常卿《送李中丞归汉阳别业》？',
+    id: 20757
+  },
+  {
+    answer: '公子黄金勒',
+    indexes: 'xlnjsczlzlsyqsydzz',
+    question: '下列哪句是出自卢照邻《三月曲水宴得尊字》？',
+    id: 20758
+  },
+  {
+    answer: '韦庄',
+    indexes: 'xlnwsrbsyhmsp',
+    question: '下列哪位诗人不属于韩孟诗派？',
+    id: 20759
+  },
+  {
+    answer: '蒙毅',
+    indexes: 'xlnwbsyqgdcz',
+    question: '下列哪位不属于秦国的臣子？',
+    id: 20760
+  },
+  {
+    answer: '那堪玄鬓影',
+    indexes: 'xlnjbsczszwtdylby',
+    question: '下列哪句不是出自宋之问《题大庾岭北驿》？',
+    id: 20761
+  },
+  {
+    answer: '约翰.斯托克顿',
+    indexes: 'NBApjzgzddqyss',
+    question: 'NBA平均助攻最多的球员是谁？',
+    id: 20762
+  },
+  {
+    answer: '秋山落日寒',
+    indexes: 'xlnjsczlbwqrshsddz',
+    question: '下列哪句是出自骆宾王《秋日送侯四得弹字》？',
+    id: 20763
+  },
+  {
+    answer: '屏欲除奢政返淳',
+    indexes: 'xlnjsczlzxhdyjczqblt',
+    question: '下列哪句是出自李治《咸亨殿宴近臣诸亲柏梁体》？',
+    id: 20764
+  },
+  {
+    answer: '空歌思杀人',
+    indexes: 'xlnjsczlxygs',
+    question: '下列哪句是出自刘希夷《归山》？',
+    id: 20765
+  },
+  {
+    answer: '阿姆斯特朗',
+    indexes: 'hdzgjzddhfzxcxsss',
+    question: '获得总冠军最多的环法自行车选手是谁?',
+    id: 20766
+  },
+  {
+    answer: '飞花搅独愁',
+    indexes: 'xlnjsczdsyfdqbm',
+    question: '下列哪句是出自杜审言《赋得妾薄命》？',
+    id: 20767
+  },
+  {
+    answer: '春来花鸟若为情',
+    indexes: 'xlnjsczcryjtyc',
+    question: '下列哪句是出自崔日用《饯唐永昌》？',
+    id: 20768
+  },
+  {
+    answer: '是以陷邻境',
+    indexes: 'xlnjbsczmhrdsyssfdddbz',
+    question: '下列哪句不是出自孟浩然的《宿业师山房待丁大不至》？',
+    id: 20769
+  },
+  {
+    answer: '风泉满清听',
+    indexes: 'xlnjbsczwwdwctj',
+    question: '下列哪句不是出自王维的《渭川田家》？',
+    id: 20770
+  },
+  {
+    answer: '落花犹似坠楼人',
+    indexes: 'xlnjsczdmjgy',
+    question: '下列哪句是出自杜牧《金谷园》？',
+    id: 20771
+  },
+  {
+    answer: '趋趋兮跄跄',
+    indexes: 'xlnjsczycyywmep',
+    question: '下列哪句是出自阎朝隐《鹦鹉猫儿篇》？',
+    id: 20772
+  },
+  {
+    answer: '余得奉戎旃',
+    indexes: 'xlnjsczczaxhzsgdqbqzz',
+    question: '下列哪句是出自陈子昂《西还至散关答乔补阙知之》？',
+    id: 20773
+  },
+  {
+    answer: '近种篱边菊',
+    indexes: 'xlnjbsczwzztys',
+    question: '下列哪句不是出自韦庄《章台夜思》？',
+    id: 20774
+  },
+  {
+    answer: '马上相逢无纸笔',
+    indexes: 'xlnjsczccfrjs',
+    question: '下列哪句是出自岑参《逢入京使》？',
+    id: 20775
+  },
+  {
+    answer: '太常监',
+    indexes: 'tcdzygzzsywsxlnxbsyws',
+    question: '唐朝的中央官制中设有五署，下列哪项不属于五署？',
+    id: 20776
+  },
+  {
+    answer: '潮落夜江斜月里',
+    indexes: 'xlnjsczzhtjld',
+    question: '下列哪句是出自张祜《题金陵渡》？',
+    id: 20777
+  },
+  {
+    answer: '高宴齿簪缨',
+    indexes: 'xlnjsczlbyfhzrlcyz',
+    question: '下列哪句是出自李百药《奉和正日临朝应诏》？',
+    id: 20778
+  },
+  {
+    answer: '不见有人还',
+    indexes: 'xlnjbsczlbzgx',
+    question: '下列哪句不是出自李白《长干行》？',
+    id: 20779
+  },
+  {
+    answer: '潘岳',
+    indexes: 'xjdsfhsgwmysqzddbwessyxlnwbsyessy',
+    question: '西晋的士风和诗歌闻名于世，其中的代表为“二十四友”，下列哪位不属于“二十四友”？',
+    id: 20780
+  },
+  {
+    answer: '门疑待佛开',
+    indexes: 'xlnjsczcscesjryz',
+    question: '下列哪句是出自崔湜《慈恩寺九日应制》？',
+    id: 20781
+  },
+  {
+    answer: '遵渚未来鸿',
+    indexes: 'xlnjsczlbwyyyhjztb',
+    question: '下列哪句是出自骆宾王《月夜有怀简诸同病》？',
+    id: 20782
+  },
+  {
+    answer: '珠箔飘灯独自归',
+    indexes: 'xlnjbscwtylznd',
+    question: '下列哪句不是出温庭筠《利洲南渡》？',
+    id: 20783
+  },
+  {
+    answer: '万里黄河绕黑山',
+    indexes: 'xlnjsczlzyzry',
+    question: '下列哪句是出自柳中庸《征人怨》？',
+    id: 20784
+  },
+  {
+    answer: '今夜偏知春气暖',
+    indexes: 'xlnjsczlfpyy',
+    question: '下列哪句是出自刘方平《月夜》？',
+    id: 20785
+  },
+  {
+    answer: '不堪闲坐细思量',
+    indexes: 'xlnjsczlydzjwscqx',
+    question: '下列哪句是出自李煜《渡中江望石城泣下》？',
+    id: 20786
+  },
+  {
+    answer: '凯尔特人',
+    indexes: 'NBAlsshdgjzddqds',
+    question: 'NBA历史上获得冠军最多的球队是？',
+    id: 20787
+  },
+  {
+    answer: '前事不忘，后事之师',
+    indexes: 'xlnjbsczsj',
+    question: '下列哪句不是出自《史记》？',
+    id: 20788
+  },
+  {
+    answer: '随意春芳歇',
+    indexes: 'xlnjbsczmhryzzdxs',
+    question: '下列哪句不是出自孟浩然《与诸子登岘山》？',
+    id: 20789
+  },
+  {
+    answer: '长征马不肥',
+    indexes: 'xlnjsczgzss',
+    question: '下列哪句是出自郭震《塞上》？',
+    id: 20790
+  },
+  {
+    answer: '业复五铢钱',
+    indexes: 'xlnjbsczmhrqmrymdsf',
+    question: '下列哪句不是出自孟浩然《清明日宴梅道士房》？',
+    id: 20791
+  },
+  {
+    answer: '波似洞庭秋',
+    indexes: 'xlnjsczlhynbcsykjdyz',
+    question: '下列哪句是出自李怀远《凝碧池侍宴看竞渡应制》？',
+    id: 20792
+  },
+  {
+    answer: '苍生欲问天',
+    indexes: 'xlnjsczyjfhsypyyz',
+    question: '下列哪句是出自杨炯《奉和上元酺宴应诏》？',
+    id: 20793
+  },
+  {
+    answer: '杨戬',
+    indexes: 'jcyzszglsshldbaysbsycmzzdlzxlnywbsylz',
+    question:
+      '奸臣一直是中国历史上混乱的不安因素，北宋有臭名昭著的“六贼”，下列哪一位不属于“六贼”？',
+    id: 20794
+  },
+  {
+    answer: '枝从点缀新',
+    indexes: 'xlnjsczzjljc',
+    question: '下列哪句是出自张九龄《剪彩》？',
+    id: 20795
+  },
+  {
+    answer: '和燕公岳州山城',
+    indexes: 'xlnbbshzzdzp',
+    question: '下列哪部不是贺知章的作品？',
+    id: 20796
+  },
+  {
+    answer: '孟浩然《秦中感秋寄远上人》',
+    indexes: 'hjrgjzzznscznss',
+    question: '“黄金燃桂尽，壮志逐年衰。”出自哪首诗？',
+    id: 20797
+  },
+  {
+    answer: '伊菲图斯',
+    indexes: 'gdayhcsrss',
+    question: '古代奥运会创始人是谁？',
+    id: 20798
+  },
+  {
+    answer: '夕阳破东山',
+    indexes: 'xlnjsczszwcdlhsz',
+    question: '下列哪句是出自宋之问《初到陆浑山庄》？',
+    id: 20799
+  },
+  {
+    answer: '春风拂槛露华浓',
+    indexes: 'xlnjsczlbqpdsszy',
+    question: '下列哪句是出自李白《清平调三首之一》？',
+    id: 20800
+  },
+  {
+    answer: '幽州',
+    indexes: 'hcsqnxngfxhxlngdfbsnxndzd',
+    question: '汉朝时期，南匈奴归附西汉，下列哪个地方不是南匈奴的驻地？',
+    id: 20801
+  },
+  {
+    answer: '灯前饶看人',
+    indexes: 'xlnjsczczxsyyxxyt',
+    question: '下列哪句是出自崔知贤《上元夜效小庾体》？',
+    id: 20802
+  },
+  {
+    answer: '鸿雁不堪愁里听',
+    indexes: 'xlnjbscchxjhy',
+    question: '下列哪句不是出崔颢《行经华阴》？',
+    id: 20803
+  },
+  {
+    answer: '别来沧海事',
+    indexes: 'xlnjbsczwywhsxhlcgr',
+    question: '下列哪句不是出自韦应物《淮上喜会梁川故人》？',
+    id: 20804
+  },
+  {
+    answer: '容色朝朝落',
+    indexes: 'xlnjsczlzlfs',
+    question: '下列哪句是出自卢照邻《芳树》？',
+    id: 20805
+  },
+  {
+    answer: '胡椒',
+    indexes: 'wjsqdrhcxlxlngbsywx',
+    question: '魏晋时期的人好吃辛辣，下列哪个不属于五辛？',
+    id: 20806
+  },
+  {
+    answer: '予卧南山阿',
+    indexes: 'xlnjsczszwbzwhdsltsz',
+    question: '下列哪句是出自宋之问《别之望后独宿蓝田山庄》？',
+    id: 20807
+  },
+  {
+    answer: '哀命返穷愁',
+    indexes: 'xlnjsczlbwqrsb',
+    question: '下列哪句是出自骆宾王《秋日送别》？',
+    id: 20808
+  },
+  {
+    answer: '零落从此始',
+    indexes: 'xlnjsczlxygsp',
+    question: '下列哪句是出自刘希夷《孤松篇》？',
+    id: 20809
+  },
+  {
+    answer: '可怜夜半虚前席',
+    indexes: 'xlnjsczlsyjs',
+    question: '下列哪句是出自李商隐《贾生》？',
+    id: 20810
+  },
+  {
+    answer: '幽州',
+    indexes: 'zglscyjzzcxmnxbsjzzl',
+    question: '中国历史曾有“九州”之称，下面哪项不是九州之列？',
+    id: 20811
+  },
+  {
+    answer: '故垒萧萧芦荻秋',
+    indexes: 'xlnjbscqqzqxpsr',
+    question: '下列哪句不是出钱起《赠阙下裴舍人》？',
+    id: 20812
+  },
+  {
+    answer: '余氛向日镕',
+    indexes: 'xlnjsczxtzhcygpcks',
+    question: '下列哪句是出自许天正《和陈元光平潮寇诗》？',
+    id: 20813
+  },
+  {
+    answer: '离魂暗马惊',
+    indexes: 'xlnjsczcscdltcs',
+    question: '下列哪句是出自崔湜《酬杜麟台春思》？',
+    id: 20814
+  },
+  {
+    answer: '贵戚权门得笔迹',
+    indexes: 'xlnjbsczhyss',
+    question: '下列哪句不是出自韩愈《山石》？',
+    id: 20815
+  },
+  {
+    answer: '行到中庭数花朵',
+    indexes: 'xlnjsczlyxcc',
+    question: '下列哪句是出自刘禹锡《春词》？',
+    id: 20816
+  },
+  {
+    answer: '日落征途远',
+    indexes: 'xlnjsczlbyqwdgc',
+    question: '下列哪句是出自李百药《秋晚登古城》？',
+    id: 20817
+  },
+  {
+    answer: '犹为离人照落花',
+    indexes: 'xlnjsczzmjr',
+    question: '下列哪句是出自张泌《寄人》？',
+    id: 20818
+  },
+  {
+    answer: '西山寇盗莫相侵',
+    indexes: 'xlnjbscdfsf',
+    question: '下列哪句不是出杜甫《宿府》？',
+    id: 20819
+  },
+  {
+    answer: '茫茫江汉上',
+    indexes: 'xlnjbsczsksxwdlljs',
+    question: '下列哪句不是出自司空曙《喜外弟卢纶见宿》？',
+    id: 20820
+  },
+  {
+    answer: '烟空绿野闲',
+    indexes: 'xlnjsczcsjbcw',
+    question: '下列哪句是出自崔湜《冀北春望》？',
+    id: 20821
+  },
+  {
+    answer: '雷声峡外长',
+    indexes: 'xlnjsczwwjws',
+    question: '下列哪句是出自王无竞《巫山》？',
+    id: 20822
+  },
+  {
+    answer: '方远御慈留',
+    indexes: 'xlnjsczcsfhsjcgzsxfyz',
+    question: '下列哪句是出自崔湜《奉和送金城公主适西蕃应制》？',
+    id: 20823
+  },
+  {
+    answer: '钟鼓震岩廊',
+    indexes: 'xlnjsczlsmzrlc',
+    question: '下列哪句是出自李世民《正日临朝》？',
+    id: 20824
+  },
+  {
+    answer: '向宠诗集',
+    indexes: 'xlngsjbssgsqdsj',
+    question: '下列哪个诗集不是三国时期的诗集？',
+    id: 20825
+  },
+  {
+    answer: '鸣筝金粟柱',
+    indexes: 'xlnjsczldtz',
+    question: '下列哪句是出自李端《听筝》？',
+    id: 20826
+  },
+  {
+    answer: '天行万乘出',
+    indexes: 'xlnjsczljhchlcscqg',
+    question: '下列哪句是出自李峤《扈从还洛呈侍从群官》？',
+    id: 20827
+  },
+  {
+    answer: '沅有芷兮澧有兰',
+    indexes: 'xlnstdsrlbddbzxlnjsbsczxln',
+    question: '《行路难》是唐代诗人李白的代表作，下列哪句诗不是出自《行路难》？',
+    id: 20828
+  },
+  {
+    answer: '樵人归欲尽',
+    indexes: 'xlnjbsczwywdjqjszds',
+    question: '下列哪句不是出自韦应物的《寄全椒山中道士》？',
+    id: 20829
+  },
+  {
+    answer: '密阵',
+    indexes: 'sbbfzybzzfxlnyxbsybzf',
+    question: '《孙膑兵法》中有八种阵法，下列哪一项不属于八阵法？',
+    id: 20830
+  },
+  {
+    answer: '锦帆应是到天涯',
+    indexes: 'xlnjbsclsywteszy',
+    question: '下列哪句不是出李商隐《无题二首之一》？',
+    id: 20831
+  },
+  {
+    answer: '白日落梁州',
+    indexes: 'xlnjbsczxhzq',
+    question: '下列哪句不是出自许浑《早秋》？',
+    id: 20832
+  },
+  {
+    answer: '新藉做旧',
+    indexes: 'zggdwhbdjsqzhdgjdyjbhzqtyyscdhddgjzwsfrhdbcsdjdzccxxlnxsfbsyzwsf',
+    question:
+      '中国古代文化博大精深，其中很多古籍都已绝版或者其他原因失传，但很多的古籍作伪手法让很多不传世的经典再次出现，下列那些手法不属于作伪手法？',
+    id: 20833
+  },
+  {
+    answer: '垫底',
+    indexes: 'xlngtyycbsqyygd',
+    question: '下列那个体育用词不是起源于古代？',
+    id: 20834
+  },
+  {
+    answer: '李伯年',
+    indexes: 'lxqcjzlcsyzgmdsjzgmnymbbgszyqwxlnwbsbbgszy',
+    question:
+      '《列仙全传》记载了财神爷赵公明的事迹，赵公明乃元明八部鬼帅之一，请问下列哪位不是八部鬼帅之一？',
+    id: 20835
+  },
+  {
+    answer: '李燮',
+    indexes: 'gdcnycjrdrwcdhsqyzmdbcxlsbsybc',
+    question: '古代称能以财救人的人为厨，东汉时期有著名的“八厨”，下列谁不属于“八厨”？',
+    id: 20836
+  },
+  {
+    answer: '孙武',
+    indexes: 'zhjcxyzgzqhzjdwcbzskcwzgwqnzzzyztsdwjzzjxlnwbszhj',
+    question:
+      '纵横家出现于战国至秦汉之际，多为策辩之士，可称为中国五千年中最早也最特殊的外交政治家。下列哪位不是纵横家？',
+    id: 20837
+  },
+  {
+    answer: '斩',
+    indexes: 'xlnxbssysqdzyhddflzdzdxf',
+    question: '下列哪项不是宋元时期对中原汉地的法律制度中的刑罚？',
+    id: 20838
+  },
+  {
+    answer: '恭亲王',
+    indexes: 'qcfjdfsfwjgfhefxlnwtmzwsyef',
+    question: '清朝封爵的方式分为军功封和恩封，下列哪位铁帽子王属于恩封？',
+    id: 20839
+  },
+  {
+    answer: '苍山望不穷',
+    indexes: 'xlnjsczlzlrqcj',
+    question: '下列哪句是出自卢照邻《入秦川界》？',
+    id: 20840
+  },
+  {
+    answer: '云车未可攀',
+    indexes: 'xlnjsczlbwyzygzds',
+    question: '下列哪句是出自骆宾王《于紫云观赠道士》？',
+    id: 20841
+  },
+  {
+    answer: '王业成艰难',
+    indexes: 'xlnjsczzjlfhszxjyg',
+    question: '下列哪句是出自张九龄《奉和圣制幸晋阳宫》？',
+    id: 20842
+  },
+  {
+    answer: '北宋王安石封爵王国公',
+    indexes: 'xlgygrdjmbscwds',
+    question: '下列关于古人的爵名表述错误的是？',
+    id: 20843
+  },
+  {
+    answer: '山宫四序寒',
+    indexes: 'xlnjsczlyzjcgqcyz',
+    question: '下列哪句是出自刘祎之《九成宫秋初应诏》？',
+    id: 20844
+  },
+  {
+    answer: '讵知南土热',
+    indexes: 'xlnjsczstyfsqjs',
+    question: '下列哪句是出自苏颋《夜发三泉即事》？',
+    id: 20845
+  },
+  {
+    answer: '镇抚使',
+    indexes: 'xlngjgbsydxwsxx',
+    question: '下列哪个机构不是元代宣慰司下辖？',
+    id: 20846
+  },
+  {
+    answer: '知命是男子六十岁',
+    indexes: 'gwzgynldcwcwds',
+    question: '古文中关于年龄的称谓错误的是？',
+    id: 20847
+  },
+  {
+    answer: '八王之乱',
+    indexes: 'xlngzsbsfszwjnbcsq',
+    question: '下列哪个战事不是发生在魏晋南北朝时期？',
+    id: 20848
+  },
+  {
+    answer: '《移豫州檄》',
+    indexes: 'jaqzdyzdyscmdzpyjbzpdswjaqzzjxlnbbszpgyjaqzdzp',
+    question:
+      '建安七子的原著都已失传，明代张溥有几部作品都是为建安七子做集，下列哪部不是张溥关于建安七子的作品？',
+    id: 20849
+  },
+  {
+    answer: '《新书》',
+    indexes: 'xlnbzpbsjyddbz',
+    question: '下列那部作品不是贾谊的代表作？',
+    id: 20850
+  },
+  {
+    answer: '《国风》',
+    indexes: 'twzszgzxlsjrjdsebjskxscsejxlnxbsysej',
+    question: '唐文宗时在国子学立石将儒家的十二部经书刻下，史称“十二经”，下列哪项不属于“十二经”',
+    id: 20851
+  },
+  {
+    answer: '《孔雀东南飞》是我国第一部长篇汉赋',
+    indexes: 'xlnxgywxzpdmsscwd',
+    question: '下列哪项关于文学作品的描述是错误的？',
+    id: 20852
+  },
+  {
+    answer: '《罗密欧与茱丽叶》',
+    indexes: 'xlbsyssbydwdbjds',
+    question: '下列不属于莎士比亚的五大悲剧的是？',
+    id: 20853
+  },
+  {
+    answer: '《春江花月夜》',
+    indexes: 'xlnxbsyzclfts',
+    question: '下列哪项不属于自创乐府体诗？',
+    id: 20854
+  },
+  {
+    answer: '《韩非子》',
+    indexes: 'zggdwhzrjszwzldwhxlnxbsrjjd',
+    question: '中国古代文化中，儒家是最为主流的文化，下列哪项不是儒家经典？',
+    id: 20855
+  },
+  {
+    answer: '《老子》',
+    indexes: 'qcdjstcjlwgrdmzpwlczsxlnxbslczs',
+    question: '清朝的金圣叹曾将六位古人的名著评为“六才子书”，下列哪项不是“六才子书”？',
+    id: 20856
+  },
+  {
+    answer: '《原君》是我国最早的一篇具有自由思想的政论文',
+    indexes: 'dxlwxzpjmsbzqds',
+    question: '对下列文学作品集描述不正确的是？',
+    id: 20857
+  },
+  {
+    answer: '25届',
+    indexes: 'sjjyayhsnj',
+    question: '首届禁烟奥运会是哪届？',
+    id: 20858
+  },
+  {
+    answer: '6',
+    indexes: 'qcjqmgbzxsnrmqtzdsqcgydsq',
+    question: '清朝将全蒙古部众悉数纳入盟旗体制，当时清朝共有多少旗？',
+    id: 20859
+  },
+  {
+    answer: '苎萝更蒙遮',
+    indexes: 'xlnjsczszwhspzlsr',
+    question: '下列哪句是出自宋之问《浣纱篇赠陆上人》？',
+    id: 20860
+  },
+  {
+    answer: '雁声远过潇湘去',
+    indexes: 'xlnjsczwtyysy',
+    question: '下列哪句是出自温庭筠《瑶瑟怨》？',
+    id: 20861
+  },
+  {
+    answer: '且将团扇共徘徊',
+    indexes: 'xlnjsczwclzxy',
+    question: '下列哪句是出自王昌龄《长信怨》？',
+    id: 20862
+  },
+  {
+    answer: '依旧烟笼十里堤',
+    indexes: 'xlnjsczwzjlt',
+    question: '下列哪句是出自韦庄《金陵图》？',
+    id: 20863
+  },
+  {
+    answer: '苏黎世',
+    indexes: 'gjzlzbzn',
+    question: '国际足联总部在哪？',
+    id: 20864
+  },
+  {
+    answer: '锺繇',
+    indexes: 'xlnwsgrwbsdwwjzl',
+    question: '下列哪位三国人物不是东吴五君之列？',
+    id: 20865
+  },
+  {
+    answer: '象筵敷念诚',
+    indexes: 'xlnjsczszwyfhs',
+    question: '下列哪句是出自宋之问《游法华寺》？',
+    id: 20866
+  },
+  {
+    answer: '高若讷',
+    indexes: 'ssmxxszdqzzmdnsmljzxlnwbssmljzzy',
+    question: '苏轼门下学生众多，其中著名的乃“苏门六君子”，下列哪位不是“苏门六君子”之一？',
+    id: 20867
+  },
+  {
+    answer: '进对一言重',
+    indexes: 'xlnjsczlljdwsdyqctdsz',
+    question: '下列哪句是出自李隆基《端午三殿宴群臣探得神字》？',
+    id: 20868
+  },
+  {
+    answer: '恤人予是资',
+    indexes: 'xlnjsczlssxzzjfhz',
+    question: '下列哪句是出自李适《送徐州张建封还镇》？',
+    id: 20869
+  },
+  {
+    answer: '临风怅怀此',
+    indexes: 'xlnjsczlsjxzssmfr',
+    question: '下列哪句是出自李適《饯许州宋司马赴任》？',
+    id: 20870
+  },
+  {
+    answer: '筑鞠',
+    indexes: 'zggdjyzqydgdcwcjxlxxngbscjdbm',
+    question: '中国古代就有足球运动，古代称为“蹴鞠”，下列选项哪个不是“蹴鞠”的别名？',
+    id: 20871
+  },
+  {
+    answer: '韦庄《章台夜思》',
+    indexes: 'xlnssbsqyls',
+    question: '下列哪首诗不是七言律诗？',
+    id: 20872
+  },
+  {
+    answer: '歌吹宛犹昨',
+    indexes: 'xlnjsczwwjtqt',
+    question: '下列哪句是出自王无竞《铜雀台》？',
+    id: 20873
+  },
+  {
+    answer: '杨玉环',
+    indexes: 'xrmndczbyxhsszdjdzmlnmxhszs',
+    question: '形容美女的词中，闭月羞花算是最顶级的赞美了，那么羞花是指谁？',
+    id: 20874
+  },
+  {
+    answer: '二十三',
+    indexes: 'hwdyyfwnjqgfwjgz',
+    question: '汉武帝于元封五年将全国分为几个州？',
+    id: 20875
+  },
+  {
+    answer: '超喻',
+    indexes: 'yxnzbsybyxs',
+    question: '以下哪种不属于比喻形式？',
+    id: 20876
+  },
+  {
+    answer: '深林人不知',
+    indexes: 'xlnjsczwwzlg',
+    question: '下列哪句是出自王维《竹里馆》？',
+    id: 20877
+  },
+  {
+    answer: '桂馥青溪里',
+    indexes: 'xlnjsczwbssfjyydzz',
+    question: '下列哪句是出自王勃《上巳浮江宴韵得址字》？',
+    id: 20878
+  },
+  {
+    answer: '明日河梁上',
+    indexes: 'xlnjsczlbysb',
+    question: '下列哪句是出自李百药《送别》？',
+    id: 20879
+  },
+  {
+    answer: '韩非',
+    indexes: 'xlnywbszhjddbrw',
+    question: '下列哪一位不是纵横家的代表人物？',
+    id: 20880
+  },
+  {
+    answer: '不须怀抱重凄凄',
+    indexes: 'xlnjsczlysdwesdcymxc',
+    question: '下列哪句是出自李煜《送邓王二十弟从益牧宣城》？',
+    id: 20881
+  },
+  {
+    answer: '欲穷千里目',
+    indexes: 'xlnjsczwzhdgql',
+    question: '下列哪句是出自王之涣《登鹳雀楼》？',
+    id: 20882
+  },
+  {
+    answer: '云阴带叶昏',
+    indexes: 'xlnjsczlbwsflhs',
+    question: '下列哪句是出自骆宾王《送费六还蜀》？',
+    id: 20883
+  },
+  {
+    answer: '寂寞空庭春欲晚',
+    indexes: 'xlnjsczlfpcy',
+    question: '下列哪句是出自刘方平《春怨》？',
+    id: 20884
+  },
+  {
+    answer: '上有双竹林',
+    indexes: 'xlnjsczgzcjq',
+    question: '下列哪句是出自郭震《春江曲》？',
+    id: 20885
+  },
+  {
+    answer: '倡妇高楼别',
+    indexes: 'xlnjsczwcqzyl',
+    question: '下列哪句是出自韦承庆《折杨柳》？',
+    id: 20886
+  },
+  {
+    answer: '秋深烟雾多',
+    indexes: 'xlnjsczyjszzzsk',
+    question: '下列哪句是出自杨炯《送郑州周司空》？',
+    id: 20887
+  },
+  {
+    answer: '芳草已云暮',
+    indexes: 'xlnjbsczwtysrdy',
+    question: '下列哪句不是出自温庭筠《送人东游》？',
+    id: 20888
+  },
+  {
+    answer: '陇西',
+    indexes: 'tdkclzgzqssdhfdjzttzbtxfwsdxmngbssdzy',
+    question: '唐代开创了中国政区史上道和府的建制，唐太宗把天下分为十道，下面那个不是十道之一？',
+    id: 20889
+  },
+  {
+    answer: '剑南五府经略使',
+    indexes: 'tczqcyfzgjdjmgysgfzmgfzsyjdsxlnwbsyfzjds',
+    question:
+      '唐朝长期处于藩镇割据的局面，共有十个藩镇，每个藩镇设有节度使，下列哪位不属于藩镇节度使？',
+    id: 20890
+  },
+  {
+    answer: '苏联',
+    indexes: 'zcclgjzldgjbbkxlnggj',
+    question: '最初成立国际足联的国家不包括下列哪个国家？',
+    id: 20891
+  },
+  {
+    answer: '武术',
+    indexes: 'xlngxmbsayhbsxm',
+    question: '下列哪个项目不是奥运会比赛项目？',
+    id: 20892
+  },
+  {
+    answer: '武术',
+    indexes: 'xlngxmbsayhbsxm',
+    question: '下列哪个项目不是奥运会比赛项目？',
+    id: 20893
+  },
+  {
+    answer: '三分割据纡筹策',
+    indexes: 'xlnjbsclzqjzzbxllbeyw',
+    question: '下列哪句不是出刘长卿《江州重别薛六柳八二员外》？',
+    id: 20894
+  },
+  {
+    answer: '平明送客楚山孤',
+    indexes: 'xlnjsczwclfrlsxj',
+    question: '下列哪句是出自王昌龄《芙蓉楼送辛渐》？',
+    id: 20895
+  },
+  {
+    answer: '会色',
+    indexes: 'yxctddywzdjgysdwpcjgwsfychzdjbjgxlngbsyhzdjbjg',
+    question:
+      '殷墟出土的带有文字的甲骨有十多万片，从甲骨文上反应出汉字的基本结构，下列哪个不属于汉字的基本结构？',
+    id: 20896
+  },
+  {
+    answer: '伫俟明年桂',
+    indexes: 'xlnjbsczlzydgdmx',
+    question: '下列哪句不是出自柳宗元的《古东门行》？',
+    id: 20897
+  },
+  {
+    answer: '摩托艇',
+    indexes: 'xlnxbsjxyd',
+    question: '下列哪项不是极限运动？',
+    id: 20898
+  },
+  {
+    answer: '剑',
+    indexes: 'xlbshddqbzywqdsnx',
+    question: '下列不是汉代的骑兵主要武器的是哪项？',
+    id: 20899
+  },
+  {
+    answer: '贵游行',
+    indexes: 'xlnbbsccdzp',
+    question: '下列哪部不是岑参的作品？',
+    id: 20900
+  },
+  {
+    answer: '鹤语记春秋',
+    indexes: 'xlnjsczcsxblgyz',
+    question: '下列哪句是出自崔湜《幸白鹿观应制》？',
+    id: 20901
+  },
+  {
+    answer: '报到山中去',
+    indexes: 'xlnjbsczwwhjlt',
+    question: '下列哪句不是出自王维《汉江临眺》？',
+    id: 20902
+  },
+  {
+    answer: '陇西',
+    indexes: 'ttzbqgfwsdxlnxbsysd',
+    question: '唐太宗把全国分为十道，下列哪项不属于十道？',
+    id: 20903
+  },
+  {
+    answer: '苔深不辨铭',
+    indexes: 'xlnjsczlzlwwjt',
+    question: '下列哪句是出自卢照邻《文翁讲堂》？',
+    id: 20904
+  },
+  {
+    answer: '钦天',
+    indexes: 'scdzzjgzsysjqzgyljgzqzqwxlngbsyljzy',
+    question: '宋朝的政治机构中设有寺监，其中共有六监，各专其职。请问下列哪个不属于六监之一？',
+    id: 20905
+  },
+  {
+    answer: '苔分似列钱',
+    indexes: 'xlnjsczlbwcsm',
+    question: '下列哪句是出自骆宾王《出石门》？',
+    id: 20906
+  },
+  {
+    answer: '心有灵犀一点通',
+    indexes: 'xlnjbsclsysg',
+    question: '下列哪句不是出李商隐《隋宫》？',
+    id: 20907
+  },
+  {
+    answer: '夕奉天书拜琐闱',
+    indexes: 'xlnjbscdfsx',
+    question: '下列哪句不是出杜甫《蜀相》？',
+    id: 20908
+  },
+  {
+    answer: '鹦鹉前头不敢言',
+    indexes: 'xlnjsczzqygc',
+    question: '下列哪句是出自朱庆馀《宫词》？',
+    id: 20909
+  },
+  {
+    answer: '证圣',
+    indexes: 'xlngnhbstcdnh',
+    question: '下列那个年号不是唐朝的年号？',
+    id: 20910
+  },
+  {
+    answer: '酒布',
+    indexes: 'tdsrdmdqjjncyktjsqlytlyhscsgjqfjqjsjddzpxlnxbsjqdbc',
+    question:
+      '唐代诗人杜牧的七绝《江南春》，一开头就是“千里莺啼绿映红，水村山郭酒旗风”。酒旗就是酒店的招牌，下列哪项不是酒旗的别称？',
+    id: 20911
+  },
+  {
+    answer: '金釭焰青烟',
+    indexes: 'xlnjsczlxywshg',
+    question: '下列哪句是出自刘希夷《巫山怀古》？',
+    id: 20912
+  },
+  {
+    answer: '青楼自管弦',
+    indexes: 'xlnjbsczsjrxlhjby',
+    question: '下列哪句不是出自僧皎然《寻陆鸿渐不遇》？',
+    id: 20913
+  },
+  {
+    answer: '三春景物滋',
+    indexes: 'xlnjsczdsywctsyyz',
+    question: '下列哪句是出自杜审言《望春亭侍游应诏》？',
+    id: 20914
+  },
+  {
+    answer: '烟笼寒水月笼沙',
+    indexes: 'xlnjsczdmbqh',
+    question: '下列哪句是出自杜牧《泊秦淮》？',
+    id: 20915
+  },
+  {
+    answer: '庶黎',
+    indexes: 'gwzgybxdchcwds',
+    question: '古文中关于百姓的称呼错误的是？',
+    id: 20916
+  },
+  {
+    answer: '河临饮马间',
+    indexes: 'xlnjsczzjlfhszccgxsqjdzs',
+    question: '下列哪句是出自张九龄《奉和圣制次成皋先圣擒建德之所》？',
+    id: 20917
+  },
+  {
+    answer: '春眠不觉晓',
+    indexes: 'xlnjsczmhrcx',
+    question: '下列哪句是出自孟浩然《春晓》？',
+    id: 20918
+  },
+  {
+    answer: '李顺起义',
+    indexes: 'xlncqybsymssqdrmqy',
+    question: '下列哪次起义不是元灭宋时期的人民起义？',
+    id: 20919
+  },
+  {
+    answer: '吁嗟陵谷迁',
+    indexes: 'xlnjsczlbwxjybq',
+    question: '下列哪句是出自骆宾王《叙寄员半千》？',
+    id: 20920
+  },
+  {
+    answer: '胡窥青海湾',
+    indexes: 'xlnjbsczmjyzy',
+    question: '下列哪句不是出自孟郊《游子吟》？',
+    id: 20921
+  },
+  {
+    answer: '韩',
+    indexes: 'xlnggjbscqsqdgj',
+    question: '下列哪个国家不是春秋时期的国家？',
+    id: 20922
+  },
+  {
+    answer: '文天祥号文山居士',
+    indexes: 'xlgygdsrdbhbscwds',
+    question: '下列关于古代诗人的别号表述错误的是？',
+    id: 20923
+  },
+  {
+    answer: '悬弧将相儿',
+    indexes: 'xlnjsczcygtmwsbjts',
+    question: '下列哪句是出自陈元光《太母魏氏半径题石》？',
+    id: 20924
+  },
+  {
+    answer: '《陈情表》',
+    indexes: 'xlnxbsypw',
+    question: '下列哪项不属于骈文？',
+    id: 20925
+  },
+  {
+    answer: '人在木兰舟',
+    indexes: 'xlnjbsczlsybql',
+    question: '下列哪句不是出自李商隐《北青萝》？',
+    id: 20926
+  },
+  {
+    answer: '商鞅',
+    indexes: 'xlnwbsyqcdcz',
+    question: '下列哪位不属于秦朝的臣子？',
+    id: 20927
+  },
+  {
+    answer: '文丑',
+    indexes: 'sgsdgycygwgzljdwmsjxlsbsgyszlj',
+    question: '三国时代关羽曾有过五关斩六将的闻名事迹，下列谁不是关羽所斩六将？',
+    id: 20928
+  },
+  {
+    answer: '仙管杂风流',
+    indexes: 'xlnjsczcsxlytgdqyz',
+    question: '下列哪句是出自崔湜《幸梨园亭观打球应制》？',
+    id: 20929
+  },
+  {
+    answer: '眇然登云车',
+    indexes: 'xlnjsczwbhx',
+    question: '下列哪句是出自王勃《怀仙》？',
+    id: 20930
+  },
+  {
+    answer: '羌',
+    indexes: 'xlngmzbstcsqdyz',
+    question: '下列哪个民族不是唐朝时期的异族？',
+    id: 20931
+  },
+  {
+    answer: '千官捧日车',
+    indexes: 'xlnjsczzjlfhszcclc',
+    question: '下列哪句是出自张九龄《奉和圣制初出洛城》？',
+    id: 20932
+  },
+  {
+    answer: '张伯伦',
+    indexes: 'NBAqlbzddqyss',
+    question: 'NBA抢篮板最多的球员是谁？',
+    id: 20933
+  },
+  {
+    answer: '女于网高2.4米',
+    indexes: 'xlnxgypqydsjmscwds',
+    question: '下列哪项关于排球运动数据描述错误的是？',
+    id: 20934
+  },
+  {
+    answer: '单马岂邀功',
+    indexes: 'xlnjsczczadzdccxs',
+    question: '下列哪句是出自陈子昂《东征答朝臣相送》？',
+    id: 20935
+  },
+  {
+    answer: '磬',
+    indexes: 'xszdqtlqbbkxlnx',
+    question: '夏商周的青铜乐器不包括下列哪项？',
+    id: 20936
+  },
+  {
+    answer: '恬蒙',
+    indexes: 'zgsqmjbcxlnywbszgmj',
+    question: '战国时期名将辈出，下列哪一位不是战国名将？',
+    id: 20937
+  },
+  {
+    answer: '登楼已半曛',
+    indexes: 'xlnjsczwcqjl',
+    question: '下列哪句是出自韦承庆《江楼》？',
+    id: 20938
+  },
+  {
+    answer: '辛弃疾',
+    indexes: 'xlnwsrbsytsbdj',
+    question: '下列哪位诗人不属于唐宋八大家？',
+    id: 20939
+  },
+  {
+    answer: '八',
+    indexes: 'zgdgtdcsbknsxlnx',
+    question: '中国的古塔的层数不可能是下列哪项？',
+    id: 20940
+  },
+  {
+    answer: '长平之战',
+    indexes: 'xlnygzybsfszhc',
+    question: '下列那一个战役不是发生在汉朝？',
+    id: 20941
+  },
+  {
+    answer: '淑气依迟柳色青',
+    indexes: 'xlnjsczcryfhszcrxwcgyz',
+    question: '下列哪句是出自崔日用《奉和圣制春日幸望春宫应制》？',
+    id: 20942
+  },
+  {
+    answer: '率性夷荣辱',
+    indexes: 'xlnjsczljhtfljjxmtj',
+    question: '下列哪句是出自李峤《和同府李祭酒休沐田居》？',
+    id: 20943
+  },
+  {
+    answer: '幽都无多阳',
+    indexes: 'xlnjsczqzzkhx',
+    question: '下列哪句是出自乔知之《苦寒行》？',
+    id: 20944
+  },
+  {
+    answer: '千山鸟飞绝',
+    indexes: 'xlnjsczlzyjx',
+    question: '下列哪句是出自柳宗元《江雪》？',
+    id: 20945
+  },
+  {
+    answer: '伯喈迁塞北',
+    indexes: 'xlnjsczlbytzsh',
+    question: '下列哪句是出自李百药《途中述怀》？',
+    id: 20946
+  },
+  {
+    answer: '梅间雪似花',
+    indexes: 'xlnjsczhzxhrygslt',
+    question: '下列哪句是出自韩仲宣《晦日宴高氏林亭》？',
+    id: 20947
+  },
+  {
+    answer: '阶秋苔藓黄',
+    indexes: 'xlnjsczxybjy',
+    question: '下列哪句是出自徐彦伯《婕妤》？',
+    id: 20948
+  },
+  {
+    answer: '岩扉松径长寂寥',
+    indexes: 'xlnjbsczdfwflszgcjjhmt',
+    question: '下列哪句不是出自杜甫《韦讽录事宅观曹将军画马图》？',
+    id: 20949
+  },
+  {
+    answer: '汉朝',
+    indexes: 'lsszmdtdzcttzscszngcd',
+    question: '历史上著名的土地政策屯田制是产生在哪个朝代？',
+    id: 20950
+  },
+  {
+    answer: '空令岁月易蹉跎',
+    indexes: 'xlnjbsczchhhl',
+    question: '下列哪句不是出自崔颢《黄鹤楼》？',
+    id: 20951
+  },
+  {
+    answer: '披衣觉露滋',
+    indexes: 'xlnjbsczdsyhjllczcyw',
+    question: '下列哪句不是出自杜审言《和晋陵路丞早春游望》？',
+    id: 20952
+  },
+  {
+    answer: '团扇秋风起',
+    indexes: 'xlnjsczlbyqbm',
+    question: '下列哪句是出自李百药《妾薄命》？',
+    id: 20953
+  },
+  {
+    answer: '山深云景鲜',
+    indexes: 'xlnjsczszwrykwdjls',
+    question: '下列哪句是出自宋之问《入崖口五渡寄李適》？',
+    id: 20954
+  },
+  {
+    answer: '郭子仪',
+    indexes: 'xlnwbshzmj',
+    question: '下列哪位不是汉族名将？',
+    id: 20955
+  },
+  {
+    answer: '风和绿野烟',
+    indexes: 'xlnjsczdsycrhg',
+    question: '下列哪句是出自杜审言《春日怀归》？',
+    id: 20956
+  },
+  {
+    answer: '夜半钟声到客船',
+    indexes: 'xlnjsczzjfqyb',
+    question: '下列哪句是出自张继《枫桥夜泊》？',
+    id: 20957
+  },
+  {
+    answer: '舜乐下前溪',
+    indexes: 'xlnjsczyccrlycsy',
+    question: '下列哪句是出自姚崇《春日洛阳城侍宴》？',
+    id: 20958
+  },
+  {
+    answer: '五别徐庶',
+    indexes: 'xlnxbsfszsgsq',
+    question: '下列哪项不是发生在三国时期？',
+    id: 20959
+  },
+  {
+    answer: '日夕怀空意',
+    indexes: 'xlnjbsczwwqx',
+    question: '下列哪句不是出自王维《青溪》？',
+    id: 20960
+  },
+  {
+    answer: '莲花宝盖新',
+    indexes: 'xlnjsczycysrqssyyz',
+    question: '下列哪句是出自阎朝隐《三日曲水侍宴应制》？',
+    id: 20961
+  },
+  {
+    answer: '轻烟散入五侯家',
+    indexes: 'xlnjsczhhhs',
+    question: '下列哪句是出自韩翃《寒食》？',
+    id: 20962
+  },
+  {
+    answer: '内大臣',
+    indexes: 'xlnxbsqcdcypwzjg',
+    question: '下列哪项不是清朝的从一品文职京官？',
+    id: 20963
+  },
+  {
+    answer: '骑',
+    indexes: 'xlnzjybsyzhcszdly',
+    question: '下列哪种技艺不属于《张衡传》所指的六艺？',
+    id: 20964
+  },
+  {
+    answer: '晓月过残垒',
+    indexes: 'xlnjbsczljxqt',
+    question: '下列哪句不是出自刘脊虚《阙题》？',
+    id: 20965
+  },
+  {
+    answer: '凉景向秋澄',
+    indexes: 'xlnjsczlbwbljdsz',
+    question: '下列哪句是出自骆宾王《别李峤得胜字》？',
+    id: 20966
+  },
+  {
+    answer: '壮志逐年衰',
+    indexes: 'xlnjbsczwwznby',
+    question: '下列哪句不是出自王维《终南别业》？',
+    id: 20967
+  },
+  {
+    answer: '班鬓向长安',
+    indexes: 'xlnjsczlzlzdfsl',
+    question: '下列哪句是出自卢照邻《早度分水岭》？',
+    id: 20968
+  },
+  {
+    answer: '国际大奖赛',
+    indexes: 'ATPzynzwqxhdbszlbbkyxnx',
+    question: 'ATP(职业男子网球协会)的比赛种类不包括以下哪项？',
+    id: 20969
+  },
+  {
+    answer: '石磐陀',
+    indexes: 'jsljzswkdyxwyhxrqzmjzsm',
+    question: '据史料记载孙悟空的原型为一猴形人，其真名叫做什么？',
+    id: 20970
+  },
+  {
+    answer: '红颜未老恩先断',
+    indexes: 'xlnjsczbjyhgc',
+    question: '下列哪句是出自白居易《后宫词》？',
+    id: 20971
+  },
+  {
+    answer: '马足起红尘',
+    indexes: 'xlnjsczyjls',
+    question: '下列哪句是出自杨炯《刘生》？',
+    id: 20972
+  },
+  {
+    answer: '冠玉丽秾姿',
+    indexes: 'xlnjsczywqfhtznftpgzcj',
+    question: '下列哪句是出自元万顷《奉和太子纳妃太平公主出降》？',
+    id: 20973
+  },
+  {
+    answer: '落花时节又逢君',
+    indexes: 'xlnjsczdfjnflgn',
+    question: '下列哪句是出自杜甫《江南逢李龟年》？',
+    id: 20974
+  },
+  {
+    answer: '司马',
+    indexes: 'tcddfgzzsylcxlnxbsylc',
+    question: '唐朝的地方官制中设有六曹，下列哪项不属于六曹？',
+    id: 20975
+  },
+  {
+    answer: '三人',
+    indexes: 'xlnxbsyhcdxm',
+    question: '下列哪项不属于划船的项目？',
+    id: 20976
+  },
+  {
+    answer: '青弋江',
+    indexes: 'xmnbzpbslld',
+    question: '下面哪部作品不是卢纶的？',
+    id: 20977
+  },
+  {
+    answer: '宋朝',
+    indexes: 'gjcthzxcthldjxbcwjdkxdfzdxswglssdyccxgjcthzxcthldjxszngcd',
+    question:
+      '工匠传统和哲学传统合流的迹象被称为近代科学大发展的先声，我国历史上第一次出现工匠传统和哲学传统合流的迹象是在哪个朝代？',
+    id: 20978
+  },
+  {
+    answer: '唐朝',
+    indexes: 'lsszmdtdzcjtzscszngcd',
+    question: '历史上著名的土地政策均田制是产生在哪个朝代？',
+    id: 20979
+  },
+  {
+    answer: '雪处疑花满',
+    indexes: 'xlnjsczlzlmhl',
+    question: '下列哪句是出自卢照邻《梅花落》？',
+    id: 20980
+  },
+  {
+    answer: '陇上羊归塞草烟',
+    indexes: 'xlnjbscxfgc',
+    question: '下列哪句不是出薛逢《宫词》？',
+    id: 20981
+  },
+  {
+    answer: '黎昌楼',
+    indexes: 'xlngbsbjbdlzy',
+    question: '下列哪个不是北京八大楼之一？',
+    id: 20982
+  },
+  {
+    answer: '金缕晨鸡未学鸣',
+    indexes: 'xlnjsczcryfhlcyyycyz',
+    question: '下列哪句是出自崔日用《奉和立春游苑迎春应制》？',
+    id: 20983
+  },
+  {
+    answer: '节旄零落尽',
+    indexes: 'xlnjsczlzlyxq',
+    question: '下列哪句是出自卢照邻《雨雪曲》？',
+    id: 20984
+  },
+  {
+    answer: '羌',
+    indexes: 'wjsqdhryybfsjfbyxlngmzbsyzl',
+    question: '魏晋时期的胡人有一部分是金发碧眼，下列那个民族不属于这类？',
+    id: 20985
+  },
+  {
+    answer: '罄',
+    indexes: 'sdyyczdlqxlnxbssddlq',
+    question: '商代已有成组的乐器，下列哪项不是商代的乐器？',
+    id: 20986
+  },
+  {
+    answer: '横拍直打',
+    indexes: 'xlnxbsyppqdtgzs',
+    question: '下列哪项不属于乒乓球的推攻战术?',
+    id: 20987
+  },
+  {
+    answer: '马足践胡尘',
+    indexes: 'xlnjsczlbwcjx',
+    question: '下列哪句是出自骆宾王《从军行》？',
+    id: 20988
+  },
+  {
+    answer: '愁看玉镜台',
+    indexes: 'xlnjsczyjmhl',
+    question: '下列哪句是出自杨炯《梅花落》？',
+    id: 20989
+  },
+  {
+    answer: '左光斗为左毅公',
+    indexes: 'xlgygrdshbscwds',
+    question: '下列关于古人的谥号表述错误的是？',
+    id: 20990
+  },
+  {
+    answer: '曹操',
+    indexes: 'ssjawxxjmdkcz',
+    question: '谁是建安文学新局面的开创者？',
+    id: 20991
+  },
+  {
+    answer: '杨修',
+    indexes: 'sgsqsrzsfldwrbcqzzzmdsjaqzxlnwbsyjaqz',
+    question:
+      '三国时期虽然战事纷乱，但文人辈出，其中最著名的是“建安七子”，下列哪位不属于“建安七子”？',
+    id: 20992
+  },
+  {
+    answer: '祥符夜告丰',
+    indexes: 'xlnjsczlbyyhgm',
+    question: '下列哪句是出自李百药《谒汉高庙》？',
+    id: 20993
+  },
+  {
+    answer: '沉钩摇兔影',
+    indexes: 'xlnjsczlzljzwy',
+    question: '下列哪句是出自卢照邻《江中望月》？',
+    id: 20994
+  },
+  {
+    answer: '六言律诗',
+    indexes: 'xlnyxbstsdjbxs',
+    question: '下列哪一项不是唐诗的基本形式？',
+    id: 20995
+  },
+  {
+    answer: '秋原被花实',
+    indexes: 'xlnjsczstxjjcnrmj',
+    question: '下列哪句是出自苏颋《晓济胶川南入密界》？',
+    id: 20996
+  },
+  {
+    answer: '百年多病独登台',
+    indexes: 'xlnjbscdfdl',
+    question: '下列哪句不是出杜甫《登楼》？',
+    id: 20997
+  },
+  {
+    answer: '久客临海有怀',
+    indexes: 'xlnjsczlbwjklhyh',
+    question: '下列哪句是出自骆宾王《久客临海有怀》？',
+    id: 20998
+  },
+  {
+    answer: '闻风坐相悦',
+    indexes: 'xlnjsbsczmhrdqdlsjzw',
+    question: '下列哪句诗不是出自孟浩然的《秋登兰山寄张五》？',
+    id: 20999
+  },
+  {
+    answer: '金钱赠下人',
+    indexes: 'xlnjsczdsydp',
+    question: '下列哪句是出自杜审言《大酺》？',
+    id: 21000
+  },
+  {
+    answer: '归马识残旗',
+    indexes: 'xlnjbsczlsyfy',
+    question: '下列哪句不是出自李商隐《风雨》？',
+    id: 21001
+  },
+  {
+    answer: '水月通禅寂',
+    indexes: 'xlnjbsczhhccyqyjsjz',
+    question: '下列哪句不是出自韩翃《酬程延秋夜即事见赠》？',
+    id: 21002
+  },
+  {
+    answer: '银筝夜久殷勤弄',
+    indexes: 'xlnjsczwwqyq',
+    question: '下列哪句是出自王维《秋夜曲》？',
+    id: 21003
+  },
+  {
+    answer: '何当共剪西窗烛',
+    indexes: 'xlnjsczlsyyyjb',
+    question: '下列哪句是出自李商隐《夜雨寄北》？',
+    id: 21004
+  },
+  {
+    answer: '唐顺之',
+    indexes: 'xlnwsrbsymdscz',
+    question: '下列哪位诗人不属于明代十才子？',
+    id: 21005
+  },
+  {
+    answer: '潞国公侯君集',
+    indexes: 'xlnwbsxhkggc',
+    question: '下列哪位不是西汉开国功臣？',
+    id: 21006
+  },
+  {
+    answer: '管乐有才原不忝',
+    indexes: 'xlnjbsclsywt',
+    question: '下列哪句不是出李商隐《无题》？',
+    id: 21007
+  },
+  {
+    answer: '戏罢曾无理曲时',
+    indexes: 'xlnjbsczdfajt',
+    question: '下列哪句不是出自杜甫《哀江头》？',
+    id: 21008
+  },
+  {
+    answer: '德国',
+    indexes: 'xlnggjzljozbjsjddcjzh',
+    question: '下列那个国家在历届欧洲杯决赛阶段的成绩最好？',
+    id: 21009
+  },
+  {
+    answer: '德国',
+    indexes: 'xlnggjzljozbjsjddcjzh',
+    question: '下列那个国家在历届欧洲杯决赛阶段的成绩最好？',
+    id: 21010
+  },
+  {
+    answer: '负剑许良图',
+    indexes: 'xlnjsczczadhstzb',
+    question: '下列哪句是出自陈子昂《答韩使同在边》？',
+    id: 21011
+  },
+  {
+    answer: '仍攀琪树荣',
+    indexes: 'xlnjsczcsjttsmxs',
+    question: '下列哪句是出自崔湜《寄天台司马先生》？',
+    id: 21012
+  },
+  {
+    answer: '天威军',
+    indexes: 'tzdjjzbyljyfwlbxlnxbsybyljzl',
+    question: '太宗的禁军中，北衙六军又分为六部，下列哪项不属于北衙六军之列？',
+    id: 21013
+  },
+  {
+    answer: '赵公明',
+    indexes: 'zggdshzxlnwsxbsms',
+    question: '中国古代神话中下列哪位神仙不是门神？',
+    id: 21014
+  },
+  {
+    answer: '宿昔梦见之',
+    indexes: 'xlnjsczcsjtzgsjfr',
+    question: '下列哪句是出自崔湜《饯唐州高使君赴任》？',
+    id: 21015
+  },
+  {
+    answer: '薄暮空潭曲',
+    indexes: 'xlnjbsczdfcszs',
+    question: '下列哪句不是出自杜甫《春宿左省》？',
+    id: 21016
+  },
+  {
+    answer: '独夜草虫鸣',
+    indexes: 'xlnjsczlxysyws',
+    question: '下列哪句是出自刘希夷《嵩岳闻笙》？',
+    id: 21017
+  },
+  {
+    answer: '斯科特',
+    indexes: 'NBAdsfqjlsyngqybcd',
+    question: 'NBA的三分球纪录是由哪个球员保持的？',
+    id: 21018
+  },
+  {
+    answer: '王昭君',
+    indexes: 'xlnwmnbsysgsq',
+    question: '下列哪位美女不属于三国时期？',
+    id: 21019
+  },
+  {
+    answer: '岭外音书绝',
+    indexes: 'xlnjsczlpdhj',
+    question: '下列哪句是出自李频《渡汉江》？',
+    id: 21020
+  },
+  {
+    answer: '息君情更亲',
+    indexes: 'xlnjsczszwxfr',
+    question: '下列哪句是出自宋之问《息夫人》？',
+    id: 21021
+  },
+  {
+    answer: '家住层城邻汉苑',
+    indexes: 'xlnjbscllwcez',
+    question: '下列哪句不是出卢纶《晚次鄂州》？',
+    id: 21022
+  },
+  {
+    answer: '江柳共风烟',
+    indexes: 'xlnjbsczctbsdzcyyh',
+    question: '下列哪句不是出自崔涂《巴山道中除夜有怀》？',
+    id: 21023
+  },
+  {
+    answer: '恩荣变苦辛',
+    indexes: 'xlnjsczdsysglzbs',
+    question: '下列哪句是出自杜审言《送高郎中北使》？',
+    id: 21024
+  },
+  {
+    answer: '钻鉧潭东小丘记',
+    indexes: 'xlnpyjbsylzydyzbj',
+    question: '下列哪篇游记不属于柳宗元的永州八记？',
+    id: 21025
+  },
+  {
+    answer: '声静夜相宜',
+    indexes: 'xlnjsczzjlhchmyzytczz',
+    question: '下列哪句是出自张九龄《和崔黄门寓直夜听蝉之作》？',
+    id: 21026
+  },
+  {
+    answer: '继昌',
+    indexes: 'hcdhnwlaybgymdmkxlnwbsybmkzy',
+    question: '汉朝的淮南王刘安有八个有名的门客，下列哪位不属于八门客之一？',
+    id: 21027
+  },
+  {
+    answer: '曹植《蒿里行》',
+    indexes: 'xlgyjasrjqzpdcwmssnx',
+    question: '下列关于建安诗人及其作品的错误描述是哪项？',
+    id: 21028
+  },
+  {
+    answer: '佳气满旌门',
+    indexes: 'xlnjsczwyzxsyxsfcylwz',
+    question: '下列哪句是出自魏元忠《修书院学士奉敕宴梁王宅》？',
+    id: 21029
+  },
+  {
+    answer: '“大唐宫廷茶”',
+    indexes: 'cslydcjfyldtcyxlnxzcjzwjld',
+    question: '茶神陆羽的《茶经》复原了“大唐茶韵”，下列哪项在《茶经》中未记录的？',
+    id: 21030
+  },
+  {
+    answer: '《揽辔录》',
+    indexes: 'xlnbzpbsnssqsrdsj',
+    question: '下列哪部作品不是南宋时期诗人的诗集？',
+    id: 21031
+  },
+  {
+    answer: '《国风》',
+    indexes: 'xlnbjdbssszdly',
+    question: '下列哪部经典不是《师说》中的六艺？',
+    id: 21032
+  },
+  {
+    answer: '《史记》',
+    indexes: 'xlnxbsxqsqdjdzp',
+    question: '下列哪项不是先秦时期的经典作品？',
+    id: 21033
+  },
+  {
+    answer: 'mò',
+    indexes: 'xcbjxjcxdmnmxdmzdyw',
+    question: '夏朝暴君夏桀宠幸的美女妹喜的妹字读音为？',
+    id: 21034
+  },
+  {
+    answer: '匈奴',
+    indexes: 'tcwlyxglyzslllddhfxlngbsdhf',
+    question: '唐朝为了有效管理异族，设立了六大都护府。下列哪个不是都护府？',
+    id: 21035
+  },
+  {
+    answer: '动息如有情',
+    indexes: 'xlnjsczwbyf',
+    question: '下列哪句是出自王勃《咏风》？',
+    id: 21036
+  },
+  {
+    answer: '德泽委昭宣',
+    indexes: 'xlnjsczzjlfhszslssrs',
+    question: '下列哪句是出自张九龄《奉和圣制送李尚书入蜀》？',
+    id: 21037
+  },
+  {
+    answer: '比尔·拉赛尔',
+    indexes: 'NBAlssnwqxhddzgjjzzd',
+    question: 'NBA历史上那位球星获得的总冠军戒指最多？',
+    id: 21038
+  },
+  {
+    answer: '连星入剑端',
+    indexes: 'xlnjsczlbwszsfrlgfxkycr',
+    question: '下列哪句是出自骆宾王《送郑少府入辽共赋侠客远从戎》？',
+    id: 21039
+  },
+  {
+    answer: '新叶虫书遍',
+    indexes: 'xlnjsczqzzzxgzs',
+    question: '下列哪句是出自乔知之《长信宫中树》？',
+    id: 21040
+  },
+  {
+    answer: '外务部',
+    indexes: 'qcsylbxlbsylbds',
+    question: '清朝设有“六部”，下列不属于六部的是？',
+    id: 21041
+  },
+  {
+    answer: '江春入旧年',
+    indexes: 'xlnjbsczdfcszs',
+    question: '下列哪句不是出自杜甫《春宿左省》？',
+    id: 21042
+  },
+  {
+    answer: '高会多欢声',
+    indexes: 'xlnjsczlszyrcyqjtflysyqz',
+    question: '下列哪句是出自李适《重阳日赐宴曲江亭，赋六韵诗用清字》？',
+    id: 21043
+  },
+  {
+    answer: '可怜无定河边骨',
+    indexes: 'xlnjsczctlxx',
+    question: '下列哪句是出自陈陶《陇西行》？',
+    id: 21044
+  },
+  {
+    answer: '顾拜旦',
+    indexes: 'xdalpkcsrss',
+    question: '现代奥林匹克创始人是谁？',
+    id: 21045
+  },
+  {
+    answer: '顾拜旦',
+    indexes: 'alpkhqwhqdsjzs',
+    question: '奥林匹克会旗-五环旗的设计者是？',
+    id: 21046
+  },
+  {
+    answer: '曹操《燕歌行》',
+    indexes: 'xlzphzzdyzqdxxs',
+    question: '下列作品和作者对应正确的选项是？',
+    id: 21047
+  },
+  {
+    answer: '悠悠远客情',
+    indexes: 'xlnjsczwcqnxbd',
+    question: '下列哪句是出自韦承庆《南行别弟》？',
+    id: 21048
+  },
+  {
+    answer: '破涕暂为欢',
+    indexes: 'xlnjsczyjszzzsg',
+    question: '下列哪句是出自杨炯《送梓州周司功》？',
+    id: 21049
+  },
+  {
+    answer: '秋金铸马鞭',
+    indexes: 'xlnjsczyjcm',
+    question: '下列哪句是出自杨炯《骢马》？',
+    id: 21050
+  },
+  {
+    answer: '千里其如何',
+    indexes: 'xlnjbsczyjdztsglbx',
+    question: '下列哪句不是出自元结的《贼退示官吏并序》？',
+    id: 21051
+  },
+  {
+    answer: '杯接近臣欢',
+    indexes: 'xlnjsczcssyzngzdzyz',
+    question: '下列哪句是出自崔湜《侍宴长宁公主东庄应制》？',
+    id: 21052
+  },
+  {
+    answer: '上林繁花照眼新',
+    indexes: 'xlnjbsczlsyhb',
+    question: '下列哪句不是出自李商隐《韩碑》？',
+    id: 21053
+  },
+  {
+    answer: '折戟沈沙铁未销',
+    indexes: 'xlnjsczdmcb',
+    question: '下列哪句是出自杜牧《赤壁》？',
+    id: 21054
+  },
+  {
+    answer: '秋来未著花',
+    indexes: 'xlnjbsczzqsbs',
+    question: '下列哪句不是出自张乔《书边事》？',
+    id: 21055
+  },
+  {
+    answer: '河旷鹊停飞',
+    indexes: 'xlnjsczdsyfhqxsylydyz',
+    question: '下列哪句是出自杜审言《奉和七夕侍宴两仪殿应制》？',
+    id: 21056
+  },
+  {
+    answer: '变调如闻杨柳春',
+    indexes: 'xlnjbsczcczmcxfsfdfcsx',
+    question: '下列哪句不是出自岑参《走马川行奉送封大夫出师西》？',
+    id: 21057
+  },
+  {
+    answer: '道合赤符先',
+    indexes: 'xlnjsczlxyyhszm',
+    question: '下列哪句是出自刘希夷《谒汉世祖庙》？',
+    id: 21058
+  },
+  {
+    answer: '双鲤迢迢一纸笔',
+    indexes: 'xlnjsczlsyjlhlz',
+    question: '下列哪句是出自李商隐《寄令狐郎中》？',
+    id: 21059
+  },
+  {
+    answer: '幸蒙真僧顾',
+    indexes: 'xlnjsczszwycjsl',
+    question: '下列哪句是出自宋之问《雨从箕山来》？',
+    id: 21060
+  },
+  {
+    answer: '春心莫共花争发',
+    indexes: 'xlnjbsclsycby',
+    question: '下列哪句不是出李商隐《筹笔驿》？',
+    id: 21061
+  },
+  {
+    answer: '不怪玉山颓',
+    indexes: 'xlnjsczlzlxfszgj',
+    question: '下列哪句是出自卢照邻《辛法司宅观妓》？',
+    id: 21062
+  },
+  {
+    answer: '梅柳渡江春',
+    indexes: 'xlnjbsczwwcbgsx',
+    question: '下列哪句不是出自王湾《次北固山下》？',
+    id: 21064
+  },
+  {
+    answer: '擒俘帝道亨',
+    indexes: 'xlnjsczlljxccgtjxsqjdzsmsgygef',
+    question: '下列哪句是出自李隆基《行次成皋途经先圣擒建德之所缅思功业感而赋》？',
+    id: 21065
+  },
+  {
+    answer: '隔叶黄鹂空好音',
+    indexes: 'xlnjbscdfkz',
+    question: '下列哪句不是出杜甫《客至》？',
+    id: 21066
+  },
+  {
+    answer: '书圣：东晋王献之',
+    indexes: 'xldwglslsdmscwdsnx',
+    question: '下列对我国历史六圣的描述错误的是哪项？',
+    id: 21067
+  },
+  {
+    answer: '我持长瓢坐巴丘',
+    indexes: 'xlnjbsczbjyzhg',
+    question: '下列哪句不是出自白居易《长恨歌》？',
+    id: 21068
+  },
+  {
+    answer: '帝得圣相相曰度',
+    indexes: 'xlnjbsczdfbcx',
+    question: '下列哪句不是出自杜甫《兵车行》？',
+    id: 21069
+  },
+  {
+    answer: '轻生一剑知',
+    indexes: 'xlnjbsczmdbsqj',
+    question: '下列哪句不是出自马戴《灞上秋居》？',
+    id: 21070
+  },
+  {
+    answer: '架海波澄镜',
+    indexes: 'xlnjsczlsmgjzes',
+    question: '下列哪句是出自李世民《过旧宅二首》？',
+    id: 21071
+  },
+  {
+    answer: '青山绕吹台',
+    indexes: 'xlnjsczdsysytsyyz',
+    question: '下列哪句是出自杜审言《宿羽亭侍宴应制》？',
+    id: 21072
+  },
+  {
+    answer: '枝亚果新肥',
+    indexes: 'xlnjsczdsydwst',
+    question: '下列哪句是出自杜审言《都尉山亭》？',
+    id: 21073
+  },
+  {
+    answer: '井田',
+    indexes: 'xlnxjcbswasbfdnr',
+    question: '下列哪项举措不是王安石变法的内容？',
+    id: 21074
+  },
+  {
+    answer: '贝利',
+    indexes: 'ssnlzxdsjbgj',
+    question: '谁是年龄最小的世界杯冠军？',
+    id: 21075
+  },
+  {
+    answer: '关月冷相随',
+    indexes: 'xlnjbsczsjrxlhjby',
+    question: '下列哪句不是出自僧皎然《寻陆鸿渐不遇》？',
+    id: 21076
+  },
+  {
+    answer: '旅客非悠悠',
+    indexes: 'xlnjsczczadlyzr',
+    question: '下列哪句是出自陈子昂《答洛阳主人》？',
+    id: 21077
+  },
+  {
+    answer: '朱熹',
+    indexes: 'xlnwbsymcrw',
+    question: '下列哪位不属于明朝人物？',
+    id: 21078
+  },
+  {
+    answer: '李商隐',
+    indexes: 'xlngsrcswtsqddb',
+    question: '下列那个诗人才是晚唐时期的代表？',
+    id: 21079
+  },
+  {
+    answer: '炖猪头',
+    indexes: 'ctszgrjjzzsyxsycqhbszsdqsbhzyzhctysgjddfxlnxbsswdbhzy',
+    question:
+      '传统上中国人讲究在正式宴席上要吃“七荤八素”,这是对“七素、八荤”这一中华传统饮食规矩的颠覆，下列哪项不是所谓的八荤之一？',
+    id: 21080
+  },
+  {
+    answer: '无论数绿钱',
+    indexes: 'xlnjsczyjyss',
+    question: '下列哪句是出自杨炯《有所思》？',
+    id: 21081
+  },
+  {
+    answer: '偶然值林叟',
+    indexes: 'xlnjbsczdffjyzsygsy',
+    question: '下列哪句不是出自杜甫《奉济驿重送严公四韵》？',
+    id: 21082
+  },
+  {
+    answer: '日暮客愁新',
+    indexes: 'xlnjsczmhrsjdj',
+    question: '下列哪句是出自孟浩然《宿建德江》？',
+    id: 21083
+  },
+  {
+    answer: '风吹何历历',
+    indexes: 'xlnjsczlxyqrtrytb',
+    question: '下列哪句是出自刘希夷《秋日题汝阳潭壁》？',
+    id: 21084
+  },
+  {
+    answer: '称名忆旧容',
+    indexes: 'xlnjbsczlzqxnz',
+    question: '下列哪句不是出自刘长卿《新年作》？',
+    id: 21085
+  },
+  {
+    answer: '轻霜下震雷',
+    indexes: 'xlnjsczdsylyan',
+    question: '下列哪句是出自杜审言《旅寓安南》？',
+    id: 21086
+  },
+  {
+    answer: '喜鹊',
+    indexes: 'qcwgcfsdbzdsydwwtaxlnzdwbscfbzsdta',
+    question: '清朝文官朝服上的补子都是以动物为图案，下列那种动物不是朝服补子上的图案？',
+    id: 21087
+  },
+  {
+    answer: '珠房折海榴',
+    indexes: 'xlnjsczcstdwsc',
+    question: '下列哪句是出自崔湜《唐都尉山池》？',
+    id: 21088
+  },
+  {
+    answer: '世人多学吹',
+    indexes: 'xlnjsczwwjftq',
+    question: '下列哪句是出自王无竞《凤台曲》？',
+    id: 21089
+  },
+  {
+    answer: '栖栖一代中',
+    indexes: 'xlnjbsczzjlwyhy',
+    question: '下列哪句不是出自张九龄《望月怀远》？',
+    id: 21090
+  },
+  {
+    answer: '春风吹又生',
+    indexes: 'xlnjbsczlyxjwdyyb',
+    question: '下列哪句不是出自李益《喜见外弟又言别》？',
+    id: 21091
+  },
+  {
+    answer: '坎壈倦游秦',
+    indexes: 'xlnjsczlbwyhgyspsl',
+    question: '下列哪句是出自骆宾王《咏怀古意上裴侍郎》？',
+    id: 21092
+  },
+  {
+    answer: '董仲舒献天人三策',
+    indexes: 'sgycmdbxxlnxbsybxzy',
+    question: '三国有出名的“八献”，下列哪项不属于八献之一？',
+    id: 21093
+  },
+  {
+    answer: '风吹便坐桑',
+    indexes: 'xlnjsczgztxywctzsryzzz',
+    question: '下列哪句是出自郭震《同徐员外除太子舍人寓直之作》？',
+    id: 21094
+  },
+  {
+    answer: '张伯伦',
+    indexes: 'dcdfzddqyss',
+    question: '单场得分最多的球员是谁？',
+    id: 21095
+  },
+  {
+    answer: '曲溆丽珠光',
+    indexes: 'xlnjsczlbywsdhsjxy',
+    question: '下列哪句是出自李百药《王师渡汉水经襄阳》？',
+    id: 21096
+  },
+  {
+    answer: '负羽远从戎',
+    indexes: 'xlnjsczlzljksncx',
+    question: '下列哪句是出自卢照邻《结客少年场行》？',
+    id: 21097
+  },
+  {
+    answer: '弧圈球',
+    indexes: 'xlnyxbszqsy',
+    question: '下列哪一项不是足球术语?',
+    id: 21098
+  },
+  {
+    answer: '年共晓光新',
+    indexes: 'xlnjsczlbwxjss',
+    question: '下列哪句是出自骆宾王《西京守岁》？',
+    id: 21099
+  },
+  {
+    answer: '山居云作缨',
+    indexes: 'xlnjsczycglycsyyz',
+    question: '下列哪句是出自姚崇《故洛阳城侍宴应制》？',
+    id: 21100
+  },
+  {
+    answer: '远慰风雨夕',
+    indexes: 'xlnjbsczzjlgysszs',
+    question: '下列哪句不是出自张九龄《感遇四首之三》？',
+    id: 21101
+  },
+  {
+    answer: '鹤语记春秋',
+    indexes: 'xlnjsczcsxblgyz',
+    question: '下列哪句是出自崔湜《幸白鹿观应制》？',
+    id: 21102
+  },
+  {
+    answer: '鸣笳出望苑',
+    indexes: 'xlnjsczlbyfhcccyyl',
+    question: '下列哪句是出自李百药《奉和初春出游应令》？',
+    id: 21103
+  },
+  {
+    answer: '半作障泥半作帆',
+    indexes: 'xlnjsczlsysg',
+    question: '下列哪句是出自李商隐《隋宫》？',
+    id: 21104
+  },
+  {
+    answer: '涩路拥崩查',
+    indexes: 'xlnjsczlbwwqtj',
+    question: '下列哪句是出自骆宾王《晚憩田家》？',
+    id: 21105
+  },
+  {
+    answer: '岁时伏腊走村翁',
+    indexes: 'xlnjbscdfyhgjwszw',
+    question: '下列哪句不是出杜甫《咏怀古迹五首之五》？',
+    id: 21106
+  },
+  {
+    answer: '春潮带雨晚来急',
+    indexes: 'xlnjsczwywczxj',
+    question: '下列哪句是出自韦应物《滁州西涧》？',
+    id: 21107
+  },
+  {
+    answer: '祭汾阴乐章',
+    indexes: 'wwstcymdsrxlnbbswwdzp',
+    question: '王维是唐朝有名的诗人，下列哪部不是王维的作品？',
+    id: 21108
+  },
+  {
+    answer: '王美人',
+    indexes: 'xlnwbsjshsdmy',
+    question: '下列哪位不是旧上海十大名媛？',
+    id: 21109
+  },
+  {
+    answer: '威武大将军',
+    indexes: 'xlnxbshcddjjjz',
+    question: '下列哪项不是汉朝的大将军军职？',
+    id: 21110
+  },
+  {
+    answer: '日夕凉风至',
+    indexes: 'xlnjbsczwwgxjs',
+    question: '下列哪句不是出自王维《过香积寺》？',
+    id: 21111
+  },
+  {
+    answer: '水滴铜龙昼漏长',
+    indexes: 'xlnjbscsqqgycbqqzz',
+    question: '下列哪句不是出沈全期《古意呈补阙乔知之》？',
+    id: 21112
+  },
+  {
+    answer: '十四',
+    indexes: 'qcdwyhywlcdwybyyesflhdddjqwqcdwyfljgdj',
+    question: '清朝的王爷和以往历朝的王爷不一样，而是分了很多的等级，请问清朝的王爷分了几个等级？',
+    id: 21113
+  },
+  {
+    answer: '烟花跳水',
+    indexes: 'xlnxbstsyddzl',
+    question: '下列哪项不是跳水运动的种类？',
+    id: 21114
+  },
+  {
+    answer: '抉择',
+    indexes: 'xlnxbsyqdlbjszdzz',
+    question: '下列哪项不属于清代六部给事中的职责？',
+    id: 21115
+  },
+  {
+    answer: '南陌轩车别',
+    indexes: 'xlnjsczcsslqwlzsdfdc',
+    question: '下列哪句是出自崔湜《送梁卿王郎中使东蕃吊册》？',
+    id: 21116
+  },
+  {
+    answer: '登总持寺阁',
+    indexes: 'xlnbbsmhrdzp',
+    question: '下列哪部不是孟浩然的作品？',
+    id: 21117
+  },
+  {
+    answer: '崩云洒芳牒',
+    indexes: 'xlnjsczwbcrylyyfydjz',
+    question: '下列哪句是出自王勃《春日宴乐游园赋韵得接字》？',
+    id: 21118
+  },
+  {
+    answer: '因风想玉珂',
+    indexes: 'xlnjbsczmhryzzdxs',
+    question: '下列哪句不是出自孟浩然《与诸子登岘山》？',
+    id: 21119
+  },
+  {
+    answer: '贪合鱼龙构强名',
+    indexes: 'xlnjsczlybqtssb',
+    question: '下列哪句是出自李煜《病起题山舍壁》？',
+    id: 21120
+  },
+  {
+    answer: '六次',
+    indexes: 'tcyalbrjdsygjcjf',
+    question: '唐朝与阿拉伯人（即大食）有过几次交锋？',
+    id: 21121
+  },
+  {
+    answer: '寄韦珩',
+    indexes: 'xmnbzpbslyxd',
+    question: '下面哪部作品不是刘禹锡的？',
+    id: 21122
+  },
+  {
+    answer: '宋朝',
+    indexes: 'sjsdycsyzbhyxxyszwgngcd',
+    question: '世界上第一次使用纸币和银行信用是在我国哪个朝代？',
+    id: 21123
+  },
+  {
+    answer: '三国',
+    indexes: 'sgsqdzygzdddqwwglssdddzdyync',
+    question: '三国时期的周瑜官至大都督，请问我国历史上的都督制度源于哪朝？',
+    id: 21124
+  },
+  {
+    answer: '针线犹存未忍开',
+    indexes: 'xlnjbscyzqbhsszs',
+    question: '下列哪句不是出元稹《遣悲怀三首之三》？',
+    id: 21125
+  },
+  {
+    answer: '武丁',
+    indexes: 'sdmjfhsxlnwsdjwdqz',
+    question: '商代名将妇好是下列哪位商代君王的妻子？',
+    id: 21126
+  },
+  {
+    answer: '摘芳共珍荐',
+    indexes: 'xlnjsczqzzwsg',
+    question: '下列哪句是出自乔知之《巫山高》？',
+    id: 21127
+  },
+  {
+    answer: '雍布拉康',
+    indexes: 'xlngbszglssdhg',
+    question: '下列哪个不是中国历史上的皇宫？',
+    id: 21128
+  },
+  {
+    answer: '唐代宗',
+    indexes: 'btfbdlkzadslssnwhd',
+    question: '被吐蕃逼得离开长安的是历史上哪位皇帝？',
+    id: 21129
+  },
+  {
+    answer: '能声寄侯伯',
+    indexes: 'xlnjsczstjyzlsj',
+    question: '下列哪句是出自苏颋《饯郢州李使君》？',
+    id: 21130
+  },
+  {
+    answer: '敷诚归上帝',
+    indexes: 'xlnjsczlzlzlrds',
+    question: '下列哪句是出自卢照邻《赠李荣道士》？',
+    id: 21131
+  },
+  {
+    answer: '出拳',
+    indexes: 'xlnxbswstlydddz',
+    question: '下列哪项不是武术套路运动的动作?',
+    id: 21132
+  },
+  {
+    answer: '御史大夫',
+    indexes: 'xlnggzbsyqcdjqzl',
+    question: '下列哪个官职不属于秦朝的九卿之列？',
+    id: 21133
+  },
+  {
+    answer: '凤楼通夜敞',
+    indexes: 'xlnjsczywqfhcrct',
+    question: '下列哪句是出自元万顷《奉和春日池台》？',
+    id: 21134
+  },
+  {
+    answer: '客心悲暮序',
+    indexes: 'xlnjsczlbyychg',
+    question: '下列哪句是出自李百药《郢城怀古》？',
+    id: 21135
+  },
+  {
+    answer: '人面并如春',
+    indexes: 'xlnjsczgjsyyxxyt',
+    question: '下列哪句是出自高瑾《上元夜效小庾体》？',
+    id: 21136
+  },
+  {
+    answer: '青山朝别暮还见',
+    indexes: 'xlnjbsczlqtdddhjsjjynfjs',
+    question: '下列哪句不是出自李颀《听董大弹胡笳声兼寄语弄房给事》？',
+    id: 21137
+  },
+  {
+    answer: '莲衣承玉钏',
+    indexes: 'xlnjsczycycln',
+    question: '下列哪句是出自阎朝隐《采莲女》？',
+    id: 21138
+  },
+  {
+    answer: '黄志红',
+    indexes: 'zgdygtjsjgjss',
+    question: '中国第一个田径世界冠军是谁？',
+    id: 21139
+  },
+  {
+    answer: '半夜军行戈相拨',
+    indexes: 'xlnjbsczyjsyhszgbx',
+    question: '下列哪句不是出自元结《石鱼湖上醉歌并序》？',
+    id: 21140
+  },
+  {
+    answer: '三峡星河影动摇',
+    indexes: 'xlnjbscdfyhgjwszy',
+    question: '下列哪句不是出杜甫《咏怀古迹五首之一》？',
+    id: 21141
+  },
+  {
+    answer: '葡萄牙',
+    indexes: 'xlnggjmyhdgozbgj',
+    question: '下列哪个国家没有获得过欧洲杯冠军？',
+    id: 21142
+  },
+  {
+    answer: '葡萄牙',
+    indexes: 'xlnggjmyhdgozbgj',
+    question: '下列哪个国家没有获得过欧洲杯冠军？',
+    id: 21143
+  },
+  {
+    answer: '云疑作赋客',
+    indexes: 'xlnjsczlzlxrqt',
+    question: '下列哪句是出自卢照邻《相如琴台》？',
+    id: 21144
+  },
+  {
+    answer: '月影扇中新',
+    indexes: 'xlnjsczlbyxzpxcmylxf',
+    question: '下列哪句是出自李百药《戏赠潘徐城门迎两新妇》？',
+    id: 21145
+  },
+  {
+    answer: '青山孕宝符',
+    indexes: 'xlnjsczlbwxrydzzgs',
+    question: '下列哪句是出自骆宾王《夏日游德州赠高四》？',
+    id: 21146
+  },
+  {
+    answer: '昨夜裙带解',
+    indexes: 'xlnjsczqdyytt',
+    question: '下列哪句是出自权德舆《玉台体》？',
+    id: 21147
+  },
+  {
+    answer: '风飘素影寒',
+    indexes: 'xlnjsczdsyhkwtzwyyh',
+    question: '下列哪句是出自杜审言《和康五庭芝望月有怀》？',
+    id: 21148
+  },
+  {
+    answer: '夜梵前山空',
+    indexes: 'xlnjsczszwsyms',
+    question: '下列哪句是出自宋之问《宿云门寺》？',
+    id: 21149
+  },
+  {
+    answer: '东京',
+    indexes: 'yzdygsbayhdcssng',
+    question: '亚洲第一个申办奥运会的城市是哪个？',
+    id: 21150
+  },
+  {
+    answer: '绿竹缘溪涧',
+    indexes: 'xlnjsczszwzxyztzhsx',
+    question: '下列哪句是出自宋之问《自湘源至潭州衡山县》？',
+    id: 21151
+  },
+  {
+    answer: '言师采药去',
+    indexes: 'xlnjsczjdxyzby',
+    question: '下列哪句是出自贾岛《寻隐者不遇》？',
+    id: 21152
+  },
+  {
+    answer: '石矶西畔问渔船',
+    indexes: 'xlnjsczzxthx',
+    question: '下列哪句是出自张旭《桃花溪》？',
+    id: 21153
+  },
+  {
+    answer: '孤舟事沿越',
+    indexes: 'xlnjsczlsdssyykwdjz',
+    question: '下列哪句是出自李適《答宋十一崖口五渡见赠》？',
+    id: 21154
+  },
+  {
+    answer: '晚次乐乡县',
+    indexes: 'xlnjsczczawclxx',
+    question: '下列哪句是出自陈子昂《晚次乐乡县》？',
+    id: 21155
+  },
+  {
+    answer: '终是圣明天子事',
+    indexes: 'xlnjsczztmwp',
+    question: '下列哪句是出自郑畋《马嵬坡》？',
+    id: 21156
+  },
+  {
+    answer: '周信芳',
+    indexes: 'zgessjysdmdhsxmdqwxlnwbsmdzy',
+    question: '中国二十世纪有“四大名旦”和“四小名旦”，请问下列哪位不是名旦之一？',
+    id: 21157
+  },
+  {
+    answer: '季孙（伯颜）',
+    indexes: 'kzdxszzzmddssezxlbsysez',
+    question: '孔子的学生中最著名的当属十二哲，下列不属于十二哲？',
+    id: 21158
+  },
+  {
+    answer: '晓发',
+    indexes: 'xlnbbswcldzp',
+    question: '下列哪部不是王昌龄的作品？',
+    id: 21159
+  },
+  {
+    answer: '皎皎映层台',
+    indexes: 'xlnjsczljqswyclqc',
+    question: '下列哪句是出自李峤《秋山望月酬李骑曹》？',
+    id: 21160
+  },
+  {
+    answer: '斜拔玉钗灯影畔',
+    indexes: 'xlnjsczzhznr',
+    question: '下列哪句是出自张祜《赠内人》？',
+    id: 21161
+  },
+  {
+    answer: '烧刀子',
+    indexes: 'xlnzjbsygdzgmj',
+    question: '下列哪种酒不属于古代中国名酒？',
+    id: 21162
+  },
+  {
+    answer: '世情恶衰歇',
+    indexes: 'xlnjsbsczdfdwy',
+    question: '下列哪句诗不是出自杜甫的《望岳》？',
+    id: 21163
+  },
+  {
+    answer: '世界警察运动会',
+    indexes: 'xlngydhmjtrsxlrbsxm',
+    question: '下列哪个运动会没将铁人三项列入比赛项目？',
+    id: 21164
+  },
+  {
+    answer: '芳心向春尽',
+    indexes: 'xlnjbsczbjyfdgycsb',
+    question: '下列哪句不是出自白居易《赋得古原草送别》？',
+    id: 21165
+  },
+  {
+    answer: '乌桓',
+    indexes: 'xlngmzbsyxndfc',
+    question: '下列那个名族不属于匈奴的范畴？',
+    id: 21166
+  },
+  {
+    answer: '夫子何为者',
+    indexes: 'xlnjbsczwbsdsfzrsz',
+    question: '下列哪句不是出自王勃《送杜少府之任蜀州》？',
+    id: 21167
+  },
+  {
+    answer: '豹扑',
+    indexes: 'xlngjdbszgsqdslwzy',
+    question: '下列哪个军队不是贞观时期的十六卫之一？',
+    id: 21168
+  },
+  {
+    answer: '荷笠带斜阳',
+    indexes: 'xlnjsczlzqslc',
+    question: '下列哪句是出自刘长卿《送灵澈》？',
+    id: 21169
+  },
+  {
+    answer: '海日生残夜',
+    indexes: 'xlnjbsczlbdjmsb',
+    question: '下列哪句不是出自李白《渡荆门送别》？',
+    id: 21170
+  },
+  {
+    answer: '溥德翊飞龙',
+    indexes: 'xlnjsczcygsx',
+    question: '下列哪句是出自陈元光《示珦》？',
+    id: 21171
+  },
+  {
+    answer: '陈',
+    indexes: 'zgswglsshzydydlsqgzhghzysxlnggjbszgqxzy',
+    question:
+      '战国是我国历史上很重要的一段历史，七个诸侯国混战一时。下列那个国家不是战国七雄之一？',
+    id: 21172
+  },
+  {
+    answer: '今日花开又一年',
+    indexes: 'xlnjbschhttxyg',
+    question: '下列哪句不是出韩翃《同题仙游观》？',
+    id: 21173
+  },
+  {
+    answer: '后羿',
+    indexes: 'xlnygbsxcdhd',
+    question: '下列哪一个不是夏朝的皇帝？',
+    id: 21174
+  },
+  {
+    answer: '过温汤',
+    indexes: 'ttzlsmclzgptxdbswhsygyxdsrxlnbbslsmdzp',
+    question: '唐太宗李世民除了治国平天下的本事外，还是一个优秀的诗人，下列哪部不是李世民的作品？',
+    id: 21175
+  },
+  {
+    answer: '史达祖',
+    indexes: 'xlnwcrsyxypcr',
+    question: '下列哪位词人属于闲逸派词人？',
+    id: 21176
+  },
+  {
+    answer: '鸡斗始开笼',
+    indexes: 'xlnjsczwcqhsyz',
+    question: '下列哪句是出自韦承庆《寒食应制》？',
+    id: 21177
+  },
+  {
+    answer: '暮雨相呼失',
+    indexes: 'xlnjbsczwwsjqm',
+    question: '下列哪句不是出自王维《山居秋暝》？',
+    id: 21178
+  },
+  {
+    answer: '礼致一牢祠',
+    indexes: 'xlnjsczzjlfhszjkzjz',
+    question: '下列哪句是出自张九龄《奉和圣制经孔子旧宅》？',
+    id: 21179
+  },
+  {
+    answer: '摊丁入亩',
+    indexes: 'xlnxzmdtdzcbsczqcyq',
+    question: '下列哪项著名的土地政策不是出自清朝以前？',
+    id: 21180
+  },
+  {
+    answer: '秦韬玉《贫女》',
+    indexes: 'xlnssbswyjj',
+    question: '下列哪首诗不是五言绝句？',
+    id: 21181
+  },
+  {
+    answer: '欧阳修',
+    indexes: 'xlnwbsyzgxzdewbsm',
+    question: '下列哪位不是“永贞革新”中的“二王八司马”？',
+    id: 21182
+  },
+  {
+    answer: '“暹粒”',
+    indexes: 'zlzpbmkmirwznbdggxlnxdybsdzlddy',
+    question: '真腊占婆碑名kmir，为中南半岛古国，下列哪项读音不是对真腊的对音？',
+    id: 21183
+  },
+  {
+    answer: '“等幂等积”',
+    indexes: 'xlnxsxcjbsfszscsq',
+    question: '下列哪项数学成就不是发生在宋朝时期？',
+    id: 21184
+  },
+  {
+    answer: '《西北有高楼》',
+    indexes: 'xlnxbsycsfzdzp',
+    question: '下列哪些不属于曹氏父子的作品？',
+    id: 21185
+  },
+  {
+    answer: '《北魏律考》',
+    indexes: 'xlnxbswmdjclkzy',
+    question: '下列哪项不是闻名的《九朝律考》之一？',
+    id: 21186
+  },
+  {
+    answer: '《江边别》',
+    indexes: 'xmnbzpbsydf',
+    question: '下面哪部作品不属于杜甫？',
+    id: 21187
+  },
+  {
+    answer: '《从军行》',
+    indexes: 'xlnxbsylfjt',
+    question: '下列哪项不属于乐府旧题？',
+    id: 21188
+  },
+  {
+    answer: '《吕览》',
+    indexes: 'xlnxbsyhf',
+    question: '下列哪项不属于汉赋？',
+    id: 21189
+  },
+  {
+    answer: '《上林赋》',
+    indexes: 'xlngbsyjawxdzp',
+    question: '下列哪个不属于建安文学的作品？',
+    id: 21190
+  },
+  {
+    answer: '《湘夫人》',
+    indexes: 'xlnxbssjzdzj',
+    question: '下列哪些不是《诗经》中的章节？',
+    id: 21191
+  },
+  {
+    answer: '《答客难》',
+    indexes: 'yxsxhzmdfjxlnbzpbsyxddbz',
+    question: '杨雄是西汉著名的赋家，下列哪部作品不是杨雄的代表作？',
+    id: 21192
+  },
+  {
+    answer: '《泊秦淮》',
+    indexes: 'xlnxbsyxss',
+    question: '下列哪项不属于叙事诗？',
+    id: 21193
+  },
+  {
+    answer: '《三国志平话》',
+    indexes: 'xlnbbsmqdzhxs',
+    question: '下列哪部不是明清的章回小说？',
+    id: 21194
+  },
+  {
+    answer: '《国语》是我国第一部编年体史书',
+    indexes: 'dxlwxzpjmsbzqds',
+    question: '对下列文学作品集描述不正确的是？',
+    id: 21195
+  },
+  {
+    answer: '《西塞山怀古》',
+    indexes: 'xlnxbsyqyjj',
+    question: '下列哪项不属于七言绝句？',
+    id: 21196
+  },
+  {
+    answer: '《水经注》',
+    indexes: 'zyzjsjdcyqzycwdcxlnxbsydczl',
+    question: '《周易》中解释经的传有七种，也称为大传。下列哪项不属于大传之列？',
+    id: 21197
+  },
+  {
+    answer: '《陌上桑》',
+    indexes: 'xlnxbsytys',
+    question: '下列哪项不属于田园诗？',
+    id: 21198
+  },
+  {
+    answer: '305',
+    indexes: 'sjycwssbnmsjsldsggydsp',
+    question: '《诗经》又称为《诗三百》那么《诗经》收录的诗歌共有多少篇？',
+    id: 21199
+  },
+  {
+    answer: '789',
+    indexes: 'jgdldxyzxtzgydstw',
+    question: '金国的律典《咸雍重修条制》共有多少条文？',
+    id: 21200
+  },
+  {
+    answer: '战争俱乐部',
+    indexes: 'cjgjhjghyclyglzzdjlbbbkxlng',
+    question: '参加共济会酒馆会议成立英格兰足总的俱乐部不包括下列哪个?',
+    id: 21201
+  },
+  {
+    answer: '提婆',
+    indexes: 'xlnwbsxzhjlx',
+    question: '下列哪位不是西藏黄教领袖？',
+    id: 21202
+  },
+  {
+    answer: '子',
+    indexes: 'jwswglsscxygzbxdxzdwdyzzdqwxlngjwzscsmyd',
+    question:
+      '爵位是我国历史上出现与官制并行的象征地位的一种制度，请问下列哪个爵位在商朝是没有的？',
+    id: 21203
+  },
+  {
+    answer: '苏州',
+    indexes: 'xlngcsbsldgdzy',
+    question: '下列哪个城市不是六大古都之一？',
+    id: 21204
+  },
+  {
+    answer: '清朝',
+    indexes: 'xabsxlncdgd',
+    question: '西安不是下列哪朝的古都？',
+    id: 21205
+  },
+  {
+    answer: '槛外长江空自流',
+    indexes: 'xlnjsczwbtwg',
+    question: '下列哪句是出自王勃《滕王阁》？',
+    id: 21206
+  },
+  {
+    answer: '髡钳为台隶',
+    indexes: 'xlnjsczlzlysss',
+    question: '下列哪句是出自卢照邻《咏史四首》？',
+    id: 21207
+  },
+  {
+    answer: '胯下之辱',
+    indexes: 'xlngsjbsfszsgsq',
+    question: '下列哪个事件不是发生在三国时期？',
+    id: 21208
+  },
+  {
+    answer: '酌饮四座以散愁',
+    indexes: 'xlnjbsczwwlynex',
+    question: '下列哪句不是出自王维《洛阳女儿行》？',
+    id: 21209
+  },
+  {
+    answer: '丹青画松石',
+    indexes: 'xlnjsczszwczyk',
+    question: '下列哪句是出自宋之问《初至崖口》？',
+    id: 21210
+  },
+  {
+    answer: '旧经备阙文',
+    indexes: 'xlnjsczlsfyhtcz',
+    question: '下列哪句是出自李適《汾阴后土祠作》？',
+    id: 21211
+  },
+  {
+    answer: '李密',
+    indexes: 'ttzwlbzzjdcdglfessmdcwlygkgessgcxlnwbsyessgc',
+    question:
+      '唐太宗为了表彰自己大臣的功劳，封二十四名大臣为凌烟阁开国二十四功臣，下列哪位不属于二十四功臣？',
+    id: 21212
+  },
+  {
+    answer: '铁帽子王',
+    indexes: 'xlnxbsyqcwydch',
+    question: '下列哪项不属于清朝王爷的称号？',
+    id: 21213
+  },
+  {
+    answer: '不据山河据平地',
+    indexes: 'xlnjbsczlbjjj',
+    question: '下列哪句不是出自李白《将进酒》？',
+    id: 21214
+  },
+  {
+    answer: '郭汜',
+    indexes: 'sgzdmjlbsxyzmdbwjjbcwbjjqzbsybjjzzds',
+    question: '三国中的名将“吕布”手下有著名的八位将军被称为“八健将”，其中不属于“八健将”之中的是？',
+    id: 21215
+  },
+  {
+    answer: '步出东斋读',
+    indexes: 'xlnjbsczwclssq',
+    question: '下列哪句不是出自王昌龄《塞上曲》？',
+    id: 21216
+  },
+  {
+    answer: '望望下章台',
+    indexes: 'xlnjsczczadjmwc',
+    question: '下列哪句是出自陈子昂《度荆门望楚》？',
+    id: 21217
+  },
+  {
+    answer: '无端嫁得金龟婿',
+    indexes: 'xlnjsczlsywy',
+    question: '下列哪句是出自李商隐《为有》？',
+    id: 21218
+  },
+  {
+    answer: '夏日游德州赠高四',
+    indexes: 'xlnbbsczadzp',
+    question: '下列哪部不是陈子昂的作品？',
+    id: 21219
+  },
+  {
+    answer: '河西之役',
+    indexes: 'qwxlnczybsfszzgsq',
+    question: '请问下列那场战役不是发生在战国时期？',
+    id: 21220
+  },
+  {
+    answer: '已似长沙傅',
+    indexes: 'xlnjbsczmhrlbwsyw',
+    question: '下列哪句不是出自孟浩然《留别王侍御维》？',
+    id: 21221
+  },
+  {
+    answer: '过晋阳宫',
+    indexes: 'xlnbbslzdzp',
+    question: '下列哪部不是李治的作品？',
+    id: 21222
+  },
+  {
+    answer: '幸秦始皇陵',
+    indexes: 'xlnbbslsmdzp',
+    question: '下列哪部不是李世民的作品？',
+    id: 21223
+  },
+  {
+    answer: '十五夜观灯',
+    indexes: 'xlnbbszjldzp',
+    question: '下列哪部不是张九龄的作品？',
+    id: 21224
+  },
+  {
+    answer: '情渭日边临',
+    indexes: 'xlnjsczzjlfhszcqyy',
+    question: '下列哪句是出自张九龄《奉和圣制次琼岳韵》？',
+    id: 21225
+  },
+  {
+    answer: '闲园即事寄韦侍郎',
+    indexes: 'xlnbbslbwdzp',
+    question: '下列哪部不是骆宾王的作品？',
+    id: 21226
+  },
+  {
+    answer: '李陵',
+    indexes: 'xlnwbssgrw',
+    question: '下列哪位不是三国人物？',
+    id: 21227
+  },
+  {
+    answer: '建筑吉祥',
+    indexes: 'xlnxbsyzgbdjxwh',
+    question: '下列哪项不属于中国八大吉祥文化？',
+    id: 21228
+  },
+  {
+    answer: '二十须臾为一整天',
+    indexes: 'wcydzyhjysnmgysjdcwshs',
+    question: '文常有“弹指一挥间”一说，那么关于时间的错误说话是？',
+    id: 21229
+  },
+  {
+    answer: '刘向',
+    indexes: 'xlnwbsqgsqdrw',
+    question: '下列哪位不是秦国时期的人物？',
+    id: 21230
+  },
+  {
+    answer: '托塔天王李靖',
+    indexes: 'xlngbssgms',
+    question: '下列哪个不是上古魔神？',
+    id: 21231
+  },
+  {
+    answer: '浏亮如笙碎在缑',
+    indexes: 'xlnjsczlyqy',
+    question: '下列哪句是出自李煜《秋莺》？',
+    id: 21232
+  },
+  {
+    answer: '汤',
+    indexes: 'xlngbsxcdrw',
+    question: '下列哪个不是夏朝的人物？',
+    id: 21233
+  },
+  {
+    answer: '光华早著名',
+    indexes: 'xlnjsczlbyjyg',
+    question: '下列哪句是出自李百药《寄杨公》？',
+    id: 21234
+  },
+  {
+    answer: '夏侯审',
+    indexes: 'mzsczszydmpsrzdjcdbxlsbsymzscz',
+    question: '闽中十才子是指元代闽派诗人中的杰出代表，下列谁不属于闽中十才子？',
+    id: 21235
+  },
+  {
+    answer: '望蓟门',
+    indexes: 'xlnbzpbsdfd',
+    question: '下列哪部作品不是杜甫的？',
+    id: 21236
+  },
+  {
+    answer: '是妾断肠时',
+    indexes: 'xlnjsbsczydfdmlb',
+    question: '下列哪句诗不是出自于杜甫的《梦李白》？',
+    id: 21237
+  },
+  {
+    answer: '日暮乡关何处是',
+    indexes: 'xlnjbsclqswwzj',
+    question: '下列哪句不是出李颀《送魏万之京》？',
+    id: 21238
+  },
+  {
+    answer: '以我独沉久',
+    indexes: 'xlnjbsczctgy',
+    question: '下列哪句不是出自崔涂《孤雁》？',
+    id: 21239
+  },
+  {
+    answer: '春游曲二首',
+    indexes: 'xmnbzpbslzyd',
+    question: '下面哪部作品不是柳宗元的？',
+    id: 21240
+  },
+  {
+    answer: '阿史那思摩',
+    indexes: 'xlnwbsycsqdrw',
+    question: '下列哪位不是元朝时期的人物？',
+    id: 21241
+  },
+  {
+    answer: '慈溪窑',
+    indexes: 'xlngbswglsshnsnymdcqyk',
+    question: '下列哪个不是我国历史上河南省内有名的瓷器窑口？',
+    id: 21242
+  },
+  {
+    answer: '黄帝战蚩尤',
+    indexes: 'xlbsysgsh',
+    question: '下列不属于上古神话？',
+    id: 21243
+  },
+  {
+    answer: '徐州云龙山庙会',
+    indexes: 'wljnsgmjyhdsgmshdxlnghdbssgmshd',
+    question: '为了纪念三国，民间有很多三国民俗活动，下列哪个活动不是三国民俗活动？',
+    id: 21244
+  },
+  {
+    answer: '深恩雨露垂',
+    indexes: 'xlnjsczwcqzzss',
+    question: '下列哪句是出自韦承庆《直中书省》？',
+    id: 21245
+  },
+  {
+    answer: '都护使',
+    indexes: 'xlnggzbstcdwz',
+    question: '下列哪个官职不是唐朝的武职？',
+    id: 21246
+  },
+  {
+    answer: '虬须虎眉仍大颡',
+    indexes: 'xlnjbsczlqtawscblg',
+    question: '下列哪句不是出自李颀《听安万善吹筚篥歌》？',
+    id: 21247
+  },
+  {
+    answer: '赵云神枪',
+    indexes: 'xlnwsbsczsgsq',
+    question: '下列哪位“神”不是出自三国时期？',
+    id: 21248
+  },
+  {
+    answer: '基冈',
+    indexes: 'xlnwmyhdgozbjsjdzjssdch',
+    question: '下列哪位没有获得过欧洲杯决赛阶段最佳射手的称号？',
+    id: 21249
+  },
+  {
+    answer: '基冈',
+    indexes: 'xlnwmyhdgozbjsjdzjssdch',
+    question: '下列哪位没有获得过欧洲杯决赛阶段最佳射手的称号？',
+    id: 21250
+  },
+  {
+    answer: '藏霸',
+    indexes: 'hgwdfesbwjjwytesbjxlnwbsytesbj',
+    question: '汉光武帝封二十八位将军为云台二十八将，下列哪位不是云台二十八将？',
+    id: 21251
+  },
+  {
+    answer: '白云无尽时',
+    indexes: 'xlnjsbsczwwdxsy',
+    question: '下列哪句诗不是出自王维的《西施咏》？',
+    id: 21252
+  },
+  {
+    answer: '飞虎营',
+    indexes: 'yfsnsmjkjyxyfqxjbrltbsqxzmdsbyxlnxbssbyss',
+    question:
+      '岳飞是南宋名将抗金英雄，岳飞旗下精兵如林，特别是旗下著名的十八营，下列哪项不是十八营所属？',
+    id: 21253
+  },
+  {
+    answer: '夕阳无限好',
+    indexes: 'xlnjsczlsydlyy',
+    question: '下列哪句是出自李商隐《登乐游原》？',
+    id: 21254
+  },
+  {
+    answer: '赠王八衢',
+    indexes: 'xlnbbsdfdzp',
+    question: '下列哪部不是杜甫的作品？',
+    id: 21255
+  },
+  {
+    answer: '西夏',
+    indexes: 'bsjlhzgbmytyznbhybsdgjzqxlngzqbsybssqdgjzq',
+    question:
+      '北宋建立后，中国并没有统一，在南北还有不少的割据政权，下列哪个政权不属于北宋时期的割据政权？',
+    id: 21256
+  },
+  {
+    answer: '十',
+    indexes: 'hjjswgzzdybcjhjjgyjb',
+    question: '《花间集》是我国最早的一部词集，《花间集》共有几部？',
+    id: 21257
+  },
+  {
+    answer: '皇历',
+    indexes: 'xlnxbsxldbc',
+    question: '下列哪项不是夏历的别称？',
+    id: 21258
+  },
+  {
+    answer: '八尺龙须方锦褥',
+    indexes: 'xlnjsczhhyl',
+    question: '下列哪句是出自韩翃《已凉》？',
+    id: 21259
+  },
+  {
+    answer: '罗纳尔多',
+    indexes: 'sjbjqzdqyss',
+    question: '世界杯进球最多球员是谁？',
+    id: 21260
+  },
+  {
+    answer: '淡扫荆门烟',
+    indexes: 'xlnjbsczwcldbsxj',
+    question: '下列哪句不是出自王昌龄的《灞上闲居》？',
+    id: 21261
+  },
+  {
+    answer: '扣杀',
+    indexes: 'xlnxjsbsysqydybbdzxjs',
+    question: '下列哪项技术不属于水球运动员必备的专项技术？',
+    id: 21262
+  },
+  {
+    answer: '方远御慈留',
+    indexes: 'xlnjsczcsfhsjcgzsxfyz',
+    question: '下列哪句是出自崔湜《奉和送金城公主适西蕃应制》？',
+    id: 21263
+  },
+  {
+    answer: '孙毓筠',
+    indexes: 'byjfslprwbszxhqsxsegjjbywfpdsstbxlnwbssstb',
+    question:
+      '北洋军阀实力派人物“辫帅”张勋和其手下十二个健将，被誉为复辟党“十三太保”，下列哪位不是“十三太保”？',
+    id: 21264
+  },
+  {
+    answer: '李贤',
+    indexes: 'tcddwzybsdsyscgfqwxlnwtcdhdbssr',
+    question: '唐朝的帝王中有不少都善于诗词歌赋，请问下列哪位唐朝的皇帝不是诗人？',
+    id: 21265
+  },
+  {
+    answer: '欧阳修号醉仙',
+    indexes: 'xlgygdsrdbhbscwds',
+    question: '下列关于古代诗人的别号表述错误的是？',
+    id: 21266
+  },
+  {
+    answer: '俯听闻惊风',
+    indexes: 'xlnjbsczwywdjqjszds',
+    question: '下列哪句不是出自韦应物的《寄全椒山中道士》？',
+    id: 21267
+  },
+  {
+    answer: '山居秋暝',
+    indexes: 'xlnbzpbslsyd',
+    question: '下列哪部作品不是李商隐的？',
+    id: 21268
+  },
+  {
+    answer: '清辉玉臂寒',
+    indexes: 'xlnjbsczwwwcxjzpxcd',
+    question: '下列哪句不是出自王维《辋川闲居赠裴秀才迪》？',
+    id: 21269
+  },
+  {
+    answer: '太原王濬',
+    indexes: 'xlnwbsnbcdcmsz',
+    question: '下列哪位不是南北朝的出名世族？',
+    id: 21270
+  },
+  {
+    answer: '千刀万剐',
+    indexes: 'xlnxxfbsymqsdkxzl',
+    question: '下列哪项刑罚不属于满清十大酷刑之列？',
+    id: 21271
+  },
+  {
+    answer: '司马昭',
+    indexes: 'xlnwbswjnbcsqdrw',
+    question: '下列哪位不是魏晋南北朝时期的人物？',
+    id: 21272
+  },
+  {
+    answer: '左丘明',
+    indexes: 'ccsllyqywsjwsrdzpxlnwsrdzpwslzccz',
+    question: '《楚辞》收录了以屈原为首几位诗人的作品，下列哪位诗人的作品未收录在《楚辞》中？',
+    id: 21273
+  },
+  {
+    answer: '邹元标',
+    indexes: 'mcwqddldsyjnsdfwzdzzjtqzzzmddsdlbczxlnwsydlbcz',
+    question:
+      '明朝晚期的东林党是以江南士大夫为主的政治集团，其中最著名的当属“东林八才子”，下列哪位属于东林八才子？',
+    id: 21274
+  },
+  {
+    answer: '云阴送晚雷',
+    indexes: 'xlnjsczdsyxrgzqsz',
+    question: '下列哪句是出自杜审言《夏日过郑七山斋》？',
+    id: 21275
+  },
+  {
+    answer: '辛弃疾',
+    indexes: 'xlnwcrsyhfpcr',
+    question: '下列哪位词人属于豪放派词人？',
+    id: 21276
+  },
+  {
+    answer: '高适《燕歌行并序》',
+    indexes: 'xlnssbsqygs',
+    question: '下列哪首诗不是七言古诗？',
+    id: 21277
+  },
+  {
+    answer: '连洲拥夕涨',
+    indexes: 'xlnjsczlbwzjnzswzw',
+    question: '下列哪句是出自骆宾王《在江南赠宋五之问》？',
+    id: 21278
+  },
+  {
+    answer: '吕布字奉阳',
+    indexes: 'xlgysgrwxmbzcwdsnx',
+    question: '下列关于三国人物姓名表字错误的是哪项？',
+    id: 21279
+  },
+  {
+    answer: '万里浮云阴且晴',
+    indexes: 'xlnjbsczmhryglmsg',
+    question: '下列哪句不是出自孟浩然《夜归鹿门山歌》？',
+    id: 21280
+  },
+  {
+    answer: '桑兰',
+    indexes: 'xlnxydydmzbgjtclhhylmmjsdz',
+    question: '下列哪些运动员的名字被国际体操联合会用来命名技术动作？',
+    id: 21281
+  },
+  {
+    answer: '章华即旧台',
+    indexes: 'xlnjsczdsydxyc',
+    question: '下列哪句是出自杜审言《登襄阳城》？',
+    id: 21282
+  },
+  {
+    answer: '奥斯卡·罗伯逊',
+    indexes: 'NBAdfzddhwss',
+    question: 'NBA得分最多的后卫是谁？',
+    id: 21283
+  },
+  {
+    answer: '登临出世界',
+    indexes: 'xlnjsbsczwwdswclyj',
+    question: '下列哪句诗不是出自王维的《宿王昌龄隐居》？',
+    id: 21284
+  },
+  {
+    answer: '王昌龄《塞上曲》',
+    indexes: 'xlnssbswygs',
+    question: '下列哪首诗不是五言古诗？',
+    id: 21285
+  },
+  {
+    answer: '李颀《古意》',
+    indexes: 'xlnssbswylf',
+    question: '下列哪首诗不是五言乐府？',
+    id: 21286
+  },
+  {
+    answer: '印度',
+    indexes: 'xlnggjbszglssdfsg',
+    question: '下列那个国家不是中国历史上的附属国？',
+    id: 21287
+  },
+  {
+    answer: '王孙归不归',
+    indexes: 'xlnjsczwwsb',
+    question: '下列哪句是出自王维《送别》？',
+    id: 21288
+  },
+  {
+    answer: '延首晞云路',
+    indexes: 'xlnjsczrxghlgqx',
+    question: '下列哪句是出自任希古《和李公七夕》？',
+    id: 21289
+  },
+  {
+    answer: '发匣先来瑞有虞',
+    indexes: 'xlnjsczcryfhszlcp',
+    question: '下列哪句是出自崔日用《奉和圣制龙池篇》？',
+    id: 21290
+  },
+  {
+    answer: '勋',
+    indexes: 'xlngsxddjmdj',
+    question: '下列哪个是夏代的爵命等级？',
+    id: 21291
+  },
+  {
+    answer: '步步春芳绿',
+    indexes: 'xlnjsczlxycs',
+    question: '下列哪句是出自刘希夷《采桑》？',
+    id: 21292
+  },
+  {
+    answer: '旧好隔良缘',
+    indexes: 'xlnjbsczctgy',
+    question: '下列哪句不是出自崔涂《孤雁》？',
+    id: 21293
+  },
+  {
+    answer: '啼时惊妾梦',
+    indexes: 'xlnjsczjcxcy',
+    question: '下列哪句是出自金昌绪《春怨》？',
+    id: 21294
+  },
+  {
+    answer: '从壁上观',
+    indexes: 'xlngcybsczcqb',
+    question: '下列那个成语不是出自《陈情表》？',
+    id: 21295
+  },
+  {
+    answer: '巴氐',
+    indexes: 'whslgkclssmzrzzydxlzydwgmzbcwwhxlngmzbsywhzl',
+    question:
+      '五胡十六国开创了少数民族入主中原的先例，主要的五个名族被成为五胡，下列哪个民族不属于五胡之列？',
+    id: 21296
+  },
+  {
+    answer: '野老与人争席罢',
+    indexes: 'xlnjbscwwcgjs',
+    question: '下列哪句不是出王维《酬郭给事》？',
+    id: 21297
+  },
+  {
+    answer: '今人多不弹',
+    indexes: 'xlnjsczlzqdq',
+    question: '下列哪句是出自刘长卿《弹琴》？',
+    id: 21298
+  },
+  {
+    answer: '来源于勇冠三军',
+    indexes: 'xlnxbsgjdchdly',
+    question: '下列哪项不是冠军的称号的来源？',
+    id: 21299
+  },
+  {
+    answer: '欲把一麾江海去',
+    indexes: 'xlnjsczdmjfwxdlyy',
+    question: '下列哪句是出自杜牧《将赴吴兴登乐游原》？',
+    id: 21300
+  },
+  {
+    answer: '忽念山中客',
+    indexes: 'xlnjbsczzjldhkwlspbq',
+    question: '下列哪句不是出自张九龄的《湖口望庐山瀑布泉》？',
+    id: 21301
+  },
+  {
+    answer: '大食',
+    indexes: 'xlngmzbsgdzgdmz',
+    question: '下列哪个名族不是古代中国的民族？',
+    id: 21302
+  },
+  {
+    answer: '孙谋梁国珍',
+    indexes: 'xlnjsczdsysyalgzmysyyz',
+    question: '下列哪句是出自杜审言《岁夜安乐公主满月侍宴应制》？',
+    id: 21303
+  },
+  {
+    answer: '白骨相撑委',
+    indexes: 'xlnjsczwwjbszc',
+    question: '下列哪句是出自王无竞《北使长城》？',
+    id: 21304
+  },
+  {
+    answer: '由来征战地',
+    indexes: 'xlnjbsczlqgy',
+    question: '下列哪句不是出自李颀《古意》？',
+    id: 21305
+  },
+  {
+    answer: '沧海月明珠有泪',
+    indexes: 'xlnjbsclsywt',
+    question: '下列哪句不是出李商隐《无题》？',
+    id: 21306
+  },
+  {
+    answer: '御林军',
+    indexes: 'gzjswtyqbzwgcswcycjjycjjfwwgxtxlnxbsyycjjd',
+    question:
+      '高祖将三万太原亲兵作为宫城宿卫，称元从禁军。元从禁军分为五个系统，下列哪项不属于元从禁军的？',
+    id: 21307
+  },
+  {
+    answer: '使臣将王命',
+    indexes: 'xlnjbsczqwqdcfryx',
+    question: '下列哪句不是出自綦毋潜的《春泛若耶溪》？',
+    id: 21308
+  },
+  {
+    answer: '离离早鸿度',
+    indexes: 'xlnjsczlbywdjj',
+    question: '下列哪句是出自李百药《晚渡江津》？',
+    id: 21309
+  },
+  {
+    answer: '旋转',
+    indexes: 'xlnxdzbshbddznr',
+    question: '下列哪项动作不是滑板的动作内容？',
+    id: 21310
+  },
+  {
+    answer: '淫',
+    indexes: 'fjzszrsdjpbbkxlnx',
+    question: '佛教中所指人生的九品不包括下列哪项？',
+    id: 21311
+  },
+  {
+    answer: '道学',
+    indexes: 'gddetjyhtzkdfzcsjdyxdjzjxlxzbbkxlnx',
+    question: '古代对儿童教育和童子科的发展产生较大影响的几种教学类型中不包括下列哪项？',
+    id: 21312
+  },
+  {
+    answer: '迥眺穷原泽',
+    indexes: 'xlnjsczljfjzfjcgtzkh',
+    question: '下列哪句是出自李峤《奉教追赴九成宫途中口号》？',
+    id: 21313
+  },
+  {
+    answer: '唐太宗',
+    indexes: 'zgfjyxsyszyxdygzjgdyhddwxffjbgyfmhddchqwxlnwhdbsyqzzy',
+    question:
+      '中国佛教影响深远，甚至影响到一国之君，古代有很多帝王信奉佛教，被冠以佛门皇帝的称号，请问下列哪位皇帝不属于其中之一？',
+    id: 21314
+  },
+  {
+    answer: '韶女峰',
+    indexes: 'slszgwdgdlzysdzyjysxlngdmbsjysfjdjd',
+    question: '舜陵是中国五大古帝陵之一，舜帝葬于九嶷山，下列哪个地名不是九嶷山附近的景点？',
+    id: 21315
+  },
+  {
+    answer: '江南逢李龟年',
+    indexes: 'xlnbbstczjldzp',
+    question: '下列哪部不是唐朝张九龄的作品？',
+    id: 21316
+  },
+  {
+    answer: '哈密',
+    indexes: 'dsczlyxbjddjgdfqzbbkxlnx',
+    question: '对丝绸之路影响比较大的几个地方其中不包括下列哪项？',
+    id: 21317
+  },
+  {
+    answer: '饱卿',
+    indexes: 'scdzzjgzsysjgyjsgzqzqwxlngbsyjszy',
+    question: '宋朝的政治机构中设有寺监，共有九寺，各专其职。请问下列哪个不属于九寺之一？',
+    id: 21318
+  },
+  {
+    answer: '甘露寺',
+    indexes: 'tczzysyjsxlngbmbsyjs',
+    question: '唐朝在中央设有九寺，下列哪个部门不属于九寺？',
+    id: 21319
+  },
+  {
+    answer: '徐小香饰《雁门关》之萧太后',
+    indexes: 'gxnjhssrpycshztzgxsqdssmkqjjzmyydjzhxcsyhcwtgssjqwxlnwbstgssjzy',
+    question:
+      '光绪年间，画师沈蓉圃以彩色绘制同治、光绪时期的十三名昆曲、京剧著名演员的剧装画像，传世以后，称为“同光十三绝”。请问下列哪位不是“同光十三绝”之一？',
+    id: 21320
+  },
+  {
+    answer: '儿童相见不相识',
+    indexes: 'xlnjsczhzzhxos',
+    question: '下列哪句是出自贺知章《回乡偶书》？',
+    id: 21321
+  },
+  {
+    answer: '零露湿罗襦',
+    indexes: 'xlnjsczqzzxsfgf',
+    question: '下列哪句是出自乔知之《下山逢故夫》？',
+    id: 21322
+  },
+  {
+    answer: '隐隐香台夜',
+    indexes: 'xlnjsczlzlsjs',
+    question: '下列哪句是出自卢照邻《石镜寺》？',
+    id: 21323
+  },
+  {
+    answer: '夜归鹿门山歌',
+    indexes: 'xlnbzpbslsyd',
+    question: '下列哪部作品不是李商隐的？',
+    id: 21324
+  },
+  {
+    answer: '顾影无如白发何',
+    indexes: 'xlnjbsclzqzsgjyz',
+    question: '下列哪句不是出刘长卿《长沙过贾谊宅》？',
+    id: 21325
+  },
+  {
+    answer: '未谙姑食性',
+    indexes: 'xlnjsczwjxjn',
+    question: '下列哪句是出自王建《新嫁娘》？',
+    id: 21326
+  },
+  {
+    answer: '朱右',
+    indexes: 'tsbdjstssqbdswdbzjdhcxlnwsytsbdj',
+    question: '唐宋八大家是唐宋时期八大散文代表作家的合称，下列哪位属于唐宋八大家？',
+    id: 21327
+  },
+  {
+    answer: '陆游',
+    indexes: 'fwsxlsdwh',
+    question: '“放翁”是下列谁的晚号？',
+    id: 21328
+  },
+  {
+    answer: '仲康',
+    indexes: 'xlnwbsscdgw',
+    question: '下列哪位不是商朝的国王？',
+    id: 21329
+  },
+  {
+    answer: '杂曲歌词',
+    indexes: 'xlnzstbsyqts',
+    question: '下列哪种诗体不属于全唐诗？',
+    id: 21330
+  },
+  {
+    answer: '月下飞天镜',
+    indexes: 'xlnjbsczdfyy',
+    question: '下列哪句不是出自杜甫《月夜》？',
+    id: 21331
+  },
+  {
+    answer: '卫城8座',
+    indexes: 'xlnxgyhbqhdjnzcdtjscwd',
+    question: '下列哪项关于河北秦皇岛境内长城的统计是错误的？',
+    id: 21332
+  },
+  {
+    answer: '太尉',
+    indexes: 'hcsxsgjqzxlnxbsyjq',
+    question: '汉朝实行三公九卿制，下列哪项不属于九卿？',
+    id: 21333
+  },
+  {
+    answer: '三千太乙军',
+    indexes: 'xlnjsczyjcs',
+    question: '下列哪句是出自杨炯《出塞》？',
+    id: 21334
+  },
+  {
+    answer: '东拒复西敌',
+    indexes: 'xlnjsczcssyx',
+    question: '下列哪句是出自崔湜《塞垣行》？',
+    id: 21335
+  },
+  {
+    answer: '芳好空所惜',
+    indexes: 'xlnjsczsthdzbcryss',
+    question: '下列哪句是出自苏颋《和杜主簿春日有所思》？',
+    id: 21336
+  },
+  {
+    answer: '蝶恋花（花褪残红青杏小）',
+    indexes: 'xlnscbsscncrlqzdzp',
+    question: '下列哪首词不是宋朝女词人李清照的作品？',
+    id: 21337
+  },
+  {
+    answer: '终南阴岭秀',
+    indexes: 'xlnjsczzyznwyx',
+    question: '下列哪句是出自祖咏《终南望馀雪》？',
+    id: 21338
+  },
+  {
+    answer: '自卖自夸',
+    indexes: 'xlnjxhyhsgwg',
+    question: '下列哪句歇后语和三国无关？',
+    id: 21339
+  },
+  {
+    answer: '左千骑',
+    indexes: 'tzdjjzbyqyyfwqbxlnxbsybyqyzl',
+    question: '太宗的禁军中，北衙七营又分为七部，下列哪项不属于北衙七营之列？',
+    id: 21340
+  },
+  {
+    answer: '清净散人郝大通',
+    indexes: 'jywxzzmdqzqzsyxszjcdbqzwyxxlnwsybqz',
+    question: '金庸武侠中著名的“全真七子”是以现实中金朝的“北七真为原型，下列哪位属于北七真？',
+    id: 21341
+  },
+  {
+    answer: '独敲初夜磬',
+    indexes: 'xlnjbsczzjmfgr',
+    question: '下列哪句不是出自张籍《没蕃故人》？',
+    id: 21342
+  },
+  {
+    answer: '莫学游侠儿',
+    indexes: 'xlnjbsczmjlnc',
+    question: '下列哪句不是出自孟郊《烈女操》？',
+    id: 21343
+  },
+  {
+    answer: '越野车',
+    indexes: 'xdwxzdbsxlnx',
+    question: '现代五项指得不是下列哪项？',
+    id: 21344
+  },
+  {
+    answer: '三峡楼台淹日月',
+    indexes: 'xlnjbscdfyhgjwsze',
+    question: '下列哪句不是出杜甫《咏怀古迹五首之二》？',
+    id: 21345
+  },
+  {
+    answer: '尘起洛阳风',
+    indexes: 'xlnjsczlbwqrjldscwl',
+    question: '下列哪句是出自骆宾王《秋日饯陆道士陈文林》？',
+    id: 21346
+  },
+  {
+    answer: '欧大任',
+    indexes: 'qjqnjdbwczbsrcwjqbczxlsbsbczzl',
+    question: '清嘉庆年间的八位才子被世人称为“嘉庆八才子”，下列谁不是八才子之列？',
+    id: 21347
+  },
+  {
+    answer: '风泉满清听',
+    indexes: 'xlnjbsczlzydcycsydsj',
+    question: '下列哪句不是出自柳宗元的《晨诣超师院读禅经》？',
+    id: 21348
+  },
+  {
+    answer: '海岩',
+    indexes: 'yzbgzdsqwxthfxsdyprxlnwbsyyzbgzy',
+    question: '扬州八怪值得是趣味相投画风相似的一批人，下列哪位不属于扬州八怪之一？',
+    id: 21349
+  },
+  {
+    answer: '荷翻北潭影',
+    indexes: 'xlnjsczwbstyy',
+    question: '下列哪句是出自王勃《山亭夜宴》？',
+    id: 21350
+  },
+  {
+    answer: '笛',
+    indexes: 'xlnzlqbsygsqdlq',
+    question: '下列哪种乐器不是远古时期的乐器？',
+    id: 21351
+  },
+  {
+    answer: '送客',
+    indexes: 'xlnxbsyhsdjl',
+    question: '下列哪项不属于后世的酒礼？',
+    id: 21352
+  },
+  {
+    answer: '估客昼眠知浪静',
+    indexes: 'xlnjbscyzqbhsszy',
+    question: '下列哪句不是出元稹《遣悲怀三首之一》？',
+    id: 21353
+  },
+  {
+    answer: '中立',
+    indexes: 'lssddyfzqsfmdwljsclclzqsserjsslddmdywzqzbbkxlnxwz',
+    question:
+      '历史上的第一份足球“首发名单”《武林旧事》曾列出了“筑球三十二人”竞赛时两队的名单与位置,其中不包括下列哪项位置?',
+    id: 21354
+  },
+  {
+    answer: '不于祖龙留面目',
+    indexes: 'lytjlzhyxlnj',
+    question: '李煜《题金楼子后》有下列哪句？',
+    id: 21355
+  },
+  {
+    answer: '三元更废兴',
+    indexes: 'xlnjsczczagysssbs',
+    question: '下列哪句是出自陈子昂《感遇诗三十八首》？',
+    id: 21356
+  },
+  {
+    answer: '天回百川澍',
+    indexes: 'xlnjsczszwjlsncch',
+    question: '下列哪句是出自宋之问《景龙四年春祠海》？',
+    id: 21357
+  },
+  {
+    answer: '晨飙断曙声',
+    indexes: 'xlnjsczlyzxjhdwg',
+    question: '下列哪句是出自刘祎之《孝敬皇帝挽歌》？',
+    id: 21358
+  },
+  {
+    answer: '猗欤此推择',
+    indexes: 'xlnjsczlljczzcsytzy',
+    question: '下列哪句是出自李隆基《赐诸州刺史以题座右》？',
+    id: 21359
+  },
+  {
+    answer: '怀君属秋夜',
+    indexes: 'xlnjsczwywqyjqyw',
+    question: '下列哪句是出自韦应物《秋夜寄邱员外》？',
+    id: 21360
+  },
+  {
+    answer: '樵人归欲尽',
+    indexes: 'xlnjbsczlbzyssgcg',
+    question: '下列哪句不是出自李白《子夜四时歌：春歌》？',
+    id: 21361
+  },
+  {
+    answer: '夏早摘芙蕖',
+    indexes: 'xlnjsczlxsyzngzdz',
+    question: '下列哪句是出自刘宪《侍宴长宁公主东庄》？',
+    id: 21362
+  },
+  {
+    answer: '十年一觉扬州梦',
+    indexes: 'xlnjsczdmqh',
+    question: '下列哪句是出自杜牧《遣怀》？',
+    id: 21363
+  },
+  {
+    answer: '阳和不散穷途恨',
+    indexes: 'xlnjbscwywjldyx',
+    question: '下列哪句不是出韦应物《寄李儋元锡》？',
+    id: 21364
+  },
+  {
+    answer: '沾裳即此地',
+    indexes: 'xlnjsczlzlwsg',
+    question: '下列哪句是出自卢照邻《巫山高》？',
+    id: 21365
+  },
+  {
+    answer: '安期始遗舄',
+    indexes: 'xlnjbsczczadbdchg',
+    question: '下列哪句不是出自陈子昂的《白帝城怀古》？',
+    id: 21366
+  },
+  {
+    answer: '归望逐春来',
+    indexes: 'xlnjsczzwzssssfyz',
+    question: '下列哪句是出自郑惟忠《送苏尚书赴益州》？',
+    id: 21367
+  },
+  {
+    answer: '闻香暗识莲',
+    indexes: 'xlnjsczycydj',
+    question: '下列哪句是出自姚崇《夜渡江》？',
+    id: 21368
+  },
+  {
+    answer: '飞水千寻瀑',
+    indexes: 'xlnjsczyjgxx',
+    question: '下列哪句是出自杨炯《广溪峡》？',
+    id: 21369
+  },
+  {
+    answer: '明朝有封事',
+    indexes: 'xlnjbsczlbdjmsb',
+    question: '下列哪句不是出自李白《渡荆门送别》？',
+    id: 21370
+  },
+  {
+    answer: '浮盖下奔涛',
+    indexes: 'xlnjsczlbydhj',
+    question: '下列哪句是出自李百药《渡汉江》？',
+    id: 21371
+  },
+  {
+    answer: '金缕晨鸡未学鸣',
+    indexes: 'xlnjsczcryfhlcyyycyz',
+    question: '下列哪句是出自崔日用《奉和立春游苑迎春应制》？',
+    id: 21372
+  },
+  {
+    answer: '才子能歌夜未央',
+    indexes: 'xlnjsczcryyyalgzz',
+    question: '下列哪句是出自崔日用《夜宴安乐公主宅》？',
+    id: 21373
+  },
+  {
+    answer: '杯接近臣欢',
+    indexes: 'xlnjsczcssyzngzdzyz',
+    question: '下列哪句是出自崔湜《侍宴长宁公主东庄应制》？',
+    id: 21374
+  },
+  {
+    answer: '奇毛自偶麟',
+    indexes: 'xlnjsczxysynyz',
+    question: '下列哪句是出自许圉师《咏牛应制》？',
+    id: 21375
+  },
+  {
+    answer: '孤独异乡春',
+    indexes: 'xlnjbsczlyxsxzm',
+    question: '下列哪句不是出自刘禹锡《蜀先主庙》？',
+    id: 21376
+  },
+  {
+    answer: '昨夜上皇新授□',
+    indexes: 'xlnjsczzhjlteszy',
+    question: '下列哪句是出自张祜《集灵台二首之一》？',
+    id: 21377
+  },
+  {
+    answer: '赤丸夜语飞电光',
+    indexes: 'xlnjbsczmhrdsyssfdddbz',
+    question: '下列哪句不是出自孟浩然的《宿业师山房待丁大不至》？',
+    id: 21378
+  },
+  {
+    answer: '数丛沙草群鸥散',
+    indexes: 'xlnjbscwtyswm',
+    question: '下列哪句不是出温庭筠《苏武庙》？',
+    id: 21379
+  },
+  {
+    answer: '征战二庭深',
+    indexes: 'xlnjsczqzzngzcza',
+    question: '下列哪句是出自乔知之《拟古赠陈子昂》？',
+    id: 21380
+  },
+  {
+    answer: '闺中少妇不知愁',
+    indexes: 'xlnjsczwclgy',
+    question: '下列哪句是出自王昌龄《闺怨》？',
+    id: 21381
+  },
+  {
+    answer: '再顾给事中',
+    indexes: 'xlnjsczycysctzkhyz',
+    question: '下列哪句是出自阎朝隐《侍从途中口号应制》？',
+    id: 21382
+  },
+  {
+    answer: '李白',
+    indexes: 'mhqglxhcdjwdxkzjscznwsrzp',
+    question: '“名花倾国两相欢，常得君王带笑看。”这句诗出自哪位诗人作品？',
+    id: 21383
+  },
+  {
+    answer: '近种篱边菊',
+    indexes: 'mdcjhgmyxlnyj',
+    question: '马戴《楚江怀古》没有下列哪一句？',
+    id: 21384
+  },
+  {
+    answer: '韩愈',
+    indexes: 'xlnwsrbsywtwdsq',
+    question: '下列哪位诗人不属于晚唐五代时期？',
+    id: 21385
+  },
+  {
+    answer: '韩愈',
+    indexes: 'xlnwbsyhjcr',
+    question: '下列哪位不属于花间词人？',
+    id: 21386
+  },
+  {
+    answer: '初闻涕泪满衣裳',
+    indexes: 'xlnjbscdfdg',
+    question: '下列哪句不是出杜甫《登高》？',
+    id: 21387
+  },
+  {
+    answer: '武帝纪',
+    indexes: 'xlnznpwzbsczsj',
+    question: '下列哪种哪篇文章不是出自《史记》？',
+    id: 21388
+  },
+  {
+    answer: '丹绮双鸳鸯',
+    indexes: 'xlnjsczwbqyz',
+    question: '下列哪句是出自王勃《秋夜长》？',
+    id: 21389
+  },
+  {
+    answer: '风烟望五津',
+    indexes: 'xlnjbsczlbwzyycbx',
+    question: '下列哪句不是出自骆宾王《在狱咏蝉并序》？',
+    id: 21390
+  },
+  {
+    answer: '邀人傅粉粉',
+    indexes: 'xlnjsbsczwwdwctj',
+    question: '下列哪句诗不是出自王维的《渭川田家》？',
+    id: 21391
+  },
+  {
+    answer: '春风十里扬州路',
+    indexes: 'xlnjsczdmzbeszy',
+    question: '下列哪句是出自杜牧《赠别二首之一》？',
+    id: 21392
+  },
+  {
+    answer: '时雨侔昔贤',
+    indexes: 'xlnjsczlljszztskzyd',
+    question: '下列哪句是出自李隆基《送忠州太守康昭远等》？',
+    id: 21393
+  },
+  {
+    answer: '王事宁怠遑',
+    indexes: 'xlnjsczljfszsflzcleez',
+    question: '下列哪句是出自李峤《奉使筑朔方六州城率尔而作》？',
+    id: 21394
+  },
+  {
+    answer: '感时心绪杳难平',
+    indexes: 'xlnjsczlyjysros',
+    question: '下列哪句是出自李煜《九月十日偶书》？',
+    id: 21395
+  },
+  {
+    answer: '野蔬充膳甘长藿',
+    indexes: 'yzqbhsszemyxlnyj',
+    question: '元稹《遣悲怀三首之二》没有下列哪一句？',
+    id: 21396
+  },
+  {
+    answer: '垂条拂髻鬟',
+    indexes: 'xlnjsczcszyl',
+    question: '下列哪句是出自崔湜《折杨柳》？',
+    id: 21397
+  },
+  {
+    answer: '明珠在钓矶',
+    indexes: 'xlnjsczstkmcyzdwbbxsyjs',
+    question: '下列哪句是出自苏颋《昆明池晏坐答王兵部珣三韵见示》？',
+    id: 21398
+  },
+  {
+    answer: '风物凄凄宿雨收',
+    indexes: 'hfrcsmyxlnj',
+    question: '皇甫冉《春思》没有下列哪句？',
+    id: 21399
+  },
+  {
+    answer: '天门阵',
+    indexes: 'xlnxbsscdcpm',
+    question: '下列哪项不是宋词的词牌名？',
+    id: 21400
+  },
+  {
+    answer: '环佩空归月下魂',
+    indexes: 'xlnjbscdfyhgjwszs',
+    question: '下列哪句不是出杜甫《咏怀古迹五首之四》？',
+    id: 21401
+  },
+  {
+    answer: '月斜楼上五更钟',
+    indexes: 'lsywteszemyxlnj',
+    question: '李商隐《无题二首之二》没有下列哪句？',
+    id: 21402
+  },
+  {
+    answer: '君家何处住',
+    indexes: 'xlnjsczchzgxeszy',
+    question: '下列哪句是出自崔颢《长干行二首之一》？',
+    id: 21403
+  },
+  {
+    answer: '马毛带雪汗气蒸',
+    indexes: 'xlnjbsczdfjhjy',
+    question: '下列哪句不是出自杜甫《寄韩谏议》？',
+    id: 21404
+  },
+  {
+    answer: '两岸猿声啼不住',
+    indexes: 'lbxjlyxlnyj',
+    question: '李白《下江陵》有下列哪一句？',
+    id: 21405
+  },
+  {
+    answer: '晚憩王少府东阁',
+    indexes: 'xlnbbsyzqdzp',
+    question: '下列哪部不是颜真卿的作品？',
+    id: 21406
+  },
+  {
+    answer: '功疑复夏初',
+    indexes: 'xlnjsczjcxhhdwg',
+    question: '下列哪句是出自贾曾《孝和皇帝挽歌》？',
+    id: 21407
+  },
+  {
+    answer: '送和西蕃使',
+    indexes: 'xlnjsczdsyshxfs',
+    question: '下列哪句是出自杜审言《送和西蕃使》？',
+    id: 21408
+  },
+  {
+    answer: '惭非熏风唱',
+    indexes: 'xlnjsczlszhjryblcs',
+    question: '下列哪句是出自李适《中和节日宴百僚赐诗》？',
+    id: 21409
+  },
+  {
+    answer: '胡庭沙正飞',
+    indexes: 'xlnjsczlzlzjy',
+    question: '下列哪句是出自卢照邻《昭君怨》？',
+    id: 21410
+  },
+  {
+    answer: '春生积石河',
+    indexes: 'xlnjsczcryfhsjcgzsxf',
+    question: '下列哪句是出自崔日用《奉和送金城公主适西蕃》？',
+    id: 21411
+  },
+  {
+    answer: '万里相驰逐',
+    indexes: 'xlnjsczcsdmx',
+    question: '下列哪句是出自崔湜《大漠行》？',
+    id: 21412
+  },
+  {
+    answer: '周屏辞金殿',
+    indexes: 'xlnjsczlyzfhbyw',
+    question: '下列哪句是出自刘祎之《奉和别越王》？',
+    id: 21413
+  },
+  {
+    answer: '丹陵幸旧宫',
+    indexes: 'xlnjsczlsmzxwg',
+    question: '下列哪句是出自李世民《重幸武功》？',
+    id: 21414
+  },
+  {
+    answer: '《水调歌头》',
+    indexes: 'xlngbsyqzdqp',
+    question: '下列哪个不是元曲中的曲牌？',
+    id: 21415
+  },
+  {
+    answer: '《石壕吏》',
+    indexes: 'dfpbzhnhbjnszlhdsydzpxlnbbszyqjdzp',
+    question: '杜甫漂泊在湖南湖北境内时，作了很多失意的作品，下列哪部不是这一期间的作品？',
+    id: 21416
+  },
+  {
+    answer: '《登楼赋》',
+    indexes: 'smxrshcddwrbcwfsxlnbzpbsfsdbz',
+    question: '司马相如是汉朝的大文人，被称为“赋圣”，下列那部作品不是“赋圣”代表作？',
+    id: 21417
+  },
+  {
+    answer: '《书王知载朐山杂咏后》',
+    indexes: 'xlnssbsytyspsrdzp',
+    question: '下列哪首诗不属于田园诗派诗人的作品？',
+    id: 21418
+  },
+  {
+    answer: '《逍遥子》',
+    indexes: 'xlnbzpbsxqzzsw',
+    question: '下列哪部作品不是先秦诸子散文？',
+    id: 21419
+  },
+  {
+    answer: '《咏怀五百字》',
+    indexes: 'xlnxbsywyls',
+    question: '下列哪项不属于五言律诗？',
+    id: 21420
+  },
+  {
+    answer: '莫待无花空折枝',
+    indexes: 'xlnjsczdqnjly',
+    question: '下列哪句是出自杜秋娘《金缕衣》？',
+    id: 21421
+  },
+  {
+    answer: '《小石潭记》',
+    indexes: 'xlspbjytwyytsdsnx',
+    question: '下列诗篇不具有托物寓意特色的是哪项？',
+    id: 21422
+  },
+  {
+    answer: '夜久侵罗袜',
+    indexes: 'xlnjsczlbyjy',
+    question: '下列哪句是出自李白《玉阶怨》？',
+    id: 21423
+  },
+  {
+    answer: '独往岂殊调',
+    indexes: 'xlnjbsczlbwdyh',
+    question: '下列哪句不是出自骆宾王的《咏怀》？',
+    id: 21424
+  },
+  {
+    answer: '讵回道林辙',
+    indexes: 'xlnjsczszwjnsxyzjsbz',
+    question: '下列哪句是出自宋之问《见南山夕阳召监师不至》？',
+    id: 21425
+  },
+  {
+    answer: '吴山高渐出',
+    indexes: 'lbydyxgcyszlmmyxlnyj',
+    question: '李百药《登叶县故城谒沈诸梁庙》没有下列哪一句？',
+    id: 21426
+  },
+  {
+    answer: '忧从望里宽',
+    indexes: 'xlnjsczlbwwxxf',
+    question: '下列哪句是出自骆宾王《望乡夕泛》？',
+    id: 21427
+  },
+  {
+    answer: '孟浩然《夏日南亭怀辛大》',
+    indexes: 'hfsxqzldqxcznss',
+    question: '“荷风送香气，竹露滴清响。”出自哪首诗？',
+    id: 21428
+  },
+  {
+    answer: '庶敦朝野意',
+    indexes: 'xlnjsczlsjysbcblzsyssh',
+    question: '下列哪句是出自李适《九月十八赐百僚追赏因书所怀》？',
+    id: 21429
+  },
+  {
+    answer: '千秋乐未央',
+    indexes: 'xlnjsczlslddybl',
+    question: '下列哪句是出自李适《麟德殿宴百僚》？',
+    id: 21430
+  },
+  {
+    answer: '王粲',
+    indexes: 'jaqzzwxcjzgdss',
+    question: '建安七子中文学成就最高的是谁？',
+    id: 21431
+  },
+  {
+    answer: '风多杂鼓声',
+    indexes: 'xlnjsczyjcjx',
+    question: '下列哪句是出自杨炯《从军行》？',
+    id: 21432
+  },
+  {
+    answer: '松声晚窗里',
+    indexes: 'wcldtcdnzwyysycsfmyxlnyj',
+    question: '王昌龄的《同从弟南斋玩月忆山阴崔少府》没有下列哪一句？',
+    id: 21433
+  },
+  {
+    answer: '万户声明发',
+    indexes: 'xlnjsczlyzfhtznftpgzcj',
+    question: '下列哪句是出自刘祎之《奉和太子纳妃太平公主出降》？',
+    id: 21434
+  },
+  {
+    answer: '庶洽朝野意',
+    indexes: 'xlnjsczlszhjcbgyjyssh',
+    question: '下列哪句是出自李适《中和节赐百官燕集因示所怀》？',
+    id: 21435
+  },
+  {
+    answer: '南浦清江万里桥',
+    indexes: 'xlnjbscdfwgjshnhb',
+    question: '下列哪句不是出杜甫《闻官军收河南河北》？',
+    id: 21436
+  },
+  {
+    answer: '课成应第一',
+    indexes: 'xlnjsczlljslyzrht',
+    question: '下列哪句是出自李隆基《送李邕之任滑台》？',
+    id: 21437
+  },
+  {
+    answer: '表瑞良在兹',
+    indexes: 'xlnjsczlljwtdx',
+    question: '下列哪句是出自李隆基《温汤对雪》？',
+    id: 21438
+  },
+  {
+    answer: '心驰明月关',
+    indexes: 'xlnjsczyjzyl',
+    question: '下列哪句是出自杨炯《折杨柳》？',
+    id: 21439
+  },
+  {
+    answer: '烟销日出不见人',
+    indexes: 'xlnjbsczgsygxbx',
+    question: '下列哪句不是出自高适《燕歌行并序》？',
+    id: 21440
+  },
+  {
+    answer: '举头望明月',
+    indexes: 'xlnjsczlbys',
+    question: '下列哪句是出自李白《夜思》？',
+    id: 21441
+  },
+  {
+    answer: '忽见陌头杨柳色',
+    indexes: 'xlnjsczwclyjy',
+    question: '下列哪句是出自王昌龄《玉阶怨》？',
+    id: 21442
+  },
+  {
+    answer: '曳葛似攀樛',
+    indexes: 'lbwzfsyxlnj',
+    question: '骆宾王《至分陕》有下列哪句？',
+    id: 21443
+  },
+  {
+    answer: '波似洞庭秋',
+    indexes: 'xlnjsczlhynbcsykjdyz',
+    question: '下列哪句是出自李怀远《凝碧池侍宴看竞渡应制》？',
+    id: 21444
+  },
+  {
+    answer: '烟鸟栖初定',
+    indexes: 'xlnjbsczccdygsxjdcesft',
+    question: '下列哪句不是出自岑参的《与高适薛据登慈恩寺浮图》？',
+    id: 21445
+  },
+  {
+    answer: '愿君多采撷',
+    indexes: 'xlnjsczwwxs',
+    question: '下列哪句是出自王维《相思》？',
+    id: 21446
+  },
+  {
+    answer: '故国三千里',
+    indexes: 'xlnjsczzhhmz',
+    question: '下列哪句是出自张祜《何满子》？',
+    id: 21447
+  },
+  {
+    answer: '巫山连楚梦',
+    indexes: 'xlnjsczwbjnn',
+    question: '下列哪句是出自王勃《江南弄》？',
+    id: 21448
+  },
+  {
+    answer: '李白《赠孟浩然》',
+    indexes: 'zypzsmhbsjcznss',
+    question: '“醉月频中圣，迷花不事君”出自哪首诗？',
+    id: 21449
+  },
+  {
+    answer: '死生长别离',
+    indexes: 'xlnjbsczmdcjhg',
+    question: '下列哪句不是出自马戴《楚江怀古》？',
+    id: 21450
+  },
+  {
+    answer: '戏凫分断岸',
+    indexes: 'xlnjsczlzlhjzb',
+    question: '下列哪句是出自卢照邻《还京赠别》？',
+    id: 21451
+  },
+  {
+    answer: '衔泥力尚微',
+    indexes: 'xlnjsczzzyy',
+    question: '下列哪句是出自张鷟《咏燕》？',
+    id: 21452
+  },
+  {
+    answer: '左丘失明',
+    indexes: 'xmngqjbsxybjdzyqj',
+    question: '下面哪个情节不是《项羽本纪》的主要情节？',
+    id: 21453
+  },
+  {
+    answer: '清史',
+    indexes: 'xlnxbsyesssdfc',
+    question: '下列哪项不属于“二十四史”的范畴？',
+    id: 21454
+  },
+  {
+    answer: '晓月怜筝柱',
+    indexes: 'xlnjsczxybfs',
+    question: '下列哪句是出自徐彦伯《芳树》？',
+    id: 21455
+  },
+  {
+    answer: '持此谢高鸟',
+    indexes: 'xlnjbsczlbgsy',
+    question: '下列哪句不是出自李白《关山月》？',
+    id: 21456
+  },
+  {
+    answer: '光光草露团',
+    indexes: 'xlnjsczycqywy',
+    question: '下列哪句是出自姚崇《秋夜望月》？',
+    id: 21457
+  },
+  {
+    answer: '九日送人',
+    indexes: 'xmnbzpbsrhd',
+    question: '下面哪部作品不是任华的？',
+    id: 21458
+  },
+  {
+    answer: '萧条异代不同时',
+    indexes: 'xlnjbscdfyhgjwszs',
+    question: '下列哪句不是出杜甫《咏怀古迹五首之三》？',
+    id: 21459
+  },
+  {
+    answer: '前旌阙塞通',
+    indexes: 'xlnjsczzjlfhsztcszz',
+    question: '下列哪句是出自张九龄《奉和圣制途次陕州作》？',
+    id: 21460
+  },
+  {
+    answer: '金门披玉馆',
+    indexes: 'xlnjsczlxdlsgdym',
+    question: '下列哪句是出自李显《登骊山高顶寓目》？',
+    id: 21461
+  },
+  {
+    answer: '指麾八荒定',
+    indexes: 'xlnjsczlsmxwgqsg',
+    question: '下列哪句是出自李世民《幸武功庆善宫》？',
+    id: 21462
+  },
+  {
+    answer: '转战入皋兰',
+    indexes: 'xlnjsczlzlzlm',
+    question: '下列哪句是出自卢照邻《紫骝马》？',
+    id: 21463
+  },
+  {
+    answer: '新妆曲未终',
+    indexes: 'xlnjsczdsydzsysmr',
+    question: '下列哪句是出自杜审言《代张侍御伤美人》？',
+    id: 21464
+  },
+  {
+    answer: '滢荧心欲无',
+    indexes: 'xlnjsczszwdth',
+    question: '下列哪句是出自宋之问《洞庭湖》？',
+    id: 21465
+  },
+  {
+    answer: '中峰绕瑞烟',
+    indexes: 'xlnjsczdsyplsdsyfcyznsyz',
+    question: '下列哪句是出自杜审言《蓬莱三殿侍宴奉敕咏终南山应制》？',
+    id: 21466
+  },
+  {
+    answer: '生',
+    indexes: 'xlngbsyzjzdzyjs',
+    question: '下列哪个不是元杂剧中的主要角色？',
+    id: 21467
+  },
+  {
+    answer: '东日华组练',
+    indexes: 'xlnjsczlljxlycxfdxltjyysqg',
+    question: '下列哪句是出自李隆基《校猎义成喜逢大雪率题九韵以示群官》？',
+    id: 21468
+  },
+  {
+    answer: '东关望渐赊',
+    indexes: 'xlnjsczyjsfcwsf',
+    question: '下列哪句是出自杨炯《送丰城王少府》？',
+    id: 21469
+  },
+  {
+    answer: '李商隐《韩碑》',
+    indexes: 'xlnssbsqylf',
+    question: '下列哪首诗不是七言乐府？',
+    id: 21470
+  },
+  {
+    answer: '戴复古',
+    indexes: 'nscxlygspjhpxlnwdjhpdyxzd',
+    question: '南宋出现了一个诗派“江湖派”，下列哪位对江湖派的影响最大？',
+    id: 21471
+  },
+  {
+    answer: '元宗道',
+    indexes: 'xlnwsrbsymdhqz',
+    question: '下列哪位诗人不属于明代后七子？',
+    id: 21472
+  },
+  {
+    answer: '依然蹑云背',
+    indexes: 'xlnjsczwbhmyx',
+    question: '下列哪句是出自王勃《忽梦游仙》？',
+    id: 21473
+  },
+  {
+    answer: '冰□已镂津',
+    indexes: 'xlnjsczlzss',
+    question: '下列哪句是出自李治《守岁》？',
+    id: 21474
+  },
+  {
+    answer: '阁道遂成墟',
+    indexes: 'xlnjsczlxxqshl',
+    question: '下列哪句是出自李显《幸秦始皇陵》？',
+    id: 21475
+  },
+  {
+    answer: '侍宴应诏赋韵得前字',
+    indexes: 'xlnbbslbdzp',
+    question: '下列哪部不是李白的作品？',
+    id: 21476
+  },
+  {
+    answer: '李颀《燕歌行》',
+    indexes: 'xlgysrjqzpdjscwdsnx',
+    question: '下列关于诗人及其作品的介绍错误的是哪项？',
+    id: 21477
+  },
+  {
+    answer: '寥廓烟云表',
+    indexes: 'xlnjsczlzydces',
+    question: '下列哪句是出自李治《谒大慈恩寺》？',
+    id: 21478
+  },
+  {
+    answer: '平砧捣文练',
+    indexes: 'xlnjsczqzzcj',
+    question: '下列哪句是出自乔知之《从军》？',
+    id: 21479
+  },
+  {
+    answer: '二十四桥明月夜',
+    indexes: 'xlnjsczdmjyzhcpg',
+    question: '下列哪句是出自杜牧《寄扬州韩绰判官》？',
+    id: 21480
+  },
+  {
+    answer: '彭泽菊初收',
+    indexes: 'xlnjsczlxjyjrxlwtdgdqz',
+    question: '下列哪句是出自李显《九月九日幸临渭亭登高得秋字》？',
+    id: 21481
+  },
+  {
+    answer: '勿以恶小而为之',
+    indexes: 'xlnjsbsczyxqsw',
+    question: '下列哪句诗不是出自于先秦散文？',
+    id: 21482
+  },
+  {
+    answer: '复值接舆醉',
+    indexes: 'xlnjbsczlcqslzcghyby',
+    question: '下列哪句不是出自刘常卿《送李中丞归汉阳别业》？',
+    id: 21483
+  },
+  {
+    answer: '公子黄金勒',
+    indexes: 'xlnjsczlzlsyqsydzz',
+    question: '下列哪句是出自卢照邻《三月曲水宴得尊字》？',
+    id: 21484
+  },
+  {
+    answer: '韦庄',
+    indexes: 'xlnwsrbsyhmsp',
+    question: '下列哪位诗人不属于韩孟诗派？',
+    id: 21485
+  },
+  {
+    answer: '那堪玄鬓影',
+    indexes: 'xlnjbsczszwtdylby',
+    question: '下列哪句不是出自宋之问《题大庾岭北驿》？',
+    id: 21486
+  },
+  {
+    answer: '秋山落日寒',
+    indexes: 'xlnjsczlbwqrshsddz',
+    question: '下列哪句是出自骆宾王《秋日送侯四得弹字》？',
+    id: 21487
+  },
+  {
+    answer: '屏欲除奢政返淳',
+    indexes: 'xlnjsczlzxhdyjczqblt',
+    question: '下列哪句是出自李治《咸亨殿宴近臣诸亲柏梁体》？',
+    id: 21488
+  },
+  {
+    answer: '空歌思杀人',
+    indexes: 'xlnjsczlxygs',
+    question: '下列哪句是出自刘希夷《归山》？',
+    id: 21489
+  },
+  {
+    answer: '飞花搅独愁',
+    indexes: 'xlnjsczdsyfdqbm',
+    question: '下列哪句是出自杜审言《赋得妾薄命》？',
+    id: 21490
+  },
+  {
+    answer: '春来花鸟若为情',
+    indexes: 'xlnjsczcryjtyc',
+    question: '下列哪句是出自崔日用《饯唐永昌》？',
+    id: 21491
+  },
+  {
+    answer: '是以陷邻境',
+    indexes: 'xlnjbsczmhrdsyssfdddbz',
+    question: '下列哪句不是出自孟浩然的《宿业师山房待丁大不至》？',
+    id: 21492
+  },
+  {
+    answer: '风泉满清听',
+    indexes: 'xlnjbsczwwdwctj',
+    question: '下列哪句不是出自王维的《渭川田家》？',
+    id: 21493
+  },
+  {
+    answer: '落花犹似坠楼人',
+    indexes: 'xlnjsczdmjgy',
+    question: '下列哪句是出自杜牧《金谷园》？',
+    id: 21494
+  },
+  {
+    answer: '趋趋兮跄跄',
+    indexes: 'xlnjsczycyywmep',
+    question: '下列哪句是出自阎朝隐《鹦鹉猫儿篇》？',
+    id: 21495
+  },
+  {
+    answer: '余得奉戎旃',
+    indexes: 'xlnjsczczaxhzsgdqbqzz',
+    question: '下列哪句是出自陈子昂《西还至散关答乔补阙知之》？',
+    id: 21496
+  },
+  {
+    answer: '近种篱边菊',
+    indexes: 'xlnjbsczwzztys',
+    question: '下列哪句不是出自韦庄《章台夜思》？',
+    id: 21497
+  },
+  {
+    answer: '马上相逢无纸笔',
+    indexes: 'xlnjsczccfrjs',
+    question: '下列哪句是出自岑参《逢入京使》？',
+    id: 21498
+  },
+  {
+    answer: '潮落夜江斜月里',
+    indexes: 'xlnjsczzhtjld',
+    question: '下列哪句是出自张祜《题金陵渡》？',
+    id: 21499
+  },
+  {
+    answer: '高宴齿簪缨',
+    indexes: 'lbyfhzrlcyzmyxlnyj',
+    question: '李百药《奉和正日临朝应诏》没有下列哪一句？',
+    id: 21500
+  },
+  {
+    answer: '不见有人还',
+    indexes: 'xlnjbsczlbzgx',
+    question: '下列哪句不是出自李白《长干行》？',
+    id: 21501
+  },
+  {
+    answer: '门疑待佛开',
+    indexes: 'xlnjsczcscesjryz',
+    question: '下列哪句是出自崔湜《慈恩寺九日应制》？',
+    id: 21502
+  },
+  {
+    answer: '遵渚未来鸿',
+    indexes: 'xlnjsczlbwyyyhjztb',
+    question: '下列哪句是出自骆宾王《月夜有怀简诸同病》？',
+    id: 21503
+  },
+  {
+    answer: '珠箔飘灯独自归',
+    indexes: 'xlnjbscwtylznd',
+    question: '下列哪句不是出温庭筠《利洲南渡》？',
+    id: 21504
+  },
+  {
+    answer: '万里黄河绕黑山',
+    indexes: 'xlnjsczlzyzry',
+    question: '下列哪句是出自柳中庸《征人怨》？',
+    id: 21505
+  },
+  {
+    answer: '今夜偏知春气暖',
+    indexes: 'xlnjsczlfpyy',
+    question: '下列哪句是出自刘方平《月夜》？',
+    id: 21506
+  },
+  {
+    answer: '不堪闲坐细思量',
+    indexes: 'xlnjsczlydzjwscqx',
+    question: '下列哪句是出自李煜《渡中江望石城泣下》？',
+    id: 21507
+  },
+  {
+    answer: '前事不忘，后事之师',
+    indexes: 'xlnjbsczsj',
+    question: '下列哪句不是出自《史记》？',
+    id: 21508
+  },
+  {
+    answer: '随意春芳歇',
+    indexes: 'xlnjbsczmhryzzdxs',
+    question: '下列哪句不是出自孟浩然《与诸子登岘山》？',
+    id: 21509
+  },
+  {
+    answer: '长征马不肥',
+    indexes: 'xlnjsczgzss',
+    question: '下列哪句是出自郭震《塞上》？',
+    id: 21510
+  },
+  {
+    answer: '业复五铢钱',
+    indexes: 'xlnjbsczmhrqmrymdsf',
+    question: '下列哪句不是出自孟浩然《清明日宴梅道士房》？',
+    id: 21511
+  },
+  {
+    answer: '波似洞庭秋',
+    indexes: 'xlnjsczlhynbcsykjdyz',
+    question: '下列哪句是出自李怀远《凝碧池侍宴看竞渡应制》？',
+    id: 21512
+  },
+  {
+    answer: '苍生欲问天',
+    indexes: 'xlnjsczyjfhsypyyz',
+    question: '下列哪句是出自杨炯《奉和上元酺宴应诏》？',
+    id: 21513
+  },
+  {
+    answer: '枝从点缀新',
+    indexes: 'xlnjsczzjljc',
+    question: '下列哪句是出自张九龄《剪彩》？',
+    id: 21514
+  },
+  {
+    answer: '和燕公岳州山城',
+    indexes: 'xlnbbshzzdzp',
+    question: '下列哪部不是贺知章的作品？',
+    id: 21515
+  },
+  {
+    answer: '夕阳破东山',
+    indexes: 'xlnjsczszwcdlhsz',
+    question: '下列哪句是出自宋之问《初到陆浑山庄》？',
+    id: 21516
+  },
+  {
+    answer: '春风拂槛露华浓',
+    indexes: 'xlnjsczlbqpdsszy',
+    question: '下列哪句是出自李白《清平调三首之一》？',
+    id: 21517
+  },
+  {
+    answer: '灯前饶看人',
+    indexes: 'xlnjsczczxsyyxxyt',
+    question: '下列哪句是出自崔知贤《上元夜效小庾体》？',
+    id: 21518
+  },
+  {
+    answer: '鸿雁不堪愁里听',
+    indexes: 'xlnjbscchxjhy',
+    question: '下列哪句不是出崔颢《行经华阴》？',
+    id: 21519
+  },
+  {
+    answer: '别来沧海事',
+    indexes: 'xlnjbsczwywhsxhlcgr',
+    question: '下列哪句不是出自韦应物《淮上喜会梁川故人》？',
+    id: 21520
+  },
+  {
+    answer: '容色朝朝落',
+    indexes: 'xlnjsczlzlfs',
+    question: '下列哪句是出自卢照邻《芳树》？',
+    id: 21521
+  },
+  {
+    answer: '予卧南山阿',
+    indexes: 'xlnjsczszwbzwhdsltsz',
+    question: '下列哪句是出自宋之问《别之望后独宿蓝田山庄》？',
+    id: 21522
+  },
+  {
+    answer: '哀命返穷愁',
+    indexes: 'xlnjsczlbwqrsb',
+    question: '下列哪句是出自骆宾王《秋日送别》？',
+    id: 21523
+  },
+  {
+    answer: '零落从此始',
+    indexes: 'xlnjsczlxygsp',
+    question: '下列哪句是出自刘希夷《孤松篇》？',
+    id: 21524
+  },
+  {
+    answer: '可怜夜半虚前席',
+    indexes: 'xlnjsczlsyjs',
+    question: '下列哪句是出自李商隐《贾生》？',
+    id: 21525
+  },
+  {
+    answer: '故垒萧萧芦荻秋',
+    indexes: 'xlnjbscqqzqxpsr',
+    question: '下列哪句不是出钱起《赠阙下裴舍人》？',
+    id: 21526
+  },
+  {
+    answer: '余氛向日镕',
+    indexes: 'xlnjsczxtzhcygpcks',
+    question: '下列哪句是出自许天正《和陈元光平潮寇诗》？',
+    id: 21527
+  },
+  {
+    answer: '离魂暗马惊',
+    indexes: 'xlnjsczcscdltcs',
+    question: '下列哪句是出自崔湜《酬杜麟台春思》？',
+    id: 21528
+  },
+  {
+    answer: '贵戚权门得笔迹',
+    indexes: 'hyssmyxlnyj',
+    question: '韩愈《山石》没有下列哪一句？',
+    id: 21529
+  },
+  {
+    answer: '行到中庭数花朵',
+    indexes: 'xlnjsczlyxcc',
+    question: '下列哪句是出自刘禹锡《春词》？',
+    id: 21530
+  },
+  {
+    answer: '日落征途远',
+    indexes: 'xlnjsczlbyqwdgc',
+    question: '下列哪句是出自李百药《秋晚登古城》？',
+    id: 21531
+  },
+  {
+    answer: '犹为离人照落花',
+    indexes: 'zmjryxlnyj',
+    question: '张泌《寄人》有下列哪一句？',
+    id: 21532
+  },
+  {
+    answer: '西山寇盗莫相侵',
+    indexes: 'xlnjbscdfsf',
+    question: '下列哪句不是出杜甫《宿府》？',
+    id: 21533
+  },
+  {
+    answer: '茫茫江汉上',
+    indexes: 'xlnjbsczsksxwdlljs',
+    question: '下列哪句不是出自司空曙《喜外弟卢纶见宿》？',
+    id: 21534
+  },
+  {
+    answer: '烟空绿野闲',
+    indexes: 'xlnjsczcsjbcw',
+    question: '下列哪句是出自崔湜《冀北春望》？',
+    id: 21535
+  },
+  {
+    answer: '雷声峡外长',
+    indexes: 'xlnjsczwwjws',
+    question: '下列哪句是出自王无竞《巫山》？',
+    id: 21536
+  },
+  {
+    answer: '方远御慈留',
+    indexes: 'xlnjsczcsfhsjcgzsxfyz',
+    question: '下列哪句是出自崔湜《奉和送金城公主适西蕃应制》？',
+    id: 21537
+  },
+  {
+    answer: '钟鼓震岩廊',
+    indexes: 'xlnjsczlsmzrlc',
+    question: '下列哪句是出自李世民《正日临朝》？',
+    id: 21538
+  },
+  {
+    answer: '向宠诗集',
+    indexes: 'xlngsjbssgsqdsj',
+    question: '下列哪个诗集不是三国时期的诗集？',
+    id: 21539
+  },
+  {
+    answer: '鸣筝金粟柱',
+    indexes: 'xlnjsczldtz',
+    question: '下列哪句是出自李端《听筝》？',
+    id: 21540
+  },
+  {
+    answer: '天行万乘出',
+    indexes: 'xlnjsczljhchlcscqg',
+    question: '下列哪句是出自李峤《扈从还洛呈侍从群官》？',
+    id: 21541
+  },
+  {
+    answer: '沅有芷兮澧有兰',
+    indexes: 'xlnstdsrlbddbzxlnjsbsczxln',
+    question: '《行路难》是唐代诗人李白的代表作，下列哪句诗不是出自《行路难》？',
+    id: 21542
+  },
+  {
+    answer: '樵人归欲尽',
+    indexes: 'xlnjbsczwywdjqjszds',
+    question: '下列哪句不是出自韦应物的《寄全椒山中道士》？',
+    id: 21543
+  },
+  {
+    answer: '锦帆应是到天涯',
+    indexes: 'xlnjbsclsywteszy',
+    question: '下列哪句不是出李商隐《无题二首之一》？',
+    id: 21544
+  },
+  {
+    answer: '白日落梁州',
+    indexes: 'xlnjbsczxhzq',
+    question: '下列哪句不是出自许浑《早秋》？',
+    id: 21545
+  },
+  {
+    answer: '苍山望不穷',
+    indexes: 'xlnjsczlzlrqcj',
+    question: '下列哪句是出自卢照邻《入秦川界》？',
+    id: 21546
+  },
+  {
+    answer: '云车未可攀',
+    indexes: 'xlnjsczlbwyzygzds',
+    question: '下列哪句是出自骆宾王《于紫云观赠道士》？',
+    id: 21547
+  },
+  {
+    answer: '王业成艰难',
+    indexes: 'xlnjsczzjlfhszxjyg',
+    question: '下列哪句是出自张九龄《奉和圣制幸晋阳宫》？',
+    id: 21548
+  },
+  {
+    answer: '山宫四序寒',
+    indexes: 'xlnjsczlyzjcgqcyz',
+    question: '下列哪句是出自刘祎之《九成宫秋初应诏》？',
+    id: 21549
+  },
+  {
+    answer: '讵知南土热',
+    indexes: 'xlnjsczstyfsqjs',
+    question: '下列哪句是出自苏颋《夜发三泉即事》？',
+    id: 21550
+  },
+  {
+    answer: '金轮法王',
+    indexes: 'mczxzffdsdfwhwddfzwtcxzbwxlnwbsybwzl',
+    question: '明朝在西藏分封的三大法王和五大地方之王，统称西藏八王，下列哪位不属于八王之列？',
+    id: 21551
+  },
+  {
+    answer: '20',
+    indexes: 'qmshtzdrwgydswnx',
+    question: '《清明上河图》中的人物共有多少位女性？',
+    id: 21552
+  },
+  {
+    answer: '麦克·约翰逊',
+    indexes: 'xlnwbsysjqtdcqrw',
+    question: '下列哪位不属于世界拳坛的传奇人物？',
+    id: 21553
+  },
+  {
+    answer: '佛香阁',
+    indexes: 'xlngftbszjcdzcft',
+    question: '下列哪个佛堂不是紫禁城的藏传佛堂？',
+    id: 21554
+  },
+  {
+    answer: '闻鸡起舞',
+    indexes: 'xlngcsjdddg',
+    question: '下列哪个才是晋代的典故？',
+    id: 21555
+  },
+  {
+    answer: '岳王剑',
+    indexes: 'xlnbjbsyzggdmj',
+    question: '下列哪把剑不属于中国古代名剑？',
+    id: 21556
+  },
+  {
+    answer: '洪州窑',
+    indexes: 'xlngbswglssfjsnymdcqyk',
+    question: '下列哪个不是我国历史上福建省内有名的瓷器窑口？',
+    id: 21557
+  },
+  {
+    answer: '杨亿',
+    indexes: 'xlnwcsxtsgzyzj',
+    question: '下列哪位才是西□体诗歌主要作家？',
+    id: 21558
+  },
+  {
+    answer: '刘政会',
+    indexes: 'xlnwbsytdymdsbxs',
+    question: '下列哪位不属于唐代有名的十八学士？',
+    id: 21559
+  },
+  {
+    answer: '刘禹锡',
+    indexes: 'srcbjydjrwxsjlqwxlnwbsyjlzl',
+    question: '世人称白居易等九人为“香山九老”，请问下列哪位不属于九老之列？',
+    id: 21560
+  },
+  {
+    answer: '请人吃饭',
+    indexes: 'cjszgzzydctjrznlxnzjtzgrdhyyxjhxlnxbszgrgndjh',
+    question:
+      '春节是中国最重要的传统节日，在农历新年这几天中国人都会有一些忌讳，下列哪项不是中国人过年的忌讳？',
+    id: 21561
+  },
+  {
+    answer: '祭祀',
+    indexes: 'xlnxbsydyljddzdhly',
+    question: '下列哪项不属于大禹陵祭典的制度和礼仪？',
+    id: 21562
+  },
+  {
+    answer: '裴里匹底斯',
+    indexes: 'mlsspswjnsesld',
+    question: '马拉松赛跑是为纪念谁而设立的？',
+    id: 21563
+  },
+  {
+    answer: '熏制',
+    indexes: 'xlnxbsztqdctgy',
+    question: '下列哪项不是制陶器的传统工艺？',
+    id: 21564
+  },
+  {
+    answer: '土鳖',
+    indexes: 'zggdzmdjddybbkxlnx',
+    question: '中国古代著名的九大毒药不包括下列哪项？',
+    id: 21565
+  },
+  {
+    answer: '高粱酒',
+    indexes: 'xlnzjbsgdjrqj',
+    question: '下列哪种酒不是古代节日庆酒？',
+    id: 21566
+  },
+  {
+    answer: '王丽萍',
+    indexes: 'xlnwsjydymydpsjjl',
+    question: '下列哪位射箭运动员没有打破世界纪录？',
+    id: 21567
+  },
+  {
+    answer: '王军霞',
+    indexes: 'dyghowsjdzgrss',
+    question: '第一个获欧文斯奖的中国人是谁？',
+    id: 21568
+  },
+  {
+    answer: '罗宪',
+    indexes: 'sgmjmcdfqnhmxltsxlnwbsxlrw',
+    question: '三国名将马超的父亲乃汉末西凉太守，下列哪位不是西凉人物？',
+    id: 21569
+  },
+  {
+    answer: '关平',
+    indexes: 'xlsswhjhy',
+    question: '下列谁是五虎将后裔？',
+    id: 21570
+  },
+  {
+    answer: '蒙毅',
+    indexes: 'xlnwbsyqgdcz',
+    question: '下列哪位不属于秦国的臣子？',
+    id: 21571
+  },
+  {
+    answer: '约翰.斯托克顿',
+    indexes: 'NBApjzgzddqyss',
+    question: 'NBA平均助攻最多的球员是谁？',
+    id: 21572
+  },
+  {
+    answer: '阿姆斯特朗',
+    indexes: 'hdzgjzddhfzxcxsss',
+    question: '获得总冠军最多的环法自行车选手是谁?',
+    id: 21573
+  },
+  {
+    answer: '太常监',
+    indexes: 'xlnxbcsgzmc',
+    question: '下列哪项不才是官职名称？',
+    id: 21574
+  },
+  {
+    answer: '潘岳',
+    indexes: 'xjdsfhsgwmysqzddbwessyxlnwbsyessy',
+    question: '西晋的士风和诗歌闻名于世，其中的代表为“二十四友”，下列哪位不属于“二十四友”？',
+    id: 21575
+  },
+  {
+    answer: '凯尔特人',
+    indexes: 'NBAlsshdgjzddqds',
+    question: 'NBA历史上获得冠军最多的球队是？',
+    id: 21576
+  },
+  {
+    answer: '梁鼎芬',
+    indexes: 'xlnwbcwlnjdsjzy',
+    question: '下列哪位被称为“岭南近代四家”之一？',
+    id: 21577
+  },
+  {
+    answer: '杨戬',
+    indexes: 'xlnywbsybsycmzzdlz',
+    question: '下列哪一位不属于北宋有臭名昭著的“六贼”？',
+    id: 21578
+  },
+  {
+    answer: '伊菲图斯',
+    indexes: 'gdayhcsrss',
+    question: '古代奥运会创始人是谁？',
+    id: 21579
+  },
+  {
+    answer: '幽州',
+    indexes: 'zglscyjzzcxmnxbsjzzl',
+    question: '中国历史曾有“九州”之称，下面哪项不是九州之列？',
+    id: 21580
+  },
+  {
+    answer: '密阵',
+    indexes: 'sbbfzybzzfxlnyxbsybzf',
+    question: '《孙膑兵法》中有八种阵法，下列哪一项不属于八阵法？',
+    id: 21581
+  },
+  {
+    answer: '垫底',
+    indexes: 'xlngtyycbsqyygd',
+    question: '下列那个体育用词不是起源于古代？',
+    id: 21582
+  },
+  {
+    answer: '李伯年',
+    indexes: 'lxqcjzlcsyzgmdsjzgmnymbbgszyqwxlnwbsbbgszy',
+    question:
+      '《列仙全传》记载了财神爷赵公明的事迹，赵公明乃元明八部鬼帅之一，请问下列哪位不是八部鬼帅之一？',
+    id: 21583
+  },
+  {
+    answer: '李燮',
+    indexes: 'xlnwsmgljzzy',
+    question: '下列哪位是民国六君子之一？',
+    id: 21584
+  },
+  {
+    answer: '孙武',
+    indexes: 'xlnwbszgsqdzhj',
+    question: '下列哪位不是战国时期的纵横家？',
+    id: 21585
+  },
+  {
+    answer: '炮烙',
+    indexes: 'xlnxsscflzdzdxf',
+    question: '下列哪项是商朝法律制度中的刑罚？',
+    id: 21586
+  },
+  {
+    answer: '恭亲王',
+    indexes: 'qcfjdfsfwjgfhefxlnwtmzwsyef',
+    question: '清朝封爵的方式分为军功封和恩封，下列哪位铁帽子王属于恩封？',
+    id: 21587
+  },
+  {
+    answer: '北宋王安石封爵王国公',
+    indexes: 'xlgygrdjmbscwds',
+    question: '下列关于古人的爵名表述错误的是？',
+    id: 21588
+  },
+  {
+    answer: '镇抚使',
+    indexes: 'xlngzwsnscqccxd',
+    question: '下列哪个职务是南宋初期才出现的？',
+    id: 21589
+  },
+  {
+    answer: '知命是男子六十岁',
+    indexes: 'gwzgynldcwcwds',
+    question: '古文中关于年龄的称谓错误的是？',
+    id: 21590
+  },
+  {
+    answer: '八王之乱',
+    indexes: 'xlngzsbsfszwjnbcsq',
+    question: '下列哪个战事不是发生在魏晋南北朝时期？',
+    id: 21591
+  },
+  {
+    answer: '《移豫州檄》',
+    indexes: 'jaqzdyzdyscmdzpyjbzpdswjaqzzjxlnbbszpgyjaqzdzp',
+    question:
+      '建安七子的原著都已失传，明代张溥有几部作品都是为建安七子做集，下列哪部不是张溥关于建安七子的作品？',
+    id: 21592
+  },
+  {
+    answer: '《新书》',
+    indexes: 'xlnbzpbsjyddbz',
+    question: '下列那部作品不是贾谊的代表作？',
+    id: 21593
+  },
+  {
+    answer: '《国风》',
+    indexes: 'twzszgzxlsjrjdsebjskxscsejxlnxbsysej',
+    question: '唐文宗时在国子学立石将儒家的十二部经书刻下，史称“十二经”，下列哪项不属于“十二经”',
+    id: 21594
+  },
+  {
+    answer: '《春江花月夜》',
+    indexes: 'xlnxbsyzclfts',
+    question: '下列哪项不属于自创乐府体诗？',
+    id: 21595
+  },
+  {
+    answer: '《韩非子》',
+    indexes: 'zggdwhzrjszwzldwhxlnxbsrjjd',
+    question: '中国古代文化中，儒家是最为主流的文化，下列哪项不是儒家经典？',
+    id: 21596
+  },
+  {
+    answer: '《老子》',
+    indexes: 'qcdjstcjlwgrdmzpwlczsxlnxbslczs',
+    question: '清朝的金圣叹曾将六位古人的名著评为“六才子书”，下列哪项不是“六才子书”？',
+    id: 21597
+  },
+  {
+    answer: '25届',
+    indexes: 'sjjyayhsnj',
+    question: '首届禁烟奥运会是哪届？',
+    id: 21598
+  },
+  {
+    answer: '6',
+    indexes: 'qcjqmgbzxsnrmqtzdsqcgydsq',
+    question: '清朝将全蒙古部众悉数纳入盟旗体制，当时清朝共有多少旗？',
+    id: 21599
+  },
+  {
+    answer: '苎萝更蒙遮',
+    indexes: 'xlnjsczszwhspzlsr',
+    question: '下列哪句是出自宋之问《浣纱篇赠陆上人》？',
+    id: 21600
+  },
+  {
+    answer: '雁声远过潇湘去',
+    indexes: 'xlnjsczwtyysy',
+    question: '下列哪句是出自温庭筠《瑶瑟怨》？',
+    id: 21601
+  },
+  {
+    answer: '且将团扇共徘徊',
+    indexes: 'xlnjsczwclzxy',
+    question: '下列哪句是出自王昌龄《长信怨》？',
+    id: 21602
+  },
+  {
+    answer: '依旧烟笼十里堤',
+    indexes: 'wzjltyxlnj',
+    question: '韦庄《金陵图》有下列哪句？',
+    id: 21603
+  },
+  {
+    answer: '苏黎世',
+    indexes: 'gjzlzbzn',
+    question: '国际足联总部在哪？',
+    id: 21604
+  },
+  {
+    answer: '锺繇',
+    indexes: 'xlnwssgswsfj',
+    question: '下列哪位是三国时魏书法家？',
+    id: 21605
+  },
+  {
+    answer: '象筵敷念诚',
+    indexes: 'xlnjsczszwyfhs',
+    question: '下列哪句是出自宋之问《游法华寺》？',
+    id: 21606
+  },
+  {
+    answer: '高若讷',
+    indexes: 'ssmxxszdqzzmdnsmljzxlnwbssmljzzy',
+    question: '苏轼门下学生众多，其中著名的乃“苏门六君子”，下列哪位不是“苏门六君子”之一？',
+    id: 21607
+  },
+  {
+    answer: '进对一言重',
+    indexes: 'xlnjsczlljdwsdyqctdsz',
+    question: '下列哪句是出自李隆基《端午三殿宴群臣探得神字》？',
+    id: 21608
+  },
+  {
+    answer: '恤人予是资',
+    indexes: 'xlnjsczlssxzzjfhz',
+    question: '下列哪句是出自李适《送徐州张建封还镇》？',
+    id: 21609
+  },
+  {
+    answer: '临风怅怀此',
+    indexes: 'xlnjsczlsjxzssmfr',
+    question: '下列哪句是出自李適《饯许州宋司马赴任》？',
+    id: 21610
+  },
+  {
+    answer: '筑鞠',
+    indexes: 'zggdjyzqydxlxxngbszqdgc',
+    question: '中国古代就有足球运动，下列选项哪个不是足球的古称？',
+    id: 21611
+  },
+  {
+    answer: '韦庄《章台夜思》',
+    indexes: 'xlnssbsqyls',
+    question: '下列哪首诗不是七言律诗？',
+    id: 21612
+  },
+  {
+    answer: '歌吹宛犹昨',
+    indexes: 'xlnjsczwwjtqt',
+    question: '下列哪句是出自王无竞《铜雀台》？',
+    id: 21613
+  },
+  {
+    answer: '杨玉环',
+    indexes: 'xrmndczbyxhsszdjdzmlnmxhszs',
+    question: '形容美女的词中，闭月羞花算是最顶级的赞美了，那么羞花是指谁？',
+    id: 21614
+  },
+  {
+    answer: '二十三',
+    indexes: 'hwdyyfwnjqgfwjgz',
+    question: '汉武帝于元封五年将全国分为几个州？',
+    id: 21615
+  },
+  {
+    answer: '超喻',
+    indexes: 'yxnzbsybyxs',
+    question: '以下哪种不属于比喻形式？',
+    id: 21616
+  },
+  {
+    answer: '深林人不知',
+    indexes: 'xlnjsczwwzlg',
+    question: '下列哪句是出自王维《竹里馆》？',
+    id: 21617
+  },
+  {
+    answer: '桂馥青溪里',
+    indexes: 'xlnjsczwbssfjyydzz',
+    question: '下列哪句是出自王勃《上巳浮江宴韵得址字》？',
+    id: 21618
+  },
+  {
+    answer: '明日河梁上',
+    indexes: 'xlnjsczlbysb',
+    question: '下列哪句是出自李百药《送别》？',
+    id: 21619
+  },
+  {
+    answer: '韩非',
+    indexes: 'xlnywsfjddbrw',
+    question: '下列哪一位是法家的代表人物？',
+    id: 21620
+  },
+  {
+    answer: '不须怀抱重凄凄',
+    indexes: 'xlnjsczlysdwesdcymxc',
+    question: '下列哪句是出自李煜《送邓王二十弟从益牧宣城》？',
+    id: 21621
+  },
+  {
+    answer: '柳亚子',
+    indexes: 'nssqcmnstmhyxecldzmjbwxttxlnwsnsddbrw',
+    question: '南社是清朝末年受同盟会影响而成立的著名进步文学团体，下列哪位是南社的代表人物？',
+    id: 21622
+  },
+  {
+    answer: '欲穷千里目',
+    indexes: 'xlnjsczwzhdgql',
+    question: '下列哪句是出自王之涣《登鹳雀楼》？',
+    id: 21623
+  },
+  {
+    answer: '云阴带叶昏',
+    indexes: 'xlnjsczlbwsflhs',
+    question: '下列哪句是出自骆宾王《送费六还蜀》？',
+    id: 21624
+  },
+  {
+    answer: '上有双竹林',
+    indexes: 'xlnjsczgzcjq',
+    question: '下列哪句是出自郭震《春江曲》？',
+    id: 21625
+  },
+  {
+    answer: '秋深烟雾多',
+    indexes: 'xlnjsczyjszzzsk',
+    question: '下列哪句是出自杨炯《送郑州周司空》？',
+    id: 21626
+  },
+  {
+    answer: '芳草已云暮',
+    indexes: 'xlnjbsczwtysrdy',
+    question: '下列哪句不是出自温庭筠《送人东游》？',
+    id: 21627
+  },
+  {
+    answer: '陇西',
+    indexes: 'tdkclzgzqssdhfdjzxmnxbsytcsdzy',
+    question: '唐代开创了中国政区史上道和府的建制，下面哪项不属于唐朝十道之一？',
+    id: 21628
+  },
+  {
+    answer: '剑南五府经略使',
+    indexes: 'tczqcyfzgjdjmgysgfzmgfzsyjdsxlnwbsyfzjds',
+    question:
+      '唐朝长期处于藩镇割据的局面，共有十个藩镇，每个藩镇设有节度使，下列哪位不属于藩镇节度使？',
+    id: 21629
+  },
+  {
+    answer: '苏联',
+    indexes: 'zcclgjzldgjbbkxlnggj',
+    question: '最初成立国际足联的国家不包括下列哪个国家？',
+    id: 21630
+  },
+  {
+    answer: '武术',
+    indexes: 'xlngxmbsayhbsxm',
+    question: '下列哪个项目不是奥运会比赛项目？',
+    id: 21631
+  },
+  {
+    answer: '武术',
+    indexes: 'xlngxmbsayhbsxm',
+    question: '下列哪个项目不是奥运会比赛项目？',
+    id: 21632
+  },
+  {
+    answer: '三分割据纡筹策',
+    indexes: 'xlnjbsclzqjzzbxllbeyw',
+    question: '下列哪句不是出刘长卿《江州重别薛六柳八二员外》？',
+    id: 21633
+  },
+  {
+    answer: '平明送客楚山孤',
+    indexes: 'xlnjsczwclfrlsxj',
+    question: '下列哪句是出自王昌龄《芙蓉楼送辛渐》？',
+    id: 21634
+  },
+  {
+    answer: '伫俟明年桂',
+    indexes: 'lzydgdmxmyxlnj',
+    question: '柳宗元的《古东门行》没有下列哪句？',
+    id: 21635
+  },
+  {
+    answer: '摩托艇',
+    indexes: 'xlnxbsjxyd',
+    question: '下列哪项不是极限运动？',
+    id: 21636
+  },
+  {
+    answer: '剑',
+    indexes: 'xlbshddqbzywqdsnx',
+    question: '下列不是汉代的骑兵主要武器的是哪项？',
+    id: 21637
+  },
+  {
+    answer: '贵游行',
+    indexes: 'xlnbbsccdzp',
+    question: '下列哪部不是岑参的作品？',
+    id: 21638
+  },
+  {
+    answer: '鹤语记春秋',
+    indexes: 'xlnjsczcsxblgyz',
+    question: '下列哪句是出自崔湜《幸白鹿观应制》？',
+    id: 21639
+  },
+  {
+    answer: '报到山中去',
+    indexes: 'xlnjbsczwwhjlt',
+    question: '下列哪句不是出自王维《汉江临眺》？',
+    id: 21640
+  },
+  {
+    answer: '陇西',
+    indexes: 'ttzbqgfwsdxlnxbsysd',
+    question: '唐太宗把全国分为十道，下列哪项不属于十道？',
+    id: 21641
+  },
+  {
+    answer: '苔深不辨铭',
+    indexes: 'xlnjsczlzlwwjt',
+    question: '下列哪句是出自卢照邻《文翁讲堂》？',
+    id: 21642
+  },
+  {
+    answer: '钦天',
+    indexes: 'qwxlngbsyscdzzjgzdljzy',
+    question: '请问下列哪个不属于宋朝的政治机构中的六监之一？',
+    id: 21643
+  },
+  {
+    answer: '苔分似列钱',
+    indexes: 'xlnjsczlbwcsm',
+    question: '下列哪句是出自骆宾王《出石门》？',
+    id: 21644
+  },
+  {
+    answer: '心有灵犀一点通',
+    indexes: 'xlnjbsclsysg',
+    question: '下列哪句不是出李商隐《隋宫》？',
+    id: 21645
+  },
+  {
+    answer: '夕奉天书拜琐闱',
+    indexes: 'xlnjbscdfsx',
+    question: '下列哪句不是出杜甫《蜀相》？',
+    id: 21646
+  },
+  {
+    answer: '鹦鹉前头不敢言',
+    indexes: 'xlnjsczzqygc',
+    question: '下列哪句是出自朱庆馀《宫词》？',
+    id: 21647
+  },
+  {
+    answer: '证圣',
+    indexes: 'xlngnhbstcdnh',
+    question: '下列那个年号不是唐朝的年号？',
+    id: 21648
+  },
+  {
+    answer: '金釭焰青烟',
+    indexes: 'xlnjsczlxywshg',
+    question: '下列哪句是出自刘希夷《巫山怀古》？',
+    id: 21649
+  },
+  {
+    answer: '青楼自管弦',
+    indexes: 'xlnjbsczsjrxlhjby',
+    question: '下列哪句不是出自僧皎然《寻陆鸿渐不遇》？',
+    id: 21650
+  },
+  {
+    answer: '三春景物滋',
+    indexes: 'xlnjsczdsywctsyyz',
+    question: '下列哪句是出自杜审言《望春亭侍游应诏》？',
+    id: 21651
+  },
+  {
+    answer: '烟笼寒水月笼沙',
+    indexes: 'xlnjsczdmbqh',
+    question: '下列哪句是出自杜牧《泊秦淮》？',
+    id: 21652
+  },
+  {
+    answer: '庶黎',
+    indexes: 'gwzgybxdchcwds',
+    question: '古文中关于百姓的称呼错误的是？',
+    id: 21653
+  },
+  {
+    answer: '河临饮马间',
+    indexes: 'xlnjsczzjlfhszccgxsqjdzs',
+    question: '下列哪句是出自张九龄《奉和圣制次成皋先圣擒建德之所》？',
+    id: 21654
+  },
+  {
+    answer: '春眠不觉晓',
+    indexes: 'xlnjsczmhrcx',
+    question: '下列哪句是出自孟浩然《春晓》？',
+    id: 21655
+  },
+  {
+    answer: '李顺起义',
+    indexes: 'xlncqysscsqdrmqy',
+    question: '下列哪次起义是宋朝时期的人民起义？',
+    id: 21656
+  },
+  {
+    answer: '吁嗟陵谷迁',
+    indexes: 'xlnjsczlbwxjybq',
+    question: '下列哪句是出自骆宾王《叙寄员半千》？',
+    id: 21657
+  },
+  {
+    answer: '胡窥青海湾',
+    indexes: 'xlnjbsczmjyzy',
+    question: '下列哪句不是出自孟郊《游子吟》？',
+    id: 21658
+  },
+  {
+    answer: '王昌龄《芙蓉楼送辛渐》',
+    indexes: 'hyljyrwpmskcsgcznss',
+    question: '“寒雨连江夜入吴，平明送客楚山孤。”出自哪首诗？',
+    id: 21659
+  },
+  {
+    answer: '韩',
+    indexes: 'xlnggjbscqsqdgj',
+    question: '下列哪个国家不是春秋时期的国家？',
+    id: 21660
+  },
+  {
+    answer: '文天祥号文山居士',
+    indexes: 'xlgygdcrdbhbscwds',
+    question: '下列关于古代词人的别号表述错误的是？',
+    id: 21661
+  },
+  {
+    answer: '悬弧将相儿',
+    indexes: 'xlnjsczcygtmwsbjts',
+    question: '下列哪句是出自陈元光《太母魏氏半径题石》？',
+    id: 21662
+  },
+  {
+    answer: '《陈情表》',
+    indexes: 'xlnxbsypw',
+    question: '下列哪项不属于骈文？',
+    id: 21663
+  },
+  {
+    answer: '人在木兰舟',
+    indexes: 'xlnjbsczlsybql',
+    question: '下列哪句不是出自李商隐《北青萝》？',
+    id: 21664
+  },
+  {
+    answer: '商鞅',
+    indexes: 'xlnwbsyqcdcz',
+    question: '下列哪位不属于秦朝的臣子？',
+    id: 21665
+  },
+  {
+    answer: '文丑',
+    indexes: 'xlnwbsgygwgzsdwj',
+    question: '下列哪位不是关羽过五关斩杀的武将？',
+    id: 21666
+  },
+  {
+    answer: '仙管杂风流',
+    indexes: 'xlnjsczcsxlytgdqyz',
+    question: '下列哪句是出自崔湜《幸梨园亭观打球应制》？',
+    id: 21667
+  },
+  {
+    answer: '眇然登云车',
+    indexes: 'xlnjsczwbhx',
+    question: '下列哪句是出自王勃《怀仙》？',
+    id: 21668
+  },
+  {
+    answer: '羌',
+    indexes: 'xlngmzbstcsqdyz',
+    question: '下列哪个民族不是唐朝时期的异族？',
+    id: 21669
+  },
+  {
+    answer: '千官捧日车',
+    indexes: 'xlnjsczzjlfhszcclc',
+    question: '下列哪句是出自张九龄《奉和圣制初出洛城》？',
+    id: 21670
+  },
+  {
+    answer: '张伯伦',
+    indexes: 'NBAqlbzddqyss',
+    question: 'NBA抢篮板最多的球员是谁？',
+    id: 21671
+  },
+  {
+    answer: '女于网高2.4米',
+    indexes: 'xlnxgypqydsjmscwds',
+    question: '下列哪项关于排球运动数据描述错误的是？',
+    id: 21672
+  },
+  {
+    answer: '单马岂邀功',
+    indexes: 'xlnjsczczadzdccxs',
+    question: '下列哪句是出自陈子昂《东征答朝臣相送》？',
+    id: 21673
+  },
+  {
+    answer: '磬',
+    indexes: 'xszdqtlqbbkxlnx',
+    question: '夏商周的青铜乐器不包括下列哪项？',
+    id: 21674
+  },
+  {
+    answer: '恬蒙',
+    indexes: 'zgsqmjbcxlnywbszgmj',
+    question: '战国时期名将辈出，下列哪一位不是战国名将？',
+    id: 21675
+  },
+  {
+    answer: '登楼已半曛',
+    indexes: 'xlnjsczwcqjl',
+    question: '下列哪句是出自韦承庆《江楼》？',
+    id: 21676
+  },
+  {
+    answer: '辛弃疾',
+    indexes: 'xlnwsrbsytsbdj',
+    question: '下列哪位诗人不属于唐宋八大家？',
+    id: 21677
+  },
+  {
+    answer: '八',
+    indexes: 'zgdgtdcsbknsxlnx',
+    question: '中国的古塔的层数不可能是下列哪项？',
+    id: 21678
+  },
+  {
+    answer: '长平之战',
+    indexes: 'xlnygzybsfszhc',
+    question: '下列那一个战役不是发生在汉朝？',
+    id: 21679
+  },
+  {
+    answer: '淑气依迟柳色青',
+    indexes: 'xlnjsczcryfhszcrxwcgyz',
+    question: '下列哪句是出自崔日用《奉和圣制春日幸望春宫应制》？',
+    id: 21680
+  },
+  {
+    answer: '汝阳王',
+    indexes: 'xlnwbsyxjsqbwzlzdbwzl',
+    question: '下列哪位不属于西晋时期“八王之乱”中的八王之列？',
+    id: 21681
+  },
+  {
+    answer: '率性夷荣辱',
+    indexes: 'xlnjsczljhtfljjxmtj',
+    question: '下列哪句是出自李峤《和同府李祭酒休沐田居》？',
+    id: 21682
+  },
+  {
+    answer: '幽都无多阳',
+    indexes: 'xlnjsczqzzkhx',
+    question: '下列哪句是出自乔知之《苦寒行》？',
+    id: 21683
+  },
+  {
+    answer: '千山鸟飞绝',
+    indexes: 'xlnjsczlzyjx',
+    question: '下列哪句是出自柳宗元《江雪》？',
+    id: 21684
+  },
+  {
+    answer: '伯喈迁塞北',
+    indexes: 'xlnjsczlbytzsh',
+    question: '下列哪句是出自李百药《途中述怀》？',
+    id: 21685
+  },
+  {
+    answer: '梅间雪似花',
+    indexes: 'xlnjsczhzxhrygslt',
+    question: '下列哪句是出自韩仲宣《晦日宴高氏林亭》？',
+    id: 21686
+  },
+  {
+    answer: '阶秋苔藓黄',
+    indexes: 'xlnjsczxybjy',
+    question: '下列哪句是出自徐彦伯《婕妤》？',
+    id: 21687
+  },
+  {
+    answer: '落叶满空山',
+    indexes: 'lbdcsmyxlnyj',
+    question: '李白的《春思》没有下列哪一句？',
+    id: 21688
+  },
+  {
+    answer: '岩扉松径长寂寥',
+    indexes: 'xlnjbsczdfwflszgcjjhmt',
+    question: '下列哪句不是出自杜甫《韦讽录事宅观曹将军画马图》？',
+    id: 21689
+  },
+  {
+    answer: '汉朝',
+    indexes: 'lsszmdtdzcttzscszngcd',
+    question: '历史上著名的土地政策屯田制是产生在哪个朝代？',
+    id: 21690
+  },
+  {
+    answer: '空令岁月易蹉跎',
+    indexes: 'xlnjbsczchhhl',
+    question: '下列哪句不是出自崔颢《黄鹤楼》？',
+    id: 21691
+  },
+  {
+    answer: '披衣觉露滋',
+    indexes: 'xlnjbsczdsyhjllczcyw',
+    question: '下列哪句不是出自杜审言《和晋陵路丞早春游望》？',
+    id: 21692
+  },
+  {
+    answer: '团扇秋风起',
+    indexes: 'xlnjsczlbyqbm',
+    question: '下列哪句是出自李百药《妾薄命》？',
+    id: 21693
+  },
+  {
+    answer: '山深云景鲜',
+    indexes: 'xlnjsczszwrykwdjls',
+    question: '下列哪句是出自宋之问《入崖口五渡寄李適》？',
+    id: 21694
+  },
+  {
+    answer: '郭子仪',
+    indexes: 'xlnwbshcmj',
+    question: '下列哪位不是汉朝名将？',
+    id: 21695
+  },
+  {
+    answer: '风和绿野烟',
+    indexes: 'xlnjsczdsycrhg',
+    question: '下列哪句是出自杜审言《春日怀归》？',
+    id: 21696
+  },
+  {
+    answer: '夜半钟声到客船',
+    indexes: 'xlnjsczzjfqyb',
+    question: '下列哪句是出自张继《枫桥夜泊》？',
+    id: 21697
+  },
+  {
+    answer: '舜乐下前溪',
+    indexes: 'xlnjsczyccrlycsy',
+    question: '下列哪句是出自姚崇《春日洛阳城侍宴》？',
+    id: 21698
+  },
+  {
+    answer: '五别徐庶',
+    indexes: 'xlnxbsfszsgsq',
+    question: '下列哪项不是发生在三国时期？',
+    id: 21699
+  },
+  {
+    answer: '日夕怀空意',
+    indexes: 'xlnjbsczwwqx',
+    question: '下列哪句不是出自王维《青溪》？',
+    id: 21700
+  },
+  {
+    answer: '莲花宝盖新',
+    indexes: 'xlnjsczycysrqssyyz',
+    question: '下列哪句是出自阎朝隐《三日曲水侍宴应制》？',
+    id: 21701
+  },
+  {
+    answer: '轻烟散入五侯家',
+    indexes: 'xlnjsczhhhs',
+    question: '下列哪句是出自韩翃《寒食》？',
+    id: 21702
+  },
+  {
+    answer: '内大臣',
+    indexes: 'xlnxbsqcdcypwzjg',
+    question: '下列哪项不是清朝的从一品文职京官？',
+    id: 21703
+  },
+  {
+    answer: '骑',
+    indexes: 'xlnzjybsyzhcszdly',
+    question: '下列哪种技艺不属于《张衡传》所指的六艺？',
+    id: 21704
+  },
+  {
+    answer: '晓月过残垒',
+    indexes: 'xlnjbsczljxqt',
+    question: '下列哪句不是出自刘脊虚《阙题》？',
+    id: 21705
+  },
+  {
+    answer: '凉景向秋澄',
+    indexes: 'xlnjsczlbwbljdsz',
+    question: '下列哪句是出自骆宾王《别李峤得胜字》？',
+    id: 21706
+  },
+  {
+    answer: '壮志逐年衰',
+    indexes: 'xlnjbsczwwznby',
+    question: '下列哪句不是出自王维《终南别业》？',
+    id: 21707
+  },
+  {
+    answer: '班鬓向长安',
+    indexes: 'xlnjsczlzlzdfsl',
+    question: '下列哪句是出自卢照邻《早度分水岭》？',
+    id: 21708
+  },
+  {
+    answer: '国际大奖赛',
+    indexes: 'ATPzynzwqxhdbszlbbkyxnx',
+    question: 'ATP(职业男子网球协会)的比赛种类不包括以下哪项？',
+    id: 21709
+  },
+  {
+    answer: '红颜未老恩先断',
+    indexes: 'xlnjsczbjyhgc',
+    question: '下列哪句是出自白居易《后宫词》？',
+    id: 21710
+  },
+  {
+    answer: '马足起红尘',
+    indexes: 'xlnjsczyjls',
+    question: '下列哪句是出自杨炯《刘生》？',
+    id: 21711
+  },
+  {
+    answer: '落花时节又逢君',
+    indexes: 'dfjnflgnyxlnj',
+    question: '杜甫《江南逢李龟年》有下列哪句？',
+    id: 21712
+  },
+  {
+    answer: '司马',
+    indexes: 'xlnxbsytcddfgzzdlc',
+    question: '下列哪项不属于唐朝的地方官制中的六曹？',
+    id: 21713
+  },
+  {
+    answer: '三人',
+    indexes: 'xlnxbsyhcdxm',
+    question: '下列哪项不属于划船的项目？',
+    id: 21714
+  },
+  {
+    answer: '青弋江',
+    indexes: 'xmnbzpbslld',
+    question: '下面哪部作品不是卢纶的？',
+    id: 21715
+  },
+  {
+    answer: '唐朝',
+    indexes: 'lsszmdtdzcjtzscszngcd',
+    question: '历史上著名的土地政策均田制是产生在哪个朝代？',
+    id: 21716
+  },
+  {
+    answer: '宋朝',
+    indexes: 'gjcthzxcthldjxbcwjdkxdfzdxswglssdyccxgjcthzxcthldjxszngcd',
+    question:
+      '工匠传统和哲学传统合流的迹象被称为近代科学大发展的先声，我国历史上第一次出现工匠传统和哲学传统合流的迹象是在哪个朝代？',
+    id: 21717
+  },
+  {
+    answer: '雪处疑花满',
+    indexes: 'xlnjsczlzlmhl',
+    question: '下列哪句是出自卢照邻《梅花落》？',
+    id: 21718
+  },
+  {
+    answer: '陇上羊归塞草烟',
+    indexes: 'xlnjbscxfgc',
+    question: '下列哪句不是出薛逢《宫词》？',
+    id: 21719
+  },
+  {
+    answer: '黎昌楼',
+    indexes: 'xlngbsbjbdlzy',
+    question: '下列哪个不是北京八大楼之一？',
+    id: 21720
+  },
+  {
+    answer: '金缕晨鸡未学鸣',
+    indexes: 'xlnjsczcryfhlcyyycyz',
+    question: '下列哪句是出自崔日用《奉和立春游苑迎春应制》？',
+    id: 21721
+  },
+  {
+    answer: '节旄零落尽',
+    indexes: 'xlnjsczlzlyxq',
+    question: '下列哪句是出自卢照邻《雨雪曲》？',
+    id: 21722
+  },
+  {
+    answer: '鲜卑',
+    indexes: 'clcysxtsqllgsytccymmfccdjnymsdxlngmzdcj',
+    question:
+      '“敕勒川，阴山下，天似穹庐，笼盖四野。天苍苍，野茫茫，风吹草低见牛羊。”描述的下列哪个民族的场景？',
+    id: 21723
+  },
+  {
+    answer: '羌',
+    indexes: 'wjsqdhryybfsjfbyxlngmzbsyzl',
+    question: '魏晋时期的胡人有一部分是金发碧眼，下列那个民族不属于这类？',
+    id: 21724
+  },
+  {
+    answer: '罄',
+    indexes: 'sdyyczdlqxlnxbssddlq',
+    question: '商代已有成组的乐器，下列哪项不是商代的乐器？',
+    id: 21725
+  },
+  {
+    answer: '跑垒',
+    indexes: 'bqdjbfsjsbbkxlnx',
+    question: '棒球的基本防守技术不包括下列哪项？',
+    id: 21726
+  },
+  {
+    answer: '横拍直打',
+    indexes: 'xlnxbsyppqdtgzs',
+    question: '下列哪项不属于乒乓球的推攻战术?',
+    id: 21727
+  },
+  {
+    answer: '马足践胡尘',
+    indexes: 'xlnjsczlbwcjx',
+    question: '下列哪句是出自骆宾王《从军行》？',
+    id: 21728
+  },
+  {
+    answer: '愁看玉镜台',
+    indexes: 'xlnjsczyjmhl',
+    question: '下列哪句是出自杨炯《梅花落》？',
+    id: 21729
+  },
+  {
+    answer: '左光斗为左毅公',
+    indexes: 'xlgygrdshbscwds',
+    question: '下列关于古人的谥号表述错误的是？',
+    id: 21730
+  },
+  {
+    answer: '曹操',
+    indexes: 'ssjawxxjmdkcz',
+    question: '谁是建安文学新局面的开创者？',
+    id: 21731
+  },
+  {
+    answer: '杨修',
+    indexes: 'sgsqsrzsfldwrbcqzzzmdsjaqzxlnwbsyjaqz',
+    question:
+      '三国时期虽然战事纷乱，但文人辈出，其中最著名的是“建安七子”，下列哪位不属于“建安七子”？',
+    id: 21732
+  },
+  {
+    answer: '祥符夜告丰',
+    indexes: 'xlnjsczlbyyhgm',
+    question: '下列哪句是出自李百药《谒汉高庙》？',
+    id: 21733
+  },
+  {
+    answer: '沉钩摇兔影',
+    indexes: 'xlnjsczlzljzwy',
+    question: '下列哪句是出自卢照邻《江中望月》？',
+    id: 21734
+  },
+  {
+    answer: '六言律诗',
+    indexes: 'xlnyxbstsdjbxs',
+    question: '下列哪一项不是唐诗的基本形式？',
+    id: 21735
+  },
+  {
+    answer: '秋原被花实',
+    indexes: 'xlnjsczstxjjcnrmj',
+    question: '下列哪句是出自苏颋《晓济胶川南入密界》？',
+    id: 21736
+  },
+  {
+    answer: '百年多病独登台',
+    indexes: 'xlnjbscdfdl',
+    question: '下列哪句不是出杜甫《登楼》？',
+    id: 21737
+  },
+  {
+    answer: '久客临海有怀',
+    indexes: 'xlnjsczlbwjklhyh',
+    question: '下列哪句是出自骆宾王《久客临海有怀》？',
+    id: 21738
+  },
+  {
+    answer: '闻风坐相悦',
+    indexes: 'xlnjsbsczmhrdqdlsjzw',
+    question: '下列哪句诗不是出自孟浩然的《秋登兰山寄张五》？',
+    id: 21739
+  },
+  {
+    answer: '金钱赠下人',
+    indexes: 'xlnjsczdsydp',
+    question: '下列哪句是出自杜审言《大酺》？',
+    id: 21740
+  },
+  {
+    answer: '水月通禅寂',
+    indexes: 'xlnjbsczhhccyqyjsjz',
+    question: '下列哪句不是出自韩翃《酬程延秋夜即事见赠》？',
+    id: 21741
+  },
+  {
+    answer: '银筝夜久殷勤弄',
+    indexes: 'xlnjsczwwqyq',
+    question: '下列哪句是出自王维《秋夜曲》？',
+    id: 21742
+  },
+  {
+    answer: '何当共剪西窗烛',
+    indexes: 'xlnjsczlsyyyjb',
+    question: '下列哪句是出自李商隐《夜雨寄北》？',
+    id: 21743
+  },
+  {
+    answer: '唐顺之',
+    indexes: 'xlnwsrbsymdscz',
+    question: '下列哪位诗人不属于明代十才子？',
+    id: 21744
+  },
+  {
+    answer: '潞国公侯君集',
+    indexes: 'xlnwbsxhkggc',
+    question: '下列哪位不是西汉开国功臣？',
+    id: 21745
+  },
+  {
+    answer: '管乐有才原不忝',
+    indexes: 'xlnjbsclsywt',
+    question: '下列哪句不是出李商隐《无题》？',
+    id: 21746
+  },
+  {
+    answer: '戏罢曾无理曲时',
+    indexes: 'xlnjbsczdfajt',
+    question: '下列哪句不是出自杜甫《哀江头》？',
+    id: 21747
+  },
+  {
+    answer: '德国',
+    indexes: 'xlnggjzljozbjsjddcjzh',
+    question: '下列那个国家在历届欧洲杯决赛阶段的成绩最好？',
+    id: 21748
+  },
+  {
+    answer: '德国',
+    indexes: 'xlnggjzljozbjsjddcjzh',
+    question: '下列那个国家在历届欧洲杯决赛阶段的成绩最好？',
+    id: 21749
+  },
+  {
+    answer: '负剑许良图',
+    indexes: 'xlnjsczczadhstzb',
+    question: '下列哪句是出自陈子昂《答韩使同在边》？',
+    id: 21750
+  },
+  {
+    answer: '仍攀琪树荣',
+    indexes: 'xlnjsczcsjttsmxs',
+    question: '下列哪句是出自崔湜《寄天台司马先生》？',
+    id: 21751
+  },
+  {
+    answer: '天威军',
+    indexes: 'tzdjjzbyljyfwlbxlnxbsybyljzl',
+    question: '太宗的禁军中，北衙六军又分为六部，下列哪项不属于北衙六军之列？',
+    id: 21752
+  },
+  {
+    answer: '赵公明',
+    indexes: 'zggdshzxlnwsxscs',
+    question: '中国古代神话中下列哪位神仙是财神？',
+    id: 21753
+  },
+  {
+    answer: '宿昔梦见之',
+    indexes: 'xlnjsczcsjtzgsjfr',
+    question: '下列哪句是出自崔湜《饯唐州高使君赴任》？',
+    id: 21754
+  },
+  {
+    answer: '薄暮空潭曲',
+    indexes: 'xlnjbsczdfcszs',
+    question: '下列哪句不是出自杜甫《春宿左省》？',
+    id: 21755
+  },
+  {
+    answer: '独夜草虫鸣',
+    indexes: 'xlnjsczlxysyws',
+    question: '下列哪句是出自刘希夷《嵩岳闻笙》？',
+    id: 21756
+  },
+  {
+    answer: '斯科特',
+    indexes: 'NBAdsfqjlsyngqybcd',
+    question: 'NBA的三分球纪录是由哪个球员保持的？',
+    id: 21757
+  },
+  {
+    answer: '王昭君',
+    indexes: 'xlnwsyhcsqdrw',
+    question: '下列哪位属于汉朝时期的人物？',
+    id: 21758
+  },
+  {
+    answer: '岭外音书绝',
+    indexes: 'xlnjsczlpdhj',
+    question: '下列哪句是出自李频《渡汉江》？',
+    id: 21759
+  },
+  {
+    answer: '息君情更亲',
+    indexes: 'xlnjsczszwxfr',
+    question: '下列哪句是出自宋之问《息夫人》？',
+    id: 21760
+  },
+  {
+    answer: '家住层城邻汉苑',
+    indexes: 'xlnjbscllwcez',
+    question: '下列哪句不是出卢纶《晚次鄂州》？',
+    id: 21761
+  },
+  {
+    answer: '江柳共风烟',
+    indexes: 'xlnjbsczctbsdzcyyh',
+    question: '下列哪句不是出自崔涂《巴山道中除夜有怀》？',
+    id: 21762
+  },
+  {
+    answer: '恩荣变苦辛',
+    indexes: 'xlnjsczdsysglzbs',
+    question: '下列哪句是出自杜审言《送高郎中北使》？',
+    id: 21763
+  },
+  {
+    answer: '钻鉧潭东小丘记',
+    indexes: 'xlnpyjbsylzydyzbj',
+    question: '下列哪篇游记不属于柳宗元的永州八记？',
+    id: 21764
+  },
+  {
+    answer: '声静夜相宜',
+    indexes: 'xlnjsczzjlhchmyzytczz',
+    question: '下列哪句是出自张九龄《和崔黄门寓直夜听蝉之作》？',
+    id: 21765
+  },
+  {
+    answer: '继昌',
+    indexes: 'hcdhnwlaybgymdmkxlnwbsybmkzy',
+    question: '汉朝的淮南王刘安有八个有名的门客，下列哪位不属于八门客之一？',
+    id: 21766
+  },
+  {
+    answer: '曹植《蒿里行》',
+    indexes: 'xlgyjasrjqzpdcwmssnx',
+    question: '下列关于建安诗人及其作品的错误描述是哪项？',
+    id: 21767
+  },
+  {
+    answer: '张耒',
+    indexes: 'xlnwssmsxszy',
+    question: '下列哪位是苏门四学士之一？',
+    id: 21768
+  },
+  {
+    answer: '佳气满旌门',
+    indexes: 'xlnjsczwyzxsyxsfcylwz',
+    question: '下列哪句是出自魏元忠《修书院学士奉敕宴梁王宅》？',
+    id: 21769
+  },
+  {
+    answer: '《揽辔录》',
+    indexes: 'xlnbzpbsnssqsrdsj',
+    question: '下列哪部作品不是南宋时期诗人的诗集？',
+    id: 21770
+  },
+  {
+    answer: '《国风》',
+    indexes: 'xlnbjdbssszdly',
+    question: '下列哪部经典不是《师说》中的六艺？',
+    id: 21771
+  },
+  {
+    answer: '《史记》',
+    indexes: 'xlnxbsxqsqdjdzp',
+    question: '下列哪项不是先秦时期的经典作品？',
+    id: 21772
+  },
+  {
+    answer: '匈奴',
+    indexes: 'tcwlyxglyzslllddhfxlngbsdhf',
+    question: '唐朝为了有效管理异族，设立了六大都护府。下列哪个不是都护府？',
+    id: 21773
+  },
+  {
+    answer: '动息如有情',
+    indexes: 'xlnjsczwbyf',
+    question: '下列哪句是出自王勃《咏风》？',
+    id: 21774
+  },
+  {
+    answer: '德泽委昭宣',
+    indexes: 'xlnjsczzjlfhszslssrs',
+    question: '下列哪句是出自张九龄《奉和圣制送李尚书入蜀》？',
+    id: 21775
+  },
+  {
+    answer: '比尔·拉赛尔',
+    indexes: 'NBAlssnwqxhddzgjjzzd',
+    question: 'NBA历史上那位球星获得的总冠军戒指最多？',
+    id: 21776
+  },
+  {
+    answer: '连星入剑端',
+    indexes: 'xlnjsczlbwszsfrlgfxkycr',
+    question: '下列哪句是出自骆宾王《送郑少府入辽共赋侠客远从戎》？',
+    id: 21777
+  },
+  {
+    answer: '新叶虫书遍',
+    indexes: 'xlnjsczqzzzxgzs',
+    question: '下列哪句是出自乔知之《长信宫中树》？',
+    id: 21778
+  },
+  {
+    answer: '外务部',
+    indexes: 'qcsylbxlbsylbds',
+    question: '清朝设有“六部”，下列不属于六部的是？',
+    id: 21779
+  },
+  {
+    answer: '江春入旧年',
+    indexes: 'xlnjbsczdfcszs',
+    question: '下列哪句不是出自杜甫《春宿左省》？',
+    id: 21780
+  },
+  {
+    answer: '高会多欢声',
+    indexes: 'xlnjsczlszyrcyqjtflysyqz',
+    question: '下列哪句是出自李适《重阳日赐宴曲江亭，赋六韵诗用清字》？',
+    id: 21781
+  },
+  {
+    answer: '可怜无定河边骨',
+    indexes: 'xlnjsczctlxx',
+    question: '下列哪句是出自陈陶《陇西行》？',
+    id: 21782
+  },
+  {
+    answer: '顾拜旦',
+    indexes: 'xdalpkcsrss',
+    question: '现代奥林匹克创始人是谁？',
+    id: 21783
+  },
+  {
+    answer: '顾拜旦',
+    indexes: 'alpkhqwhqdsjzs',
+    question: '奥林匹克会旗-五环旗的设计者是？',
+    id: 21784
+  },
+  {
+    answer: '曹操《燕歌行》',
+    indexes: 'xlzphzzdyzqdxxs',
+    question: '下列作品和作者对应正确的选项是？',
+    id: 21785
+  },
+  {
+    answer: '悠悠远客情',
+    indexes: 'xlnjsczwcqnxbd',
+    question: '下列哪句是出自韦承庆《南行别弟》？',
+    id: 21786
+  },
+  {
+    answer: '破涕暂为欢',
+    indexes: 'xlnjsczyjszzzsg',
+    question: '下列哪句是出自杨炯《送梓州周司功》？',
+    id: 21787
+  },
+  {
+    answer: '动工',
+    indexes: 'xlbsyhlzsydsnx',
+    question: '下列不属于黄历中术语的是哪项？',
+    id: 21788
+  },
+  {
+    answer: '秋金铸马鞭',
+    indexes: 'xlnjsczyjcm',
+    question: '下列哪句是出自杨炯《骢马》？',
+    id: 21789
+  },
+  {
+    answer: '千里其如何',
+    indexes: 'xlnjbsczyjdztsglbx',
+    question: '下列哪句不是出自元结的《贼退示官吏并序》？',
+    id: 21790
+  },
+  {
+    answer: '杯接近臣欢',
+    indexes: 'xlnjsczcssyzngzdzyz',
+    question: '下列哪句是出自崔湜《侍宴长宁公主东庄应制》？',
+    id: 21791
+  },
+  {
+    answer: '上林繁花照眼新',
+    indexes: 'xlnjbsczlsyhb',
+    question: '下列哪句不是出自李商隐《韩碑》？',
+    id: 21792
+  },
+  {
+    answer: '折戟沈沙铁未销',
+    indexes: 'xlnjsczdmcb',
+    question: '下列哪句是出自杜牧《赤壁》？',
+    id: 21793
+  },
+  {
+    answer: '秋来未著花',
+    indexes: 'xlnjbsczzqsbs',
+    question: '下列哪句不是出自张乔《书边事》？',
+    id: 21794
+  },
+  {
+    answer: '河旷鹊停飞',
+    indexes: 'xlnjsczdsyfhqxsylydyz',
+    question: '下列哪句是出自杜审言《奉和七夕侍宴两仪殿应制》？',
+    id: 21795
+  },
+  {
+    answer: '变调如闻杨柳春',
+    indexes: 'cczmcxfsfdfcsxmyxlnj',
+    question: '岑参《走马川行奉送封大夫出师西》没有下列哪句？',
+    id: 21796
+  },
+  {
+    answer: '道合赤符先',
+    indexes: 'xlnjsczlxyyhszm',
+    question: '下列哪句是出自刘希夷《谒汉世祖庙》？',
+    id: 21797
+  },
+  {
+    answer: '双鲤迢迢一纸笔',
+    indexes: 'xlnjsczlsyjlhlz',
+    question: '下列哪句是出自李商隐《寄令狐郎中》？',
+    id: 21798
+  },
+  {
+    answer: '府户',
+    indexes: 'bwmnbflzdqydldzzbbkxlnx',
+    question: '北魏末年北方六镇大起义的六大重镇不包括下列哪项？',
+    id: 21799
+  },
+  {
+    answer: '幸蒙真僧顾',
+    indexes: 'xlnjsczszwycjsl',
+    question: '下列哪句是出自宋之问《雨从箕山来》？',
+    id: 21800
+  },
+  {
+    answer: '春心莫共花争发',
+    indexes: 'xlnjbsclsycby',
+    question: '下列哪句不是出李商隐《筹笔驿》？',
+    id: 21801
+  },
+  {
+    answer: '不怪玉山颓',
+    indexes: 'xlnjsczlzlxfszgj',
+    question: '下列哪句是出自卢照邻《辛法司宅观妓》？',
+    id: 21802
+  },
+  {
+    answer: '雷震春',
+    indexes: 'jjssxyysstbxlnwbsjjssstb',
+    question: '蒋介石手下也有“十三太保”，下列哪位不是蒋介石“十三太保”？',
+    id: 21803
+  },
+  {
+    answer: '梅柳渡江春',
+    indexes: 'xlnjbsczwwcbgsx',
+    question: '下列哪句不是出自王湾《次北固山下》？',
+    id: 21804
+  },
+  {
+    answer: '擒俘帝道亨',
+    indexes: 'xlnjsczlljxccgtjxsqjdzsmsgygef',
+    question: '下列哪句是出自李隆基《行次成皋途经先圣擒建德之所缅思功业感而赋》？',
+    id: 21805
+  },
+  {
+    answer: '倒汤',
+    indexes: 'tjcqpccxfdxlbsyqzzyds',
+    question: '唐君臣清平茶程序繁多，下列不属于其中之一的是？',
+    id: 21806
+  },
+  {
+    answer: '隔叶黄鹂空好音',
+    indexes: 'xlnjbscdfkz',
+    question: '下列哪句不是出杜甫《客至》？',
+    id: 21807
+  },
+  {
+    answer: '书圣：东晋王献之',
+    indexes: 'wglssdlsbbkxls',
+    question: '我国历史上的六圣不包括下列谁？',
+    id: 21808
+  },
+  {
+    answer: '我持长瓢坐巴丘',
+    indexes: 'xlnjbsczbjyzhg',
+    question: '下列哪句不是出自白居易《长恨歌》？',
+    id: 21809
+  },
+  {
+    answer: '帝得圣相相曰度',
+    indexes: 'xlnjbsczdfbcx',
+    question: '下列哪句不是出自杜甫《兵车行》？',
+    id: 21810
+  },
+  {
+    answer: '轻生一剑知',
+    indexes: 'xlnjbsczmdbsqj',
+    question: '下列哪句不是出自马戴《灞上秋居》？',
+    id: 21811
+  },
+  {
+    answer: '架海波澄镜',
+    indexes: 'xlnjsczlsmgjzes',
+    question: '下列哪句是出自李世民《过旧宅二首》？',
+    id: 21812
+  },
+  {
+    answer: '青山绕吹台',
+    indexes: 'xlnjsczdsysytsyyz',
+    question: '下列哪句是出自杜审言《宿羽亭侍宴应制》？',
+    id: 21813
+  },
+  {
+    answer: '枝亚果新肥',
+    indexes: 'xlnjsczdsydwst',
+    question: '下列哪句是出自杜审言《都尉山亭》？',
+    id: 21814
+  },
+  {
+    answer: '井田',
+    indexes: 'wasbfdnrzbbkxlnx',
+    question: '王安石变法的内容中不包括下列哪项？',
+    id: 21815
+  },
+  {
+    answer: '贝利',
+    indexes: 'ssnlzxdsjbgj',
+    question: '谁是年龄最小的世界杯冠军？',
+    id: 21816
+  },
+  {
+    answer: '摘芳共珍荐',
+    indexes: 'qzzwsgyxlnyj',
+    question: '乔知之《巫山高》有下列哪一句？',
+    id: 21817
+  },
+  {
+    answer: '关月冷相随',
+    indexes: 'xlnjbsczsjrxlhjby',
+    question: '下列哪句不是出自僧皎然《寻陆鸿渐不遇》？',
+    id: 21818
+  },
+  {
+    answer: '旅客非悠悠',
+    indexes: 'xlnjsczczadlyzr',
+    question: '下列哪句是出自陈子昂《答洛阳主人》？',
+    id: 21819
+  },
+  {
+    answer: '朱熹',
+    indexes: 'xlnwbsymcrw',
+    question: '下列哪位不属于明朝人物？',
+    id: 21820
+  },
+  {
+    answer: '李商隐',
+    indexes: 'xlngsrcswtsqddb',
+    question: '下列那个诗人才是晚唐时期的代表？',
+    id: 21821
+  },
+  {
+    answer: '无论数绿钱',
+    indexes: 'xlnjsczyjyss',
+    question: '下列哪句是出自杨炯《有所思》？',
+    id: 21822
+  },
+  {
+    answer: '偶然值林叟',
+    indexes: 'dffjyzsygsymyxlnyj',
+    question: '杜甫《奉济驿重送严公四韵》没有下列哪一句？',
+    id: 21823
+  },
+  {
+    answer: '日暮客愁新',
+    indexes: 'xlnjsczmhrsjdj',
+    question: '下列哪句是出自孟浩然《宿建德江》？',
+    id: 21824
+  },
+  {
+    answer: '风吹何历历',
+    indexes: 'xlnjsczlxyqrtrytb',
+    question: '下列哪句是出自刘希夷《秋日题汝阳潭壁》？',
+    id: 21825
+  },
+  {
+    answer: '称名忆旧容',
+    indexes: 'xlnjbsczlzqxnz',
+    question: '下列哪句不是出自刘长卿《新年作》？',
+    id: 21826
+  },
+  {
+    answer: '轻霜下震雷',
+    indexes: 'dsylyanyxlnj',
+    question: '杜审言《旅寓安南》有下列哪句？',
+    id: 21827
+  },
+  {
+    answer: '喜鹊',
+    indexes: 'qcwgcfsdbzdsydwwtaxlnzdwbscfbzsdta',
+    question: '清朝文官朝服上的补子都是以动物为图案，下列那种动物不是朝服补子上的图案？',
+    id: 21828
+  },
+  {
+    answer: '珠房折海榴',
+    indexes: 'xlnjsczcstdwsc',
+    question: '下列哪句是出自崔湜《唐都尉山池》？',
+    id: 21829
+  },
+  {
+    answer: '世人多学吹',
+    indexes: 'xlnjsczwwjftq',
+    question: '下列哪句是出自王无竞《凤台曲》？',
+    id: 21830
+  },
+  {
+    answer: '栖栖一代中',
+    indexes: 'xlnjbsczzjlwyhy',
+    question: '下列哪句不是出自张九龄《望月怀远》？',
+    id: 21831
+  },
+  {
+    answer: '春风吹又生',
+    indexes: 'xlnjbsczlyxjwdyyb',
+    question: '下列哪句不是出自李益《喜见外弟又言别》？',
+    id: 21832
+  },
+  {
+    answer: '坎壈倦游秦',
+    indexes: 'xlnjsczlbwyhgyspsl',
+    question: '下列哪句是出自骆宾王《咏怀古意上裴侍郎》？',
+    id: 21833
+  },
+  {
+    answer: '董仲舒献天人三策',
+    indexes: 'sgycmdbxxlnxbsybxzy',
+    question: '三国有出名的“八献”，下列哪项不属于八献之一？',
+    id: 21834
+  },
+  {
+    answer: '风吹便坐桑',
+    indexes: 'xlnjsczgztxywctzsryzzz',
+    question: '下列哪句是出自郭震《同徐员外除太子舍人寓直之作》？',
+    id: 21835
+  },
+  {
+    answer: '张伯伦',
+    indexes: 'dcdfzddqyss',
+    question: '单场得分最多的球员是谁？',
+    id: 21836
+  },
+  {
+    answer: '曲溆丽珠光',
+    indexes: 'xlnjsczlbywsdhsjxy',
+    question: '下列哪句是出自李百药《王师渡汉水经襄阳》？',
+    id: 21837
+  },
+  {
+    answer: '负羽远从戎',
+    indexes: 'xlnjsczlzljksncx',
+    question: '下列哪句是出自卢照邻《结客少年场行》？',
+    id: 21838
+  },
+  {
+    answer: '弧圈球',
+    indexes: 'xlnyxbszqsy',
+    question: '下列哪一项不是足球术语?',
+    id: 21839
+  },
+  {
+    answer: '年共晓光新',
+    indexes: 'xlnjsczlbwxjss',
+    question: '下列哪句是出自骆宾王《西京守岁》？',
+    id: 21840
+  },
+  {
+    answer: '山居云作缨',
+    indexes: 'xlnjsczycglycsyyz',
+    question: '下列哪句是出自姚崇《故洛阳城侍宴应制》？',
+    id: 21841
+  },
+  {
+    answer: '远慰风雨夕',
+    indexes: 'xlnjbsczzjlgysszs',
+    question: '下列哪句不是出自张九龄《感遇四首之三》？',
+    id: 21842
+  },
+  {
+    answer: '鹤语记春秋',
+    indexes: 'csxblgyzyxlnyj',
+    question: '崔湜《幸白鹿观应制》有下列哪一句？',
+    id: 21843
+  },
+  {
+    answer: '鸣笳出望苑',
+    indexes: 'xlnjsczlbyfhcccyyl',
+    question: '下列哪句是出自李百药《奉和初春出游应令》？',
+    id: 21844
+  },
+  {
+    answer: '半作障泥半作帆',
+    indexes: 'xlnjsczlsysg',
+    question: '下列哪句是出自李商隐《隋宫》？',
+    id: 21845
+  },
+  {
+    answer: '涩路拥崩查',
+    indexes: 'xlnjsczlbwwqtj',
+    question: '下列哪句是出自骆宾王《晚憩田家》？',
+    id: 21846
+  },
+  {
+    answer: '岁时伏腊走村翁',
+    indexes: 'xlnjbscdfyhgjwszw',
+    question: '下列哪句不是出杜甫《咏怀古迹五首之五》？',
+    id: 21847
+  },
+  {
+    answer: '春潮带雨晚来急',
+    indexes: 'xlnjsczwywczxj',
+    question: '下列哪句是出自韦应物《滁州西涧》？',
+    id: 21848
+  },
+  {
+    answer: '祭汾阴乐章',
+    indexes: 'wwstcymdsrxlnbbswwdzp',
+    question: '王维是唐朝有名的诗人，下列哪部不是王维的作品？',
+    id: 21849
+  },
+  {
+    answer: '威武大将军',
+    indexes: 'xlnxbshcddjjjz',
+    question: '下列哪项不是汉朝的大将军军职？',
+    id: 21850
+  },
+  {
+    answer: '日夕凉风至',
+    indexes: 'xlnjbsczwwgxjs',
+    question: '下列哪句不是出自王维《过香积寺》？',
+    id: 21851
+  },
+  {
+    answer: '人面并如春',
+    indexes: 'xlnjsczgjsyyxxyt',
+    question: '下列哪句是出自高瑾《上元夜效小庾体》？',
+    id: 21852
+  },
+  {
+    answer: '水滴铜龙昼漏长',
+    indexes: 'xlnjbscsqqgycbqqzz',
+    question: '下列哪句不是出沈全期《古意呈补阙乔知之》？',
+    id: 21853
+  },
+  {
+    answer: '十四',
+    indexes: 'qcdwyhywlcdwybyyesflhdddjqwqcdwyfljgdj',
+    question: '清朝的王爷和以往历朝的王爷不一样，而是分了很多的等级，请问清朝的王爷分了几个等级？',
+    id: 21854
+  },
+  {
+    answer: '烟花跳水',
+    indexes: 'xlnxbstsyddzl',
+    question: '下列哪项不是跳水运动的种类？',
+    id: 21855
+  },
+  {
+    answer: '南陌轩车别',
+    indexes: 'xlnjsczcsslqwlzsdfdc',
+    question: '下列哪句是出自崔湜《送梁卿王郎中使东蕃吊册》？',
+    id: 21856
+  },
+  {
+    answer: '登总持寺阁',
+    indexes: 'xlnbbsmhrdzp',
+    question: '下列哪部不是孟浩然的作品？',
+    id: 21857
+  },
+  {
+    answer: '崩云洒芳牒',
+    indexes: 'xlnjsczwbcrylyyfydjz',
+    question: '下列哪句是出自王勃《春日宴乐游园赋韵得接字》？',
+    id: 21858
+  },
+  {
+    answer: '因风想玉珂',
+    indexes: 'xlnjbsczmhryzzdxs',
+    question: '下列哪句不是出自孟浩然《与诸子登岘山》？',
+    id: 21859
+  },
+  {
+    answer: '贪合鱼龙构强名',
+    indexes: 'xlnjsczlybqtssb',
+    question: '下列哪句是出自李煜《病起题山舍壁》？',
+    id: 21860
+  },
+  {
+    answer: '泰格·伍兹',
+    indexes: 'xlnwbsslkzmxs',
+    question: '下列哪位不是斯洛克著名选手？',
+    id: 21861
+  },
+  {
+    answer: '六次',
+    indexes: 'tcyalbrjdsygjcjf',
+    question: '唐朝与阿拉伯人（即大食）有过几次交锋？',
+    id: 21862
+  },
+  {
+    answer: '宋朝',
+    indexes: 'sjsdycsyzbhyxxyszwgngcd',
+    question: '世界上第一次使用纸币和银行信用是在我国哪个朝代？',
+    id: 21863
+  },
+  {
+    answer: '三国',
+    indexes: 'sgsqdzygzdddqwwglssdddzdyync',
+    question: '三国时期的周瑜官至大都督，请问我国历史上的都督制度源于哪朝？',
+    id: 21864
+  },
+  {
+    answer: '针线犹存未忍开',
+    indexes: 'yzqbhsszsmyxlnyj',
+    question: '元稹《遣悲怀三首之三》没有下列哪一句？',
+    id: 21865
+  },
+  {
+    answer: '武丁',
+    indexes: 'sdmjfhsxlnwsdjwdqz',
+    question: '商代名将妇好是下列哪位商代君王的妻子？',
+    id: 21866
+  },
+  {
+    answer: '雍布拉康',
+    indexes: 'xlngbszglssdhg',
+    question: '下列哪个不是中国历史上的皇宫？',
+    id: 21867
+  },
+  {
+    answer: '唐代宗',
+    indexes: 'lssnwhdbtfbdlkza',
+    question: '历史上哪位皇帝被吐蕃逼得离开长安？',
+    id: 21868
+  },
+  {
+    answer: '能声寄侯伯',
+    indexes: 'xlnjsczstjyzlsj',
+    question: '下列哪句是出自苏颋《饯郢州李使君》？',
+    id: 21869
+  },
+  {
+    answer: '敷诚归上帝',
+    indexes: 'xlnjsczlzlzlrds',
+    question: '下列哪句是出自卢照邻《赠李荣道士》？',
+    id: 21870
+  },
+  {
+    answer: '出拳',
+    indexes: 'xlnxbswstlydddz',
+    question: '下列哪项不是武术套路运动的动作?',
+    id: 21871
+  },
+  {
+    answer: '御史大夫',
+    indexes: 'xlnggzbsyqcdjqzl',
+    question: '下列哪个官职不属于秦朝的九卿之列？',
+    id: 21872
+  },
+  {
+    answer: '凤楼通夜敞',
+    indexes: 'xlnjsczywqfhcrct',
+    question: '下列哪句是出自元万顷《奉和春日池台》？',
+    id: 21873
+  },
+  {
+    answer: '客心悲暮序',
+    indexes: 'xlnjsczlbyychg',
+    question: '下列哪句是出自李百药《郢城怀古》？',
+    id: 21874
+  },
+  {
+    answer: '莲衣承玉钏',
+    indexes: 'xlnjsczycycln',
+    question: '下列哪句是出自阎朝隐《采莲女》？',
+    id: 21875
+  },
+  {
+    answer: '黄志红',
+    indexes: 'zgdygtjsjgjss',
+    question: '中国第一个田径世界冠军是谁？',
+    id: 21876
+  },
+  {
+    answer: '大夫四命',
+    indexes: 'qdffwjmxlnxbsyjmds',
+    question: '卿大夫分为“九命”，下列哪项不属于九命的是？',
+    id: 21877
+  },
+  {
+    answer: '半夜军行戈相拨',
+    indexes: 'xlnjbsczyjsyhszgbx',
+    question: '下列哪句不是出自元结《石鱼湖上醉歌并序》？',
+    id: 21878
+  },
+  {
+    answer: '三峡星河影动摇',
+    indexes: 'xlnjbscdfyhgjwszy',
+    question: '下列哪句不是出杜甫《咏怀古迹五首之一》？',
+    id: 21879
+  },
+  {
+    answer: '淮阴侯韩信',
+    indexes: 'xlnwbsyxhsbh',
+    question: '下列哪位不属于西汉十八侯？',
+    id: 21880
+  },
+  {
+    answer: '葡萄牙',
+    indexes: 'xlnggjmyhdgozbgj',
+    question: '下列哪个国家没有获得过欧洲杯冠军？',
+    id: 21881
+  },
+  {
+    answer: '葡萄牙',
+    indexes: 'xlnggjmyhdgozbgj',
+    question: '下列哪个国家没有获得过欧洲杯冠军？',
+    id: 21882
+  },
+  {
+    answer: '云疑作赋客',
+    indexes: 'xlnjsczlzlxrqt',
+    question: '下列哪句是出自卢照邻《相如琴台》？',
+    id: 21883
+  },
+  {
+    answer: '月影扇中新',
+    indexes: 'xlnjsczlbyxzpxcmylxf',
+    question: '下列哪句是出自李百药《戏赠潘徐城门迎两新妇》？',
+    id: 21884
+  },
+  {
+    answer: '青山孕宝符',
+    indexes: 'xlnjsczlbwxrydzzgs',
+    question: '下列哪句是出自骆宾王《夏日游德州赠高四》？',
+    id: 21885
+  },
+  {
+    answer: '昨夜裙带解',
+    indexes: 'xlnjsczqdyytt',
+    question: '下列哪句是出自权德舆《玉台体》？',
+    id: 21886
+  },
+  {
+    answer: '风飘素影寒',
+    indexes: 'xlnjsczdsyhkwtzwyyh',
+    question: '下列哪句是出自杜审言《和康五庭芝望月有怀》？',
+    id: 21887
+  },
+  {
+    answer: '夜梵前山空',
+    indexes: 'xlnjsczszwsyms',
+    question: '下列哪句是出自宋之问《宿云门寺》？',
+    id: 21888
+  },
+  {
+    answer: '东京',
+    indexes: 'yzdygsbayhdcssng',
+    question: '亚洲第一个申办奥运会的城市是哪个？',
+    id: 21889
+  },
+  {
+    answer: '绿竹缘溪涧',
+    indexes: 'xlnjsczszwzxyztzhsx',
+    question: '下列哪句是出自宋之问《自湘源至潭州衡山县》？',
+    id: 21890
+  },
+  {
+    answer: '言师采药去',
+    indexes: 'xlnjsczjdxyzby',
+    question: '下列哪句是出自贾岛《寻隐者不遇》？',
+    id: 21891
+  },
+  {
+    answer: '严畯',
+    indexes: 'xlsbszlqxzy',
+    question: '下列谁不是“竹林七贤”之一？',
+    id: 21892
+  },
+  {
+    answer: '石矶西畔问渔船',
+    indexes: 'xlnjsczzxthx',
+    question: '下列哪句是出自张旭《桃花溪》？',
+    id: 21893
+  },
+  {
+    answer: '孤舟事沿越',
+    indexes: 'xlnjsczlsdssyykwdjz',
+    question: '下列哪句是出自李適《答宋十一崖口五渡见赠》？',
+    id: 21894
+  },
+  {
+    answer: '晚次乐乡县',
+    indexes: 'xlnjsczczawclxx',
+    question: '下列哪句是出自陈子昂《晚次乐乡县》？',
+    id: 21895
+  },
+  {
+    answer: '终是圣明天子事',
+    indexes: 'xlnjsczztmwp',
+    question: '下列哪句是出自郑畋《马嵬坡》？',
+    id: 21896
+  },
+  {
+    answer: '周信芳',
+    indexes: 'zgessjysdmdhsxmdqwxlnwbsmdzy',
+    question: '中国二十世纪有“四大名旦”和“四小名旦”，请问下列哪位不是名旦之一？',
+    id: 21897
+  },
+  {
+    answer: '青山朝别暮还见',
+    indexes: 'lqtdddhjsjjynfjsmyxlnyj',
+    question: '李颀《听董大弹胡笳声兼寄语弄房给事》没有下列哪一句？',
+    id: 21898
+  },
+  {
+    answer: '季孙（伯颜）',
+    indexes: 'kzdxszzzmddssezxlbsysez',
+    question: '孔子的学生中最著名的当属十二哲，下列不属于十二哲？',
+    id: 21899
+  },
+  {
+    answer: '晓发',
+    indexes: 'xlnbbswcldzp',
+    question: '下列哪部不是王昌龄的作品？',
+    id: 21900
+  },
+  {
+    answer: '皎皎映层台',
+    indexes: 'xlnjsczljqswyclqc',
+    question: '下列哪句是出自李峤《秋山望月酬李骑曹》？',
+    id: 21901
+  },
+  {
+    answer: '斜拔玉钗灯影畔',
+    indexes: 'xlnjsczzhznr',
+    question: '下列哪句是出自张祜《赠内人》？',
+    id: 21902
+  },
+  {
+    answer: '烧刀子',
+    indexes: 'xlnzjbsygdzgmj',
+    question: '下列哪种酒不属于古代中国名酒？',
+    id: 21903
+  },
+  {
+    answer: '世情恶衰歇',
+    indexes: 'xlnjsbsczdfdwy',
+    question: '下列哪句诗不是出自杜甫的《望岳》？',
+    id: 21904
+  },
+  {
+    answer: '世界警察运动会',
+    indexes: 'xlngydhmjtrsxlrbsxm',
+    question: '下列哪个运动会没将铁人三项列入比赛项目？',
+    id: 21905
+  },
+  {
+    answer: '芳心向春尽',
+    indexes: 'xlnjbsczbjyfdgycsb',
+    question: '下列哪句不是出自白居易《赋得古原草送别》？',
+    id: 21906
+  },
+  {
+    answer: '夫子何为者',
+    indexes: 'xlnjbsczwbsdsfzrsz',
+    question: '下列哪句不是出自王勃《送杜少府之任蜀州》？',
+    id: 21907
+  },
+  {
+    answer: '豹扑',
+    indexes: 'xlngjdbszgsqdslwzy',
+    question: '下列哪个军队不是贞观时期的十六卫之一？',
+    id: 21908
+  },
+  {
+    answer: '荷笠带斜阳',
+    indexes: 'xlnjsczlzqslc',
+    question: '下列哪句是出自刘长卿《送灵澈》？',
+    id: 21909
+  },
+  {
+    answer: '海日生残夜',
+    indexes: 'lbdjmsbmyxlnyj',
+    question: '李白《渡荆门送别》没有下列哪一句？',
+    id: 21910
+  },
+  {
+    answer: '溥德翊飞龙',
+    indexes: 'xlnjsczcygsx',
+    question: '下列哪句是出自陈元光《示珦》？',
+    id: 21911
+  },
+  {
+    answer: '陈',
+    indexes: 'zgqxbbkxlnggj',
+    question: '战国七雄不包括下列哪个国家？',
+    id: 21912
+  },
+  {
+    answer: '今日花开又一年',
+    indexes: 'xlnjbschhttxyg',
+    question: '下列哪句不是出韩翃《同题仙游观》？',
+    id: 21913
+  },
+  {
+    answer: '后羿',
+    indexes: 'xlnwrwbsxcdhd',
+    question: '下列哪位人物不是夏朝的皇帝？',
+    id: 21914
+  },
+  {
+    answer: '过温汤',
+    indexes: 'ttzlsmclzgptxdbswhsygyxdsrxlnbbslsmdzp',
+    question: '唐太宗李世民除了治国平天下的本事外，还是一个优秀的诗人，下列哪部不是李世民的作品？',
+    id: 21915
+  },
+  {
+    answer: '史达祖',
+    indexes: 'mxcsxlnwcrdzp',
+    question: '《梅溪词》是下列哪位词人的作品？',
+    id: 21916
+  },
+  {
+    answer: '鸡斗始开笼',
+    indexes: 'xlnjsczwcqhsyz',
+    question: '下列哪句是出自韦承庆《寒食应制》？',
+    id: 21917
+  },
+  {
+    answer: '暮雨相呼失',
+    indexes: 'xlnjbsczwwsjqm',
+    question: '下列哪句不是出自王维《山居秋暝》？',
+    id: 21918
+  },
+  {
+    answer: '礼致一牢祠',
+    indexes: 'xlnjsczzjlfhszjkzjz',
+    question: '下列哪句是出自张九龄《奉和圣制经孔子旧宅》？',
+    id: 21919
+  },
+  {
+    answer: '摊丁入亩',
+    indexes: 'xlnxzmdtdzcbsczqcyq',
+    question: '下列哪项著名的土地政策不是出自清朝以前？',
+    id: 21920
+  },
+  {
+    answer: '欧阳修',
+    indexes: 'xlnwbsyzgxzdewbsm',
+    question: '下列哪位不是“永贞革新”中的“二王八司马”？',
+    id: 21921
+  },
+  {
+    answer: '“等幂等积”',
+    indexes: 'bssqzkxfmdfzyzhhdcjxlnxsxcjbsfszscsq',
+    question: '北宋时期在科学方面的发展有着辉煌的成就，下列哪项数学成就不是发生在宋朝时期？',
+    id: 21922
+  },
+  {
+    answer: '《西北有高楼》',
+    indexes: 'xlnxbsycsfzdzp',
+    question: '下列哪些不属于曹氏父子的作品？',
+    id: 21923
+  },
+  {
+    answer: '《北魏律考》',
+    indexes: 'wmdjclkbbkxlnx',
+    question: '闻名的《九朝律考》不包括下列哪项？',
+    id: 21924
+  },
+  {
+    answer: '《江边别》',
+    indexes: 'xmnbzpbsydf',
+    question: '下面哪部作品不属于杜甫？',
+    id: 21925
+  },
+  {
+    answer: '《从军行》',
+    indexes: 'xlnxbsylfjt',
+    question: '下列哪项不属于乐府旧题？',
+    id: 21926
+  },
+  {
+    answer: '《吕览》',
+    indexes: 'xlnxbsyhf',
+    question: '下列哪项不属于汉赋？',
+    id: 21927
+  },
+  {
+    answer: '《上林赋》',
+    indexes: 'xlngbsyjawxdzp',
+    question: '下列哪个不属于建安文学的作品？',
+    id: 21928
+  },
+  {
+    answer: '《湘夫人》',
+    indexes: 'xlnxbssjzdzj',
+    question: '下列哪些不是《诗经》中的章节？',
+    id: 21929
+  },
+  {
+    answer: '《答客难》',
+    indexes: 'xlnbzpbsxhzmdfjyxddbz',
+    question: '下列哪部作品不是西汉著名的赋家杨雄的代表作？',
+    id: 21930
+  },
+  {
+    answer: '《泊秦淮》',
+    indexes: 'xlnxbsyxss',
+    question: '下列哪项不属于叙事诗？',
+    id: 21931
+  },
+  {
+    answer: '《三国志平话》',
+    indexes: 'xlnbbsmqdzhxs',
+    question: '下列哪部不是明清的章回小说？',
+    id: 21932
+  },
+  {
+    answer: '《西塞山怀古》',
+    indexes: 'xlnxbsyqyjj',
+    question: '下列哪项不属于七言绝句？',
+    id: 21933
+  },
+  {
+    answer: '《水经注》',
+    indexes: 'zyzjsjdcyqzycwdcxlnxbsydczl',
+    question: '《周易》中解释经的传有七种，也称为大传。下列哪项不属于大传之列？',
+    id: 21934
+  },
+  {
+    answer: '《陌上桑》',
+    indexes: 'xlnxbsytys',
+    question: '下列哪项不属于田园诗？',
+    id: 21935
+  },
+  {
+    answer: '305',
+    indexes: 'sjycwssbnmsjsldsggydsp',
+    question: '《诗经》又称为《诗三百》那么《诗经》收录的诗歌共有多少篇？',
+    id: 21936
+  },
+  {
+    answer: '789',
+    indexes: 'jgdldxyzxtzgydstw',
+    question: '金国的律典《咸雍重修条制》共有多少条文？',
+    id: 21937
+  },
+  {
+    answer: '战争俱乐部',
+    indexes: 'cjgjhjghyclyglzzdjlbbbkxlng',
+    question: '参加共济会酒馆会议成立英格兰足总的俱乐部不包括下列哪个?',
+    id: 21938
+  },
+  {
+    answer: '提婆',
+    indexes: 'xlnwbsxzhjlx',
+    question: '下列哪位不是西藏黄教领袖？',
+    id: 21939
+  },
+  {
+    answer: '苏州',
+    indexes: 'xlngcsbsldgdzy',
+    question: '下列哪个城市不是六大古都之一？',
+    id: 21940
+  },
+  {
+    answer: '铁帽子王',
+    indexes: 'xlnxbsyqcwydch',
+    question: '下列哪项不属于清朝王爷的称号？',
+    id: 21941
+  },
+  {
+    answer: '槛外长江空自流',
+    indexes: 'xlnjsczwbtwg',
+    question: '下列哪句是出自王勃《滕王阁》？',
+    id: 21942
+  },
+  {
+    answer: '髡钳为台隶',
+    indexes: 'xlnjsczlzlysss',
+    question: '下列哪句是出自卢照邻《咏史四首》？',
+    id: 21943
+  },
+  {
+    answer: '胯下之辱',
+    indexes: 'xlngsjbsfszsgsq',
+    question: '下列哪个事件不是发生在三国时期？',
+    id: 21944
+  },
+  {
+    answer: '酌饮四座以散愁',
+    indexes: 'xlnjbsczwwlynex',
+    question: '下列哪句不是出自王维《洛阳女儿行》？',
+    id: 21945
+  },
+  {
+    answer: '丹青画松石',
+    indexes: 'xlnjsczszwczyk',
+    question: '下列哪句是出自宋之问《初至崖口》？',
+    id: 21946
+  },
+  {
+    answer: '旧经备阙文',
+    indexes: 'xlnjsczlsfyhtcz',
+    question: '下列哪句是出自李適《汾阴后土祠作》？',
+    id: 21947
+  },
+  {
+    answer: '李密',
+    indexes: 'xlnwbsytclygessgc',
+    question: '下列哪位不属于唐朝凌烟阁二十四功臣？',
+    id: 21948
+  },
+  {
+    answer: '不据山河据平地',
+    indexes: 'xlnjbsczlbjjj',
+    question: '下列哪句不是出自李白《将进酒》？',
+    id: 21949
+  },
+  {
+    answer: '步出东斋读',
+    indexes: 'xlnjbsczwclssq',
+    question: '下列哪句不是出自王昌龄《塞上曲》？',
+    id: 21950
+  },
+  {
+    answer: '望望下章台',
+    indexes: 'xlnjsczczadjmwc',
+    question: '下列哪句是出自陈子昂《度荆门望楚》？',
+    id: 21951
+  },
+  {
+    answer: '无端嫁得金龟婿',
+    indexes: 'xlnjsczlsywy',
+    question: '下列哪句是出自李商隐《为有》？',
+    id: 21952
+  },
+  {
+    answer: '夏日游德州赠高四',
+    indexes: 'xlnbbsczadzp',
+    question: '下列哪部不是陈子昂的作品？',
+    id: 21953
+  },
+  {
+    answer: '已似长沙傅',
+    indexes: 'xlnjbsczmhrlbwsyw',
+    question: '下列哪句不是出自孟浩然《留别王侍御维》？',
+    id: 21954
+  },
+  {
+    answer: '过晋阳宫',
+    indexes: 'xlnbbslzdzp',
+    question: '下列哪部不是李治的作品？',
+    id: 21955
+  },
+  {
+    answer: '幸秦始皇陵',
+    indexes: 'xlnbbslsmdzp',
+    question: '下列哪部不是李世民的作品？',
+    id: 21956
+  },
+  {
+    answer: '十五夜观灯',
+    indexes: 'xlnbbszjldzp',
+    question: '下列哪部不是张九龄的作品？',
+    id: 21957
+  },
+  {
+    answer: '情渭日边临',
+    indexes: 'xlnjsczzjlfhszcqyy',
+    question: '下列哪句是出自张九龄《奉和圣制次琼岳韵》？',
+    id: 21958
+  },
+  {
+    answer: '闲园即事寄韦侍郎',
+    indexes: 'xlnbbslbwdzp',
+    question: '下列哪部不是骆宾王的作品？',
+    id: 21959
+  },
+  {
+    answer: '李陵',
+    indexes: 'xlnwshcrw',
+    question: '下列哪位是汉朝人物？',
+    id: 21960
+  },
+  {
+    answer: '广阳',
+    indexes: 'xlngdfsyhcsqdwhzd',
+    question: '下列哪个地方属于汉朝时期的乌恒驻地？',
+    id: 21961
+  },
+  {
+    answer: '建筑吉祥',
+    indexes: 'xlnxbsyzgbdjxwh',
+    question: '下列哪项不属于中国八大吉祥文化？',
+    id: 21962
+  },
+  {
+    answer: '二十须臾为一整天',
+    indexes: 'wcydzyhjysnmgysjdcwshs',
+    question: '文常有“弹指一挥间”一说，那么关于时间的错误说话是？',
+    id: 21963
+  },
+  {
+    answer: '很多',
+    indexes: 'yzbgygyjgr',
+    question: '扬州八怪一共有几个人？',
+    id: 21964
+  },
+  {
+    answer: '刘向',
+    indexes: 'xlnwbsqgsqdrw',
+    question: '下列哪位不是秦国时期的人物？',
+    id: 21965
+  },
+  {
+    answer: '托塔天王李靖',
+    indexes: 'xlngbssgms',
+    question: '下列哪个不是上古魔神？',
+    id: 21966
+  },
+  {
+    answer: '浏亮如笙碎在缑',
+    indexes: 'xlnjsczlyqy',
+    question: '下列哪句是出自李煜《秋莺》？',
+    id: 21967
+  },
+  {
+    answer: '汤',
+    indexes: 'xlngbsxcdrw',
+    question: '下列哪个不是夏朝的人物？',
+    id: 21968
+  },
+  {
+    answer: '光华早著名',
+    indexes: 'xlnjsczlbyjyg',
+    question: '下列哪句是出自李百药《寄杨公》？',
+    id: 21969
+  },
+  {
+    answer: '夏侯审',
+    indexes: 'mzsczszydmpsrzdjcdbxlsbsymzscz',
+    question: '闽中十才子是指元代闽派诗人中的杰出代表，下列谁不属于闽中十才子？',
+    id: 21970
+  },
+  {
+    answer: '望蓟门',
+    indexes: 'xlnbzpbsdfd',
+    question: '下列哪部作品不是杜甫的？',
+    id: 21971
+  },
+  {
+    answer: '是妾断肠时',
+    indexes: 'xlnjsbsczydfdmlb',
+    question: '下列哪句诗不是出自于杜甫的《梦李白》？',
+    id: 21972
+  },
+  {
+    answer: '日暮乡关何处是',
+    indexes: 'xlnjbsclqswwzj',
+    question: '下列哪句不是出李颀《送魏万之京》？',
+    id: 21973
+  },
+  {
+    answer: '以我独沉久',
+    indexes: 'xlnjbsczctgy',
+    question: '下列哪句不是出自崔涂《孤雁》？',
+    id: 21974
+  },
+  {
+    answer: '春游曲二首',
+    indexes: 'xmnbzpbslzyd',
+    question: '下面哪部作品不是柳宗元的？',
+    id: 21975
+  },
+  {
+    answer: '阿史那思摩',
+    indexes: 'xlnwstcsqdrw',
+    question: '下列哪位是唐朝时期的人物？',
+    id: 21976
+  },
+  {
+    answer: '慈溪窑',
+    indexes: 'xlngbswglsshnsnymdcqyk',
+    question: '下列哪个不是我国历史上河南省内有名的瓷器窑口？',
+    id: 21977
+  },
+  {
+    answer: '黄帝战蚩尤',
+    indexes: 'xlbsysgsh',
+    question: '下列不属于上古神话？',
+    id: 21978
+  },
+  {
+    answer: '徐州云龙山庙会',
+    indexes: 'wljnsgmjyhdsgmshdxlnghdbssgmshd',
+    question: '为了纪念三国，民间有很多三国民俗活动，下列哪个活动不是三国民俗活动？',
+    id: 21979
+  },
+  {
+    answer: '深恩雨露垂',
+    indexes: 'xlnjsczwcqzzss',
+    question: '下列哪句是出自韦承庆《直中书省》？',
+    id: 21980
+  },
+  {
+    answer: '都护使',
+    indexes: 'xlnggzbstcdwz',
+    question: '下列哪个官职不是唐朝的武职？',
+    id: 21981
+  },
+  {
+    answer: '虬须虎眉仍大颡',
+    indexes: 'xlnjbsczlqtawscblg',
+    question: '下列哪句不是出自李颀《听安万善吹筚篥歌》？',
+    id: 21982
+  },
+  {
+    answer: '赵云神枪',
+    indexes: 'xlnxdysgsqdsmscwd',
+    question: '下列哪项对于三国时期的“神”描述错误的？',
+    id: 21983
+  },
+  {
+    answer: '基冈',
+    indexes: 'xlnwmyhdgozbjsjdzjssdch',
+    question: '下列哪位没有获得过欧洲杯决赛阶段最佳射手的称号？',
+    id: 21984
+  },
+  {
+    answer: '基冈',
+    indexes: 'xlnwmyhdgozbjsjdzjssdch',
+    question: '下列哪位没有获得过欧洲杯决赛阶段最佳射手的称号？',
+    id: 21985
+  },
+  {
+    answer: '藏霸',
+    indexes: 'xlnwbshgwdsfytesbj',
+    question: '下列哪位不是汉光武帝所封云台二十八将？',
+    id: 21986
+  },
+  {
+    answer: '白云无尽时',
+    indexes: 'xlnjsbsczwwdxsy',
+    question: '下列哪句诗不是出自王维的《西施咏》？',
+    id: 21987
+  },
+  {
+    answer: '飞虎营',
+    indexes: 'xlnxbsyfkjsbyss',
+    question: '下列哪项不是岳飞抗金十八营所属？',
+    id: 21988
+  },
+  {
+    answer: '夕阳无限好',
+    indexes: 'xlnjsczlsydlyy',
+    question: '下列哪句是出自李商隐《登乐游原》？',
+    id: 21989
+  },
+  {
+    answer: '赠王八衢',
+    indexes: 'xlnbbsdfdzp',
+    question: '下列哪部不是杜甫的作品？',
+    id: 21990
+  },
+  {
+    answer: '西夏',
+    indexes: 'xlngzqbsyhbsbcdgjzq',
+    question: '下列哪个政权不属于和北宋并存的割据政权？',
+    id: 21991
+  },
+  {
+    answer: '十',
+    indexes: 'hjjswgzzdybcjhjjgyjb',
+    question: '《花间集》是我国最早的一部词集，《花间集》共有几部？',
+    id: 21992
+  },
+  {
+    answer: '皇历',
+    indexes: 'xlnxbsxldbc',
+    question: '下列哪项不是夏历的别称？',
+    id: 21993
+  },
+  {
+    answer: '枸杞',
+    indexes: 'swccsjnjzclacz',
+    question: '所谓“吃茶”是将哪几种材料熬成粥？',
+    id: 21994
+  },
+  {
+    answer: '八尺龙须方锦褥',
+    indexes: 'xlnjsczhhyl',
+    question: '下列哪句是出自韩翃《已凉》？',
+    id: 21995
+  },
+  {
+    answer: '罗纳尔多',
+    indexes: 'sjbjqzdqyss',
+    question: '世界杯进球最多球员是谁？',
+    id: 21996
+  },
+  {
+    answer: '淡扫荆门烟',
+    indexes: 'xlnjbsczwcldbsxj',
+    question: '下列哪句不是出自王昌龄的《灞上闲居》？',
+    id: 21997
+  },
+  {
+    answer: '扣杀',
+    indexes: 'xlnxjsbsysqydybbdzxjs',
+    question: '下列哪项技术不属于水球运动员必备的专项技术？',
+    id: 21998
+  },
+  {
+    answer: '方远御慈留',
+    indexes: 'xlnjsczcsfhsjcgzsxfyz',
+    question: '下列哪句是出自崔湜《奉和送金城公主适西蕃应制》？',
+    id: 21999
+  },
+  {
+    answer: '李贤',
+    indexes: 'tcddwzybsdsyscgfqwxlnwtcdhdbssr',
+    question: '唐朝的帝王中有不少都善于诗词歌赋，请问下列哪位唐朝的皇帝不是诗人？',
+    id: 22000
+  },
+  {
+    answer: '欧阳修号醉仙',
+    indexes: 'xlgygdsrdbhbscwds',
+    question: '下列关于古代诗人的别号表述错误的是？',
+    id: 22001
+  },
+  {
+    answer: '俯听闻惊风',
+    indexes: 'xlnjbsczwywdjqjszds',
+    question: '下列哪句不是出自韦应物的《寄全椒山中道士》？',
+    id: 22002
+  },
+  {
+    answer: '山居秋暝',
+    indexes: 'xlnbzpbslsyd',
+    question: '下列哪部作品不是李商隐的？',
+    id: 22003
+  },
+  {
+    answer: '清辉玉臂寒',
+    indexes: 'xlnjbsczwwwcxjzpxcd',
+    question: '下列哪句不是出自王维《辋川闲居赠裴秀才迪》？',
+    id: 22004
+  },
+  {
+    answer: '太原王濬',
+    indexes: 'xlnwbsnbcdcmsz',
+    question: '下列哪位不是南北朝的出名世族？',
+    id: 22005
+  },
+  {
+    answer: '千刀万剐',
+    indexes: 'mqsdkxbbkxlnx',
+    question: '满清十大酷刑不包括下列哪项？',
+    id: 22006
+  },
+  {
+    answer: '司马昭',
+    indexes: 'xlnwbswjnbcsqdrw',
+    question: '下列哪位不是魏晋南北朝时期的人物？',
+    id: 22007
+  },
+  {
+    answer: '左丘明',
+    indexes: 'ccsllyqywsjwsrdzpxlnwsrdzpwslzccz',
+    question: '《楚辞》收录了以屈原为首几位诗人的作品，下列哪位诗人的作品未收录在《楚辞》中？',
+    id: 22008
+  },
+  {
+    answer: '邹元标',
+    indexes: 'mcwqddldsyjnsdfwzdzzjtqzzzmddsdlbczxlnwsydlbcz',
+    question:
+      '明朝晚期的东林党是以江南士大夫为主的政治集团，其中最著名的当属“东林八才子”，下列哪位属于东林八才子？',
+    id: 22009
+  },
+  {
+    answer: '云阴送晚雷',
+    indexes: 'xlnjsczdsyxrgzqsz',
+    question: '下列哪句是出自杜审言《夏日过郑七山斋》？',
+    id: 22010
+  },
+  {
+    answer: '辛弃疾',
+    indexes: 'xlnwcrsyhfpcr',
+    question: '下列哪位词人属于豪放派词人？',
+    id: 22011
+  },
+  {
+    answer: '连洲拥夕涨',
+    indexes: 'xlnjsczlbwzjnzswzw',
+    question: '下列哪句是出自骆宾王《在江南赠宋五之问》？',
+    id: 22012
+  },
+  {
+    answer: '吕布字奉阳',
+    indexes: 'xlgysgrwxmbzcwdsnx',
+    question: '下列关于三国人物姓名表字错误的是哪项？',
+    id: 22013
+  },
+  {
+    answer: '万里浮云阴且晴',
+    indexes: 'mhryglmsgmyxlnj',
+    question: '孟浩然《夜归鹿门山歌》没有下列哪句？',
+    id: 22014
+  },
+  {
+    answer: '桑兰',
+    indexes: 'xlnxydydmzbgjtclhhylmmjsdz',
+    question: '下列哪些运动员的名字被国际体操联合会用来命名技术动作？',
+    id: 22015
+  },
+  {
+    answer: '章华即旧台',
+    indexes: 'xlnjsczdsydxyc',
+    question: '下列哪句是出自杜审言《登襄阳城》？',
+    id: 22016
+  },
+  {
+    answer: '奥斯卡·罗伯逊',
+    indexes: 'NBAdfzddhwss',
+    question: 'NBA得分最多的后卫是谁？',
+    id: 22017
+  },
+  {
+    answer: '登临出世界',
+    indexes: 'xlnjsbsczwwdswclyj',
+    question: '下列哪句诗不是出自王维的《宿王昌龄隐居》？',
+    id: 22018
+  },
+  {
+    answer: '王昌龄《塞上曲》',
+    indexes: 'xlnssbswygs',
+    question: '下列哪首诗不是五言古诗？',
+    id: 22019
+  },
+  {
+    answer: '李颀《古意》',
+    indexes: 'xlnssbswylf',
+    question: '下列哪首诗不是五言乐府？',
+    id: 22020
+  },
+  {
+    answer: '印度',
+    indexes: 'xlnggjbszglssdfsg',
+    question: '下列那个国家不是中国历史上的附属国？',
+    id: 22021
+  },
+  {
+    answer: '王孙归不归',
+    indexes: 'xlnjsczwwsb',
+    question: '下列哪句是出自王维《送别》？',
+    id: 22022
+  },
+  {
+    answer: '延首晞云路',
+    indexes: 'xlnjsczrxghlgqx',
+    question: '下列哪句是出自任希古《和李公七夕》？',
+    id: 22023
+  },
+  {
+    answer: '发匣先来瑞有虞',
+    indexes: 'xlnjsczcryfhszlcp',
+    question: '下列哪句是出自崔日用《奉和圣制龙池篇》？',
+    id: 22024
+  },
+  {
+    answer: '步步春芳绿',
+    indexes: 'xlnjsczlxycs',
+    question: '下列哪句是出自刘希夷《采桑》？',
+    id: 22025
+  },
+  {
+    answer: '旧好隔良缘',
+    indexes: 'xlnjbsczctgy',
+    question: '下列哪句不是出自崔涂《孤雁》？',
+    id: 22026
+  },
+  {
+    answer: '啼时惊妾梦',
+    indexes: 'xlnjsczjcxcy',
+    question: '下列哪句是出自金昌绪《春怨》？',
+    id: 22027
+  },
+  {
+    answer: '从壁上观',
+    indexes: 'xlngcybsczcqb',
+    question: '下列那个成语不是出自《陈情表》？',
+    id: 22028
+  },
+  {
+    answer: '野老与人争席罢',
+    indexes: 'xlnjbscwwcgjs',
+    question: '下列哪句不是出王维《酬郭给事》？',
+    id: 22029
+  },
+  {
+    answer: '今人多不弹',
+    indexes: 'xlnjsczlzqdq',
+    question: '下列哪句是出自刘长卿《弹琴》？',
+    id: 22030
+  },
+  {
+    answer: '欲把一麾江海去',
+    indexes: 'xlnjsczdmjfwxdlyy',
+    question: '下列哪句是出自杜牧《将赴吴兴登乐游原》？',
+    id: 22031
+  },
+  {
+    answer: '忽念山中客',
+    indexes: 'xlnjbsczzjldhkwlspbq',
+    question: '下列哪句不是出自张九龄的《湖口望庐山瀑布泉》？',
+    id: 22032
+  },
+  {
+    answer: '大食',
+    indexes: 'xlngmzbsgdzgdmz',
+    question: '下列哪个名族不是古代中国的民族？',
+    id: 22033
+  },
+  {
+    answer: '孙谋梁国珍',
+    indexes: 'xlnjsczdsysyalgzmysyyz',
+    question: '下列哪句是出自杜审言《岁夜安乐公主满月侍宴应制》？',
+    id: 22034
+  },
+  {
+    answer: '白骨相撑委',
+    indexes: 'xlnjsczwwjbszc',
+    question: '下列哪句是出自王无竞《北使长城》？',
+    id: 22035
+  },
+  {
+    answer: '由来征战地',
+    indexes: 'xlnjbsczlqgy',
+    question: '下列哪句不是出自李颀《古意》？',
+    id: 22036
+  },
+  {
+    answer: '沧海月明珠有泪',
+    indexes: 'xlnjbsclsywt',
+    question: '下列哪句不是出李商隐《无题》？',
+    id: 22037
+  },
+  {
+    answer: '御林军',
+    indexes: 'gzjswtyqbzwgcswcycjjycjjfwwgxtxlnxbsyycjjd',
+    question:
+      '高祖将三万太原亲兵作为宫城宿卫，称元从禁军。元从禁军分为五个系统，下列哪项不属于元从禁军的？',
+    id: 22038
+  },
+  {
+    answer: '使臣将王命',
+    indexes: 'xlnjbsczqwqdcfryx',
+    question: '下列哪句不是出自綦毋潜的《春泛若耶溪》？',
+    id: 22039
+  },
+  {
+    answer: '离离早鸿度',
+    indexes: 'xlnjsczlbywdjj',
+    question: '下列哪句是出自李百药《晚渡江津》？',
+    id: 22040
+  },
+  {
+    answer: '旋转',
+    indexes: 'xlnxdzbshbddznr',
+    question: '下列哪项动作不是滑板的动作内容？',
+    id: 22041
+  },
+  {
+    answer: '淫',
+    indexes: 'fjzszrsdjpbbkxlnx',
+    question: '佛教中所指人生的九品不包括下列哪项？',
+    id: 22042
+  },
+  {
+    answer: '道学',
+    indexes: 'gddetjyhtzkdfzcsjdyxdjzjxlxzbbkxlnx',
+    question: '古代对儿童教育和童子科的发展产生较大影响的几种教学类型中不包括下列哪项？',
+    id: 22043
+  },
+  {
+    answer: '迥眺穷原泽',
+    indexes: 'xlnjsczljfjzfjcgtzkh',
+    question: '下列哪句是出自李峤《奉教追赴九成宫途中口号》？',
+    id: 22044
+  },
+  {
+    answer: '唐太宗',
+    indexes: 'gdyhddwxfdjqwxlnwhdxd',
+    question: '古代有很多帝王信奉道教，请问下列哪位皇帝信道？',
+    id: 22045
+  },
+  {
+    answer: '韶女峰',
+    indexes: 'slszgwdgdlzysdzyjysxlngdmbsjysfjdjd',
+    question: '舜陵是中国五大古帝陵之一，舜帝葬于九嶷山，下列哪个地名不是九嶷山附近的景点？',
+    id: 22046
+  },
+  {
+    answer: '江南逢李龟年',
+    indexes: 'xlnbbstczjldzp',
+    question: '下列哪部不是唐朝张九龄的作品？',
+    id: 22047
+  },
+  {
+    answer: '哈密',
+    indexes: 'dsczlyxbjddjgdfqzbbkxlnx',
+    question: '对丝绸之路影响比较大的几个地方其中不包括下列哪项？',
+    id: 22048
+  },
+  {
+    answer: '饱卿',
+    indexes: 'qwxlngbsyscdzzjgzdjszy',
+    question: '请问下列哪个不属于宋朝的政治机构中的九寺之一？',
+    id: 22049
+  },
+  {
+    answer: '甘露寺',
+    indexes: 'xlngbmbsytcdzyswjgjs',
+    question: '下列哪个部门不属于唐朝的中央事务机关九寺？',
+    id: 22050
+  },
+  {
+    answer: '儿童相见不相识',
+    indexes: 'xlnjsczhzzhxos',
+    question: '下列哪句是出自贺知章《回乡偶书》？',
+    id: 22051
+  },
+  {
+    answer: '零露湿罗襦',
+    indexes: 'xlnjsczqzzxsfgf',
+    question: '下列哪句是出自乔知之《下山逢故夫》？',
+    id: 22052
+  },
+  {
+    answer: '隐隐香台夜',
+    indexes: 'xlnjsczlzlsjs',
+    question: '下列哪句是出自卢照邻《石镜寺》？',
+    id: 22053
+  },
+  {
+    answer: '顾影无如白发何',
+    indexes: 'xlnjbsclzqzsgjyz',
+    question: '下列哪句不是出刘长卿《长沙过贾谊宅》？',
+    id: 22054
+  },
+  {
+    answer: '未谙姑食性',
+    indexes: 'xlnjsczwjxjn',
+    question: '下列哪句是出自王建《新嫁娘》？',
+    id: 22055
+  },
+  {
+    answer: '朱右',
+    indexes: 'xlnwzghlybx',
+    question: '下列哪位做过翰林院编修？',
+    id: 22056
+  },
+  {
+    answer: '陆游',
+    indexes: 'fwsxlsdwh',
+    question: '“放翁”是下列谁的晚号？',
+    id: 22057
+  },
+  {
+    answer: '王重阳',
+    indexes: 'xlnwsybsyjysqdbqz',
+    question: '下列哪位属于不属于金元时期的“北七真？',
+    id: 22058
+  },
+  {
+    answer: '仲康',
+    indexes: 'xlnwbsscdgw',
+    question: '下列哪位不是商朝的国王？',
+    id: 22059
+  },
+  {
+    answer: '横扫六合',
+    indexes: 'xlbsyzgsqdsssnx',
+    question: '下列不属于战国时期的史事是哪项？',
+    id: 22060
+  },
+  {
+    answer: '杂曲歌词',
+    indexes: 'xlnzstbsyqts',
+    question: '下列哪种诗体不属于全唐诗？',
+    id: 22061
+  },
+  {
+    answer: '月下飞天镜',
+    indexes: 'xlnjbsczdfyy',
+    question: '下列哪句不是出自杜甫《月夜》？',
+    id: 22062
+  },
+  {
+    answer: '刘海蟾',
+    indexes: 'xlnwsybsyjysqdnqz',
+    question: '下列哪位属于不属于金元时期的“南七真？',
+    id: 22063
+  },
+  {
+    answer: '太尉',
+    indexes: 'hcsxsgjqzxlnxbsyjq',
+    question: '汉朝实行三公九卿制，下列哪项不属于九卿？',
+    id: 22064
+  },
+  {
+    answer: '三千太乙军',
+    indexes: 'xlnjsczyjcs',
+    question: '下列哪句是出自杨炯《出塞》？',
+    id: 22065
+  },
+  {
+    answer: '东拒复西敌',
+    indexes: 'xlnjsczcssyx',
+    question: '下列哪句是出自崔湜《塞垣行》？',
+    id: 22066
+  },
+  {
+    answer: '芳好空所惜',
+    indexes: 'xlnjsczsthdzbcryss',
+    question: '下列哪句是出自苏颋《和杜主簿春日有所思》？',
+    id: 22067
+  },
+  {
+    answer: '蝶恋花（花褪残红青杏小）',
+    indexes: 'xlnscbsscncrlqzdzp',
+    question: '下列哪首词不是宋朝女词人李清照的作品？',
+    id: 22068
+  },
+  {
+    answer: '终南阴岭秀',
+    indexes: 'zyznwyxyxlnyj',
+    question: '祖咏《终南望馀雪》有下列哪一句？',
+    id: 22069
+  },
+  {
+    answer: '亡羊补牢',
+    indexes: 'xlngcybsczyxybj',
+    question: '下列哪个成语不是出自于《项羽本纪》？',
+    id: 22070
+  },
+  {
+    answer: '自卖自夸',
+    indexes: 'xlnjxhyhsgwg',
+    question: '下列哪句歇后语和三国无关？',
+    id: 22071
+  },
+  {
+    answer: '左千骑',
+    indexes: 'tzdjjzbyqyyfwqbxlnxbsybyqyzl',
+    question: '太宗的禁军中，北衙七营又分为七部，下列哪项不属于北衙七营之列？',
+    id: 22072
+  },
+  {
+    answer: '独敲初夜磬',
+    indexes: 'xlnjbsczzjmfgr',
+    question: '下列哪句不是出自张籍《没蕃故人》？',
+    id: 22073
+  },
+  {
+    answer: '莫学游侠儿',
+    indexes: 'xlnjbsczmjlnc',
+    question: '下列哪句不是出自孟郊《烈女操》？',
+    id: 22074
+  },
+  {
+    answer: '三峡楼台淹日月',
+    indexes: 'dfyhgjwszemyxlnyj',
+    question: '杜甫《咏怀古迹五首之二》没有下列哪一句？',
+    id: 22075
+  },
+  {
+    answer: '尘起洛阳风',
+    indexes: 'xlnjsczlbwqrjldscwl',
+    question: '下列哪句是出自骆宾王《秋日饯陆道士陈文林》？',
+    id: 22076
+  },
+  {
+    answer: '欧大任',
+    indexes: 'qjqnjdbwczbsrcwjqbczxlsbsbczzl',
+    question: '清嘉庆年间的八位才子被世人称为“嘉庆八才子”，下列谁不是八才子之列？',
+    id: 22077
+  },
+  {
+    answer: '风泉满清听',
+    indexes: 'lzydcycsydsjmyxlnyj',
+    question: '柳宗元的《晨诣超师院读禅经》没有下列哪一句？',
+    id: 22078
+  },
+  {
+    answer: '荷翻北潭影',
+    indexes: 'xlnjsczwbstyy',
+    question: '下列哪句是出自王勃《山亭夜宴》？',
+    id: 22079
+  },
+  {
+    answer: '中俄尼布楚条约',
+    indexes: 'xlngtysqcdyzhqddty',
+    question: '下列那个条约是清朝打赢仗后签订的条约？',
+    id: 22080
+  },
+  {
+    answer: '笛',
+    indexes: 'ygsqdlqzmyxlnx',
+    question: '远古时期的乐器中没有下列哪项？',
+    id: 22081
+  },
+  {
+    answer: '送客',
+    indexes: 'xlnxbsyhsdjl',
+    question: '下列哪项不属于后世的酒礼？',
+    id: 22082
+  },
+  {
+    answer: '估客昼眠知浪静',
+    indexes: 'xlnjbscyzqbhsszy',
+    question: '下列哪句不是出元稹《遣悲怀三首之一》？',
+    id: 22083
+  },
+  {
+    answer: '中立',
+    indexes: 'lssddyfzqsfmdwljsclclzqsserjsslddmdywzqzbbkxlnxwz',
+    question:
+      '历史上的第一份足球“首发名单”《武林旧事》曾列出了“筑球三十二人”竞赛时两队的名单与位置,其中不包括下列哪项位置?',
+    id: 22084
+  },
+  {
+    answer: '关羽',
+    indexes: 'cccjfswhsth',
+    question: '曹操曾经封谁为汉寿亭候?',
+    id: 22085
+  },
+  {
+    answer: '吕布',
+    indexes: 'sgzbywbjjdbwjjssdsx',
+    question: '三国中被誉为“八健将”的八位将军是谁的手下？',
+    id: 22086
+  },
+  {
+    answer: '白登之战',
+    indexes: 'qwxlnczybsfszhcsq',
+    question: '请问下列那场战役不是发生在汉朝时期？',
+    id: 22087
+  },
+  {
+    answer: '南丰窑',
+    indexes: 'xlngcswglssjxsnymdcqyk',
+    question: '下列哪个才是我国历史上江西省内有名的瓷器窑口？',
+    id: 22088
+  },
+  {
+    answer: '宋史',
+    indexes: 'essszpfzzdsnb',
+    question: '二十四史中篇幅最长的是哪部？',
+    id: 22089
+  },
+  {
+    answer: '夜叉',
+    indexes: 'xlngmzbsyzggdmz',
+    question: '下列那个民族不属于中国古代民族？',
+    id: 22090
+  },
+  {
+    answer: '德云社',
+    indexes: 'xlnxbssczmylzz',
+    question: '下列哪项不是宋朝著名娱乐组织？',
+    id: 22091
+  },
+  {
+    answer: '要塞3座',
+    indexes: 'xlgyhbqhdjnzcdtjznxscwd',
+    question: '下列关于河北秦皇岛境内长城的统计中哪项是错误的？',
+    id: 22092
+  },
+  {
+    answer: '南唐',
+    indexes: 'xabsxlncdgd',
+    question: '西安不是下列哪朝的古都？',
+    id: 22093
+  },
+  {
+    answer: '张爱玲',
+    indexes: 'xlnwbsjshsdmy',
+    question: '下列哪位不是旧上海十大名媛？',
+    id: 22094
+  },
+  {
+    answer: '1994年美国世界杯主题曲－：“辉煌之地”',
+    indexes: 'xlgyljsjbztqdmszqdsnx',
+    question: '下列关于历届世界杯主题曲的描述正确的是哪项？',
+    id: 22095
+  },
+  {
+    answer: '1000米长跑',
+    indexes: 'xlnxbsxdtyzdqxqnzdxm',
+    question: '下列哪项不是现代体育中的“七项全能”中的项目？',
+    id: 22096
+  },
+  {
+    answer: '《彷徨》收入1925年的《祝福》',
+    indexes: 'xlnxgylxdmsscwd',
+    question: '下列哪项关于鲁迅的描述是错误的？',
+    id: 22097
+  },
+  {
+    answer: '阿瑟-德鲁利德国1955-1961',
+    indexes: 'xlgyljgjzlzxdmscwds',
+    question: '下列关于历届国际足联主席的描述错误的是?',
+    id: 22098
+  },
+  {
+    answer: '1988年在韩国举办的第二十四届奥运会',
+    indexes: 'qjwzgmzddayhsnyj',
+    question: '迄今为止规模最大的奥运会是哪一届？',
+    id: 22099
+  },
+  {
+    answer: '1952年',
+    indexes: 'wxhqdyczaycskggpysnyn',
+    question: '五星红旗第一次在奥运村上空高高飘扬是哪一年？',
+    id: 22100
+  },
+  {
+    answer: '1894',
+    indexes: 'gjawhsnyncld',
+    question: '国际奥委会是哪一年成立的？',
+    id: 22101
+  },
+  {
+    answer: '36',
+    indexes: 'sjlddlsqyzlsssyjzddsqsx108hhssfsjjzsjdsxzydswhh',
+    question:
+      '宋江领导的梁山起义在历史上是有记载的，但是其手下108好汉所述非实，据记载宋江的手下只有多少位好汉？',
+    id: 22102
+  },
+  {
+    answer: '切尔西',
+    indexes: '1998nozgdlshmjlbwqzozlUEFAgyozgjlsggzytnzblsblsemmzklhyycmwG14dxzzdsxlngjlbbsG14cy',
+    question:
+      '1998年欧洲各大联赛豪门俱乐部，为牵制欧足联（UEFA）关于欧洲冠军联赛改革制，于同年在比利时布鲁塞尔秘密召开了会议！由此名为「G14」的新组织诞生。下列哪个俱乐部不是G14成员？',
+    id: 22103
+  },
+  {
+    answer: '舒马赫',
+    indexes: 'hdzgjzddF1xsss',
+    question: '获得总冠军最多的F1选手是谁?',
+    id: 22104
+  },
+  {
+    answer: '1957年',
+    indexes: 'wgzqjjlssynyn',
+    question: '我国足球甲级联赛始于哪一年?',
+    id: 22105
+  },
+  {
+    answer: '巴黎',
+    indexes: 'xlnxbsF1djszd',
+    question: '下列哪项不是F1大奖赛站点?',
+    id: 22106
+  },
+  {
+    answer: '斩',
+    indexes: 'xlnxbssysqdzyhddflzdzdxf',
+    question: '下列哪项不是宋元时期对中原汉地的法律制度中的刑罚？',
+    id: 22107
+  },
+  {
+    answer: '汝阳王',
+    indexes: 'zgxjstzjtnbls16n291306zjdzlscbwzlxlnwbsybwzl',
+    question:
+      '中国西晋时统治集团内部历时16年（291～306）之久的战乱，史称“八王之乱”，下列哪位不属于八王之列？',
+    id: 22108
+  },
+  {
+    answer: '186',
+    indexes: 'NBAdcbsdfzgdsdsf',
+    question: 'NBA单场比赛得分最高的是多少分？',
+    id: 22109
+  },
+  {
+    answer: '1986墨西哥',
+    indexes: 'xlgydgsjmszqds',
+    question: '下列关于夺冠时间描述正确的是？',
+    id: 22110
+  },
+  {
+    answer: '1980年第八届世界锦标赛',
+    indexes: 'xlnxbsyzgnpdwlgsr',
+    question: '下列哪项不属于中国女排的“五连冠”殊荣？',
+    id: 22111
+  },
+  {
+    answer: '1980年第八届世界锦标赛',
+    indexes: 'xlnxbsyzgnpdwlgsr',
+    question: '下列哪项不属于中国女排的“五连冠”殊荣？',
+    id: 22112
+  },
+  {
+    answer: '霍尔岑贝',
+    indexes: 'xlnwmyrx1974nsjbzjzr',
+    question: '下列哪位没有入选1974年世界杯最佳阵容？',
+    id: 22113
+  },
+  {
+    answer: '插翅虎朱仝',
+    indexes: 'xldsh108jdmscwdsnx',
+    question: '下列对水浒108将的描述错误的是哪项？',
+    id: 22114
+  },
+  {
+    answer: '110米栏冠军（刘翔）',
+    indexes: 'xlnxd27jayhsqddgj',
+    question: '下列哪项第27届奥运会上取得的冠军？',
+    id: 22115
+  },
+  {
+    answer: '张羽',
+    indexes: 'dlsczstdzdlnj10wsrsdbdygsglpxlnwbsydlscz',
+    question: '大历十才子是唐代宗大历年间10位诗人所代表的一个诗歌流派，下列哪位不属于大历十才子？',
+    id: 22116
+  },
+  {
+    answer: '1894',
+    indexes: 'gjawhsnyncld',
+    question: '国际奥委会是哪一年成立的？',
+    id: 22117
+  },
+  {
+    answer: '36',
+    indexes: 'sjlddlsqyzlsssyjzddsqsx108hhssfsjjzsjdsxzydswhh',
+    question:
+      '宋江领导的梁山起义在历史上是有记载的，但是其手下108好汉所述非实，据记载宋江的手下只有多少位好汉？',
+    id: 22118
+  },
+  {
+    answer: '切尔西',
+    indexes: '1998nozgdlshmjlbwqzozlUEFAgyozgjlsggzytnzblsblsemmzklhyycmwG14dxzzdsxlngjlbbsG14cy',
+    question:
+      '1998年欧洲各大联赛豪门俱乐部，为牵制欧足联（UEFA）关于欧洲冠军联赛改革制，于同年在比利时布鲁塞尔秘密召开了会议！由此名为「G14」的新组织诞生。下列哪个俱乐部不是G14成员？',
+    id: 22119
+  },
+  {
+    answer: '舒马赫',
+    indexes: 'hdzgjzddF1xsss',
+    question: '获得总冠军最多的F1选手是谁?',
+    id: 22120
+  },
+  {
+    answer: '1957年',
+    indexes: 'wgzqjjlssynyn',
+    question: '我国足球甲级联赛始于哪一年?',
+    id: 22121
+  },
+  {
+    answer: '1000米长跑',
+    indexes: 'xlnxbsxdtyzdqxqnzdxm',
+    question: '下列哪项不是现代体育中的“七项全能”中的项目？',
+    id: 22122
+  },
+  {
+    answer: '1986墨西哥',
+    indexes: 'xlgydgsjmszqds',
+    question: '下列关于夺冠时间描述正确的是？',
+    id: 22123
+  },
+  {
+    answer: '霍尔岑贝',
+    indexes: 'xlnwmyrx1974nsjbzjzr',
+    question: '下列哪位没有入选1974年世界杯最佳阵容？',
+    id: 22124
+  },
+  {
+    answer: '小养由基庞万春',
+    indexes: 'xlnxbssh108j',
+    question: '下列哪项不是水浒108将？',
+    id: 22125
+  },
+  {
+    answer: '小禁区长18米',
+    indexes: 'xlnxgyzqcdsjscwd',
+    question: '下列哪项关于足球场的数据是错误的?',
+    id: 22126
+  },
+  {
+    answer: '110米栏冠军（刘翔）',
+    indexes: 'xlnxd27jayhsqddgj',
+    question: '下列哪项第27届奥运会上取得的冠军？',
+    id: 22127
+  },
+  {
+    answer: '张羽',
+    indexes: 'dlsczstdzdlnj10wsrsdbdygsglpxlnwbsydlscz',
+    question: '大历十才子是唐代宗大历年间10位诗人所代表的一个诗歌流派，下列哪位不属于大历十才子？',
+    id: 22128
+  },
+  {
+    answer: 'H',
+    indexes: 'xlnygsqdhxs',
+    question: '下列哪一个是氢的化学式?',
+    id: 22129
+  },
+  {
+    answer: 'P',
+    indexes: 'xlnygsldhxs',
+    question: '下列哪一个是磷的化学式?',
+    id: 22130
+  },
+  {
+    answer: 'Ca',
+    indexes: 'xlnygsgdhxs',
+    question: '下列哪一个是钙的化学式?',
+    id: 22131
+  },
+  {
+    answer: 'Na',
+    indexes: 'xlnygsndhxs',
+    question: '下列哪一个是钠的化学式?',
+    id: 22132
+  },
+  {
+    answer: '铁',
+    indexes: 'yxsyjsds',
+    question: '以下属于金属的是:',
+    id: 22133
+  },
+  {
+    answer: '黄铜',
+    indexes: 'yxsyjsds',
+    question: '以下属于金属的是:',
+    id: 22134
+  },
+  {
+    answer: '保时捷',
+    indexes: 'yxsyqcppds',
+    question: '以下属于汽车品牌的是:',
+    id: 22135
+  },
+  {
+    answer: '本田',
+    indexes: 'yxsyqcppds',
+    question: '以下属于汽车品牌的是:',
+    id: 22136
+  },
+  {
+    answer: '斯柯达',
+    indexes: 'yxsyqcppds',
+    question: '以下属于汽车品牌的是:',
+    id: 22137
+  },
+  {
+    answer: '丰田',
+    indexes: 'yxsyqcppds',
+    question: '以下属于汽车品牌的是:',
+    id: 22138
+  },
+  {
+    answer: '苹果',
+    indexes: 'yxsysjppds',
+    question: '以下属于手机品牌的是:',
+    id: 22139
+  },
+  {
+    answer: '小米',
+    indexes: 'yxsysjppds',
+    question: '以下属于手机品牌的是:',
+    id: 22140
+  },
+  {
+    answer: '诺基亚',
+    indexes: 'yxsysjppds',
+    question: '以下属于手机品牌的是:',
+    id: 22141
+  },
+  {
+    answer: '三星',
+    indexes: 'yxsysjppds',
+    question: '以下属于手机品牌的是:',
+    id: 22142
+  },
+  {
+    answer: '摩托罗拉',
+    indexes: 'yxsysjppds',
+    question: '以下属于手机品牌的是:',
+    id: 22143
+  },
+  {
+    answer: '锤子',
+    indexes: 'yxsysjppds',
+    question: '以下属于手机品牌的是:',
+    id: 22144
+  },
+  {
+    answer: '好',
+    indexes: 'yxhzbsysxjgds',
+    question: '以下汉字不属于上下结构的是:',
+    id: 22145
+  },
+  {
+    answer: '国',
+    indexes: 'yxhzbsysxjgds',
+    question: '以下汉字不属于上下结构的是:',
+    id: 22146
+  },
+  {
+    answer: '哟',
+    indexes: 'yxhzbsysxjgds',
+    question: '以下汉字不属于上下结构的是:',
+    id: 22147
+  },
+  {
+    answer: '国',
+    indexes: 'yxhzbsysxjgds',
+    question: '以下汉字不属于上下结构的是:',
+    id: 22148
+  },
+  {
+    answer: '是',
+    indexes: 'yxhzsysxjgds',
+    question: '以下汉字属于上下结构的是:',
+    id: 22149
+  },
+  {
+    answer: '散',
+    indexes: 'yxhzbsysxjgds',
+    question: '以下汉字不属于上下结构的是:',
+    id: 22150
+  },
+  {
+    answer: '尊',
+    indexes: 'yxhzbsyzyjgds',
+    question: '以下汉字不属于左右结构的是:',
+    id: 22151
+  },
+  {
+    answer: '烦',
+    indexes: 'yxhzsyzyjgds',
+    question: '以下汉字属于左右结构的是:',
+    id: 22152
+  },
+  {
+    answer: '在',
+    indexes: 'yxhzbsyzyjgds',
+    question: '以下汉字不属于左右结构的是:',
+    id: 22153
+  },
+  {
+    answer: '盘',
+    indexes: 'yxhzbsyzyjgds',
+    question: '以下汉字不属于左右结构的是:',
+    id: 22154
+  },
+  {
+    answer: '靠',
+    indexes: 'yxhzbsyzyjgds',
+    question: '以下汉字不属于左右结构的是:',
+    id: 22155
+  },
+  {
+    answer: '车',
+    indexes: 'yxhzbsyzyjgds',
+    question: '以下汉字不属于左右结构的是:',
+    id: 22156
+  },
+  {
+    answer: '石',
+    indexes: 'yxhzbsyzyjgds',
+    question: '以下汉字不属于左右结构的是:',
+    id: 22157
+  },
+  {
+    answer: '开',
+    indexes: 'yxhzbsyzyjgds',
+    question: '以下汉字不属于左右结构的是:',
+    id: 22158
+  },
+  {
+    answer: '鲁智深',
+    indexes: 'xmsbssgyyzdrw',
+    question: '下面谁不是《三国演义》中的人物?',
+    id: 22159
+  },
+  {
+    answer: '诸葛梓岐',
+    indexes: 'xmsbssgyyzdrw',
+    question: '下面谁不是《三国演义》中的人物?',
+    id: 22160
+  },
+  {
+    answer: '司马迁',
+    indexes: 'xmsbssgyyzdrw',
+    question: '下面谁不是《三国演义》中的人物?',
+    id: 22161
+  },
+  {
+    answer: '范志毅',
+    indexes: 'sszgddyccjsjbjsjddqy',
+    question: '谁是中国队第一次参加世界杯决赛阶段的球员',
+    id: 22162
+  },
+  {
+    answer: '马明宇',
+    indexes: 'sszgddyccjsjbjsjddqy',
+    question: '谁是中国队第一次参加世界杯决赛阶段的球员',
+    id: 22163
+  },
+  {
+    answer: '邵佳一',
+    indexes: 'sszgddyccjsjbjsjddqy',
+    question: '谁是中国队第一次参加世界杯决赛阶段的球员',
+    id: 22164
+  },
+  {
+    answer: '郝海东',
+    indexes: 'sszgddyccjsjbjsjddqy',
+    question: '谁是中国队第一次参加世界杯决赛阶段的球员',
+    id: 22165
+  },
+  {
+    answer: '丘成桐',
+    indexes: 'xlnywshrsxj',
+    question: '下列哪一位是华人数学家?',
+    id: 22166
+  },
+  {
+    answer: '陈景润',
+    indexes: 'xlnywshrsxj',
+    question: '下列哪一位是华人数学家?',
+    id: 22167
+  },
+  {
+    answer: '苏步青',
+    indexes: 'xlnywshrsxj',
+    question: '下列哪一位是华人数学家?',
+    id: 22168
+  },
+  {
+    answer: '陈省身',
+    indexes: 'xlnywshrsxj',
+    question: '下列哪一位是华人数学家?',
+    id: 22169
+  },
+  {
+    answer: '祖冲之',
+    indexes: 'xlnywshrsxj',
+    question: '下列哪一位是华人数学家?',
+    id: 22170
+  },
+  {
+    answer: '战国策',
+    indexes: 'xlnygdwsyzggddw',
+    question: '下列哪一个单位属于中国古典读物?',
+    id: 22171
+  },
+  {
+    answer: '春秋',
+    indexes: 'xlnygdwsyzggddw',
+    question: '下列哪一个单位属于中国古典读物?',
+    id: 22172
+  },
+  {
+    answer: '封神榜',
+    indexes: 'xlnygdwsyzggddw',
+    question: '下列哪一个单位属于中国古典读物?',
+    id: 22173
+  },
+  {
+    answer: '杨家将',
+    indexes: 'xlnygdwsyzggddw',
+    question: '下列哪一个单位属于中国古典读物?',
+    id: 22174
+  },
+  {
+    answer: '基督山伯爵恩仇记',
+    indexes: 'xlnygdwbsyzggddw',
+    question: '下列哪一个单位不属于中国古典读物?',
+    id: 22175
+  },
+  {
+    answer: '哈姆雷特',
+    indexes: 'xlnygdwbsyzggddw',
+    question: '下列哪一个单位不属于中国古典读物?',
+    id: 22176
+  },
+  {
+    answer: '王尔德',
+    indexes: 'xlnygdwbsyzggddw',
+    question: '下列哪一个单位不属于中国古典读物?',
+    id: 22177
+  },
+  {
+    answer: '麦克白',
+    indexes: 'xlnygdwbsyzggddw',
+    question: '下列哪一个单位不属于中国古典读物?',
+    id: 22178
+  },
+  {
+    answer: '日本',
+    indexes: 'xlnggjbsydecsjdztmg',
+    question: '下列那个国家不属于第二次世界大战同盟国?',
+    id: 22179
+  },
+  {
+    answer: '德国',
+    indexes: 'xlnggjbsydecsjdztmg',
+    question: '下列那个国家不属于第二次世界大战同盟国?',
+    id: 22180
+  },
+  {
+    answer: '意大利',
+    indexes: 'xlnggjbsydecsjdztmg',
+    question: '下列那个国家不属于第二次世界大战同盟国?',
+    id: 22181
+  },
+  {
+    answer: '德国',
+    indexes: 'xlnggjsydycsjdztmg',
+    question: '下列那个国家属于第一次世界大战同盟国?',
+    id: 22182
+  },
+  {
+    answer: '奥斯曼土耳其帝国',
+    indexes: 'xlnggjsydycsjdztmg',
+    question: '下列那个国家属于第一次世界大战同盟国?',
+    id: 22183
+  },
+  {
+    answer: '奥匈帝国',
+    indexes: 'xlnggjsydycsjdztmg',
+    question: '下列那个国家属于第一次世界大战同盟国?',
+    id: 22184
+  },
+  {
+    answer: '中国',
+    indexes: 'xlnggjbsydycsjdztmg',
+    question: '下列那个国家不属于第一次世界大战同盟国?',
+    id: 22185
+  },
+  {
+    answer: '拉格朗日',
+    indexes: 'xlnygssxj',
+    question: '下列哪一个是数学家?',
+    id: 22186
+  },
+  {
+    answer: '霍金',
+    indexes: 'xlnygskxj',
+    question: '下列哪一个是科学家?',
+    id: 22187
+  },
+  {
+    answer: '钱学森',
+    indexes: 'xlnygskxj',
+    question: '下列哪一个是科学家?',
+    id: 22188
+  },
+  {
+    answer: '邓稼先',
+    indexes: 'xlnygskxj',
+    question: '下列哪一个是科学家?',
+    id: 22189
+  },
+  {
+    answer: '麦克斯韦',
+    indexes: 'xlnygskxj',
+    question: '下列哪一个是科学家?',
+    id: 22190
+  },
+  {
+    answer: '阿基米德',
+    indexes: 'xlnygssxj',
+    question: '下列哪一个是数学家?',
+    id: 22191
+  },
+  {
+    answer: '毕加索',
+    indexes: 'xlnygshj',
+    question: '下列哪一个是画家?',
+    id: 22192
+  },
+  {
+    answer: '莫奈',
+    indexes: 'xlnygshj',
+    question: '下列哪一个是画家?',
+    id: 22193
+  },
+  {
+    answer: '徐悲鸿',
+    indexes: 'xlnygshj',
+    question: '下列哪一个是画家?',
+    id: 22194
+  },
+  {
+    answer: '九寨沟',
+    indexes: 'xmnygjdbzbjsjn',
+    question: '下面哪一个景点不在北京市境内?',
+    id: 22195
+  },
+  {
+    answer: '黄山',
+    indexes: 'xmnygjdbzbjsjn',
+    question: '下面哪一个景点不在北京市境内?',
+    id: 22196
+  },
+  {
+    answer: '黄山',
+    indexes: 'xmnygcsbztwsjn',
+    question: '下面哪一个城市不在台湾省境内?',
+    id: 22197
+  },
+  {
+    answer: '玉山',
+    indexes: 'xmnyzsztwsjn',
+    question: '下面哪一座山在台湾省境内?',
+    id: 22198
+  },
+  {
+    answer: '新竹',
+    indexes: 'xmnygcsztwsjn',
+    question: '下面哪一个城市在台湾省境内?',
+    id: 22199
+  },
+  {
+    answer: '南京',
+    indexes: 'xmnygcszjssjn',
+    question: '下面哪一个城市在江苏省境内?',
+    id: 22200
+  },
+  {
+    answer: '徽州',
+    indexes: 'xmnygcsbzjssjn',
+    question: '下面哪一个城市不在江苏省境内?',
+    id: 22201
+  },
+  {
+    answer: '黄埔港',
+    indexes: 'xmnyggkzgdsjn',
+    question: '下面哪一个港口在广东省境内?',
+    id: 22202
+  },
+  {
+    answer: '佛山',
+    indexes: 'xmnygcszgdsjn',
+    question: '下面哪一个城市在广东省境内?',
+    id: 22203
+  },
+  {
+    answer: '大庆',
+    indexes: 'xmnygcszhljsjn',
+    question: '下面哪一个城市在黑龙江省境内?',
+    id: 22204
+  },
+  {
+    answer: '铁岭',
+    indexes: 'xmnygcsbzhljsjn',
+    question: '下面哪一个城市不在黑龙江省境内?',
+    id: 22205
+  },
+  {
+    answer: '林芝',
+    indexes: 'xmnygcsbzxjwwezzqjn',
+    question: '下面哪一个城市不在新疆维吾尔自治区境内?',
+    id: 22206
+  },
+  {
+    answer: '碣石',
+    indexes: 'xmnygbsyxyggds',
+    question: '下面哪一个不属于西域古国的是?',
+    id: 22207
+  },
+  {
+    answer: '燕子',
+    indexes: 'xlnygsykyfdn',
+    question: '下列哪一个属于可以飞的鸟?',
+    id: 22208
+  },
+  {
+    answer: '羊',
+    indexes: 'xlnygsyscdw',
+    question: '下列哪一个属于食草动物?',
+    id: 22209
+  },
+  {
+    answer: '鲸鱼',
+    indexes: 'xlnygsybrdw',
+    question: '下列哪一个属于哺乳动物?',
+    id: 22210
+  },
+  {
+    answer: '猫',
+    indexes: 'xlnygsybrdw',
+    question: '下列哪一个属于哺乳动物?',
+    id: 22211
+  },
+  {
+    answer: '阿炳',
+    indexes: 'xlnygsylj',
+    question: '下列哪一个是音乐家?',
+    id: 22212
+  },
+  {
+    answer: '贝多芬',
+    indexes: 'xlnygsylj',
+    question: '下列哪一个是音乐家?',
+    id: 22213
+  },
+  {
+    answer: '莫扎特',
+    indexes: 'xlnygsylj',
+    question: '下列哪一个是音乐家?',
+    id: 22214
+  },
+  {
+    answer: '斯特劳斯',
+    indexes: 'xlnygsymdyljz',
+    question: '下列哪一个是有名的音乐家族?',
+    id: 22215
+  },
+  {
+    answer: '李白',
+    indexes: 'xmnywstddsr',
+    question: '下面哪一位是唐代大诗人?',
+    id: 22216
+  },
+  {
+    answer: '苏步青',
+    indexes: 'xmnywbssddwxj',
+    question: '下面哪一位不是宋代大文学家?',
+    id: 22217
+  },
+  {
+    answer: '米芾',
+    indexes: 'xmnywbstsbdj',
+    question: '下面哪一位不是唐宋八大家?',
+    id: 22218
+  },
+  {
+    answer: '李清照',
+    indexes: 'xmnywbstddwxj',
+    question: '下面哪一位不是唐代大文学家?',
+    id: 22219
+  },
+  {
+    answer: '王守仁',
+    indexes: 'xmnywbstddwxj',
+    question: '下面哪一位不是唐代大文学家?',
+    id: 22220
+  },
+  {
+    answer: '司马相如',
+    indexes: 'xmnywshdwxj',
+    question: '下面哪一位是汉代文学家?',
+    id: 22221
+  },
+  {
+    answer: '杨雄',
+    indexes: 'xmnywshdwxj',
+    question: '下面哪一位是汉代文学家?',
+    id: 22222
+  },
+  {
+    answer: '曹操',
+    indexes: 'xmnywssgsqwxj',
+    question: '下面哪一位是三国时期文学家?',
+    id: 22223
+  },
+  {
+    answer: '曹植',
+    indexes: 'xmnywssgsqwxj',
+    question: '下面哪一位是三国时期文学家?',
+    id: 22224
+  },
+  {
+    answer: '公孙瓒',
+    indexes: 'ymsjhxmnywwg',
+    question: '辕门射戟和下面哪一位无关?',
+    id: 22225
+  },
+  {
+    answer: '袁绍',
+    indexes: 'ccjjhxmnywwg',
+    question: '草船借箭和下面哪一位无关?',
+    id: 22226
+  },
+  {
+    answer: '赵云',
+    indexes: 'szqrhxmnywwg',
+    question: '舌战群儒和下面哪一位无关?',
+    id: 22227
+  },
+  {
+    answer: '司马懿',
+    indexes: 'sgmlhxmnywwg',
+    question: '三顾茅庐和下面哪一位无关?',
+    id: 22228
+  },
+  {
+    answer: '吕布',
+    indexes: 'tysjyhxmnywwg',
+    question: '桃园三结义和下面哪一位无关?',
+    id: 22229
+  },
+  {
+    answer: '温度计',
+    indexes: 'smdxtqyrtpdyg',
+    question: '什么东西天气越热,它爬的越高?',
+    id: 22230
+  },
+  {
+    answer: '蚊子',
+    indexes: 'smdwndsltqllndx',
+    question: '什么动物,你打死了它却流了你的血?',
+    id: 22231
+  },
+  {
+    answer: '医生',
+    indexes: 'sttqkb',
+    question: '谁天天去看病?',
+    id: 22232
+  },
+  {
+    answer: 'X光片',
+    indexes: 'smzpkbczdss',
+    question: '什么照片看不出照的是谁?',
+    id: 22233
+  },
+  {
+    answer: '二月',
+    indexes: 'wlttztddbxktyygyshzssnygy',
+    question: '王老太太整天喋喋不休,可她有一个月说话最少,是哪一个月?',
+    id: 22234
+  },
+  {
+    answer: '瀑布',
+    indexes: 'smbjbd',
+    question: '什么布剪不断?',
+    id: 22235
+  },
+  {
+    answer: '门是推的',
+    indexes: 'xzbgzyjbmyssdfjlkstsccndlqybnbmlkzszmhs',
+    question: '小张被关在一间并没有上锁的房间里,可是他使出吃奶的力气也不能把门拉开,这是怎么回事?',
+    id: 22236
+  },
+  {
+    answer: '交白卷',
+    indexes: 'zyckszydtzjlymyydkjdlsrwtmkdmyzbzswsm',
+    question: '在一次考试中,一对同桌交了一模一样的考卷,但老师认为他们肯定没有做弊,这是为什么?',
+    id: 22237
+  },
+  {
+    answer: '鸡蛋',
+    indexes: 'jrhngddxssm',
+    question: '加热会凝固的东西是什么?',
+    id: 22238
+  },
+  {
+    answer: '兽医院',
+    indexes: 'wsmyjyycbjrkb',
+    question: '为什么有家医院从不给人看病?',
+    id: 22239
+  },
+  {
+    answer: '报纸',
+    indexes: 'zzyqyyxyqstytdcpssm',
+    question: '制造曰期与有效曰期是同一天的产品是什么?',
+    id: 22240
+  },
+  {
+    answer: '头',
+    indexes: 'yyzhxgdtnygbjt',
+    question: '用椰子和西瓜打头哪一个比较痛?',
+    id: 22241
+  },
+  {
+    answer: '假牙',
+    indexes: 'xwybsyybyxdczkstszmzdd',
+    question: '小王一边刷牙,一边悠闲的吹着口哨,他是怎么做到的?',
+    id: 22242
+  },
+  {
+    answer: '车上有空位',
+    indexes: 'yywlttslgcwsmmrrz',
+    question: '有一位老太太上了公车,为什么没人让座?',
+    id: 22243
+  },
+  {
+    answer: '就是我',
+    indexes: 'yygrtsnfmsddtqbsndxdjmtss',
+    question: '有一个人,他是你父母生的,但他却不是你的兄弟姐妹,他是谁?',
+    id: 22244
+  },
+  {
+    answer: '秘书',
+    indexes: 'sdmbddsssms',
+    question: '书店买不到的书是什么书?',
+    id: 22245
+  },
+  {
+    answer: '他在瞄准',
+    indexes: 'xwsymyxsbyttzzgzqsmmkdydrqqxtmglwsmtqzyzybyzy',
+    question:
+      '小王是一名优秀士兵,一天他在站岗值勤时,明明看到有敌人悄悄向他摸过来,为什么他却睁一只眼闭一只眼?',
+    id: 22246
+  },
+  {
+    answer: '球门',
+    indexes: 'smmyygbs',
+    question: '什么门永远关不上?',
+    id: 22247
+  },
+  {
+    answer: '瞌睡',
+    indexes: 'dsmdxhbfl',
+    question: '打什么东西毫不费力?',
+    id: 22248
+  },
+  {
+    answer: '淹不了',
+    indexes: 'cbgzrtlhm2mhsmxsszbmjgxshsnymrt',
+    question: '船边挂着软梯,离海面2米,海水每小时上涨半米,几个小时海水能淹没软梯?',
+    id: 22249
+  },
+  {
+    answer: '向日葵',
+    indexes: 'ykydhjkylmcyhm',
+    question: '远看一朵花,近看一脸麻(猜一花名)',
+    id: 22250
+  },
+  {
+    answer: '圆规',
+    indexes: 'ygjhzxxyjdwbkyyjbtzqqcywj',
+    question: '有个家伙真新鲜,一脚定位不肯移,一脚不停转圈圈(猜一文具)',
+    id: 22251
+  },
+  {
+    answer: '缅甸',
+    indexes: 'byddgjcygjm',
+    question: '不用电的国家(猜一国家名)',
+    id: 22252
+  },
+  {
+    answer: '鬼话连篇',
+    indexes: 'ntmmzltcycy',
+    question: '牛头马面在聊天(猜一成语)',
+    id: 22253
+  },
+  {
+    answer: '未',
+    indexes: 'yzqtcyz',
+    question: '一柱擎天(猜一字)',
+    id: 22254
+  },
+  {
+    answer: '葡萄',
+    indexes: 'ycycgssxdzmzykyzyhzplcysg',
+    question: '一串一串挂树上,兄弟姊妹住一块,有紫有红真漂亮(猜一水果)',
+    id: 22255
+  },
+  {
+    answer: '赤道',
+    indexes: 'hsdldcyyzxx',
+    question: '红色的路道(猜一宇宙现象)',
+    id: 22256
+  },
+  {
+    answer: '关羽',
+    indexes: 'kqspcyrm',
+    question: '孔雀收屏(猜一人名)',
+    id: 22257
+  },
+  {
+    answer: '乌贼',
+    indexes: 'wbbrxdlythclbtqystszcyszsw',
+    question: '外表白如雪,肚里一团黑,从来不偷窃,硬说他是贼(猜一水中生物)',
+    id: 22258
+  },
+  {
+    answer: '丹麦',
+    indexes: 'zmlkbwscygjm',
+    question: '只卖来客不外送(猜一国家名)',
+    id: 22259
+  },
+  {
+    answer: '含苞待放',
+    indexes: 'yzbzdmtcycy',
+    question: '咬着包子蹲马桶(猜一成语)',
+    id: 22260
+  },
+  {
+    answer: '杰',
+    indexes: '4grbgmtcyz',
+    question: '4个人搬个木头(猜一字)',
+    id: 22261
+  },
+  {
+    answer: '奇异果',
+    indexes: 'tyxzmrrlsgrzedcysg',
+    question: '椭圆形状,毛茸茸,绿色果肉,子儿多(猜一水果)',
+    id: 22262
+  },
+  {
+    answer: '日全食',
+    indexes: 'ct24xsyycyyzxx',
+    question: '餐厅24小时营业(猜一宇宙现象)',
+    id: 22263
+  },
+  {
+    answer: '笔',
+    indexes: 'ywzbjzltcxbcrjlntxhcywjyp',
+    question: '一物嘴巴尖,走路头朝下.不吃人间粮能*天下活(猜一文具用品)',
+    id: 22264
+  },
+  {
+    answer: '光明磊落',
+    indexes: 'tglskdstctjcycy',
+    question: '天刚亮,三块大石头从天降(猜一成语)',
+    id: 22265
+  },
+  {
+    answer: '火车',
+    indexes: 'jkspxfwykxtdzlxqfbbmljxlshllcyjtgj',
+    question: '近看是排小房屋,远看像条大长龙,向前飞奔不迷路,脚下雷声轰隆隆(猜一交通工具)',
+    id: 22266
+  },
+  {
+    answer: '孔明',
+    indexes: 'wbjgcyrm',
+    question: '挖壁借光(猜一人名)',
+    id: 22267
+  },
+  {
+    answer: '人参',
+    indexes: 'bpwwdxzssllsgxydylysgzbstbjkcyzw',
+    question: '白胖娃娃地下藏,深山老林是故乡,越大越老越是贵,滋补身体保健康(猜一植物)',
+    id: 22268
+  },
+  {
+    answer: '意大利',
+    indexes: 'zzfccygjm',
+    question: '志在发财(猜一国家名)',
+    id: 22269
+  },
+  {
+    answer: '荔枝',
+    indexes: 'hggblbhzfsjycysg',
+    question: '红关公,白刘备,黑张飞,三结义(猜一水果)',
+    id: 22270
+  },
+  {
+    answer: '可可',
+    indexes: 'gafjbcysp',
+    question: '哥啊!分家吧!(猜一食品)',
+    id: 22271
+  },
+  {
+    answer: '受',
+    indexes: 'wxzacyz',
+    question: '无心之爱(猜一字)',
+    id: 22272
+  },
+  {
+    answer: '主',
+    indexes: 'gwdxmzcyz',
+    question: '国王带小帽子(猜一字)',
+    id: 22273
+  },
+  {
+    answer: '王菲',
+    indexes: 'gwzxfjcyrm',
+    question: '国王坐小飞机(猜一人名)',
+    id: 22274
+  },
+  {
+    answer: '肥料',
+    indexes: 'zftxycywp',
+    question: '增肥特效药(猜一物品)',
+    id: 22275
+  },
+  {
+    answer: '突',
+    indexes: 'yzxgszdkcyz',
+    question: '一只小狗守在洞口(猜一字)',
+    id: 22276
+  },
+  {
+    answer: '风筝',
+    indexes: 'ggfstqkfythdmqkxcywp',
+    question: '高高飞上天,全靠风,要它回地面,全靠线(猜一物品)',
+    id: 22277
+  },
+  {
+    answer: '约翰屈伏塔',
+    indexes: 'bsxtdlsqfcyrm',
+    question: '比萨斜塔倒了谁去扶(猜一人名)',
+    id: 22278
+  },
+  {
+    answer: '甘蔗',
+    indexes: 'tlqsjycjdkdbtlzcwxdchqbgtmddcysg',
+    question: '脱落青杉就要愁,尖刀快得不停留,榨出我血当茶喝,却把骨头满地丢(猜一水果)',
+    id: 22279
+  },
+  {
+    answer: '蛋',
+    indexes: 'szghbnzlnxscyhybcysp',
+    question: '身子光滑,不能站立,内心深处,有黄有白(猜一食品)',
+    id: 22280
+  },
+  {
+    answer: '蕾',
+    indexes: 'rmdyshckcyz',
+    question: '如苗得雨,似花初开(猜一字)',
+    id: 22282
+  },
+  {
+    answer: '狗',
+    indexes: 'zztmhjqcxhwdcydw',
+    question: '粽子头,梅花脚,前唱戏,后舞刀(猜一动物)',
+    id: 22283
+  },
+  {
+    answer: '雨',
+    indexes: 'ytxejtdydqbdjdjbdldblycyzrxx',
+    question: '一条线儿接田地,用刀切不断,剪刀剪不断,落地变了样(猜一自然现象)',
+    id: 22284
+  },
+  {
+    answer: '佛门中人去世',
+    indexes: 'fjscyjsz',
+    question: '佛教所称“圆寂”是指:',
+    id: 22285
+  },
+  {
+    answer: '铜',
+    indexes: 'jtlgypdzyyls',
+    question: '“景泰蓝”工艺品的主要原料是:',
+    id: 22286
+  },
+  {
+    answer: '农历九月初九',
+    indexes: 'zgmjdzyjszdnyt',
+    question: '中国民间的“重阳节”是指的哪一天:',
+    id: 22287
+  },
+  {
+    answer: '肥料',
+    indexes: 'zftxycywp',
+    question: '增肥特效药(猜一物品)',
+    id: 22288
+  },
+  {
+    answer: '歧路亡羊',
+    indexes: 'yzymllcycy',
+    question: '一只羊迷路了(猜一成语)',
+    id: 22289
+  },
+  {
+    answer: '四目相交',
+    indexes: 'xjysgcbcycy',
+    question: '香蕉有四个翅膀(猜一成语)',
+    id: 22290
+  },
+  {
+    answer: '跳蚤',
+    indexes: 'jsxrcykc',
+    question: '僵尸寻人(猜一昆虫)',
+    id: 22291
+  },
+  {
+    answer: '一日千里',
+    indexes: '86400m500000mcycy',
+    question: '86400秒500000米(猜一成语)',
+    id: 22292
+  },
+  {
+    answer: '针',
+    indexes: 'hllgllyjzzpgscywp',
+    question: '滑溜溜,光亮亮,眼睛长在屁股上(猜一物品)',
+    id: 22293
+  },
+  {
+    answer: '以色列',
+    indexes: 'xmdhcygjm',
+    question: '选美大会(猜一国家名)',
+    id: 22294
+  },
+  {
+    answer: '张飞',
+    indexes: 'jlscyrm',
+    question: '降落伞(猜一人名)',
+    id: 22295
+  },
+  {
+    answer: '突',
+    indexes: 'yzxgszdkcyz',
+    question: '一只小狗守在洞口(猜一字)',
+    id: 22296
+  },
+  {
+    answer: '风筝',
+    indexes: 'ggfstqkfythdmqkxcywp',
+    question: '高高飞上天,全靠风,要它回地面,全靠线(猜一物品)',
+    id: 22297
+  },
+  {
+    answer: '约翰屈伏塔',
+    indexes: 'bsxtdlsqfcyrm',
+    question: '比萨斜塔倒了谁去扶(猜一人名)',
+    id: 22298
+  },
+  {
+    answer: '甘蔗',
+    indexes: 'tlqsjycjdkdbtlzcwxdchqbgtmddcysg',
+    question: '脱落青杉就要愁,尖刀快得不停留,榨出我血当茶喝,却把骨头满地丢(猜一水果)',
+    id: 22299
+  },
+  {
+    answer: '蛋',
+    indexes: 'szghbnzlnxscyhybcysp',
+    question: '身子光滑,不能站立,内心深处,有黄有白(猜一食品)',
+    id: 22300
+  },
+  {
+    answer: '二和三',
+    indexes: 'twds1qsbs1cyz',
+    question: '头尾都是1,其实不是1(猜一字)',
+    id: 22301
+  },
+  {
+    answer: '蕾',
+    indexes: 'rmdyshckcyz',
+    question: '如苗得雨,似花初开(猜一字)',
+    id: 22302
+  },
+  {
+    answer: '雨',
+    indexes: 'ytxejtdydqbdjdjbdldblycyzrxx',
+    question: '一条线儿接田地,用刀切不断,剪刀剪不断,落地变了样(猜一自然现象)',
+    id: 22303
+  },
+  {
+    answer: '保',
+    indexes: 'bccyz',
+    question: '白痴(猜一字)',
+    id: 22304
+  },
+  {
+    answer: '秦',
+    indexes: 'bbcqcyz',
+    question: '半部春秋(猜一字)',
+    id: 22305
+  },
+  {
+    answer: '鹅',
+    indexes: 'tdhmzscbpzzlbjzshsbzcdw',
+    question: '头戴红帽子,身穿白袍子,走路摆架子,说话伸脖子(猜动物)',
+    id: 22306
+  },
+  {
+    answer: '除夕',
+    indexes: 'hsyyqcswgldsjscy',
+    question: '寒随一夜去,春随五更来。(打时节俗称一)',
+    id: 22307
+  },
+  {
+    answer: '谜',
+    indexes: 'mxdrsldyz',
+    question: '迷信的人少了。(打一字)',
+    id: 22308
+  },
+  {
+    answer: '山',
+    indexes: 'jscxdyz',
+    question: '今岁除夕(打一字)',
+    id: 22309
+  },
+  {
+    answer: '辞旧迎新',
+    indexes: 'cxyssdyxhy',
+    question: '除夕夜守岁(打一歇后语)',
+    id: 22310
+  },
+  {
+    answer: '年三十',
+    indexes: 'eldsjscy',
+    question: '而立。(打时节俗称一)',
+    id: 22311
+  },
+  {
+    answer: '贺敬之',
+    indexes: 'bndzjmy',
+    question: '拜年。(打作家名一)',
+    id: 22312
+  },
+  {
+    answer: '彩排',
+    indexes: 'cchlqlzdyysmc',
+    question: '赤橙黄绿青蓝紫(打一艺术名词)',
+    id: 22313
+  },
+  {
+    answer: '不平静的夜',
+    indexes: 'nyxdysmy',
+    question: '闹元宵(打影视名一)',
+    id: 22314
+  },
+  {
+    answer: '陆逊',
+    indexes: 'zsqrsgrm',
+    question: '再三谦让(三国人名)',
+    id: 22315
+  },
+  {
+    answer: '全端',
+    indexes: 'hptcsgrm',
+    question: '和盘托出(三国人名)',
+    id: 22316
+  },
+  {
+    answer: '吕蒙',
+    indexes: 'sdprsgrm',
+    question: '数度骗人(三国人名)',
+    id: 22317
+  },
+  {
+    answer: '宝贝计划',
+    indexes: 'dsmnsxhdydy',
+    question: '打算明年生小孩(打一电影)',
+    id: 22318
+  },
+  {
+    answer: '高朋满座',
+    indexes: 'wdlsqyqhydycy',
+    question: '武大郎盛情宴请好友(打一成语)',
+    id: 22319
+  },
+  {
+    answer: '不想长大',
+    indexes: 'qysybzyeydygm',
+    question: '情愿上一辈子幼儿园(打一歌名)',
+    id: 22320
+  },
+  {
+    answer: '一丝不挂',
+    indexes: 'lddzzdycy',
+    question: '懒惰的蜘蛛(打一成语)',
+    id: 22321
+  },
+  {
+    answer: '周润发',
+    indexes: 'ywmtdztsdymx',
+    question: '一碗米汤倒在头上(打一明星)',
+    id: 22322
+  },
+  {
+    answer: '海豚',
+    indexes: 'yxngdwsbrdw',
+    question: '以下哪个动物是哺乳动物?',
+    id: 22323
+  },
+  {
+    answer: '梨子',
+    indexes: 'yxngsysg',
+    question: '以下哪个属于水果',
+    id: 22324
+  },
+  {
+    answer: '牡丹',
+    indexes: 'xmnzhhztcbsrtc',
+    question: '下面那种花卉在唐朝被世人推崇?',
+    id: 22325
+  },
+  {
+    answer: '莲',
+    indexes: 'xmnzhhdgjso',
+    question: '下面那种花卉的根茎是藕?',
+    id: 22326
+  },
+  {
+    answer: '水井坊',
+    indexes: 'yxngjcdzsc',
+    question: '以下哪个酒产地在四川?',
+    id: 22329
+  },
+  {
+    answer: '苏州',
+    indexes: 'yxngcsbsshcs',
+    question: '以下哪个城市不是省会城市',
+    id: 22330
+  },
+  {
+    answer: '巢湖',
+    indexes: 'yxngswgddsh',
+    question: '以下哪个是我国的淡水湖',
+    id: 22331
+  },
+  {
+    answer: '汾酒',
+    indexes: 'yxngjcdzsx',
+    question: '以下哪个酒产地在山西?',
+    id: 22332
+  },
+  {
+    answer: '西凤酒',
+    indexes: 'yxngjcdzsx',
+    question: '以下哪个酒产地在陕西?',
+    id: 22333
+  },
+  {
+    answer: '钢琴',
+    indexes: 'yxnzbsyzhmzlq',
+    question: '以下哪种不属于中华民族乐器?',
+    id: 22335
+  },
+  {
+    answer: '猪',
+    indexes: 'yxngdwsjc',
+    question: '以下哪个动物是家畜?',
+    id: 22336
+  },
+  {
+    answer: '国防科技大学',
+    indexes: 'yxngdxddzbzbj',
+    question: '以下哪个大学的地址不在北京?',
+    id: 22337
+  },
+  {
+    answer: '东南大学',
+    indexes: 'yxngdxddzbzsh',
+    question: '以下哪个大学的地址不在上海?',
+    id: 22338
+  },
+  {
+    answer: '中南大学',
+    indexes: 'yxngdxddzzzs',
+    question: '以下哪个大学的地址在长沙?',
+    id: 22339
+  },
+  {
+    answer: '外交学院',
+    indexes: 'yxngdxddzzbj',
+    question: '以下哪个大学的地址在北京?',
+    id: 22340
+  },
+  {
+    answer: '0',
+    indexes: 'yxngzwzzrtjxzdtkh',
+    question: '以下哪个植物在自然条件下在冬天开花?',
+    id: 22341
+  },
+  {
+    answer: '中国农业银行',
+    indexes: 'yxngsyyxzdwdx',
+    question: '以下哪个属于银行中的“五大行”?',
+    id: 22342
+  },
+  {
+    answer: '交通银行',
+    indexes: 'yxngsyyxzdwdx',
+    question: '以下哪个属于银行中的“五大行”?',
+    id: 22343
+  },
+  {
+    answer: '中国农业银行',
+    indexes: 'yxngsyyxzdwdx',
+    question: '以下哪个属于银行中的“五大行”?',
+    id: 22344
+  },
+  {
+    answer: '中国银行',
+    indexes: 'yxngsyyxzdwdx',
+    question: '以下哪个属于银行中的“五大行”?',
+    id: 22345
+  },
+  {
+    answer: '真诚',
+    indexes: 'yxngcsbyc',
+    question: '以下哪个词是褒义词?',
+    id: 22346
+  },
+  {
+    answer: '勇敢',
+    indexes: 'yxngcsbyc',
+    question: '以下哪个词是褒义词?',
+    id: 22347
+  },
+  {
+    answer: '善良',
+    indexes: 'yxngcsbyc',
+    question: '以下哪个词是褒义词?',
+    id: 22348
+  },
+  {
+    answer: '虚伪',
+    indexes: 'yxngcsbyc',
+    question: '以下哪个词是贬义词?',
+    id: 22349
+  },
+  {
+    answer: '轻浮',
+    indexes: 'yxngcsbyc',
+    question: '以下哪个词是贬义词?',
+    id: 22350
+  },
+  {
+    answer: '鲸鱼',
+    indexes: 'yxngbsdsy',
+    question: '以下哪个不是淡水鱼?',
+    id: 22351
+  },
+  {
+    answer: '柴可夫斯基',
+    indexes: 'yxszqjds',
+    question: '以下是作曲家的是?',
+    id: 22352
+  },
+  {
+    answer: '张大千',
+    indexes: 'zgjxdzmhjs',
+    question: '中国近现代著名画家是',
+    id: 22353
+  },
+  {
+    answer: '张飞',
+    indexes: 'xmnwssgyyzdwhsj',
+    question: '下面哪位是三国演义中的五虎上将',
+    id: 22354
+  },
+  {
+    answer: '羊肉泡馍',
+    indexes: 'yxngxcjyxbfw',
+    question: '以下哪个小吃具有西北风味?',
+    id: 22355
+  },
+  {
+    answer: '肠粉',
+    indexes: 'yxngxcjygdfw',
+    question: '以下哪个小吃具有广东风味?',
+    id: 22356
+  },
+  {
+    answer: '小米',
+    indexes: 'yxngbshzppp',
+    question: '以下哪个不是化妆品品牌?',
+    id: 22357
+  },
+  {
+    answer: '银',
+    indexes: 'yxngsgjs',
+    question: '以下哪个是贵金属?',
+    id: 22358
+  },
+  {
+    answer: '青枣',
+    indexes: 'yxngstwsw',
+    question: '以下哪个是甜味食物?',
+    id: 22359
+  },
+  {
+    answer: '山西',
+    indexes: 'hhljyxngsf',
+    question: '黄河流经以下哪个省份?',
+    id: 22360
+  },
+  {
+    answer: '日清',
+    indexes: 'yxngpjbsgypp',
+    question: '以下哪个啤酒不是国有品牌?',
+    id: 22361
+  },
+  {
+    answer: '犬夜叉',
+    indexes: 'yxngsdmrw',
+    question: '以下哪个是动漫人物?',
+    id: 22362
+  },
+  {
+    answer: '赵',
+    indexes: 'yxngxcjcwlscddgx',
+    question: '以下哪个姓曾经成为历史朝代的国姓?',
+    id: 22363
+  },
+  {
+    answer: '乌兰巴托',
+    indexes: 'yxngcsbsyzg',
+    question: '以下哪个城市不属于中国?',
+    id: 22364
+  },
+  {
+    answer: '上海',
+    indexes: 'ngcscjbsgdhdddc',
+    question: '哪个城市曾经不是古代皇帝的都城?',
+    id: 22365
+  },
+  {
+    answer: '九把刀',
+    indexes: 'dynxnwmyqzgdnhddys',
+    question: '电影《那些年,我们一起追过的女孩》的导演是?',
+    id: 22366
+  },
+  {
+    answer: '曹植',
+    indexes: 'lsfdzzs',
+    question: '《洛神赋》的作者是?',
+    id: 22367
+  },
+  {
+    answer: '曹植',
+    indexes: 'qbsdzzs',
+    question: '《七步诗》的作者是?',
+    id: 22368
+  },
+  {
+    answer: '曹植',
+    indexes: 'tqtfdzzs',
+    question: '《铜雀台赋》的作者是?',
+    id: 22369
+  },
+  {
+    answer: '张飞',
+    indexes: 'sxmnwjlzzbqhddj',
+    question: '是下面哪位将领在长板桥喝断敌军?',
+    id: 22370
+  },
+  {
+    answer: '关羽',
+    indexes: 'gwgzljsxmnwjjdszsw',
+    question: '“过五关,斩六将”是下面哪位将军的所作所为?',
+    id: 22371
+  },
+  {
+    answer: '涿县',
+    indexes: 'lbgyzfsrzcznxy',
+    question: '刘备、关羽、张飞三人最初在哪相遇?',
+    id: 22372
+  },
+  {
+    answer: '雌雄双股剑',
+    indexes: 'zsgyyzlbsydssmwq',
+    question: '在《三国演义》中,刘备使用的是什么武器?',
+    id: 22373
+  },
+  {
+    answer: '青龙偃月刀',
+    indexes: 'zsgyyzgysydssmwq',
+    question: '在《三国演义》中,关羽使用的是什么武器?',
+    id: 22374
+  },
+  {
+    answer: '丈八蛇矛',
+    indexes: 'zsgyyzzfsydssmwq',
+    question: '在《三国演义》中,赵飞使用的是什么武器?',
+    id: 22375
+  },
+  {
+    answer: '方天画戟',
+    indexes: 'zsgyyzlbsydssmwq',
+    question: '在《三国演义》中,吕布使用的是什么武器?',
+    id: 22376
+  },
+  {
+    answer: '凤飞先生',
+    indexes: 'ptbsrcz',
+    question: '庞统被世人称作?',
+    id: 22377
+  },
+  {
+    answer: '关平',
+    indexes: 'xzmzsxjzzwggzbhlcddszcybblcydszs',
+    question: '现在庙中神像,居中者为关公,左边黑脸持刀的是周仓,右边白脸持印的是则是?',
+    id: 22378
+  },
+  {
+    answer: '林俊杰',
+    indexes: 'lxylccsnwgsczd',
+    question: '流行音乐《曹操》是哪位歌手创作的?',
+    id: 22379
+  },
+  {
+    answer: '林俊杰',
+    indexes: 'lxylzcbsnwgsczd',
+    question: '流行音乐《醉赤壁》是哪位歌手创作的?',
+    id: 22380
+  },
+  {
+    answer: '夷陵之战',
+    indexes: 'zslbfwsbdgjzys',
+    question: '致使刘备伐吴失败的关键战役是?',
+    id: 22381
+  },
+  {
+    answer: '赤壁之战',
+    indexes: 'zsccnxsbdgjzys',
+    question: '致使曹操南下失败的关键战役是?',
+    id: 22382
+  },
+  {
+    answer: '青釭剑',
+    indexes: 'zyzzbplhdwqs',
+    question: '赵云在长坂坡掳获的武器是?',
+    id: 22383
+  },
+  {
+    answer: '208',
+    indexes: 'cbzzjsyxyjn',
+    question: '赤壁之战结束于西元几年?',
+    id: 22384
+  },
+  {
+    answer: '的卢',
+    indexes: 'lbdzqjsmmz',
+    question: '刘备的坐骑叫什么名字?',
+    id: 22385
+  },
+  {
+    answer: '韩遂',
+    indexes: 'cymcxlkcdxldjs',
+    question: '曾与马超协力抗曹的西凉大将是?',
+    id: 22386
+  },
+  {
+    answer: '周瑜',
+    indexes: 'zsgyyzjsyhslczsrzk',
+    question: '在《三国演义》中,“既生瑜,何生亮”出之谁人之口?',
+    id: 22387
+  },
+  {
+    answer: '武圣',
+    indexes: 'gybhszcw',
+    question: '关羽被后世尊称为?',
+    id: 22388
+  },
+  {
+    answer: '王允',
+    indexes: 'zsgyyzdcyssjdbn',
+    question: '在《三国演义》中,貂蝉原是谁家的婢女?',
+    id: 22389
+  },
+  {
+    answer: '关羽',
+    indexes: 'zsgyyzsswjzhx',
+    question: '在《三国演义》中,是谁“温酒斩华雄”?',
+    id: 22390
+  },
+  {
+    answer: '曹操',
+    indexes: 'zsgyyzsslxlwmzkddg',
+    question: '在《三国演义》中,是谁留下了“望梅止渴”的典故?',
+    id: 22391
+  },
+  {
+    answer: '周瑜',
+    indexes: 'xqjjl',
+    question: '小乔嫁给了?',
+    id: 22392
+  },
+  {
+    answer: '藤甲兵',
+    indexes: 'wpdnzdqdmhplzbkmhgspdbzs',
+    question: '为平定南中地区的孟获叛乱中,被孔明火攻所破的兵种是?',
+    id: 22393
+  },
+  {
+    answer: '昭烈帝',
+    indexes: 'lbshdshs',
+    question: '刘备死后的谥号是?',
+    id: 22394
+  },
+  {
+    answer: '吕蒙',
+    indexes: 'xmnwbsgydsxbj',
+    question: '下面哪位不是关羽的手下败将?',
+    id: 22395
+  },
+  {
+    answer: '孙策',
+    indexes: 'zsgyyzcbszddghswg',
+    question: '在《三国演义》中,“赤膊上阵”的典故和谁无关?',
+    id: 22396
+  },
+  {
+    answer: '陈汤',
+    indexes: 'fqhzsybzshdnwjlssd',
+    question: '“犯强汉者,虽远必诛”是汉代哪位将领所说的?',
+    id: 22397
+  },
+  {
+    answer: '诸葛亮',
+    indexes: 'zsgyyzjnmjddghsyg',
+    question: '在《三国演义》中,“精囊妙计”的典故和谁有关?',
+    id: 22398
+  },
+  {
+    answer: '刘谌',
+    indexes: 'lstjcwzstdnwezyssj',
+    question: '刘禅投降曹魏之时,他的哪位儿子以身死节?',
+    id: 22399
+  },
+  {
+    answer: '徐庶',
+    indexes: 'zsgyyzszcyxzhddgzdss',
+    question: '在《三国演义》中,“身在曹营心在汉”的典故指的是谁?',
+    id: 22400
+  },
+  {
+    answer: '诸葛亮',
+    indexes: 'zsgyyzkcjsyzs',
+    question: '在《三国演义》中,“空城计”使用者是?',
+    id: 22401
+  },
+  {
+    answer: '黄忠',
+    indexes: 'whsjzsszgj',
+    question: '五虎上将中谁擅长弓箭?',
+    id: 22402
+  },
+  {
+    answer: '刘备',
+    indexes: 'zsgyyzqmzjlyxdcyzscchs',
+    question: '在《三国演义》中,“青梅煮酒论英雄”的参与者是曹操和谁?',
+    id: 22403
+  },
+  {
+    answer: '孙策',
+    indexes: 'zsgyyzsbcwxbw',
+    question: '在《三国演义》中,谁被称为“小霸王”?',
+    id: 22404
+  },
+  {
+    answer: '连弩',
+    indexes: 'zglfmdzzwqjz',
+    question: '诸葛亮发明的作战武器叫作?',
+    id: 22405
+  },
+  {
+    answer: '甘宁',
+    indexes: 'zsgyyzzjrjdqybsjyddds',
+    question: '在《三国演义》中,在加入军队前原本是江洋大盗的是?',
+    id: 22406
+  },
+  {
+    answer: '张辽',
+    indexes: 'zsgyyzszwy',
+    question: '在《三国演义》中,谁字文远?',
+    id: 22407
+  },
+  {
+    answer: '逍遥津之战',
+    indexes: 'wyztdsfsznczyzh',
+    question: '“文远止啼”的说法是在哪场战役之后?',
+    id: 22408
+  },
+  {
+    answer: '毛玠',
+    indexes: 'zcssxccjyftzylbc',
+    question: '最初是谁向曹操建议“奉天子以令不臣”?',
+    id: 22409
+  },
+  {
+    answer: '白马义从',
+    indexes: 'gszzzdbdbcz',
+    question: '公孙瓒组织的部队被称作?',
+    id: 22410
+  },
+  {
+    answer: '张角',
+    indexes: 'zsgyyzbcwtgjjds',
+    question: '在《三国演义》中,被称为“天公将军”的是?',
+    id: 22411
+  },
+  {
+    answer: '张宝',
+    indexes: 'zsgyyzbcwdgjjds',
+    question: '在《三国演义》中,被称为“地公将军”的是?',
+    id: 22412
+  },
+  {
+    answer: '张梁',
+    indexes: 'zsgyyzbcwrgjjds',
+    question: '在《三国演义》中,被称为“人公将军”的是?',
+    id: 22413
+  },
+  {
+    answer: '张辽',
+    indexes: 'cwzyzsszfhfdnezswbj',
+    question: '曹魏阵营中,是谁驻防合肥多年扼制孙吴北进?',
+    id: 22414
+  },
+  {
+    answer: '张飞',
+    indexes: 'xmjlbzwzljzlds',
+    question: '下面将领不在“五子良将”之列的是?',
+    id: 22415
+  },
+  {
+    answer: '太史慈',
+    indexes: 'xmjlbzwzljzlds',
+    question: '下面将领不在“五子良将”之列的是?',
+    id: 22416
+  },
+  {
+    answer: '姜维',
+    indexes: 'xmjlbzwzljzlds',
+    question: '下面将领不在“五子良将”之列的是?',
+    id: 22417
+  },
+  {
+    answer: '吕布',
+    indexes: 'xmjlbzwzljzlds',
+    question: '下面将领不在“五子良将”之列的是?',
+    id: 22418
+  },
+  {
+    answer: '曹丕',
+    indexes: 'ccshdjcrs',
+    question: '曹操死后的继承人是?',
+    id: 22419
+  },
+  {
+    answer: '曹操',
+    indexes: 'qwljflzzqlssdsj',
+    question: '请问“老骥伏枥,志在千里?”是谁的诗句?',
+    id: 22420
+  },
+  {
+    answer: '诸葛亮',
+    indexes: 'qwfdbwymzfnjwyzyssdmj',
+    question: '请问“非淡泊无以明志,非宁静无以致远”是谁的明句?',
+    id: 22421
+  },
+  {
+    answer: '鲁肃',
+    indexes: 'jzycrswdddds',
+    question: '继周瑜出任孙吴大都督的是?',
+    id: 22422
+  },
+  {
+    answer: '黄月英',
+    indexes: 'zsgyyzzgldfrs',
+    question: '在《三国演义》中,诸葛亮的夫人是?',
+    id: 22423
+  },
+  {
+    answer: '夏侯惇',
+    indexes: 'zsgyyzbsdjzdsnwjl',
+    question: '在《三国演义》中,“拔矢啖睛”指的是哪位将领?',
+    id: 22424
+  },
+  {
+    answer: '徐庶',
+    indexes: 'zsgyyzssxlbtjdzgl',
+    question: '在《三国演义》中,是谁向刘备推荐的诸葛亮?',
+    id: 22425
+  },
+  {
+    answer: '夏侯渊',
+    indexes: 'djszydwjnwdjbz',
+    question: '定军山战役的魏军哪位大将被斩?',
+    id: 22426
+  },
+  {
+    answer: '刘备',
+    indexes: 'jmcssdmcdpj',
+    question: '“锦马超”是谁对马超的评价?',
+    id: 22427
+  },
+  {
+    answer: '杨仪',
+    indexes: 'shsxbbk',
+    question: '“蜀汉四相”不包括?',
+    id: 22428
+  },
+  {
+    answer: '黄权',
+    indexes: 'shsxbbk',
+    question: '“蜀汉四相”不包括?',
+    id: 22429
+  },
+  {
+    answer: '5050',
+    indexes: '12349899100',
+    question: '1+2+3+4+…+98+99+100=?',
+    id: 22430
+  },
+  {
+    answer: '18',
+    indexes: '711',
+    question: '7+11=?',
+    id: 22431
+  },
+  {
+    answer: '10',
+    indexes: '55',
+    question: '5+5=?',
+    id: 22432
+  },
+  {
+    answer: '96',
+    indexes: '888',
+    question: '8+88+?',
+    id: 22433
+  },
+  {
+    answer: '84',
+    indexes: '777',
+    question: '7+77=?',
+    id: 22434
+  },
+  {
+    answer: '50',
+    indexes: '2525',
+    question: '25+25=?',
+    id: 22435
+  },
+  {
+    answer: '32',
+    indexes: '2012',
+    question: '20+12=?',
+    id: 22436
+  },
+  {
+    answer: '24',
+    indexes: '1410',
+    question: '14+10=?',
+    id: 22437
+  },
+  {
+    answer: '85',
+    indexes: '6322',
+    question: '63+22=?',
+    id: 22438
+  },
+  {
+    answer: '124',
+    indexes: '5173',
+    question: '51+73=?',
+    id: 22439
+  },
+  {
+    answer: '2',
+    indexes: '11',
+    question: '1+1=?',
+    id: 22440
+  },
+  {
+    answer: '2i',
+    indexes: 'ii',
+    question: 'i+i=?',
+    id: 22441
+  },
+  {
+    answer: '1',
+    indexes: '2X13X',
+    question: '2X+1=3,X=?',
+    id: 22442
+  },
+  {
+    answer: '5cm',
+    indexes: 'yzzjsjxltzjbfbw3cmh4cmnxbzw',
+    question: '已知直角三角形两条直角边分别为3cm和4cm,那斜边长为?',
+    id: 22443
+  },
+  {
+    answer: '4cm',
+    indexes: 'yzzjsjxytzjbw3cmqxbw5cmnlytzjbzw',
+    question: '已知直角三角形一条直角边为3cm,且斜边为5cm,那另一条直角边长为?',
+    id: 22444
+  },
+  {
+    answer: '1',
+    indexes: 'xy3qyx1zx',
+    question: 'x+y=3,且y-x=1,则x=?',
+    id: 22445
+  },
+  {
+    answer: '12',
+    indexes: '84',
+    question: '8+4=?',
+    id: 22446
+  },
+  {
+    answer: '11',
+    indexes: '65',
+    question: '6+5=?',
+    id: 22447
+  },
+  {
+    answer: '11',
+    indexes: '110',
+    question: '1+10=?',
+    id: 22448
+  },
+  {
+    answer: '15',
+    indexes: '141',
+    question: '14+1=?',
+    id: 22449
+  },
+  {
+    answer: '11',
+    indexes: '29',
+    question: '2+9=?',
+    id: 22450
+  },
+  {
+    answer: '18',
+    indexes: '99',
+    question: '9+9=?',
+    id: 22451
+  },
+  {
+    answer: '54',
+    indexes: '945',
+    question: '9+45=?',
+    id: 22452
+  },
+  {
+    answer: '51',
+    indexes: '456',
+    question: '45+6=?',
+    id: 22453
+  },
+  {
+    answer: '57',
+    indexes: '1245',
+    question: '12+45=?',
+    id: 22454
+  },
+  {
+    answer: '990',
+    indexes: '9855',
+    question: '985+5=?',
+    id: 22455
+  },
+  {
+    answer: '100',
+    indexes: '955',
+    question: '95+5=?',
+    id: 22456
+  },
+  {
+    answer: '112',
+    indexes: '5656',
+    question: '56+56=?',
+    id: 22457
+  },
+  {
+    answer: '100',
+    indexes: '3070',
+    question: '30+70=?',
+    id: 22458
+  },
+  {
+    answer: '7',
+    indexes: '43',
+    question: '4+3=?',
+    id: 22459
+  },
+  {
+    answer: '12',
+    indexes: '48',
+    question: '4+8=?',
+    id: 22460
+  },
+  {
+    answer: '113',
+    indexes: '2192',
+    question: '21+92=?',
+    id: 22461
+  },
+  {
+    answer: '45',
+    indexes: '423',
+    question: '42+3=?',
+    id: 22462
+  },
+  {
+    answer: '60',
+    indexes: '564',
+    question: '56+4=?',
+    id: 22463
+  },
+  {
+    answer: '7',
+    indexes: '25',
+    question: '2+5=?',
+    id: 22464
+  },
+  {
+    answer: '30',
+    indexes: '228',
+    question: '22+8=?',
+    id: 22465
+  },
+  {
+    answer: '49',
+    indexes: '454',
+    question: '45+4=?',
+    id: 22466
+  },
+  {
+    answer: '9',
+    indexes: '18',
+    question: '1+8=?',
+    id: 22467
+  },
+  {
+    answer: '10',
+    indexes: '37',
+    question: '3+7=?',
+    id: 22468
+  },
+  {
+    answer: '4',
+    indexes: '22',
+    question: '2+2=?',
+    id: 22469
+  },
+  {
+    answer: '64',
+    indexes: '568',
+    question: '56+8=?',
+    id: 22470
+  },
+  {
+    answer: '17',
+    indexes: '125',
+    question: '12+5=?',
+    id: 22471
+  },
+  {
+    answer: '89',
+    indexes: '287',
+    question: '2+87=?',
+    id: 22472
+  },
+  {
+    answer: '100',
+    indexes: '991',
+    question: '99+1=?',
+    id: 22473
+  },
+  {
+    answer: '45',
+    indexes: '450',
+    question: '45+0=?',
+    id: 22474
+  },
+  {
+    answer: '12',
+    indexes: '57',
+    question: '5+7=?',
+    id: 22475
+  },
+  {
+    answer: '54',
+    indexes: '459',
+    question: '45+9=?',
+    id: 22476
+  },
+  {
+    answer: '111',
+    indexes: '2289',
+    question: '22+89=?',
+    id: 22477
+  },
+  {
+    answer: '14',
+    indexes: '68',
+    question: '6+8=?',
+    id: 22478
+  },
+  {
+    answer: '16',
+    indexes: '97',
+    question: '9+7=?',
+    id: 22479
+  },
+  {
+    answer: '13',
+    indexes: '67',
+    question: '6+7=?',
+    id: 22480
+  },
+  {
+    answer: '20',
+    indexes: '128',
+    question: '12+8=?',
+    id: 22481
+  },
+  {
+    answer: '128',
+    indexes: '5078',
+    question: '50+78=?',
+    id: 22482
+  },
+  {
+    answer: '41',
+    indexes: '329',
+    question: '32+9=?',
+    id: 22483
+  },
+  {
+    answer: '34',
+    indexes: '727',
+    question: '7+27=?',
+    id: 22484
+  },
+  {
+    answer: '8',
+    indexes: '17',
+    question: '1+7=?',
+    id: 22485
+  },
+  {
+    answer: '12',
+    indexes: '75',
+    question: '7+5=?',
+    id: 22486
+  },
+  {
+    answer: '246',
+    indexes: '123123',
+    question: '123+123=?',
+    id: 22487
+  },
+  {
+    answer: '68',
+    indexes: '5612',
+    question: '56+12=?',
+    id: 22488
+  },
+  {
+    answer: '14',
+    indexes: '59',
+    question: '5+9=?',
+    id: 22489
+  },
+  {
+    answer: '59',
+    indexes: '1445',
+    question: '14+45=?',
+    id: 22490
+  },
+  {
+    answer: '31',
+    indexes: '247',
+    question: '24+7=?',
+    id: 22491
+  },
+  {
+    answer: '48',
+    indexes: '435',
+    question: '43+5=?',
+    id: 22492
+  },
+  {
+    answer: '8',
+    indexes: '17',
+    question: '1+7=?',
+    id: 22493
+  },
+  {
+    answer: '10',
+    indexes: '37',
+    question: '3+7=?',
+    id: 22494
+  },
+  {
+    answer: '14',
+    indexes: '122',
+    question: '12+2=?',
+    id: 22495
+  },
+  {
+    answer: '28',
+    indexes: '217',
+    question: '21+7=?',
+    id: 22496
+  },
+  {
+    answer: '23',
+    indexes: '149',
+    question: '14+9=?',
+    id: 22497
+  },
+  {
+    answer: '79',
+    indexes: '4534',
+    question: '45+34=?',
+    id: 22498
+  },
+  {
+    answer: '16',
+    indexes: '151',
+    question: '15+1=?',
+    id: 22499
+  },
+  {
+    answer: '7',
+    indexes: '34',
+    question: '3+4=?',
+    id: 22500
+  },
+  {
+    answer: '155',
+    indexes: '1541',
+    question: '154+1=?',
+    id: 22501
+  },
+  {
+    answer: '123',
+    indexes: '7845',
+    question: '78+45=?',
+    id: 22502
+  },
+  {
+    answer: '70',
+    indexes: '763',
+    question: '7+63=?',
+    id: 22503
+  },
+  {
+    answer: '57',
+    indexes: '1245',
+    question: '12+45=?',
+    id: 22504
+  },
+  {
+    answer: '140',
+    indexes: '6278',
+    question: '62+78=?',
+    id: 22505
+  },
+  {
+    answer: '102',
+    indexes: '8319',
+    question: '83+19=?',
+    id: 22506
+  },
+  {
+    answer: '73',
+    indexes: '3439',
+    question: '34+39=?',
+    id: 22507
+  },
+  {
+    answer: '100',
+    indexes: '8713',
+    question: '87+13=?',
+    id: 22508
+  },
+  {
+    answer: '55',
+    indexes: '4510',
+    question: '45+10=?',
+    id: 22509
+  },
+  {
+    answer: '59',
+    indexes: '4910',
+    question: '49+10=?',
+    id: 22510
+  },
+  {
+    answer: '146',
+    indexes: '5987',
+    question: '59+87=?',
+    id: 22511
+  },
+  {
+    answer: '119',
+    indexes: '4871',
+    question: '48+71=?',
+    id: 22512
+  },
+  {
+    answer: '113',
+    indexes: '9815',
+    question: '98+15=?',
+    id: 22513
+  },
+  {
+    answer: '109',
+    indexes: '1990',
+    question: '19+90=?',
+    id: 22514
+  },
+  {
+    answer: '112',
+    indexes: '1498',
+    question: '14+98=?',
+    id: 22515
+  },
+  {
+    answer: '茅台',
+    indexes: 'yxngjcdzgz',
+    question: '以下哪个酒产地在贵州?',
+    id: 22516
+  },
+  {
+    answer: '中国',
+    indexes: 'ngsyzzy',
+    question: '哪个是亚洲之一?',
+    id: 22517
+  },
+  {
+    answer: '0',
+    indexes: 'xmnggjdgqbsyhblsszcd',
+    question: '下面哪个国家的国旗不是由红白蓝三色组成的?',
+    id: 22518
+  },
+  {
+    answer: '万科',
+    indexes: 'xmngbsITgs',
+    question: '下面哪个不是IT公司?',
+    id: 22519
+  },
+  {
+    answer: '中国石油',
+    indexes: 'xmngbsITgs',
+    question: '下面哪个不是IT公司?',
+    id: 22520
+  },
+  {
+    answer: '俏江南',
+    indexes: 'ngsbskcd',
+    question: '哪个是不是快餐店?',
+    id: 22521
+  },
+  {
+    answer: '你是我的OK绷',
+    indexes: 'yxnsgbyzjlyc',
+    question: '以下哪首歌不由周杰伦演唱?',
+    id: 22522
+  },
+  {
+    answer: '你是我的OK绷',
+    indexes: 'yxnsgbyljjyc',
+    question: '以下哪首歌不由林俊杰演唱?',
+    id: 22523
+  },
+  {
+    answer: '淞沪会战',
+    indexes: 'yxncbsdecsjdzzdzmzy',
+    question: '以下哪次不是第二次世界大战中的著名战役?',
+    id: 22524
+  },
+  {
+    answer: '日得兰海战',
+    indexes: 'yxncbsdecsjdzzdzmzy',
+    question: '以下哪次不是第二次世界大战中的著名战役?',
+    id: 22525
+  },
+  {
+    answer: '滑铁卢战役',
+    indexes: 'yxncbsdecsjdzzdzmzy',
+    question: '以下哪次不是第二次世界大战中的著名战役?',
+    id: 22526
+  },
+  {
+    answer: '中秋节',
+    indexes: 'ngszgdctjr',
+    question: '哪个是中国的传统节日?',
+    id: 22528
+  },
+  {
+    answer: '铁拐李',
+    indexes: 'bxghzdbxynyg',
+    question: '八仙过海中的八仙有哪一个?',
+    id: 22529
+  },
+  {
+    answer: '登高',
+    indexes: 'zyjsrmhjxnxhd',
+    question: '重阳节时人们会进行哪项活动?',
+    id: 22530
+  },
+  {
+    answer: '中国',
+    indexes: 'lhgcrlsgsng',
+    question: '联合国常任理事国是哪个?',
+    id: 22531
+  },
+  {
+    answer: '法国',
+    indexes: 'lhgcrlsgsng',
+    question: '联合国常任理事国是哪个?',
+    id: 22532
+  },
+  {
+    answer: '英国',
+    indexes: 'lhgcrlsgsng',
+    question: '联合国常任理事国是哪个?',
+    id: 22533
+  },
+  {
+    answer: '衡山',
+    indexes: 'yxngsswyzy',
+    question: '以下哪个山是五岳之一?',
+    id: 22534
+  },
+  {
+    answer: '东欧平原',
+    indexes: 'yxngpybwyzg',
+    question: '以下哪个平原不位于中国?',
+    id: 22535
+  },
+  {
+    answer: '粤',
+    indexes: 'ngszgsqjczy',
+    question: '哪个是中国省区简称之一?',
+    id: 22536
+  },
+  {
+    answer: '南京',
+    indexes: 'ngslcgdzy',
+    question: '哪个是六朝古都之一?',
+    id: 22537
+  },
+  {
+    answer: '俄罗斯',
+    indexes: 'lhgcrlsgsng',
+    question: '联合国常任理事国是哪个?',
+    id: 22538
+  },
+  {
+    answer: '美国',
+    indexes: 'lhgcrlsgsng',
+    question: '联合国常任理事国是哪个?',
+    id: 22539
+  },
+  {
+    answer: '恒山',
+    indexes: 'yxngsswyzy',
+    question: '以下哪个山是五岳之一?',
+    id: 22540
+  },
+  {
+    answer: '中华鲟',
+    indexes: 'nzyshzdsl',
+    question: '哪种鱼生活在淡水里?',
+    id: 22541
+  },
+  {
+    answer: '企鹅',
+    indexes: 'nznbhf',
+    question: '哪种鸟不会飞?',
+    id: 22542
+  },
+  {
+    answer: '海燕',
+    indexes: 'nzsyhn',
+    question: '哪种属于海鸟?',
+    id: 22543
+  },
+  {
+    answer: '狂妄自大',
+    indexes: 'yxngsbyc',
+    question: '以下哪个是贬义词?',
+    id: 22544
+  },
+  {
+    answer: '杨锐',
+    indexes: 'yxnwswxljzzy',
+    question: '以下哪位是“戊戌六君子”之一?',
+    id: 22545
+  },
+  {
+    answer: '书剑恩仇录',
+    indexes: 'ngbslxdzp',
+    question: '哪个不是鲁迅的作品?',
+    id: 22546
+  },
+  {
+    answer: '神雕侠侣',
+    indexes: 'ngsjydxs',
+    question: '哪个是金庸的小说?',
+    id: 22547
+  },
+  {
+    answer: '列宁',
+    indexes: 'ngbszgdsxj',
+    question: '哪个不是中国的思想家?',
+    id: 22548
+  },
+  {
+    answer: '洛克',
+    indexes: 'ngbszgdsxj',
+    question: '哪个不是中国的思想家?',
+    id: 22549
+  },
+  {
+    answer: '晋',
+    indexes: 'ngszgsqjczy',
+    question: '哪个是中国省区简称之一?',
+    id: 22550
+  },
+  {
+    answer: '彭加木',
+    indexes: 'xlnygsywgdkxj',
+    question: '下列哪一个属于我国的科学家?',
+    id: 22551
+  },
+  {
+    answer: '将进酒',
+    indexes: 'yxngslbdzp',
+    question: '以下哪个是李白的作品?',
+    id: 22552
+  },
+  {
+    answer: '望庐山瀑布',
+    indexes: 'yxngslbdzp',
+    question: '以下哪个是李白的作品?',
+    id: 22553
+  },
+  {
+    answer: '早发白帝城',
+    indexes: 'yxngslbdzp',
+    question: '以下哪个是李白的作品?',
+    id: 22554
+  },
+  {
+    answer: '送孟浩然之广陵',
+    indexes: 'yxngslbdzp',
+    question: '以下哪个是李白的作品?',
+    id: 22555
+  },
+  {
+    answer: '望江门山',
+    indexes: 'yxngslbdzp',
+    question: '以下哪个是李白的作品?',
+    id: 22556
+  },
+  {
+    answer: '独坐敬亭山',
+    indexes: 'yxngslbdzp',
+    question: '以下哪个是李白的作品?',
+    id: 22557
+  },
+  {
+    answer: '洛阳',
+    indexes: 'nygsdhdsd',
+    question: '哪一个是东汉的首都?',
+    id: 22558
+  },
+  {
+    answer: '长安',
+    indexes: 'nygsxhdsd',
+    question: '哪一个是西汉的首都?',
+    id: 22559
+  },
+  {
+    answer: '冥王星',
+    indexes: 'ngbsybdxx',
+    question: '哪个不属于八大行星?',
+    id: 22560
+  },
+  {
+    answer: '石家庄',
+    indexes: 'xlngshbsddm',
+    question: '下列哪个是河北省的地名?',
+    id: 22561
+  },
+  {
+    answer: '呼和浩特',
+    indexes: 'xlngsnmgzzqddm',
+    question: '下列哪个是内蒙古自治区的地名?',
+    id: 22562
+  },
+  {
+    answer: '运城',
+    indexes: 'xlngssxsddm',
+    question: '下列哪个是山西省的地名?',
+    id: 22563
+  },
+  {
+    answer: '苏州',
+    indexes: 'xlngsjssddm',
+    question: '下列哪个是江苏省的地名?',
+    id: 22564
+  },
+  {
+    answer: '杭州',
+    indexes: 'xlngszjsddm',
+    question: '下列哪个是浙江省的地名?',
+    id: 22565
+  },
+  {
+    answer: '景德镇',
+    indexes: 'xlngsjxsddm',
+    question: '下列哪个是江西省的地名?',
+    id: 22566
+  },
+  {
+    answer: '青岛',
+    indexes: 'xlngssdsddm',
+    question: '下列哪个是山东省的地名?',
+    id: 22567
+  },
+  {
+    answer: '桂林',
+    indexes: 'xlngsgxsddm',
+    question: '下列哪个是广西省的地名?',
+    id: 22568
+  },
+  {
+    answer: '洛阳',
+    indexes: 'xlngshnsddm',
+    question: '下列哪个是河南省的地名?',
+    id: 22569
+  },
+  {
+    answer: '成都',
+    indexes: 'xlngsscsddm',
+    question: '下列哪个是四川省的地名?',
+    id: 22570
+  },
+  {
+    answer: '大理',
+    indexes: 'xlngsynsddm',
+    question: '下列哪个是云南省的地名?',
+    id: 22571
+  },
+  {
+    answer: '西安',
+    indexes: 'xlngssxsddm',
+    question: '下列哪个是陕西省的地名?',
+    id: 22573
+  },
+  {
+    answer: '天水',
+    indexes: 'xlngsgssddm',
+    question: '下列哪个是甘肃省的地名?',
+    id: 22574
+  },
+  {
+    answer: '银川',
+    indexes: 'xlngsnxhzzzqddm',
+    question: '下列哪个是宁夏回族自治区的地名?',
+    id: 22575
+  },
+  {
+    answer: '高雄',
+    indexes: 'xlngstwddm',
+    question: '下列哪个是台湾的地名?',
+    id: 22576
+  },
+  {
+    answer: '柏林',
+    indexes: 'xmngcszdg',
+    question: '下面哪个城市在德国?',
+    id: 22577
+  },
+  {
+    answer: '奈良',
+    indexes: 'xmngcszrb',
+    question: '下面哪个城市在日本?',
+    id: 22578
+  },
+  {
+    answer: '王羲之',
+    indexes: 'yxnwsltjxdzz',
+    question: '以下哪位是《兰亭集序》的作者?',
+    id: 22579
+  },
+  {
+    answer: '郑和',
+    indexes: 'yxnwqxxy',
+    question: '以下哪位七下西洋?',
+    id: 22580
+  },
+  {
+    answer: '左权',
+    indexes: 'nwlsskrzzzxsd',
+    question: '哪位烈士是抗日战争中牺牲的?',
+    id: 22581
+  },
+  {
+    answer: '董存瑞',
+    indexes: 'nwlssjfzzzxsd',
+    question: '哪位烈士是解放战争中牺牲的?',
+    id: 22582
+  },
+  {
+    answer: '天安门',
+    indexes: 'ngsghdnr',
+    question: '哪个是国徽的内容?',
+    id: 22583
+  },
+  {
+    answer: '齿轮',
+    indexes: 'ngsghdnr',
+    question: '哪个是国徽的内容?',
+    id: 22584
+  },
+  {
+    answer: '稻穗',
+    indexes: 'ngsghdnr',
+    question: '哪个是国徽的内容?',
+    id: 22585
+  },
+  {
+    answer: '杨锐',
+    indexes: 'nwswxljzzy',
+    question: '哪位是戊戌六君子之一?',
+    id: 22586
+  },
+  {
+    answer: '北京条约',
+    indexes: 'ngsqzftqlzqddbpdty',
+    question: '哪个是清政府同侵略者签订的不平等条约?',
+    id: 22587
+  },
+  {
+    answer: '排比',
+    indexes: 'ngsxcff',
+    question: '哪个是修辞方法?',
+    id: 22588
+  },
+  {
+    answer: '善良',
+    indexes: 'ngsbyc',
+    question: '哪个是褒义词?',
+    id: 22589
+  },
+  {
+    answer: '邋遢',
+    indexes: 'ngsbyc',
+    question: '哪个是贬义词?',
+    id: 22590
+  },
+  {
+    answer: '高桥和希',
+    indexes: 'yxngsmhj',
+    question: '以下哪个是漫画家?',
+    id: 22591
+  },
+  {
+    answer: '欧阳修',
+    indexes: 'qzcxlnywswgscdwxj',
+    question: '请指出下列哪一位是我国宋朝的文学家?',
+    id: 22592
+  },
+  {
+    answer: '刘彻',
+    indexes: 'qzcxlnywswghcdlsrw',
+    question: '请指出下列哪一位是我国汉朝的历史人物?',
+    id: 22593
+  },
+  {
+    answer: '司马懿',
+    indexes: 'qzcxlnywswgsgsqdlsrw',
+    question: '请指出下列哪一位是我国三国时期的历史人物?',
+    id: 22594
+  },
+  {
+    answer: '朱德',
+    indexes: 'qzcxlnywswgjfzzsqdgcdjl',
+    question: '请指出下列哪一位是我国解放战争时期的共产党将领?',
+    id: 22595
+  },
+  {
+    answer: '四川',
+    indexes: 'qzcxlnygshjzzsqsjgddf',
+    question: '请指出下列哪一个是红军长征时期所经过的地方?',
+    id: 22596
+  },
+  {
+    answer: '雁南飞',
+    indexes: 'qzcxlnywstymydxszdrw',
+    question: '请指出下列哪一位是<<天涯明月刀>>小说中的人物?',
+    id: 22597
+  },
+  {
+    answer: '日本',
+    indexes: 'qzcxlnygsqlwgdbgljdgj',
+    question: '请指出下列哪一个是侵略我国的《八国联军》的国家?',
+    id: 22598
+  },
+  {
+    answer: '倚天屠龙记',
+    indexes: 'qzcjyzpdsnyg',
+    question: '请指出金庸作品的是哪一个?',
+    id: 22599
+  },
+  {
+    answer: '流星·蝴蝶·剑',
+    indexes: 'qzcnygbslysdzp',
+    question: '请指出哪一个不是梁羽生的作品?',
+    id: 22601
+  },
+  {
+    answer: '刘备',
+    indexes: 'sgzlxyjhslyjbls',
+    question: '三国中陆逊用计火烧连营击败了谁?',
+    id: 22602
+  },
+  {
+    answer: '华佗',
+    indexes: 'ssjgyggld',
+    question: '是谁给关羽刮骨疗毒?',
+    id: 22603
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'bbldwpwky',
+    question: '背包里的物品,我可以:',
+    id: 22604
+  },
+  {
+    answer: '按M键就可以',
+    indexes: 'zyxlkykdsjdtm',
+    question: '在游戏里可以看到世界地图吗?',
+    id: 22605
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'yxlddjyjz',
+    question: '游戏里的道具有几种?',
+    id: 22606
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'yxzddjlyy',
+    question: '游戏中的道具来源有:',
+    id: 22607
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'gycldmsnxszqd',
+    question: '关于草料的描述,哪些是正确的:',
+    id: 22608
+  },
+  {
+    answer: '三国',
+    indexes: 'QQsgsyksmtcdyx',
+    question: 'QQ三国是一款什么题材的游戏?',
+    id: 22609
+  },
+  {
+    answer: '中国',
+    indexes: 'zglsnggjd',
+    question: '诸葛亮是哪个国家的?',
+    id: 22610
+  },
+  {
+    answer: '美国',
+    indexes: 'yxnggjbsyQQsg',
+    question: '以下哪个国家不属于QQ三国?',
+    id: 22611
+  },
+  {
+    answer: 'QQ号码',
+    indexes: 'ysmzhjkyzjdlQQsg',
+    question: '用什么帐号就可以直接登陆QQ三国?',
+    id: 22612
+  },
+  {
+    answer: '状态界面',
+    indexes: 'F1ssmjmdkjj',
+    question: 'F1是什么界面的快捷键?',
+    id: 22613
+  },
+  {
+    answer: '商城',
+    indexes: 'F9ssmjmdkjj',
+    question: 'F9是什么界面的快捷键?',
+    id: 22614
+  },
+  {
+    answer: 'F9',
+    indexes: 'scdkjjssm',
+    question: '商城的快捷键是什么?',
+    id: 22615
+  },
+  {
+    answer: 'G',
+    indexes: 'yzjdNPCdhdkjjssm',
+    question: '与最近的NPC对话的快捷键是什么?',
+    id: 22616
+  },
+  {
+    answer: 'C',
+    indexes: 'sqlzdsddjdkjjssm',
+    question: '拾取落在地上的道具的快捷键是什么?',
+    id: 22617
+  },
+  {
+    answer: '~',
+    indexes: 'ksdxsbwjjsdkjjssm',
+    question: '快速点选身边玩家角色的快捷键是什么?',
+    id: 22618
+  },
+  {
+    answer: 'Tab',
+    indexes: 'ksdxsbgwdkjjssm',
+    question: '快速点选身边怪物的快捷键是什么?',
+    id: 22619
+  },
+  {
+    answer: 'M',
+    indexes: 'dkdtdkjjssm',
+    question: '打开地图的快捷键是什么?',
+    id: 22620
+  },
+  {
+    answer: '寄管小妖',
+    indexes: 'ssdwpyjzmlygzngNPC',
+    question: '身上的物品已经装满了,应该找哪个NPC?',
+    id: 22621
+  },
+  {
+    answer: '马车夫',
+    indexes: 'xksddlwdccygzngNPC',
+    question: '想快速到达另外的城池,应该找哪个NPC?',
+    id: 22622
+  },
+  {
+    answer: '奋威中郎将',
+    indexes: 'xxlzjygzngNPC',
+    question: '想修炼自己,应该找哪个NPC?',
+    id: 22623
+  },
+  {
+    answer: '物品界面',
+    indexes: 'xzyxzbgtwygtgngjmcz',
+    question: '想在游戏中摆个摊位,应该通过哪个界面操作?',
+    id: 22624
+  },
+  {
+    answer: '豪杰',
+    indexes: 'yxngzyssyQQsgd',
+    question: '以下哪个职业是属于QQ三国的?',
+    id: 22625
+  },
+  {
+    answer: '仙术士',
+    indexes: 'yxngzyssyQQsgd',
+    question: '以下哪个职业是属于QQ三国的?',
+    id: 22626
+  },
+  {
+    answer: '剑侍',
+    indexes: 'yxngzyssyQQsgd',
+    question: '以下哪个职业是属于QQ三国的?',
+    id: 22627
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'yxngzyssyQQsgd',
+    question: '以下哪个职业是属于QQ三国的?',
+    id: 22628
+  },
+  {
+    answer: '骑士',
+    indexes: 'yxngzysbsyQQsgd',
+    question: '以下哪个职业是不属于QQ三国的?',
+    id: 22629
+  },
+  {
+    answer: '五',
+    indexes: 'QQsgdrwzgyjljbsx',
+    question: 'QQ三国的人物总共有几类基本属性?',
+    id: 22630
+  },
+  {
+    answer: '平均型',
+    indexes: 'jsssmlxdzy',
+    question: '剑侍是什么类型的职业?',
+    id: 22631
+  },
+  {
+    answer: '高防型',
+    indexes: 'hjssmlxdzy',
+    question: '豪杰是什么类型的职业?',
+    id: 22632
+  },
+  {
+    answer: '高攻型',
+    indexes: 'yysssmlxdzy',
+    question: '阴阳士是什么类型的职业?',
+    id: 22633
+  },
+  {
+    answer: '恢复型',
+    indexes: 'xssssmlxdzy',
+    question: '仙术士是什么类型的职业?',
+    id: 22634
+  },
+  {
+    answer: '剑',
+    indexes: 'jszbsmlxdwq',
+    question: '剑侍装备什么类型的武器?',
+    id: 22635
+  },
+  {
+    answer: '斧头',
+    indexes: 'hjzbsmlxdwq',
+    question: '豪杰装备什么类型的武器?',
+    id: 22636
+  },
+  {
+    answer: '杖',
+    indexes: 'yyszbsmlxdwq',
+    question: '阴阳士装备什么类型的武器?',
+    id: 22637
+  },
+  {
+    answer: '扇子',
+    indexes: 'xsszbsmlxdwq',
+    question: '仙术士装备什么类型的武器?',
+    id: 22638
+  },
+  {
+    answer: '三',
+    indexes: 'mgzytsjyyjlxf',
+    question: '每个职业天生就拥有几类心法?',
+    id: 22639
+  },
+  {
+    answer: '10个',
+    indexes: '1QbngdhdsQd',
+    question: '1Q币能够兑换多少Q点?',
+    id: 22640
+  },
+  {
+    answer: '剑侍',
+    indexes: 'hjjsngzydjn',
+    question: '横剑击是哪个职业的技能?',
+    id: 22641
+  },
+  {
+    answer: '剑侍',
+    indexes: 'yxjwsngzydjn',
+    question: '饮血剑舞是哪个职业的技能?',
+    id: 22642
+  },
+  {
+    answer: '剑侍',
+    indexes: 'hfflsngzydjn',
+    question: '回风拂柳是哪个职业的技能?',
+    id: 22643
+  },
+  {
+    answer: '剑侍',
+    indexes: 'jrsxsngzydjn',
+    question: '剑刃噬心是哪个职业的技能?',
+    id: 22644
+  },
+  {
+    answer: '剑侍',
+    indexes: 'fgzysngzydjn',
+    question: '分光斩影是哪个职业的技能?',
+    id: 22645
+  },
+  {
+    answer: '剑侍',
+    indexes: 'klqxjsngzydjn',
+    question: '狂雷七星剑是哪个职业的技能?',
+    id: 22646
+  },
+  {
+    answer: '剑侍',
+    indexes: 'shyssngzydjn',
+    question: '慑魂一式是哪个职业的技能?',
+    id: 22647
+  },
+  {
+    answer: '剑侍',
+    indexes: 'jdbhsngzydjn',
+    question: '剑荡八荒是哪个职业的技能?',
+    id: 22648
+  },
+  {
+    answer: '剑侍',
+    indexes: 'cysxjsngzydjn',
+    question: '残影蚀心剑是哪个职业的技能?',
+    id: 22649
+  },
+  {
+    answer: '剑侍',
+    indexes: 'adcqsngzydjn',
+    question: '傲断苍穹是哪个职业的技能?',
+    id: 22650
+  },
+  {
+    answer: '剑侍',
+    indexes: 'jhhjsngzydjn',
+    question: '惊鸿幻剑是哪个职业的技能?',
+    id: 22651
+  },
+  {
+    answer: '剑侍',
+    indexes: 'cyhxjsngzydjn',
+    question: '出云幻星剑是哪个职业的技能?',
+    id: 22652
+  },
+  {
+    answer: '剑侍',
+    indexes: 'jqcjxsngzydjn',
+    question: '剑气冲九霄是哪个职业的技能?',
+    id: 22653
+  },
+  {
+    answer: '豪杰',
+    indexes: 'bwfsngzydjn',
+    question: '霸王斧是哪个职业的技能?',
+    id: 22654
+  },
+  {
+    answer: '豪杰',
+    indexes: 'qxfsngzydjn',
+    question: '泣血斧是哪个职业的技能?',
+    id: 22655
+  },
+  {
+    answer: '豪杰',
+    indexes: 'jxlhfsngzydjn',
+    question: '祭血连环斧是哪个职业的技能?',
+    id: 22656
+  },
+  {
+    answer: '豪杰',
+    indexes: 'nhktsngzydjn',
+    question: '怒海狂涛是哪个职业的技能?',
+    id: 22657
+  },
+  {
+    answer: '豪杰',
+    indexes: 'sggfsngzydjn',
+    question: '神工鬼斧是哪个职业的技能?',
+    id: 22658
+  },
+  {
+    answer: '豪杰',
+    indexes: 'lzqjsngzydjn',
+    question: '力斩千钧是哪个职业的技能?',
+    id: 22659
+  },
+  {
+    answer: '豪杰',
+    indexes: 'jlldsngzydjn',
+    question: '惊雷裂地是哪个职业的技能?',
+    id: 22660
+  },
+  {
+    answer: '豪杰',
+    indexes: 'slthsngzydjn',
+    question: '神龙探海是哪个职业的技能?',
+    id: 22661
+  },
+  {
+    answer: '豪杰',
+    indexes: 'jzfldsngzydjn',
+    question: '九州风雷动是哪个职业的技能?',
+    id: 22662
+  },
+  {
+    answer: '豪杰',
+    indexes: 'kfcxsngzydjn',
+    question: '狂斧冲霄是哪个职业的技能?',
+    id: 22663
+  },
+  {
+    answer: '豪杰',
+    indexes: 'ksbzsngzydjn',
+    question: '狂沙百战是哪个职业的技能?',
+    id: 22664
+  },
+  {
+    answer: '豪杰',
+    indexes: 'sxptsngzydjn',
+    question: '嗜血破天是哪个职业的技能?',
+    id: 22665
+  },
+  {
+    answer: '豪杰',
+    indexes: 'tnrysngzydjn',
+    question: '天怒人怨是哪个职业的技能?',
+    id: 22666
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'hysngzydjn',
+    question: '火炎是哪个职业的技能?',
+    id: 22667
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'cyxsngzydjn',
+    question: '炽炎袭是哪个职业的技能?',
+    id: 22668
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'kyysngzydjn',
+    question: '狂炎涌是哪个职业的技能?',
+    id: 22669
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'cyzsngzydjn',
+    question: '残阳炙是哪个职业的技能?',
+    id: 22670
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'xhzsngzydjn',
+    question: '星火坠是哪个职业的技能?',
+    id: 22671
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'yhfxsngzydjn',
+    question: '业火焚心是哪个职业的技能?',
+    id: 22672
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'hjlhsngzydjn',
+    question: '幻剑离火是哪个职业的技能?',
+    id: 22673
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'jskwsngzydjn',
+    question: '金蛇狂舞是哪个职业的技能?',
+    id: 22674
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'xjmysngzydjn',
+    question: '卸甲冥焰是哪个职业的技能?',
+    id: 22675
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'yhlysngzydjn',
+    question: '野火燎原是哪个职业的技能?',
+    id: 22676
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'aydcxsngzydjn',
+    question: '暗炎凋残星是哪个职业的技能?',
+    id: 22677
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'lyymzsngzydjn',
+    question: '炼狱阴魔咒是哪个职业的技能?',
+    id: 22678
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'xllhzsngzydjn',
+    question: '炫灵流火咒是哪个职业的技能?',
+    id: 22679
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'jsfhxsngzydjn',
+    question: '江山烽火啸是哪个职业的技能?',
+    id: 22680
+  },
+  {
+    answer: '仙术士',
+    indexes: 'spsngzydjn',
+    question: '水瀑是哪个职业的技能?',
+    id: 22681
+  },
+  {
+    answer: '仙术士',
+    indexes: 'hcssngzydjn',
+    question: '回春术是哪个职业的技能?',
+    id: 22682
+  },
+  {
+    answer: '仙术士',
+    indexes: 'xbhdsngzydjn',
+    question: '玄冰护盾是哪个职业的技能?',
+    id: 22683
+  },
+  {
+    answer: '仙术士',
+    indexes: 'zyrtsngzydjn',
+    question: '真元入体是哪个职业的技能?',
+    id: 22684
+  },
+  {
+    answer: '仙术士',
+    indexes: 'yxssngzydjn',
+    question: '燕行术是哪个职业的技能?',
+    id: 22685
+  },
+  {
+    answer: '仙术士',
+    indexes: 'hbcsngzydjn',
+    question: '寒冰刺是哪个职业的技能?',
+    id: 22686
+  },
+  {
+    answer: '仙术士',
+    indexes: 'nsjxsngzydjn',
+    question: '凝神静心是哪个职业的技能?',
+    id: 22687
+  },
+  {
+    answer: '仙术士',
+    indexes: 'xmjsngzydjn',
+    question: '续命诀是哪个职业的技能?',
+    id: 22688
+  },
+  {
+    answer: '仙术士',
+    indexes: 'tjqlssngzydjn',
+    question: '太极清灵术是哪个职业的技能?',
+    id: 22689
+  },
+  {
+    answer: '仙术士',
+    indexes: 'ylgxssngzydjn',
+    question: '元灵归心术是哪个职业的技能?',
+    id: 22690
+  },
+  {
+    answer: '仙术士',
+    indexes: 'chncsngzydjn',
+    question: '沧海怒潮是哪个职业的技能?',
+    id: 22691
+  },
+  {
+    answer: '仙术士',
+    indexes: 'cfftsngzydjn',
+    question: '春风拂体是哪个职业的技能?',
+    id: 22692
+  },
+  {
+    answer: '仙术士',
+    indexes: 'jfssngzydjn',
+    question: '疾风术是哪个职业的技能?',
+    id: 22693
+  },
+  {
+    answer: '仙术士',
+    indexes: 'bhcssngzydjn',
+    question: '碧海潮生是哪个职业的技能?',
+    id: 22694
+  },
+  {
+    answer: '仙术士',
+    indexes: 'lhcsssngzydjn',
+    question: '莲华出水术是哪个职业的技能?',
+    id: 22695
+  },
+  {
+    answer: '仙术士',
+    indexes: 'jtcyssngzydjn',
+    question: '惊涛穿云术是哪个职业的技能?',
+    id: 22696
+  },
+  {
+    answer: '剑侍',
+    indexes: 'qlssngzydjn',
+    question: '轻灵术是哪个职业的技能?',
+    id: 22697
+  },
+  {
+    answer: '剑侍',
+    indexes: 'jjjsngzydjn',
+    question: '激将计是哪个职业的技能?',
+    id: 22698
+  },
+  {
+    answer: '剑侍',
+    indexes: 'ysjfsngzydjn',
+    question: '玉石俱焚是哪个职业的技能?',
+    id: 22699
+  },
+  {
+    answer: '豪杰',
+    indexes: 'bmjssngzydjn',
+    question: '不灭金身是哪个职业的技能?',
+    id: 22700
+  },
+  {
+    answer: '豪杰',
+    indexes: 'bbzysngzydjn',
+    question: '磅礴战意是哪个职业的技能?',
+    id: 22701
+  },
+  {
+    answer: '豪杰',
+    indexes: 'txsfsngzydjn',
+    question: '挑衅四方是哪个职业的技能?',
+    id: 22702
+  },
+  {
+    answer: '豪杰',
+    indexes: 'ksfsngzydjn',
+    question: '开山斧是哪个职业的技能?',
+    id: 22703
+  },
+  {
+    answer: '是',
+    indexes: 'zQQsgzygQQhxmsyjsdcksgydm',
+    question: '在QQ三国中,一个QQ号下面所有角色的仓库是共用的吗?',
+    id: 22704
+  },
+  {
+    answer: '12',
+    indexes: 'zQQsgzjjkyjfzydjzrw',
+    question: '在QQ三国中,几级可以接副职业的就职任务?',
+    id: 22705
+  },
+  {
+    answer: '5',
+    indexes: 'zQQsgzydsgfzy',
+    question: '在QQ三国中,有多少个副职业?',
+    id: 22706
+  },
+  {
+    answer: '千货商',
+    indexes: 'zxscdngNPCkyjfzydjzrw',
+    question: '在新手城的哪个NPC可以接副职业的就职任务?',
+    id: 22707
+  },
+  {
+    answer: '即能做蓝药也能做红药',
+    indexes: 'zQQsgzfzypddzyssm',
+    question: '在QQ三国中,副职业庖丁的作用是什么?',
+    id: 22708
+  },
+  {
+    answer: '回体力的蓝药',
+    indexes: 'nehss',
+    question: '男儿黑是啥?',
+    id: 22709
+  },
+  {
+    answer: '一段时间内回复生命的',
+    indexes: 'clhhrysy',
+    question: '吃了红红肉有啥用?',
+    id: 22710
+  },
+  {
+    answer: '即时回复500生命',
+    indexes: 'cljzhhfssmsq',
+    question: '吃了饺子后会发生什么事情?',
+    id: 22711
+  },
+  {
+    answer: '即时回复200体力',
+    indexes: 'hlmrwjhfssmsq',
+    question: '喝了美髯温酒会发生什么事情?',
+    id: 22712
+  },
+  {
+    answer: '幸运合成或者使用初级锅',
+    indexes: 'y5gjdkyscc10gzjdm',
+    question: '用5个鸡蛋可以生产出10个煮鸡蛋吗?',
+    id: 22713
+  },
+  {
+    answer: '即时回复300生命',
+    indexes: 'clzjddhgs',
+    question: '吃了煮鸡蛋的后果是?',
+    id: 22714
+  },
+  {
+    answer: '牙签滑鱼和闪避之石',
+    indexes: 'yxnxwpsyhhzjhb',
+    question: '以下哪些物品使用后会增加回避?',
+    id: 22715
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'yxnxwpsyhkyzydsjntgtldhfsd',
+    question: '以下哪些物品使用后可以在一段时间内提高体力的恢复速度?',
+    id: 22716
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'yxnxwpsyhkyzydsjntgsmdhfsd',
+    question: '以下哪些物品使用后可以在一段时间内提高生命的恢复速度?',
+    id: 22717
+  },
+  {
+    answer: '可乐鸡翅和一飞冲天',
+    indexes: 'yxnxwpsyhkyzydsjnzjyddsd',
+    question: '以下哪些物品使用后可以在一段时间内增加移动的速度?',
+    id: 22718
+  },
+  {
+    answer: '金创药和双黄蛋都可以',
+    indexes: 'yxffnzkykshfsm',
+    question: '以下方法哪种可以快速回复生命?',
+    id: 22719
+  },
+  {
+    answer: '清心露和男儿黑都可以',
+    indexes: 'yxffnzkykshftl',
+    question: '以下方法哪种可以快速回复体力?',
+    id: 22720
+  },
+  {
+    answer: '给20级以前的装备打孔的',
+    indexes: 'ejqqzs',
+    question: '二级嵌器之石',
+    id: 22721
+  },
+  {
+    answer: '提高最大生命的',
+    indexes: 'zjxqzyysy',
+    question: '中级血气之玉有啥用?',
+    id: 22722
+  },
+  {
+    answer: '弱效化伤为体玉',
+    indexes: 'yxnxwpkyjsddshzhwtl',
+    question: '以下哪些物品可以将受到的伤害转化为体力?',
+    id: 22723
+  },
+  {
+    answer: '荆棘石',
+    indexes: 'yxnxwpkyjsddshfdjgjz',
+    question: '以下哪些物品可以将受到的伤害反弹给攻击者?',
+    id: 22724
+  },
+  {
+    answer: '辅助批量生产男儿黑的',
+    indexes: 'cjjhysy',
+    question: '初级酒壶有啥用?',
+    id: 22725
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'yxnxwpkytghbl',
+    question: '以下哪些物品可以提供回避率?',
+    id: 22726
+  },
+  {
+    answer: '镶工',
+    indexes: 'cjjhsngfzyscd',
+    question: '初级酒壶是哪个副职业生产的?',
+    id: 22727
+  },
+  {
+    answer: '次级血气之玉',
+    indexes: 'yxsmwpkyyjtgndsmzdz',
+    question: '以下什么物品可以永久提高你的生命最大值?',
+    id: 22728
+  },
+  {
+    answer: '玄力水晶',
+    indexes: 'yxsmwpkyyjtgndtlzdz',
+    question: '以下什么物品可以永久提高你的体力最大值?',
+    id: 22729
+  },
+  {
+    answer: '修复水晶和修复石都可以',
+    indexes: 'rhxlshddj',
+    question: '如何修理损坏的道具?',
+    id: 22730
+  },
+  {
+    answer: '将0~3级别装备强化',
+    indexes: 'xpqhsysy',
+    question: '下品强化石有啥用?',
+    id: 22731
+  },
+  {
+    answer: '辅助批量生产煮鸡蛋的',
+    indexes: 'cjgysy',
+    question: '初级锅有啥用?',
+    id: 22732
+  },
+  {
+    answer: '风行石',
+    indexes: 'zQQsgzrgxzxqsyxngstydsdhkyx',
+    question: '在QQ三国中,如果鞋子镶嵌上以下哪个石头,移动速度会快一些?',
+    id: 22733
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'yxnxwpkytgydsd',
+    question: '以下哪些物品可以提高移动速度?',
+    id: 22734
+  },
+  {
+    answer: '工匠',
+    indexes: 'cjxlbssngfzyscd',
+    question: '初级修理宝石是哪个副职业生产的?',
+    id: 22735
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'zbqhysmxg',
+    question: '装备强化有什么效果?',
+    id: 22736
+  },
+  {
+    answer: '工匠',
+    indexes: 'cjgsngfzyscd',
+    question: '初级锅是哪个副职业生产的?',
+    id: 22737
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'hjfbtgngNPCkyj',
+    question: '黄巾副本通过哪个NPC可以进?',
+    id: 22738
+  },
+  {
+    answer: '何曼',
+    indexes: 'hjfbdygdBOSSjsmz',
+    question: '黄巾副本第一关的BOSS叫啥名字?',
+    id: 22739
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'nqhjfbswls',
+    question: '你去黄巾副本是为了啥?',
+    id: 22740
+  },
+  {
+    answer: '15',
+    indexes: 'hjfbdsjyskyj',
+    question: '黄巾副本多少级以上可以进?',
+    id: 22741
+  },
+  {
+    answer: '20',
+    indexes: 'dsjbyskystd',
+    question: '多少级别以上可以收徒弟?',
+    id: 22742
+  },
+  {
+    answer: '15',
+    indexes: 'dsjbyxcnbs',
+    question: '多少级别以下才能拜师?',
+    id: 22743
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'styqzdljyshc',
+    question: '师徒一起组队练级,有啥好处?',
+    id: 22744
+  },
+  {
+    answer: '15',
+    indexes: 'tddsjbcs',
+    question: '徒弟多少级别出师?',
+    id: 22745
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'tdcshhsfyqzdljyhcm',
+    question: '徒弟出师后,和师傅一起组队练级有好处吗?',
+    id: 22746
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'tdmcshsfyqzdljyxnxsdd',
+    question: '徒弟没出师,和师傅一起组队练级,以下哪些是对的?',
+    id: 22747
+  },
+  {
+    answer: '杀神和如意都能换到',
+    indexes: 'xszdzysmy',
+    question: '新手指导证有什么用?',
+    id: 22748
+  },
+  {
+    answer: '师缘隐士',
+    indexes: 'xszdzszxscnldhwp',
+    question: '新手指导证书在新手城哪里兑换物品?',
+    id: 22749
+  },
+  {
+    answer: '5',
+    indexes: 'ygdwlzdkyydsr',
+    question: '一个队伍里最多可以有多少人?',
+    id: 22750
+  },
+  {
+    answer: '可以',
+    indexes: 'zdhdzkygbm',
+    question: '组队后队长可以改变吗?',
+    id: 22751
+  },
+  {
+    answer: '相同时间内获得更多的经验值',
+    indexes: 'rgdjdbtljbcbddrzdyqljysmhc',
+    question: '如果大家都不偷懒,级别差不多的人组队一起练级有什么好处?',
+    id: 22752
+  },
+  {
+    answer: '是',
+    indexes: 'zddrsfztyzdtcnfxjy',
+    question: '组队的人是否在同一张地图才能分享经验?',
+    id: 22753
+  },
+  {
+    answer: '可以',
+    indexes: 'kytsjdgrwm',
+    question: '可以同时接多个任务吗?',
+    id: 22754
+  },
+  {
+    answer: '可以',
+    indexes: 'gjrwkydczfzm',
+    question: '国家任务可以多次重复做吗?',
+    id: 22755
+  },
+  {
+    answer: 'BOSS来的,刷新时间有点长',
+    indexes: 'sgxscpbdgwxmzwsmjczbd',
+    question: '蜀国新手城旁边的怪物小蛮猪为什么经常找不到?',
+    id: 22756
+  },
+  {
+    answer: '金钱和副职业材料',
+    indexes: 'zgjrwknhddsmjl',
+    question: '做国家任务可能会得到什么奖励?',
+    id: 22757
+  },
+  {
+    answer: '中书丞',
+    indexes: 'dnljgjrw',
+    question: '到哪里接国家任务?',
+    id: 22758
+  },
+  {
+    answer: '5',
+    indexes: 'gjrwybydsb',
+    question: '国家任务一般有多少步?',
+    id: 22759
+  },
+  {
+    answer: '20分钟',
+    indexes: 'xscpbdxBOSSdzsjsxyc',
+    question: '新手城旁边的小BOSS多长时间刷新一次?',
+    id: 22760
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'zdgjdgwhbdgjdgwysbt',
+    question: '主动攻击的怪物和被动攻击的怪物有啥不同?',
+    id: 22761
+  },
+  {
+    answer: '对',
+    indexes: 'bmxdjmjxjsrddbchbnmjqtNPCdhddm',
+    question: '把某些道具卖给行脚商人,得到报酬会比你卖给其它NPC多很多,对吗?',
+    id: 22762
+  },
+  {
+    answer: '你比它高',
+    indexes: 'rggwdmzslsdsmnhtddj',
+    question: '如果怪物的名字是绿色的,说明你和他的等级',
+    id: 22763
+  },
+  {
+    answer: '头上有黄色的感叹号在闪烁的',
+    indexes: 'znxNPCkyjxrw',
+    question: '找哪些NPC可以接新任务?',
+    id: 22764
+  },
+  {
+    answer: '你有任务没做完,需要和他对话',
+    indexes: 'NPCdtsdzygwhssysy',
+    question: 'NPC的头上顶着一个问号是啥意思呀?',
+    id: 22765
+  },
+  {
+    answer: '我再升级就可以接新任务了',
+    indexes: 'NPCdtsdzyghsdgthssysy',
+    question: 'NPC的头上顶着一个灰色的感叹号是啥意思呀?',
+    id: 22766
+  },
+  {
+    answer: '30',
+    indexes: 'dsjbkycjjt',
+    question: '多少级别可以创建军团?',
+    id: 22767
+  },
+  {
+    answer: '15',
+    indexes: 'dsjbkyjrjt',
+    question: '多少级别可以加入军团?',
+    id: 22768
+  },
+  {
+    answer: '军团管理专员',
+    indexes: 'zngNPCkycjjt',
+    question: '找哪个NPC可以创建军团?',
+    id: 22769
+  },
+  {
+    answer: '一样吧',
+    indexes: 'jtcyzddgdddjyhbfjtcydgdddjydm',
+    question: '军团成员组队打怪得到的经验会比非军团成员打怪得到的经验多吗?',
+    id: 22770
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'rgnjrlygjtjyy',
+    question: '如果你加入了一个军团,将拥有:',
+    id: 22771
+  },
+  {
+    answer: '经常在国家频道说话',
+    indexes: 'yxrdtsdzyggsxfdchzmldy',
+    question: "有些人的头上顶着一个'灌水先锋'的称号,怎么来的呀?",
+    id: 22772
+  },
+  {
+    answer: '他经常生产补蓝/红的药',
+    indexes: 'yxrdtsdzygzhssdchzmldy',
+    question: "有些人的头上顶着一个'中华食神'的称号,怎么来的呀?",
+    id: 22773
+  },
+  {
+    answer: '工匠做多了',
+    indexes: 'yxrdtsdzygzzdsdchzmldy',
+    question: "有些人的头上顶着一个'铸造大师'的称号,怎么来的呀?",
+    id: 22774
+  },
+  {
+    answer: '镶嵌做多了',
+    indexes: 'yxrdtsdzygzqdsdchzmldy',
+    question: "有些人的头上顶着一个'制器大师'的称号,怎么来的呀?",
+    id: 22775
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'zyhNPCdh',
+    question: '怎样和NPC对话?',
+    id: 22776
+  },
+  {
+    answer: '副职业材料和高级合成书',
+    indexes: 'xtbdshhdsmwp',
+    question: '小偷被打死后,会掉什么物品?',
+    id: 22777
+  },
+  {
+    answer: '江陵附近的小偷',
+    indexes: 'zykndzjgjsdgws',
+    question: '最有可能掉中级工匠书的怪物是?',
+    id: 22778
+  },
+  {
+    answer: '江陵附近的小偷',
+    indexes: 'zykndzjxgsdgws',
+    question: '最有可能掉中级镶工书的怪物是?',
+    id: 22779
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'wsmyxfzydszgssrnlmbd',
+    question: '为什么有些副职业的书在古书商人那里买不到?',
+    id: 22780
+  },
+  {
+    answer: '私聊',
+    indexes: 'yxnzfskysxnhlygwjydydlt',
+    question: '以下哪种方式可以实现你和另一个玩家一对一地聊天?',
+    id: 22781
+  },
+  {
+    answer: '不可以',
+    indexes: 'zwgsygjpdshwgkykjm',
+    question: '在魏国使用国家频道说话,吴国可以看见吗?',
+    id: 22783
+  },
+  {
+    answer: '小喇叭',
+    indexes: 'nsdhrgxyqfwqdsggjdntdygsy',
+    question: '你说的话如果想要全服务器的三个国家都能听到,应该使用?',
+    id: 22784
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'zmhlygwjsl',
+    question: '怎么和另一个玩家私聊?',
+    id: 22785
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'cwhyhysmhc',
+    question: '成为好友后有什么好处?',
+    id: 22786
+  },
+  {
+    answer: '坐马车',
+    indexes: 'rgycygcsdlygcszkdffs',
+    question: '如果要从一个城市到另一个城市,最快的方法是?',
+    id: 22787
+  },
+  {
+    answer: '找城市里的驿站马夫和他对话',
+    indexes: 'zmzmcy',
+    question: '怎么坐马车呀?',
+    id: 22788
+  },
+  {
+    answer: '不可以',
+    indexes: 'hmdrkyzmcm',
+    question: '红名的人可以坐马车吗?',
+    id: 22789
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'zxhdzjdygcsyxffkx',
+    question: '在想回到最近的一个城市,以下方法可行?',
+    id: 22790
+  },
+  {
+    answer: '减少QQ号被盗后你的角色的损失',
+    indexes: 'cjjsdshszmmsgmyd',
+    question: '创建角色的时候设置密码是干嘛用的?',
+    id: 22791
+  },
+  {
+    answer: '其他答案都可以',
+    indexes: 'zyjzjdydwpdjmcqzq',
+    question: '怎样将自己多余的物品道具卖出去赚钱?',
+    id: 22792
+  },
+  {
+    answer: '出去打怪',
+    indexes: 'btdrky',
+    question: '摆摊的人可以:',
+    id: 22793
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'btdtwydsg',
+    question: '摆摊的摊位有多少格?',
+    id: 22794
+  },
+  {
+    answer: '其他答案都是',
+    indexes: 'rgnzydzkssjsbdzjhcxsmxx',
+    question: '如果你在移动中快速双击鼠标的左键,会出现什么现象?',
+    id: 22795
+  },
+  {
+    answer: '出现命令选单',
+    indexes: 'rgzwjtxsdjsbyjhcxsmxx',
+    question: '如果在玩家头像上点击鼠标右键,会出现什么现象?',
+    id: 22796
+  },
+  {
+    answer: '对',
+    indexes: 'zycwndhyncnfxjjtdm',
+    question: '只有成为你的好友,你才能发信件给他,对吗?',
+    id: 22797
+  },
+  {
+    answer: '50',
+    indexes: 'ygjsdyxzdnrndsfyj',
+    question: '一个角色的邮箱最多能容纳多少封邮件?',
+    id: 22798
+  },
+  {
+    answer: '他使用了私人仓库道具',
+    indexes: 'wsmyxrdckbwdrld',
+    question: '为什么有些人的仓库比我的容量大?',
+    id: 22799
+  },
+  {
+    answer: '可以',
+    indexes: 'btcyxkyhdtyqdlytxm',
+    question: '不退出游戏,可以换到同一区的另一条线吗?',
+    id: 22800
+  },
+  {
+    answer: '可以',
+    indexes: 'rgwyjAjszwqtdjngjkym',
+    question: '如果我要将A键设置为其它的技能攻击,可以吗?',
+    id: 22801
+  },
+  {
+    answer: '你在系统设置了自动攻击',
+    indexes: 'wsmyshwdgdyxhwbajpwdkyjxdzgg',
+    question: '为什么有时候我打怪第一下后我不按键盘我都可以继续打这个怪?',
+    id: 22802
+  },
+  {
+    answer: '鸟山明',
+    indexes: 'yxnwsmhj',
+    question: '以下哪位是漫画家?',
+    id: 22803
+  },
+  {
+    answer: '手冢治虫',
+    indexes: 'yxnwsmhj',
+    question: '以下哪位是漫画家?',
+    id: 22804
+  },
+  {
+    answer: '宫崎骏',
+    indexes: 'yxnwsmhj',
+    question: '以下哪位是漫画家?',
+    id: 22805
+  },
+  {
+    answer: '越田哲弘',
+    indexes: 'yxnwsmhj',
+    question: '以下哪位是漫画家?',
+    id: 22806
+  },
+  {
+    answer: '岸本齐史',
+    indexes: 'yxnwsmhj',
+    question: '以下哪位是漫画家?',
+    id: 22807
+  },
+  {
+    answer: '尾田荣一郎',
+    indexes: 'yxnwsmhj',
+    question: '以下哪位是漫画家?',
+    id: 22808
+  },
+  {
+    answer: '东条英机',
+    indexes: 'yxsyrbezjjzfds',
+    question: '以下属于日本二战甲级战犯的是?',
+    id: 22809
+  },
+  {
+    answer: '樱木花道',
+    indexes: 'yxnwsmhglgszdrw',
+    question: '以下哪位是漫画《灌篮高手》中的人物?',
+    id: 22810
+  },
+  {
+    answer: '流川枫',
+    indexes: 'yxnwsmhglgszdrw',
+    question: '以下哪位是漫画《灌篮高手》中的人物?',
+    id: 22811
+  },
+  {
+    answer: '鸟山明',
+    indexes: 'yxnwsmhlzdzz',
+    question: '以下哪位是漫画《龙珠》的作者?',
+    id: 22812
+  },
+  {
+    answer: '藤子F不二雄',
+    indexes: 'yxnwsmhdlAmdzz',
+    question: '以下哪位是漫画《哆啦A梦》的作者?',
+    id: 22813
+  },
+  {
+    answer: '手冢治虫',
+    indexes: 'yxnwsmhtbatmdzz',
+    question: '以下哪位是漫画《铁臂阿童木》的作者?',
+    id: 22814
+  },
+  {
+    answer: '岸本齐史',
+    indexes: 'yxnwsmhhyrzdzz',
+    question: '以下哪位是漫画《火影忍者》的作者?',
+    id: 22815
+  },
+  {
+    answer: '青山刚昌',
+    indexes: 'yxnwsmhmztkndzz',
+    question: '以下哪位是漫画《名侦探柯南》的作者?',
+    id: 22816
+  },
+  {
+    answer: '罗贯中',
+    indexes: 'yxnwssgyydzz',
+    question: '以下哪位是《三国演义》的作者?',
+    id: 22817
+  },
+  {
+    answer: '施耐庵',
+    indexes: 'yxnwsshcdzz',
+    question: '以下哪位是《水浒传》的作者?',
+    id: 22818
+  },
+  {
+    answer: '曹雪芹',
+    indexes: 'yxnwshlmdzz',
+    question: '以下哪位是《红楼梦》的作者?',
+    id: 22819
+  },
+  {
+    answer: '吴承恩',
+    indexes: 'yxnwsxyjdzz',
+    question: '以下哪位是《西游记》的作者?',
+    id: 22820
+  },
+  {
+    answer: '58',
+    indexes: '562',
+    question: '56+2=?',
+    id: 22821
+  },
+  {
+    answer: '5',
+    indexes: '14',
+    question: '1+4=?',
+    id: 22822
+  },
+  {
+    answer: '40',
+    indexes: '346',
+    question: '34+6=?',
+    id: 22823
+  },
+  {
+    answer: '21',
+    indexes: '174',
+    question: '17+4=?',
+    id: 22824
+  },
+  {
+    answer: '23',
+    indexes: '176',
+    question: '17+6=?',
+    id: 22825
+  },
+  {
+    answer: '110',
+    indexes: '4565',
+    question: '45+65=?',
+    id: 22826
+  },
+  {
+    answer: '119',
+    indexes: '9623',
+    question: '96+23=?',
+    id: 22827
+  },
+  {
+    answer: '124',
+    indexes: '6262',
+    question: '62+62=?',
+    id: 22828
+  },
+  {
+    answer: '118',
+    indexes: '5959',
+    question: '59+59=?',
+    id: 22829
+  },
+  {
+    answer: '198',
+    indexes: '9999',
+    question: '99+99=?',
+    id: 22830
+  },
+  {
+    answer: '111',
+    indexes: '5259',
+    question: '52+59=?',
+    id: 22831
+  },
+  {
+    answer: '121',
+    indexes: '6259',
+    question: '62+59=?',
+    id: 22832
+  },
+  {
+    answer: '161',
+    indexes: '6299',
+    question: '62+99=?',
+    id: 22833
+  },
+  {
+    answer: '158',
+    indexes: '5999',
+    question: '59+99=?',
+    id: 22834
+  },
+  {
+    answer: '81',
+    indexes: '6219',
+    question: '62+19=?',
+    id: 22835
+  },
+  {
+    answer: '115',
+    indexes: '9916',
+    question: '99+16=?',
+    id: 22836
+  },
+  {
+    answer: '75',
+    indexes: '5916',
+    question: '59+16=?',
+    id: 22837
+  },
+  {
+    answer: '77',
+    indexes: '3443',
+    question: '34+43=?',
+    id: 22838
+  },
+  {
+    answer: '27',
+    indexes: '252',
+    question: '25+2=?',
+    id: 22839
+  },
+  {
+    answer: '92',
+    indexes: '6725',
+    question: '67+25=?',
+    id: 22840
+  },
+  {
+    answer: '69',
+    indexes: '672',
+    question: '67+2=?',
+    id: 22841
+  },
+  {
+    answer: '90',
+    indexes: '6228',
+    question: '62+28=?',
+    id: 22842
+  },
+  {
+    answer: '95',
+    indexes: '6728',
+    question: '67+28=?',
+    id: 22843
+  },
+  {
+    answer: '97',
+    indexes: '6730',
+    question: '67+30=?',
+    id: 22844
+  },
+  {
+    answer: '398',
+    indexes: '215183',
+    question: '215+183=?',
+    id: 22845
+  },
+  {
+    answer: '53',
+    indexes: '2528',
+    question: '25+28=?',
+    id: 22846
+  },
+  {
+    answer: '30',
+    indexes: '228',
+    question: '2+28=?',
+    id: 22847
+  },
+  {
+    answer: '32',
+    indexes: '230',
+    question: '2+30=?',
+    id: 22848
+  },
+  {
+    answer: '61',
+    indexes: '3031',
+    question: '30+31=?',
+    id: 22849
+  },
+  {
+    answer: '53',
+    indexes: '2528',
+    question: '25+28=?',
+    id: 22850
+  },
+  {
+    answer: '55',
+    indexes: '2530',
+    question: '25+30=?',
+    id: 22851
+  },
+  {
+    answer: '54',
+    indexes: '2430',
+    question: '24+30=?',
+    id: 22852
+  },
+  {
+    answer: '56',
+    indexes: '2531',
+    question: '25+31=?',
+    id: 22853
+  },
+  {
+    answer: '217',
+    indexes: '2152',
+    question: '215+2=?',
+    id: 22854
+  },
+  {
+    answer: '519',
+    indexes: '215304',
+    question: '215+304=?',
+    id: 22855
+  },
+  {
+    answer: '36',
+    indexes: '342',
+    question: '34+2=?',
+    id: 22856
+  },
+  {
+    answer: '41',
+    indexes: '347',
+    question: '34+7=?',
+    id: 22857
+  },
+  {
+    answer: '42',
+    indexes: '348',
+    question: '34+8=?',
+    id: 22858
+  },
+  {
+    answer: '39',
+    indexes: '345',
+    question: '34+5=?',
+    id: 22859
+  },
+  {
+    answer: '119',
+    indexes: '3485',
+    question: '34+85=?',
+    id: 22860
+  },
+  {
+    answer: '98',
+    indexes: '8513',
+    question: '85+13=?',
+    id: 22861
+  },
+  {
+    answer: '86',
+    indexes: '851',
+    question: '85+1=?',
+    id: 22862
+  },
+  {
+    answer: '87',
+    indexes: '852',
+    question: '85+2=?',
+    id: 22863
+  },
+  {
+    answer: '88',
+    indexes: '853',
+    question: '85+3=?',
+    id: 22864
+  },
+  {
+    answer: '89',
+    indexes: '863',
+    question: '86+3=?',
+    id: 22865
+  },
+  {
+    answer: '88',
+    indexes: '4939',
+    question: '49+39=?',
+    id: 22866
+  },
+  {
+    answer: '11',
+    indexes: '29',
+    question: '2+9=?',
+    id: 22867
+  },
+  {
+    answer: '王扶林',
+    indexes: '87bdsjhlmddys',
+    question: '87版电视剧《红楼梦》的导演是?',
+    id: 22868
+  },
+  {
+    answer: '王扶林',
+    indexes: '94bdsjsgyyddys',
+    question: '94版电视剧《三国演义》的导演是?',
+    id: 22869
+  },
+  {
+    answer: '日本',
+    indexes: 'xslsmjsdsygfsznggjdgs',
+    question: '小说《罗生门》讲述的是一个发生在哪个国家的故事?',
+    id: 22870
+  },
+  {
+    answer: '杨过',
+    indexes: 'xssdxldnzjss',
+    question: '小说《神雕侠侣》的男主角是谁?',
+    id: 22871
+  },
+  {
+    answer: '开元盛世',
+    indexes: 'yxnglssjbsfszhd',
+    question: '以下哪个历史事件不是发生在汉代?',
+    id: 22872
+  },
+  {
+    answer: '鸦片战争',
+    indexes: 'yxnglssjbsfsztd',
+    question: '以下哪个历史事件不是发生在唐代?',
+    id: 22873
+  },
+  {
+    answer: '安史之乱',
+    indexes: 'yxnglssjsfsztd',
+    question: '以下哪个历史事件是发生在唐代?',
+    id: 22874
+  },
+  {
+    answer: '洛阳',
+    indexes: 'xjdddzngcs',
+    question: '西晋的定都在哪个城市?',
+    id: 22875
+  },
+  {
+    answer: '建康',
+    indexes: 'djdddzngcs',
+    question: '东晋的定都在哪个城市?',
+    id: 22876
+  },
+  {
+    answer: '企鹅',
+    indexes: 'nzdwshznj',
+    question: '哪种动物生活在南极?',
+    id: 22877
+  },
+  {
+    answer: '宋江',
+    indexes: 'nwslshh',
+    question: '哪位是梁山好汉?',
+    id: 22878
+  },
+  {
+    answer: '佘太君',
+    indexes: 'nwsyjjzdrw',
+    question: '哪位是杨家将中的人物?',
+    id: 22879
+  },
+  {
+    answer: '茶馆',
+    indexes: 'nbxsslsdmz',
+    question: '哪部小说是老舍的名著?',
+    id: 22880
+  },
+  {
+    answer: '清明节',
+    indexes: 'ngjrszgctjr',
+    question: '哪个节日是中国传统节日?',
+    id: 22881
+  },
+  {
+    answer: '意大利',
+    indexes: 'nggjcyoz',
+    question: '哪个国家处于欧洲?',
+    id: 22882
+  },
+  {
+    answer: '日本',
+    indexes: 'nggjcyyz',
+    question: '哪个国家处于亚洲?',
+    id: 22883
+  },
+  {
+    answer: '阿根廷',
+    indexes: 'nggjcynmz',
+    question: '哪个国家处于南美洲?',
+    id: 22884
+  },
+  {
+    answer: '墨西哥',
+    indexes: 'nggjcybmz',
+    question: '哪个国家处于北美洲?',
+    id: 22885
+  },
+  {
+    answer: '喀麦隆',
+    indexes: 'nggjcfz',
+    question: '哪个国家处非洲?',
+    id: 22886
+  },
+  {
+    answer: '7元',
+    indexes: 'rmbdmzmynyx',
+    question: '人民币的面值没有哪一项?',
+    id: 22887
+  },
+  {
+    answer: '200元',
+    indexes: 'rmbdmzmynyx',
+    question: '人民币的面值没有哪一项?',
+    id: 22888
+  },
+  {
+    answer: '梵蒂冈',
+    indexes: 'sjszxdgjs',
+    question: '世界上最小的国家是?',
+    id: 22889
+  },
+  {
+    answer: '天坛',
+    indexes: 'ngsbjgjz',
+    question: '哪个是北京古建筑?',
+    id: 22890
+  },
+  {
+    answer: '潘帕斯高原',
+    indexes: 'nggywynmz',
+    question: '哪个高原位于南美洲?',
+    id: 22891
+  },
+  {
+    answer: '南非高原',
+    indexes: 'nggywyfz',
+    question: '哪个高原位于非洲?',
+    id: 22892
+  },
+  {
+    answer: '内蒙古',
+    indexes: 'ngsszgzzqzy',
+    question: '哪个省是中国自治区之一?',
+    id: 22893
+  },
+  {
+    answer: '闪米特族',
+    indexes: 'nygbszgdssmz',
+    question: '哪一个不是中国的少数民族?',
+    id: 22894
+  },
+  {
+    answer: '日尔曼',
+    indexes: 'nygbszgdssmz',
+    question: '哪一个不是中国的少数民族?',
+    id: 22895
+  },
+  {
+    answer: '盎格鲁-撒克逊族',
+    indexes: 'nygbszgdssmz',
+    question: '哪一个不是中国的少数民族?',
+    id: 22896
+  },
+  {
+    answer: '凯尔特族',
+    indexes: 'nygbszgdssmz',
+    question: '哪一个不是中国的少数民族?',
+    id: 22897
+  },
+  {
+    answer: '和族',
+    indexes: 'nygbszgdssmz',
+    question: '哪一个不是中国的少数民族?',
+    id: 22898
+  },
+  {
+    answer: '地道战',
+    indexes: 'nybsygkrzzdrwgshyp',
+    question: '哪一部是有关抗日战争的人物故事或影片?',
+    id: 22899
+  },
+  {
+    answer: '溥仪',
+    indexes: 'yxnwsqchd',
+    question: '以下哪位是清朝皇帝?',
+    id: 22900
+  },
+  {
+    answer: '朱由检',
+    indexes: 'xlnwsmchd',
+    question: '下列哪位是明朝皇帝?',
+    id: 22901
+  },
+  {
+    answer: '日本',
+    indexes: 'xlnggjcjgbgljhsymy',
+    question: '下列哪个国家参加过八国联军,火烧圆明园?',
+    id: 22902
+  },
+  {
+    answer: '众',
+    indexes: 'ngzsypzxjgd',
+    question: '哪个字属于品字形结构的?',
+    id: 22903
+  },
+  {
+    answer: '莎',
+    indexes: 'ngzsysxxjgd',
+    question: '哪个字属于上下形结构的?',
+    id: 22904
+  },
+  {
+    answer: '惫',
+    indexes: 'ngzsyszxxjgd',
+    question: '哪个字属于上中下形结构的?',
+    id: 22905
+  },
+  {
+    answer: '环',
+    indexes: 'ngzsyzyxjgd',
+    question: '哪个字属于左右形结构的?',
+    id: 22906
+  },
+  {
+    answer: '辩',
+    indexes: 'ngzsyzzyxjgd',
+    question: '哪个字属于左中右形结构的?',
+    id: 22907
+  },
+  {
+    answer: '国',
+    indexes: 'ngzsyqbwxjgd',
+    question: '哪个字属于全包围形结构的?',
+    id: 22908
+  },
+  {
+    answer: '臣',
+    indexes: 'ngzsybbwxjgd',
+    question: '哪个字属于半包围形结构的?',
+    id: 22909
+  },
+  {
+    answer: '冲',
+    indexes: 'ngsyppbssbd',
+    question: '哪个属于偏旁部首是冫的?',
+    id: 22910
+  },
+  {
+    answer: '游',
+    indexes: 'ngsyppbsssd',
+    question: '哪个属于偏旁部首是氵的?',
+    id: 22911
+  },
+  {
+    answer: '诠',
+    indexes: 'ngsyppbssyd',
+    question: '哪个属于偏旁部首是讠的?',
+    id: 22912
+  },
+  {
+    answer: '钊',
+    indexes: 'ngsyppbssdd',
+    question: '哪个属于偏旁部首是刂的?',
+    id: 22913
+  },
+  {
+    answer: '幂',
+    indexes: 'ngsyppbssmd',
+    question: '哪个属于偏旁部首是冖的?',
+    id: 22914
+  },
+  {
+    answer: '蜜',
+    indexes: 'ngsyppbssm',
+    question: '哪个属于偏旁部首是宀?',
+    id: 22915
+  },
+  {
+    answer: '5',
+    indexes: 'yzyjbh',
+    question: '“玉”字有几笔画?',
+    id: 22916
+  },
+  {
+    answer: '8',
+    indexes: 'yzyjbh',
+    question: '“岩”字有几笔画?',
+    id: 22917
+  },
+  {
+    answer: '4',
+    indexes: 'zzyjbh',
+    question: '“中”字有几笔画?',
+    id: 22918
+  },
+  {
+    answer: '8',
+    indexes: 'xzyjbh',
+    question: '“学”字有几笔画?',
+    id: 22919
+  },
+  {
+    answer: '2',
+    indexes: 'qzyjbh',
+    question: '“七”字有几笔画?',
+    id: 22920
+  },
+  {
+    answer: '侯',
+    indexes: 'ngsyppbssrd',
+    question: '哪个属于偏旁部首是亻的?',
+    id: 22921
+  },
+  {
+    answer: '6',
+    indexes: 'zzyjbh',
+    question: '“朱”字有几笔画?',
+    id: 22922
+  },
+  {
+    answer: '7',
+    indexes: 'lzyjbh',
+    question: '“丽”字有几笔画?',
+    id: 22923
+  },
+  {
+    answer: '10',
+    indexes: 'szyjbh',
+    question: '“莎”字有几笔画?',
+    id: 22924
+  },
+  {
+    answer: '5',
+    indexes: 'yzyjbh',
+    question: '“由”字有几笔画?',
+    id: 22925
+  },
+  {
+    answer: '11',
+    indexes: 'jzyjbh',
+    question: '“检”字有几笔画?',
+    id: 22926
+  },
+  {
+    answer: '鲁智深',
+    indexes: 'yxngbssgyyzcxgdrw',
+    question: '以下哪个不是《三国演义》中出现过的人物?',
+    id: 22927
+  },
+  {
+    answer: '武松',
+    indexes: 'yxngbssgyyzcxgdrw',
+    question: '以下哪个不是《三国演义》中出现过的人物?',
+    id: 22928
+  },
+  {
+    answer: '黄巢',
+    indexes: 'yxngbssgyyzcxgdrw',
+    question: '以下哪个不是《三国演义》中出现过的人物?',
+    id: 22929
+  },
+  {
+    answer: '程颢',
+    indexes: 'yxngbssgyyzcxgdrw',
+    question: '以下哪个不是《三国演义》中出现过的人物?',
+    id: 22930
+  },
+  {
+    answer: '玉音放送',
+    indexes: 'yxngsfszdecsjdzzdsj',
+    question: '以下哪个是发生在第二次世界大战中的事件?',
+    id: 22931
+  },
+  {
+    answer: '诺曼底登陆',
+    indexes: 'yxngsfszdecsjdzzdsj',
+    question: '以下哪个是发生在第二次世界大战中的事件?',
+    id: 22932
+  },
+  {
+    answer: '柳永',
+    indexes: 'yxngbshchd',
+    question: '以下哪个不是汉朝皇帝?',
+    id: 22934
+  },
+  {
+    answer: '朱熹',
+    indexes: 'yxngbsmchd',
+    question: '以下哪个不是明朝皇帝?',
+    id: 22935
+  },
+  {
+    answer: '孙中山',
+    indexes: 'yxnwtdlzgzcjjgmdfz',
+    question: '以下哪位推动了中国资产阶级革命的发展?',
+    id: 22936
+  },
+  {
+    answer: '蔡元培',
+    indexes: 'yxnwtcljrbbddxjysx',
+    question: '以下哪位提出了“兼容并包”的大学教育思想?',
+    id: 22937
+  },
+  {
+    answer: '王国维',
+    indexes: 'rjchsxmnwdsdzp',
+    question: '《人间词话》是下面哪位大师的作品?',
+    id: 22938
+  },
+  {
+    answer: '青海',
+    indexes: 'qhhzwgngsjn',
+    question: '青海湖在我国哪个省境内?',
+    id: 22939
+  },
+  {
+    answer: '湖北',
+    indexes: 'qhzssdwgngsdbc',
+    question: '“千湖之省”是对我国哪个省的别称?',
+    id: 22940
+  },
+  {
+    answer: '川',
+    indexes: 'scsjdccpdkthzs',
+    question: '四川省机动车车牌的开头汉字是?',
+    id: 22941
+  },
+  {
+    answer: '鄂',
+    indexes: 'hbsjdccpdkthzs',
+    question: '湖北省机动车车牌的开头汉字是?',
+    id: 22942
+  },
+  {
+    answer: '鲁',
+    indexes: 'sdsjdccpdkthzs',
+    question: '山东省机动车车牌的开头汉字是?',
+    id: 22943
+  },
+  {
+    answer: '帝辛',
+    indexes: 'yxnwbszcdjw',
+    question: '以下哪位不是周朝的君王?',
+    id: 22944
+  },
+  {
+    answer: '卫庄公',
+    indexes: 'yzsjyxnwjzbscqwb',
+    question: '依照《史记》,以下哪位君主不是春秋五霸?',
+    id: 22945
+  },
+  {
+    answer: '卫',
+    indexes: 'yxnggjbszgqx',
+    question: '以下哪个国家不是战国七雄?',
+    id: 22946
+  },
+  {
+    answer: '宋',
+    indexes: 'yxnggjbszgqx',
+    question: '以下哪个国家不是战国七雄?',
+    id: 22947
+  },
+  {
+    answer: '吴',
+    indexes: 'yxnggjbszgqx',
+    question: '以下哪个国家不是战国七雄?',
+    id: 22948
+  },
+  {
+    answer: '《念奴娇·赤壁怀古》',
+    indexes: 'djdqltjqgflrwsczyxngzpldmj',
+    question: '“大江东去,浪淘尽,千古风流人物”是出自以下哪个作品里的名句?',
+    id: 22949
+  },
+  {
+    answer: '苏轼',
+    indexes: 'djdqltjqgflrwsczyxnwwhbx',
+    question: '“大江东去,浪淘尽,千古风流人物”是出自以下哪位文豪笔下?',
+    id: 22950
+  },
+  {
+    answer: '《赤壁》',
+    indexes: 'zjcstwxczyxyxngzp',
+    question: '“折戟沉沙铁未销”出自以下以下哪个作品?',
+    id: 22951
+  },
+  {
+    answer: '杜牧',
+    indexes: 'zjcstwxczyxyxnwwhdzp',
+    question: '“折戟沉沙铁未销”出自以下以下哪位文豪的作品??',
+    id: 22952
+  },
+  {
+    answer: '徐向前',
+    indexes: 'qzcxlnywsxzgsqdsdys',
+    question: '请指出下列哪一位是新中国时期的十大元帅?',
+    id: 22953
+  },
+  {
+    answer: '夷陵之战',
+    indexes: 'qzcxlnycswggddzy',
+    question: '请指出下列哪一场是我国古代的战役?',
+    id: 22954
+  },
+  {
+    answer: '米芾',
+    indexes: 'qzcxlnywswggddhj',
+    question: '请指出下列哪一位是我国古代的画家?',
+    id: 22955
+  },
+  {
+    answer: '杜甫',
+    indexes: 'qzcxlnywswggddsr',
+    question: '请指出下列哪一位是我国古代的诗人?',
+    id: 22956
+  },
+  {
+    answer: '贾谊',
+    indexes: 'qzcxlnywswggddwc',
+    question: '请指出下列哪一位是我国古代的文臣?',
+    id: 22957
+  },
+  {
+    answer: '札幌',
+    indexes: 'qzcxmnyzsrbdcs',
+    question: '请指出下面哪一座是日本的城市?',
+    id: 22958
+  },
+  {
+    answer: '华盛顿哥伦比亚特区',
+    indexes: 'qzcyxngsmgsd',
+    question: '清指出以下哪个是美国首都?',
+    id: 22959
+  },
+  {
+    answer: '曼谷',
+    indexes: 'qzcyxngstgcs',
+    question: '清指出以下哪个是泰国城市?',
+    id: 22960
+  },
+  {
+    answer: '清迈',
+    indexes: 'qzcyxngstgcs',
+    question: '清指出以下哪个是泰国城市?',
+    id: 22961
+  },
+  {
+    answer: '三国演义',
+    indexes: 'ytyhjsjyzhjyxslgsxmnggdxszddyh',
+    question: '“宴桃园豪杰三结义,斩黄巾英雄首立功”是下面哪个古典小说中的第一回?',
+    id: 22962
+  },
+  {
+    answer: '姚明',
+    indexes: 'yxnwzgydycxlmgzylmzdxsdhjd',
+    question: '以下哪位中国运动员曾效力美国职业联盟中的休斯顿火箭队?',
+    id: 22963
+  },
+  {
+    answer: '于禁',
+    indexes: 'xmnwzsyqjdgszbgyfh',
+    question: '下面哪位在“水淹七军”的故事中被关羽俘获?',
+    id: 22964
+  },
+  {
+    answer: '曹操',
+    indexes: 'yryhsjdssyxysdzdgs',
+    question: '一人一盒酥讲的是谁杨修与谁斗智的故事',
+    id: 22965
+  },
+  {
+    answer: '晋',
+    indexes: 'sgsdjshswglssdngcd',
+    question: '三国时代结束后是我国历史上的哪个朝代?',
+    id: 22966
+  },
+  {
+    answer: '诸葛亮',
+    indexes: 'csbssszjlsd',
+    question: '《出师表》是谁上奏给刘禅的?',
+    id: 22967
+  },
+  {
+    answer: '刘禅',
+    indexes: 'csbsszglszjsd',
+    question: '《出师表》是谁诸葛亮上奏给谁的?',
+    id: 22968
+  },
+  {
+    answer: '董卓',
+    indexes: 'lbwldcsls',
+    question: '吕布为了貂蝉杀了谁?',
+    id: 22969
+  },
+  {
+    answer: '杨慎',
+    indexes: 'sgyypscssxd',
+    question: '《三国演义》篇首词是谁写的?',
+    id: 22970
+  },
+  {
+    answer: '杜甫',
+    indexes: 'sjcswjsxszsyxlmjcznwsrbx',
+    question: '诗句“出师未捷身先死,长使英雄泪满襟”出自哪位诗人笔下?',
+    id: 22971
+  },
+  {
+    answer: '杜甫',
+    indexes: 'sgbztczyxnwsrzs',
+    question: '诗歌《八阵图》出自以下哪位诗人之手?',
+    id: 22972
+  },
+  {
+    answer: '何处望神州,满眼风光北固楼?',
+    indexes: 'xqjnxzdjkbgtyhsqdyjs',
+    question: '辛弃疾《南乡子·登京口北固亭有怀》上阙第一句是?',
+    id: 22973
+  },
+  {
+    answer: '马良',
+    indexes: 'mjwcbmzlzbmzds',
+    question: '“马家五常,白眉最良”中“白毛”指的是?',
+    id: 22974
+  },
+  {
+    answer: '街亭',
+    indexes: 'zgldycbfzmssslnzcczssjbdbthsz',
+    question: '诸葛亮第一次北伐中马谡失守了那座城池致使蜀军不得不退回蜀中?',
+    id: 22975
+  },
+  {
+    answer: '孙策',
+    indexes: 'dqssdlp',
+    question: '大乔是谁的老婆?',
+    id: 22976
+  },
+  {
+    answer: '周瑜',
+    indexes: 'xqssdlp',
+    question: '小乔是谁的老婆?',
+    id: 22977
+  },
+  {
+    answer: '刘翔',
+    indexes: 'xmnwydyddlyzrzayhsddymdpjp',
+    question: '下面哪位运动员夺得了亚洲人在奥运会上的第一枚短跑金牌?',
+    id: 22978
+  },
+  {
+    answer: '亨利',
+    indexes: 'xmnwfgydybzgqmcwdd',
+    question: '下面哪位法国运动员被中国球迷称为“大帝”?',
+    id: 22979
+  },
+  {
+    answer: '阿森纳',
+    indexes: 'xmnzqddyyfywaxn',
+    question: '下面哪支球队的粤语翻译为“阿仙奴”?',
+    id: 22980
+  },
+  {
+    answer: '切尔西',
+    indexes: 'xmnzqddyyfywcls',
+    question: '下面哪支球队的粤语翻译为“车路士”?',
+    id: 22981
+  },
+  {
+    answer: '云长',
+    indexes: 'hdjlrgyzsm',
+    question: '河东解良人,关羽字什么?',
+    id: 22982
+  },
+  {
+    answer: '翼德',
+    indexes: 'yzzjrzfzsm',
+    question: '幽州涿郡人,张飞字什么?',
+    id: 22983
+  },
+  {
+    answer: '文远',
+    indexes: 'ymmyrzlzsm',
+    question: '雁门马邑人,张辽字什么?',
+    id: 22984
+  },
+  {
+    answer: '公孙瓒',
+    indexes: 'lbsscysgtqxylz',
+    question: '刘备少时曾与谁共同求学于卢植?',
+    id: 22985
+  },
+  {
+    answer: '杭州',
+    indexes: 'sgsqdhjjbkyxngdf',
+    question: '三国时期的会稽郡包括以下哪个地方?',
+    id: 22986
+  },
+  {
+    answer: '苏州',
+    indexes: 'sgsqdwjbkyxngdf',
+    question: '三国时期的吴郡包括以下哪个地方?',
+    id: 22987
+  },
+  {
+    answer: '武汉',
+    indexes: 'sgsqdjzbkyxngdf',
+    question: '三国时期的荆州包括以下哪个地方?',
+    id: 22988
+  },
+  {
+    answer: '南郡',
+    indexes: 'sgsqdjzbkyxngdf',
+    question: '三国时期的荆州包括以下哪个地方?',
+    id: 22989
+  },
+  {
+    answer: '成都府',
+    indexes: 'sgsqdyzbkyxngdf',
+    question: '三国时期的益州包括以下哪个地方?',
+    id: 22990
+  },
+  {
+    answer: '台湾',
+    indexes: 'sgsqdyzzdsyxngdf',
+    question: '三国时期的夷洲指的是以下哪个地方?',
+    id: 22991
+  },
+  {
+    answer: '云南',
+    indexes: 'zmlyjddcszwgngsjn',
+    question: '著名旅游景点滇池是在我国哪个省境内?',
+    id: 22992
+  },
+  {
+    answer: '广西',
+    indexes: 'glszwgngsjn',
+    question: '桂林市在我国哪个省境内?',
+    id: 22993
+  },
+  {
+    answer: '鲜卑族',
+    indexes: 'whlhbkxmngssmz',
+    question: '“五胡乱华”包括下面哪个少数民族?',
+    id: 22994
+  },
+  {
+    answer: '羯族',
+    indexes: 'whlhbkxmngssmz',
+    question: '“五胡乱华”包括下面哪个少数民族?',
+    id: 22995
+  },
+  {
+    answer: '羌族',
+    indexes: 'whlhbkxmngssmz',
+    question: '“五胡乱华”包括下面哪个少数民族?',
+    id: 22996
+  },
+  {
+    answer: '匈奴族',
+    indexes: 'whlhbkxmngssmz',
+    question: '“五胡乱华”包括下面哪个少数民族?',
+    id: 22997
+  },
+  {
+    answer: '氐族',
+    indexes: 'whlhbkxmngssmz',
+    question: '“五胡乱华”包括下面哪个少数民族?',
+    id: 22998
+  },
+  {
+    answer: '永嘉至乱',
+    indexes: 'yxngswhlhdbc',
+    question: '以下哪个是“五胡乱华”的别称?',
+    id: 22999
+  },
+  {
+    answer: '安禄山',
+    indexes: 'aszlzdazds',
+    question: '“安史之乱”中的“安”指的是?',
+    id: 23000
+  },
+  {
+    answer: '文成公主',
+    indexes: 'xzbdlgsszgbwyqnwgzxjd',
+    question: '西藏布达拉宫是松赞干布为迎娶哪位公主修建的?',
+    id: 23001
+  },
+  {
+    answer: '福建',
+    indexes: 'tgycycywgngsf',
+    question: '“铁观音”茶原产于我国哪个省份?',
+    id: 23002
+  },
+  {
+    answer: '人类的一大步',
+    indexes: 'mgamstldyhsdgrdyxbdxyjssm',
+    question: '美国阿姆斯特朗登月后说的“个人的一小步”的下一句是什么?',
+    id: 23003
+  },
+  {
+    answer: '王重阳',
+    indexes: 'xssdyxcdychsljdslzss',
+    question: '小说《射雕英雄传》第一次华山论剑的胜利者是谁?',
+    id: 23004
+  },
+  {
+    answer: '拿破仑',
+    indexes: 'fgblkxmswljnsejd',
+    question: '法国巴黎凯旋门是为了纪念谁而建的?',
+    id: 23005
+  },
+  {
+    answer: '香港',
+    indexes: 'gcdfzzwdarzddfzzzdsngcs',
+    question: '歌词“东方之珠,我的爱人”中的“东方之珠”指的是哪个城市?',
+    id: 23006
+  },
+  {
+    answer: '辽沈战役',
+    indexes: 'jfzzzdsdzydygdxdzys',
+    question: '解放战争中的“三大战役”第一个打响的战役是?',
+    id: 23007
+  },
+  {
+    answer: '紫荆花',
+    indexes: 'xgtbxzqdqhssm',
+    question: '香港特别行政区的区花是什么?',
+    id: 23008
+  },
+  {
+    answer: '未央宫',
+    indexes: 'xmnyzshcgd',
+    question: '下面哪一座是汉朝宫殿?',
+    id: 23009
+  },
+  {
+    answer: '长乐宫',
+    indexes: 'xmnyzshcgd',
+    question: '下面哪一座是汉朝宫殿?',
+    id: 23010
+  },
+  {
+    answer: '建章宫',
+    indexes: 'xmnyzshcgd',
+    question: '下面哪一座是汉朝宫殿?',
+    id: 23011
+  },
+  {
+    answer: '欧阳佩珊',
+    indexes: '83bsdxlssbydhr',
+    question: '83版《神雕侠侣》是谁扮演的黄蓉?',
+    id: 23012
+  },
+  {
+    answer: '二氧化碳',
+    indexes: 'gbsnzwtdgtczxs',
+    question: '“干冰”是哪种物体的固态存在形式?',
+    id: 23013
+  },
+  {
+    answer: '韩寒',
+    indexes: 'xmnwzjzdyjxgnzwdszhdydjbcwlymzyscs',
+    question: '下面哪位作家在第一届《新概念》作文大赛中获得一等奖,并成为了一名职业赛车手?',
+    id: 23014
+  },
+  {
+    answer: '威震天',
+    indexes: 'dybxjgzyqtzzddfpsljsm',
+    question: '电影《变形金刚》中,与擎天柱作对的反派首领叫什么?',
+    id: 23015
+  },
+  {
+    answer: '纽伦堡',
+    indexes: 'ezghspfxsddgftznygcs',
+    question: '二战过后,审判法西斯的德国法庭在哪一个城市?',
+    id: 23016
+  },
+  {
+    answer: '汤姆·汉克斯',
+    indexes: 'mgaskjlsszyyrlxljhdzjnyyjzgrss',
+    question: '美国奥斯卡奖历史上只有一人连续两届获得最佳男演员奖,这个人是谁?',
+    id: 23017
+  },
+  {
+    answer: '卢浮宫',
+    indexes: 'szyyhmnlsdzgzpdfgbwgsnyz',
+    question: '收藏有油画《蒙娜丽莎》等珍贵作品的法国博物馆是哪一座?',
+    id: 23018
+  },
+  {
+    answer: '郑板桥',
+    indexes: 'qcbcwyzbgdbgrzyhzzwmdsnyw',
+    question: '清朝被称为“扬州八怪”的八个人中以画竹子闻名的是哪一位?',
+    id: 23019
+  },
+  {
+    answer: '黄山',
+    indexes: 'yksswgngzmfjqdbzxjd',
+    question: '迎客松是我国那个著名风景区的标志性景点?',
+    id: 23020
+  },
+  {
+    answer: 'P-40',
+    indexes: 'yxnzezzdjcdgmzbmj',
+    question: '以下哪种二战战斗机曾大规模装备美军?',
+    id: 23021
+  },
+  {
+    answer: 'Me-262',
+    indexes: 'yxnzezzdjcdgmzbdj',
+    question: '以下哪种二战战斗机曾大规模装备德军?',
+    id: 23022
+  },
+  {
+    answer: 'T34',
+    indexes: 'yxnzeztkcdgmzbsj',
+    question: '以下哪种二战坦克曾大规模装备苏军?',
+    id: 23023
+  },
+  {
+    answer: '“虎”式',
+    indexes: 'yxnzeztkccjzzbdj',
+    question: '以下哪种二战坦克曾成建制装备德军?',
+    id: 23024
+  },
+  {
+    answer: '谢尔曼M系坦克',
+    indexes: 'yxnzeztkcdgmzbmj',
+    question: '以下哪种二战坦克曾大规模装备美军?',
+    id: 23025
+  },
+  {
+    answer: 'KV-1',
+    indexes: 'yxnzeztkccjzzbsj',
+    question: '以下哪种二战坦克曾成建制装备苏军?',
+    id: 23026
+  },
+  {
+    answer: '盐水',
+    indexes: 'cbldshrmybhysmspyheljsmmctg',
+    question: '吃菠萝的时候人们一般会用什么水泡一会儿来减少麻木刺痛感?',
+    id: 23027
+  },
+  {
+    answer: '广寒宫',
+    indexes: 'zgshdzcezylszdxgjsm',
+    question: '中国神话当中,嫦娥在月亮上住的行宫叫什么?',
+    id: 23028
+  },
+  {
+    answer: '刘胜',
+    indexes: 'lbzcshzsjwzhnxhdyrzsjws',
+    question: '刘备自称是汉中山靖王之后,那西汉第一任中山靖王是?',
+    id: 23029
+  },
+  {
+    answer: '流沙河',
+    indexes: 'wcexsxyjdztsznthslshsztd',
+    question: '吴承恩小说《西游记》当中,唐僧在哪条河收了沙和尚做徒弟?',
+    id: 23030
+  },
+  {
+    answer: '207年',
+    indexes: 'lbsgmlqdzgljrdclzddzlfzdgszgydsn',
+    question: '刘备三顾茅庐请得诸葛亮加入,得出隆中对的战略方针,大概是在公元多少年',
+    id: 23031
+  },
+  {
+    answer: '郎平',
+    indexes: 'ytltycdqzgpqnydyss',
+    question: '有“铁榔头”一称的前中国排球女运动员是谁?',
+    id: 23032
+  },
+  {
+    answer: '公孙康',
+    indexes: 'jdsrjsccrysyshptzsywzl',
+    question: '借刀杀人计是曹操让袁氏与谁火拼,他坐收渔翁之利',
+    id: 23033
+  },
+  {
+    answer: '春天的故事',
+    indexes: 'yyglrzzgdnhbhlygqsnsgdgc',
+    question: '“有一个老人在中国的南海边画了一个圈”是哪首歌的歌词?',
+    id: 23034
+  },
+  {
+    answer: '元朝',
+    indexes: 'mkblszngcdldzgd',
+    question: '马可波罗是在哪个朝代来到中国的?',
+    id: 23035
+  },
+  {
+    answer: '华佗',
+    indexes: 'cswgygglsdsnywmy',
+    question: '传说为关羽“刮骨疗伤”的是哪一位名医?',
+    id: 23036
+  },
+  {
+    answer: '肖邦',
+    indexes: 'sjsygqsrzcdblgqjsnyw',
+    question: '世界上有“钢琴诗人”之称的波澜钢琴家是哪一位?',
+    id: 23037
+  },
+  {
+    answer: '法国',
+    indexes: 'msqsnywgjdgg',
+    question: '《马赛曲》是哪一位国家的国歌?',
+    id: 23038
+  },
+  {
+    answer: '父亲',
+    indexes: 'gdhzdldszpthzdnzcw',
+    question: '广东话中的“老豆”是指普通话中的哪种称谓?',
+    id: 23039
+  },
+  {
+    answer: '南瓜',
+    indexes: 'glthhgnzhgncjwhsszdcsynzzwbcd',
+    question: '格林童话《灰姑娘》中,灰姑娘参加舞会时所做的车是由哪种植物变成的?',
+    id: 23040
+  },
+  {
+    answer: '重阳节',
+    indexes: 'yzxddgcbczysyrmsdssmjr',
+    question: '“遥知兄弟登高处,遍插茱萸少一人”,描述的是什么节日?',
+    id: 23041
+  },
+  {
+    answer: '巴黎',
+    indexes: 'zmdafettsngcsdbzxjd',
+    question: '著名的“埃菲尔铁塔”是哪个城市的标志性景点?',
+    id: 23042
+  },
+  {
+    answer: '庞德',
+    indexes: 'yxnwsgrwsycwzy',
+    question: '以下哪位三国人物属于曹魏阵营?',
+    id: 23043
+  },
+  {
+    answer: '美国',
+    indexes: 'dsndzbsznggj',
+    question: '“迪斯尼”的总部设在哪个国家?',
+    id: 23044
+  },
+  {
+    answer: '玛丽莲梦露',
+    indexes: '50ndybfcqqzwbzhbsjdmgxgnsss',
+    question: '50年代以被风吹起裙子为标志,红遍世界的美国性感女神是谁?',
+    id: 23045
+  },
+  {
+    answer: '小麦',
+    indexes: 'nzpjdzyylssmls',
+    question: '酿造啤酒的主要原料是什么粮食?',
+    id: 23046
+  },
+  {
+    answer: '海伦',
+    indexes: 'zmdtlyzzcsqyssfwlzdygmnqwzwmnjsm',
+    question: '著名的“特洛伊之战”传说起因是双方为了争夺一个美女,请问这位美女叫什么?',
+    id: 23047
+  },
+  {
+    answer: '秦桧',
+    indexes: 'ymxyzmdhlmjyfdjcss',
+    question: '以“莫须有”罪名毒害了名将岳飞的奸臣是谁?',
+    id: 23048
+  },
+  {
+    answer: '女娲',
+    indexes: 'zgshcszsnwsywsstbdt',
+    question: '中国神话传说中是哪位神用五色石头补的天?',
+    id: 23049
+  },
+  {
+    answer: '昆明',
+    indexes: 'ywsjrcebcwccdswgngcs',
+    question: '因为四季如春而被称为“春城”的是我国哪个城市?',
+    id: 23050
+  },
+  {
+    answer: '《断背山》',
+    indexes: 'xmnbdysyladyd',
+    question: '下面那部电影是由李安导演的?',
+    id: 23051
+  },
+  {
+    answer: '12',
+    indexes: 'wmcsdydpjszdsppj',
+    question: '我们常说的“一打”啤酒是指多少瓶啤酒?',
+    id: 23052
+  },
+  {
+    answer: '南京',
+    indexes: 'wgdyzwqyzgzxsjhsgdzjdqjyngcs',
+    question: '我国第一座完全由中国自行设计和施工的长江大桥建于哪个城市?',
+    id: 23053
+  },
+  {
+    answer: '云吞',
+    indexes: 'gdrjctxchtcwsm',
+    question: '广东人将传统小吃“馄饨”称为什么?',
+    id: 23054
+  },
+  {
+    answer: '老鼠',
+    indexes: 'zsesxzplsxdydssmdw',
+    question: '在十二生肖中排列顺序第一的是什么动物?',
+    id: 23055
+  },
+  {
+    answer: '《英雄儿女》',
+    indexes: 'jdtcxwkpczzgnybldy',
+    question: '经典台词“向我开炮!”出自中国哪一部老电影?',
+    id: 23056
+  },
+  {
+    answer: '貂蝉',
+    indexes: 'xcsdzlbfmccdgdmnss',
+    question: '相传使董卓、吕布反目成仇的古代美女是谁?',
+    id: 23057
+  },
+  {
+    answer: '蜀汉',
+    indexes: 'sgsqycdwzxjldzqssmzq',
+    question: '三国时期,以成都为中心建立的政权是什么政权?',
+    id: 23058
+  },
+  {
+    answer: '林则徐',
+    indexes: 'qcdgnjzhmxjypdmzyxss',
+    question: '清朝道光年间,在虎门销禁鸦片的民族英雄是谁?',
+    id: 23059
+  },
+  {
+    answer: '黑龙江',
+    indexes: 'rmcsdbshszdhsszdbdntjh',
+    question: '人们常说的“白山黑水”中的“黑水”是指东北的哪条江河?',
+    id: 23060
+  },
+  {
+    answer: '长白山',
+    indexes: 'rmcsdbshszdbsszdbdntsm',
+    question: '人们常说的“白山黑水”中的“白山”是指东北的哪条山脉?',
+    id: 23061
+  },
+  {
+    answer: '撒哈拉沙漠',
+    indexes: 'sjszddsmjsmmz',
+    question: '世界上最大的沙漠叫什么名字?',
+    id: 23062
+  },
+  {
+    answer: '孔子',
+    indexes: 'jsbywsyrszgnwsrtcd',
+    question: '“己所不欲勿施于人”是中国哪位圣人提出的?',
+    id: 23063
+  },
+  {
+    answer: '李自成',
+    indexes: 'lcwszmmnwnmqylx',
+    question: '李闯王是指明末哪位农民起义领袖?',
+    id: 23064
+  },
+  {
+    answer: '李靖',
+    indexes: 'fsyyznzdfqttltwmjsm',
+    question: '《封神演义》中,哪吒的父亲托塔李天王名叫什么?',
+    id: 23065
+  },
+  {
+    answer: '赵云',
+    indexes: 'lygessgcbbkxmnw',
+    question: '凌烟阁二十四功臣不包括下面哪位?',
+    id: 23066
+  },
+  {
+    answer: '张飞',
+    indexes: 'lygessgcbbkxmnw',
+    question: '凌烟阁二十四功臣不包括下面哪位?',
+    id: 23067
+  },
+  {
+    answer: '司马懿',
+    indexes: 'lygessgcbbkxmnw',
+    question: '凌烟阁二十四功臣不包括下面哪位?',
+    id: 23068
+  },
+  {
+    answer: '曹操',
+    indexes: 'lygessgcbbkxmnw',
+    question: '凌烟阁二十四功臣不包括下面哪位?',
+    id: 23069
+  },
+  {
+    answer: '雷峰塔',
+    indexes: 'dsjxbnzcqzbszbyzsmtz',
+    question: '电视剧《新白娘子传奇》中,白素贞被压在什么塔中?',
+    id: 23070
+  },
+  {
+    answer: '萨尔浒之战',
+    indexes: 'mmldgszsyydyzs',
+    question: '明末辽东攻守之势异也的一战是?',
+    id: 23071
+  },
+  {
+    answer: '金庸',
+    indexes: 'fxltsblxssxybysnwzjd14bzzjc',
+    question: '“飞雪连天射白鹿,笑书神侠倚碧鸳”是哪位作家的14部著作简称?',
+    id: 23072
+  },
+  {
+    answer: '羊城',
+    indexes: 'yxngsgzdbc',
+    question: '以下哪个是广州的“别称”?',
+    id: 23073
+  },
+  {
+    answer: '龙城',
+    indexes: 'yxngstydbc',
+    question: '以下哪个是太原的“别称”?',
+    id: 23074
+  },
+  {
+    answer: '蓉城',
+    indexes: 'yxngscddbc',
+    question: '以下哪个是成都的“别称”?',
+    id: 23075
+  },
+  {
+    answer: '鹏城',
+    indexes: 'yxngsszdbc',
+    question: '以下哪个是深圳的“别称”?',
+    id: 23076
+  },
+  {
+    answer: '宝塔镇河妖',
+    indexes: 'zqwhszjdtctwgdhxyjs',
+    question: '《智取威虎山》中经典台词”天王盖地虎“下一句是?',
+    id: 23077
+  },
+  {
+    answer: '自身难保',
+    indexes: 'xhynpsghdxyjssm',
+    question: '歇后语”泥菩萨过河“的下一句是什么?',
+    id: 23078
+  },
+  {
+    answer: '腮',
+    indexes: 'kdksmhx',
+    question: '蝌蚪靠什么呼吸?',
+    id: 23079
+  },
+  {
+    answer: 'IQ',
+    indexes: 'tcyEQbsqsnmzssynlgywzmbs',
+    question: '通常用EQ表示情商,那么智商是用哪俩个英文字母表示?',
+    id: 23080
+  },
+  {
+    answer: '四川',
+    indexes: 'gqkdqgzdkdzngs',
+    question: '歌曲《康定情歌》中的康定在哪个省?',
+    id: 23081
+  },
+  {
+    answer: '英语',
+    indexes: 'wmcsdtfkssdnzyyjxdcs',
+    question: '我们常说的托福考试是对哪种语言进行的测试',
+    id: 23082
+  },
+  {
+    answer: '1',
+    indexes: 'wlltzsfsdbdjghtdr',
+    question: '网络论坛中,‘沙发’是代表第几个回帖的人',
+    id: 23083
+  },
+  {
+    answer: '你',
+    indexes: 'nzshhlmbssm',
+    question: '‘侬’在上海话里面表示什么',
+    id: 23084
+  },
+  {
+    answer: 'DJ',
+    indexes: 'wmtcynlgywzmbsdtzcr',
+    question: '我们通常用哪俩个英文字母表示电台主持人',
+    id: 23085
+  },
+  {
+    answer: '世贸大厦',
+    indexes: 'mgzs911kbxjdsztjsm',
+    question: '美国遭受911恐怖袭击的双子塔叫什么',
+    id: 23086
+  },
+  {
+    answer: '2B铅笔',
+    indexes: 'gkyqksymdsdshtmdtkdsmqb',
+    question: '高考要求考生用墨的深度适合涂抹答题卡的什么铅笔',
+    id: 23087
+  },
+  {
+    answer: '珠江',
+    indexes: 'bywgzdmqhysgzzddhljsm',
+    question: '被誉为广州的母亲河,也是广州最大的河流叫什么',
+    id: 23088
+  },
+  {
+    answer: '光棍节',
+    indexes: 'mn11y11rdsnnhgdygylxjmjsmj',
+    question: '每年11月11日,单身男女会过的一个娱乐性节目叫什么节',
+    id: 23089
+  },
+  {
+    answer: '4',
+    indexes: 'sjbzqbsjnyc',
+    question: '世界杯足球比赛几年一次',
+    id: 23090
+  },
+  {
+    answer: '10',
+    indexes: 'yz20yrmbpsl2fz1dyxkydhddsq',
+    question: '一张20元人民币破损了2分之1,到银行可以兑换到多少钱',
+    id: 23091
+  },
+  {
+    answer: 'GDP',
+    indexes: 'bsgnsczzdywjcs',
+    question: '表示国内生产总值的英文简称是',
+    id: 23092
+  },
+  {
+    answer: 'CEO',
+    indexes: 'sxzxgdzwywjcs',
+    question: '首席执行官的职务英文简称是?',
+    id: 23093
+  },
+  {
+    answer: '任天堂',
+    indexes: 'zzdhbjyxcjmlyrbnjzmyxzzgscp',
+    question: '最早的红白机游戏超级玛丽由日本哪家知名游戏制作公司出品?',
+    id: 23094
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'zqhtsngzydjn',
+    question: '真气护体是哪个职业的技能?',
+    id: 23095
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'hfftsngzydjn',
+    question: '火凤附体是哪个职业的技能?',
+    id: 23096
+  },
+  {
+    answer: '阴阳士',
+    indexes: 'wstxsngzydjn',
+    question: '威慑天下是哪个职业的技能?',
+    id: 23097
+  },
+  {
+    answer: '仙术士',
+    indexes: 'zmssngzydjn',
+    question: '智谋术是哪个职业的技能?',
+    id: 23098
+  },
+  {
+    answer: '仙术士',
+    indexes: 'njzysngzydjn',
+    question: '宁静致远是哪个职业的技能?',
+    id: 23099
+  },
+  {
+    answer: '仙术士',
+    indexes: 'hbzjsngzydjn',
+    question: '缓兵之计是哪个职业的技能?',
+    id: 23100
+  },
+  {
+    answer: '奋迅',
+    indexes: 'xtgzjdwlgjshygxlnyx',
+    question: '想提高自己的物理攻击伤害,应该修炼哪一项?',
+    id: 23101
+  },
+  {
+    answer: '妖法',
+    indexes: 'xtgzjdmfgjshygxlnyx',
+    question: '想提高自己的魔法攻击伤害,应该修炼哪一项?',
+    id: 23102
+  },
+  {
+    answer: '禁卫',
+    indexes: 'xjszjsddwlgjshygxlnyx',
+    question: '想减少自己受到的物理攻击伤害,应该修炼哪一项?',
+    id: 23103
+  },
+  {
+    answer: '仙法',
+    indexes: 'xjszjsddmfgjshygxlnyx',
+    question: '想减少自己受到的魔法攻击伤害,应该修炼哪一项?',
+    id: 23104
+  },
+  {
+    answer: '经验',
+    indexes: 'yxnyxnzxlzswfgbd',
+    question: "以下哪一项,你在'修炼'中是无法改变的?",
+    id: 23105
+  },
+  {
+    answer: '本国书丞',
+    indexes: 'xyyzhdjqrwkyzngNPCjsrw',
+    question: '想要一直获得金钱任务,可以找哪个NPC接受任务?',
+    id: 23106
+  },
+  {
+    answer: '五',
+    indexes: 'QQsgyjzfzy',
+    question: 'QQ三国有几种副职业?',
+    id: 23107
+  },
+  {
+    answer: '工匠',
+    indexes: 'yxnlfzsyQQsg',
+    question: '以下哪类副职属于QQ三国?',
+    id: 23108
+  },
+  {
+    answer: '庖丁',
+    indexes: 'kyschftlhsmdfzs',
+    question: '可以生产回复体力和生命的副职是?',
+    id: 23109
+  },
+  {
+    answer: '工匠',
+    indexes: 'zzzssngfzsydhcsj',
+    question: '重铸之书是哪个副职使用的合成书籍?',
+    id: 23110
+  },
+  {
+    answer: '庖丁',
+    indexes: 'jrwjsngfzsydhcsj',
+    question: '酒肉无忌是哪个副职使用的合成书籍?',
+    id: 23111
+  },
+  {
+    answer: '镶工',
+    indexes: 'wszzfsngfzsydhcsj',
+    question: '武神之祝福是哪个副职使用的合成书籍?',
+    id: 23112
+  },
+  {
+    answer: '千货商',
+    indexes: 'hcdzngNPCckygmd',
+    question: '回春丹在哪个NPC处可以购买到?',
+    id: 23113
+  },
+  {
+    answer: '活力丸',
+    indexes: 'yxngdjzqhscsgmbdd',
+    question: '以下哪个道具,在千货商处是购买不到的?',
+    id: 23114
+  },
+  {
+    answer: '活力丸',
+    indexes: 'yxngdjskyzscngmdd',
+    question: '以下哪个道具,是可以在商城内购买到的?',
+    id: 23115
+  },
+  {
+    answer: '千货商',
+    indexes: 'fzsxydclybdkyznlgmd',
+    question: '副职所需要的材料,一般都可以在哪里购买到?',
+    id: 23116
+  },
+  {
+    answer: '神行之卷',
+    indexes: 'kysjtgzjdydhtyddjs',
+    question: '可以瞬间提高自己的移动和跳跃的道具是?',
+    id: 23117
+  },
+  {
+    answer: '小强丸',
+    indexes: 'kymcswcfddjs',
+    question: '可以免除死亡惩罚的道具是?',
+    id: 23118
+  },
+  {
+    answer: '活力丸',
+    indexes: 'kysjtgzjydhlddjs',
+    question: '可以瞬间提高自己一定活力的道具是?',
+    id: 23119
+  },
+  {
+    answer: '双倍经验丸',
+    indexes: 'kyszjhdsbjyddjs',
+    question: '可以使自己获得双倍经验的道具是?',
+    id: 23120
+  },
+  {
+    answer: '麒麟区',
+    indexes: 'xlngqybsdjzzxyzddqy',
+    question: '下列哪个区域不是夺荆州中需要争夺的区域',
+    id: 23121
+  },
+  {
+    answer: '自动补给',
+    indexes: 'zbyxngdjjkyzdjzjjx',
+    question: '装备以下哪个道具就可以自动给自己加血?',
+    id: 23122
+  },
+  {
+    answer: "装备'自动补给'后设置默认使用的药物",
+    indexes: 'gmlzdbjrhcnzdjzjdjsbj',
+    question: "购买了'自动补给'如何才能自动给自己的角色补给?",
+    id: 23123
+  },
+  {
+    answer: '小喇叭',
+    indexes: 'syyxngdjkyrsydrdkjnsdh',
+    question: '使用以下哪个道具,可以让所有的人都看见你说的话?',
+    id: 23124
+  },
+  {
+    answer: '随等级次数改变',
+    indexes: 'sygjpdfyxydssgb',
+    question: '使用国家频道发言,需要多少三国币?',
+    id: 23125
+  },
+  {
+    answer: '三锅头',
+    indexes: 'yxngdjsQQsgnd',
+    question: '以下哪个道具是QQ三国内的?',
+    id: 23126
+  },
+  {
+    answer: '贩卖商城道具',
+    indexes: 'yxnzfsbnhdsgd',
+    question: '以下哪种方式不能获得三国点?',
+    id: 23127
+  },
+  {
+    answer: '物攻',
+    indexes: 'zgrztznyxdbwqdwlgjl',
+    question: '在个人状态中,哪一项代表武器的物理攻击力?',
+    id: 23128
+  },
+  {
+    answer: '灵活',
+    indexes: 'zgrztznyxyxjsdhbnl',
+    question: '在个人状态中,哪一项影响角色的回避能力?',
+    id: 23129
+  },
+  {
+    answer: 'F1',
+    indexes: 'xszzjdgxqmygsyngkjjhjztjm',
+    question: '想设置自己的个性签名,应该使用哪个快捷键呼叫状态界面?',
+    id: 23130
+  },
+  {
+    answer: '十二个',
+    indexes: 'yzjbznsydsgsbjyw',
+    question: "一周基本只能使用多少个'双倍经验丸'?",
+    id: 23131
+  },
+  {
+    answer: '怪物名为灰色',
+    indexes: 'bwjrhddgw',
+    question: '比玩家弱很多的怪物:',
+    id: 23132
+  },
+  {
+    answer: '怪物名为绿色',
+    indexes: 'bwjsrdgw',
+    question: '比玩家稍弱的怪物:',
+    id: 23133
+  },
+  {
+    answer: '怪物名为黄色',
+    indexes: 'hwjcbddgw',
+    question: '和玩家差不多的怪物:',
+    id: 23134
+  },
+  {
+    answer: '怪物名为橙色',
+    indexes: 'bwjsqdgw',
+    question: '比玩家稍强的怪物:',
+    id: 23135
+  },
+  {
+    answer: '怪物名为红色',
+    indexes: 'bwjqhddgw',
+    question: '比玩家强很多的怪物:',
+    id: 23136
+  },
+  {
+    answer: 'sg.qq.com',
+    indexes: 'QQsggfwzdwzs',
+    question: 'QQ三国官方网站的网址是:',
+    id: 23137
+  },
+  {
+    answer: 'Z',
+    indexes: 'yxngkjjkyqfzdykjjz',
+    question: "以下哪个快捷键可以前翻'自定义快捷键组'?",
+    id: 23138
+  },
+  {
+    answer: 'X',
+    indexes: 'yxngkjjkyhfzdykjjz',
+    question: "以下哪个快捷键可以后翻'自定义快捷键组'?",
+    id: 23139
+  },
+  {
+    answer: '数字键1至5',
+    indexes: 'yxngkjjkyksxzzjddy',
+    question: '以下哪个快捷键可以快速选择自己的队友?',
+    id: 23140
+  },
+  {
+    answer: '邮件',
+    indexes: 'rgndhybzxnkytgsmfsjtly',
+    question: '如果你的好友不在线,你可以通过什么方式给他留言?',
+    id: 23141
+  },
+  {
+    answer: '私聊',
+    indexes: 'yyxnzfskyydddckhbrjl',
+    question: '用以下哪种方式可以用单独的窗口和别人交流?',
+    id: 23142
+  },
+  {
+    answer: '国家频道',
+    indexes: 'yxcwdhwnxyznldlfy',
+    question: '要想成为大话王,你需要在哪里大量发言?',
+    id: 23143
+  },
+  {
+    answer: '四方巡查使',
+    indexes: 'cxgzyzdjpxbnxyznwNPC',
+    question: '查询各职业主等级排行榜,你需要找哪位NPC?',
+    id: 23144
+  },
+  {
+    answer: '8',
+    indexes: 'xlnb4zcdssnyg',
+    question: '下列能被4整除的数是哪一个?',
+    id: 23145
+  },
+  {
+    answer: '蔺相如',
+    indexes: 'fjqzjdslphnwlsrwdgs',
+    question: '负荆请罪讲的是廉颇和哪位历史人物的故事',
+    id: 23146
+  },
+  {
+    answer: '孙武',
+    indexes: 'szbfdzzs',
+    question: '《孙子兵法》的作者是?',
+    id: 23147
+  },
+  {
+    answer: '和谐号',
+    indexes: 'wgtdbdCRHgsdctymmwsmh',
+    question: '我国铁道部的CRH高速动车,统一命名为什么号?',
+    id: 23148
+  },
+  {
+    answer: '相扑',
+    indexes: 'fyywgtcxzlxyrbdyzylmdlsllsshxjldsjydj',
+    question: '发源于我国唐朝。现在流行于日本的一种由两名大力士裸露上身互相角力的摔跤运动叫?',
+    id: 23149
+  },
+  {
+    answer: '2',
+    indexes: 'xlsyosdsnyg',
+    question: '下列属于偶数的是哪一个?',
+    id: 23150
+  },
+  {
+    answer: '鸭绿江',
+    indexes: 'zghcxlgdjhjzsmj',
+    question: '中国和朝鲜两国的界河叫做什么江',
+    id: 23151
+  },
+  {
+    answer: '大于号',
+    indexes: 'xlsygxfhdsnyg',
+    question: '下列属于关系符号的是哪一个?',
+    id: 23152
+  },
+  {
+    answer: '4',
+    indexes: 'xlbsyzsdsnyg',
+    question: '下列不属于质数的是哪一个?',
+    id: 23153
+  },
+  {
+    answer: '二分之五',
+    indexes: 'xlbsyjfsdsnyg',
+    question: '下列不属于假分数的是哪一个?',
+    id: 23154
+  },
+  {
+    answer: '厘米',
+    indexes: 'xlsyzddwdsnyg',
+    question: '下列属于长度单位的是哪一个?',
+    id: 23155
+  },
+  {
+    answer: '150度角',
+    indexes: 'xlsydjdsnyg',
+    question: '下列属于钝角的是哪一个?',
+    id: 23156
+  },
+  {
+    answer: '玫瑰',
+    indexes: 'rmtcylshdlsyjqsssmh',
+    question: '人们通常用来送花的蓝色妖姬其实是什么花',
+    id: 23157
+  },
+  {
+    answer: '21',
+    indexes: 'xlnb3zcdssnyg',
+    question: '下列能被3整除的数是哪一个?',
+    id: 23158
+  },
+  {
+    answer: '2i',
+    indexes: 'xlsyxsdsnyg',
+    question: '下列属于虚数的是哪一个?',
+    id: 23159
+  },
+  {
+    answer: '箭法',
+    indexes: 'cybbcyyyszsmblg',
+    question: '成语“百步穿杨”原意是指什么本领高?',
+    id: 23160
+  },
+  {
+    answer: '秒',
+    indexes: 'xlsysjdwdsnyg',
+    question: '下列属于时间单位的是哪一个?',
+    id: 23161
+  },
+  {
+    answer: '尚方宝剑',
+    indexes: 'hsdsmbjjyxzhzdql',
+    question: '皇上的什么宝剑,具有先斩后奏的权力?',
+    id: 23162
+  },
+  {
+    answer: '陈世美',
+    indexes: 'jjmdzmasjbgbngfxhzs',
+    question: '京剧名段《铡美案》是讲包公把哪个负心汉斩首?',
+    id: 23163
+  },
+  {
+    answer: '三分之二十七',
+    indexes: 'xlsykyhczsdfssnyg',
+    question: '下列属于可以化成整数的分数是哪一个?',
+    id: 23164
+  },
+  {
+    answer: '六分之三',
+    indexes: 'xlbsyzjfsdsnyg',
+    question: '下列不属于最简分数的是哪一个?',
+    id: 23165
+  },
+  {
+    answer: '60°和120°',
+    indexes: 'xlsyhwbjdsnyd',
+    question: '下列属于互为补角的是哪一对?',
+    id: 23166
+  },
+  {
+    answer: '37°',
+    indexes: 'xlsydyxxdjdsnyg',
+    question: '下列属于第一象限的角的是哪一个?',
+    id: 23167
+  },
+  {
+    answer: '16',
+    indexes: 'xlkykpfgdsnyg',
+    question: '下列可以开平方根的是哪一个?',
+    id: 23168
+  },
+  {
+    answer: '0.333……',
+    indexes: 'xlsyxhxsdsnyg',
+    question: '下列属于循环小数的是哪一个?',
+    id: 23169
+  },
+  {
+    answer: '0',
+    indexes: 'xlsyhwyjdsnyd',
+    question: '下列属于互为余角的是哪一对?',
+    id: 23170
+  },
+  {
+    answer: '光年',
+    indexes: 'xlnygdwsdlzdddw',
+    question: '下列哪一个单位是度量长度的单位?',
+    id: 23171
+  },
+  {
+    answer: '克',
+    indexes: 'xlnygdwsyzldw',
+    question: '下列哪一个单位属于质量单位?',
+    id: 23172
+  },
+  {
+    answer: '亩',
+    indexes: 'xlnygdwsymjdw',
+    question: '下列哪一个单位属于面积单位?',
+    id: 23173
+  },
+  {
+    answer: '立方厘米',
+    indexes: 'xlnygdwsytjdw',
+    question: '下列哪一个单位属于体积单位?',
+    id: 23174
+  },
+  {
+    answer: '上海',
+    indexes: 'F1zgzzngcsjx',
+    question: 'F1中国站在哪个城市进行?',
+    id: 23175
+  },
+  {
+    answer: '重庆',
+    indexes: 'zg1997nsldzxssng',
+    question: '中国1997年设立的直辖市是哪个?',
+    id: 23176
+  },
+  {
+    answer: '英国',
+    indexes: 'lsyjjjyxldtwsbsnggjdbz',
+    question: '历史悠久,极具影响力的《泰晤士报》是哪个国家的报纸?',
+    id: 23177
+  },
+  {
+    answer: '迈',
+    indexes: 'xlnygdwsysddw',
+    question: '下列哪一个单位属于速度单位?',
+    id: 23178
+  },
+  {
+    answer: '南丁·格尔',
+    indexes: '512gjhsjswljnnwzmrw',
+    question: '5.12国家护士节是为了纪念哪位著名人物?',
+    id: 23179
+  },
+  {
+    answer: '7',
+    indexes: 'xlnygssqs',
+    question: '下列哪一个数是奇数?',
+    id: 23180
+  },
+  {
+    answer: '8',
+    indexes: 'xlnygssos',
+    question: '下列哪一个数是偶数?',
+    id: 23181
+  },
+  {
+    answer: '112',
+    indexes: 'xlnygsos',
+    question: '下列哪一个是偶数?',
+    id: 23182
+  },
+  {
+    answer: '111',
+    indexes: 'xlnygsqs',
+    question: '下列哪一个是奇数?',
+    id: 23183
+  },
+  {
+    answer: '减号',
+    indexes: 'xlnygssxysfh',
+    question: '下列哪一个是数学运算符号?',
+    id: 23184
+  },
+  {
+    answer: '朱',
+    indexes: 'mcdgxs',
+    question: '明朝的国姓是?',
+    id: 23185
+  },
+  {
+    answer: '孙思邈',
+    indexes: 'qjyfdzzw',
+    question: '《千金要方》的作者为?',
+    id: 23186
+  },
+  {
+    answer: '二',
+    indexes: 'szyjbh',
+    question: '“十”字有几笔画?',
+    id: 23187
+  },
+  {
+    answer: '三',
+    indexes: 'dzyjbh',
+    question: '“大”字有几笔画?',
+    id: 23188
+  },
+  {
+    answer: '四',
+    indexes: 'gzyjbh',
+    question: '“戈”字有几笔画?',
+    id: 23189
+  },
+  {
+    answer: '四',
+    indexes: 'fzyjbh',
+    question: '“方”字有几笔画?',
+    id: 23190
+  },
+  {
+    answer: '二',
+    indexes: 'bzyjbh',
+    question: '“八”字有几笔画?',
+    id: 23191
+  },
+  {
+    answer: '五',
+    indexes: 'hzyjbh',
+    question: '“汉”字有几笔画?',
+    id: 23192
+  },
+  {
+    answer: '六',
+    indexes: 'gzyjbh',
+    question: '“关”字有几笔画?',
+    id: 23193
+  },
+  {
+    answer: '罗贯中',
+    indexes: 'sgyybssdzz',
+    question: '三国演义不是谁的著作',
+    id: 23194
+  },
+  {
+    answer: '诸葛亮',
+    indexes: 'kmbsz',
+    question: '孔明不是指',
+    id: 23195
+  },
+  {
+    answer: '三国演义',
+    indexes: 'ggzjdsslhtjyxsfcbztkqsyjzjdxyhzbswgnbwxgdmzdkpc',
+    question:
+      '滚滚长江东逝水,浪花淘尽英雄.是非成败转头空.青山依旧在,几度夕阳红...这不是我国哪部文学古典名著的开篇词',
+    id: 23196
+  },
+  {
+    answer: '关羽',
+    indexes: 'wggdwxmzsgyyzszlyggwgzljqlzdqdyxxxzgyxbss',
+    question:
+      '我国古典文学名著《三国演义》中塑造了一个过五关斩六将,千里走单骑的英雄形象,这个英雄不是谁',
+    id: 23197
+  },
+  {
+    answer: '关羽',
+    indexes: 'syqjjdbssdyxgs',
+    question: '水淹七军讲的不是谁的英雄故事？',
+    id: 23198
+  },
+  {
+    answer: '杨修',
+    indexes: 'yryhsjdbssyccdzdgs',
+    question: '一人一盒酥讲的不是谁与曹操斗智的故事',
+    id: 23199
+  },
+  {
+    answer: '魏、蜀、吴',
+    indexes: 'txsfbsztxflwnjg',
+    question: "'天下三分'不是指天下分裂为哪几国",
+    id: 23200
+  },
+  {
+    answer: '诸葛亮',
+    indexes: 'szqrsgmlhqqmhjdbssdgs',
+    question: '舌战群儒、三顾茅庐和七擒孟获讲的不是谁的故事',
+    id: 23201
+  },
+  {
+    answer: '刘禅',
+    indexes: 'csbzdxdzlbbxzdbs',
+    question: "《出师表》中的'先帝'指刘备,'陛下'指的不是",
+    id: 23202
+  },
+  {
+    answer: '煮酒论英雄',
+    indexes: 'mchxzqsspyxjsrqjwllyssjybxrszsssdssgyyzlbhccdydgszggsbs',
+    question:
+      "'勉从虎穴暂栖身,说破英雄惊煞人.巧将闻雷来掩饰,随机应变信如神》'这首诗说的是《三国演义》中刘备和曹操的一段故事.这个故事不是",
+    id: 23203
+  },
+  {
+    answer: '赤壁之战',
+    indexes: 'cywsjbzqdfbsgjsgyydsmzyzzydjhgccyqdzbhlzqnbdhcxcyddfdgsyheld',
+    question:
+      "成语'万事俱备,只欠东风'不是根据《三国演义》的什么战役中'周瑜定计火攻曹操,一切都准备好了,只缺能把大火吹向曹营的东风.'的故事演化而来的.",
+    id: 23204
+  },
+  {
+    answer: '赤壁之战',
+    indexes: 'bszglyzylszhdycyssddzl',
+    question: '不是诸葛亮与周瑜联手指挥的一场以少胜多的战例',
+    id: 23205
+  },
+  {
+    answer: '言过其实，期期艾艾',
+    indexes: 'yxnlgbsysggsygdcyhsy',
+    question: '以下哪两个不是与三国故事有关的成语或俗语',
+    id: 23206
+  },
+  {
+    answer: '街亭失守',
+    indexes: 'zglhlzmsbsywhs',
+    question: '诸葛亮挥泪斩马谡不是因为何事.',
+    id: 23207
+  },
+  {
+    answer: '王允',
+    indexes: 'dcdyfbss',
+    question: '貂婵的义父不是谁？',
+    id: 23208
+  },
+  {
+    answer: '赤壁之战',
+    indexes: 'dmcbszdfbyzlbtqcsseqdjzxdbssmzy',
+    question: "杜牧《赤壁》诗中'东风不与周郎便,铜雀春深锁二乔'的句子写的不是什么战役;",
+    id: 23209
+  },
+  {
+    answer: '三打祝家庄',
+    indexes: 'xlgszssgyyzdyxs',
+    question: '下列故事中是三国演义中的一项是:',
+    id: 23210
+  },
+  {
+    answer: '张飞',
+    indexes: 'tysjybszsdjljxd',
+    question: '桃园三结义不是在谁的家里进行的',
+    id: 23211
+  },
+  {
+    answer: '赵云',
+    indexes: 'cszdrzzldbsyxnw',
+    question: '常山真定人，字子龙的不是以下哪位？',
+    id: 23212
+  },
+  {
+    answer: '曹植',
+    indexes: 'tqtzmbswhrsq',
+    question: '铜雀台之名不是为何人所取？',
+    id: 23213
+  },
+  {
+    answer: '刘备',
+    indexes: 'ydxxkhraqxrkzdbss',
+    question: "'一代枭雄，宽厚仁爱，求贤若渴'指的不是谁",
+    id: 23214
+  },
+  {
+    answer: '刘备、张飞、关羽',
+    indexes: 'sgyyztysjydsdxfbssgjdmmszbsmqdmmhsqlyyddmrzsrycbs',
+    question:
+      '《三国演义》中桃园三结义的三弟兄分别是双股剑的某某，使丈八蛇矛枪的某某和使青龙偃月刀的某人，这三人依次不是',
+    id: 23215
+  },
+  {
+    answer: '许劭',
+    indexes: 'rnygsyplrwdmsplccwzsznclszjxcmsbs',
+    question: "汝南有个善于评论人物的名士，评论曹操为：'治世之能臣，乱世之奸雄'，此名士不是",
+    id: 23216
+  },
+  {
+    answer: '诸葛亮',
+    indexes: 'zzhzhdxzqzgzyrwxqxjsrzyjzjgjczdbs',
+    question: "'智者和智慧的象征，清忠耿直，用人唯贤，谦虚、谨慎、认真又尽职、鞠躬尽瘁'，指的不是",
+    id: 23217
+  },
+  {
+    answer: '小说家和戏曲家',
+    indexes: 'sgyydzzlgzbsymmcd',
+    question: '三国演义的作者罗贯中，不是元末明初的',
+    id: 23218
+  },
+  {
+    answer: '元末明初',
+    indexes: 'zzlgzbssmcddr',
+    question: '作者罗贯中不是什么朝代的人',
+    id: 23219
+  },
+  {
+    answer: '东汉末年',
+    indexes: 'sgyyjdbssmsqdsq',
+    question: '三国演义讲的不是什么时期的事情',
+    id: 23220
+  },
+  {
+    answer: '刘备和曹操',
+    indexes: 'sgyyznlwrwbsqmzjlyx',
+    question: '《三国演义》中哪两位人物不是青梅煮酒论英雄？',
+    id: 23221
+  },
+  {
+    answer: '曹操、诸葛亮、关羽',
+    indexes: 'sgyyzzyrwzbcsjjjzjyjycbs',
+    question: "《三国演义》中主要人物中被称'三绝'：'奸绝'、'智绝'、'义绝'依次不是",
+    id: 23222
+  },
+  {
+    answer: '小乔',
+    indexes: 'zydqzbs',
+    question: '周瑜的妻子不是',
+    id: 23223
+  },
+  {
+    answer: '陈琳',
+    indexes: 'cjtysqcxwmlccdzzsdyssbhgjccdbs',
+    question: '曾经替袁绍起草檄文,骂了曹操的祖宗三代.袁绍失败后归降曹操的不是',
+    id: 23224
+  },
+  {
+    answer: '魏延',
+    indexes: 'zglrwmrsqlesqzsbzjqtexqdsbyrwqnhyfgcrbs',
+    question:
+      '诸葛亮认为某人：食其禄而杀其主，是不忠；居其土而献其地，是不义，认为其脑后有反骨，此人不是',
+    id: 23225
+  },
+  {
+    answer: '五虎上将',
+    indexes: 'zglqlxclgxssjygzcmyfw',
+    question: '诸葛亮取了西川，论功行赏时，将有功之臣没有封为',
+    id: 23226
+  },
+  {
+    answer: '魏延',
+    indexes: 'yxsszglfdwhsj',
+    question: "以下谁是诸葛亮封的'五虎上将'",
+    id: 23227
+  },
+  {
+    answer: '杨仪',
+    indexes: 'zglzwzyjdhssmytfszcqjgz',
+    question: '诸葛亮在五丈原交代后事时，没有托付谁主持全局工作',
+    id: 23228
+  },
+  {
+    answer: '姜维',
+    indexes: 'zglzwzyjdhssmybbqjjls',
+    question: '诸葛亮在五丈原交代后事时，没有把兵权交给了谁',
+    id: 23229
+  },
+  {
+    answer: '马岱',
+    indexes: 'wyfhslsjhcdzdyyyqsyyzhhsyyyhrhlzlwyyxnwbs',
+    question:
+      '魏延放火烧了蜀军回撤的栈道，扬言要擒杀杨仪，最后还是杨仪与何人合力斩了魏延，以下哪位不是',
+    id: 23230
+  },
+  {
+    answer: '关羽、赵云、张飞、马超、黄忠',
+    indexes: 'yxnxrbswhsj',
+    question: '以下哪些人不是五虎上将',
+    id: 23231
+  },
+  {
+    answer: '屠户',
+    indexes: 'sgmjzfzydbssmcs',
+    question: '三国猛将张飞，字益德，不是什么出身',
+    id: 23232
+  },
+  {
+    answer: '鲁肃',
+    indexes: 'ccjjsnywbszypsqdtzglxsd',
+    question: '草船借箭时，哪一位不是周瑜派谁去打探诸葛亮虚实的',
+    id: 23233
+  },
+  {
+    answer: '徐庶',
+    indexes: 'xlbdtjlzgldbs',
+    question: '向刘备的推荐了诸葛亮的不是',
+    id: 23234
+  },
+  {
+    answer: '司马懿',
+    indexes: 'kcjbszglysbcdxz',
+    question: '空城计不是诸葛亮与谁摆出的虚招',
+    id: 23235
+  },
+  {
+    answer: '四川西城',
+    indexes: 'kcjbszglzsmdfssdyzhbzj',
+    question: '空城计不是诸葛亮在什么地方实施的一招缓兵之计',
+    id: 23236
+  },
+  {
+    answer: '张飞',
+    indexes: 'dmbsszsdsx',
+    question: '邓茂不是死在谁的手下',
+    id: 23237
+  },
+  {
+    answer: '蜀国',
+    indexes: 'djszyhzbsngdzj',
+    question: '定军山战役黄忠不是哪国的主将',
+    id: 23238
+  },
+  {
+    answer: '献帝',
+    indexes: 'cchsxcslsytcydgsslyzlzrbs',
+    question: '曹操和谁许昌狩猎时，用他曾用的弓射杀了一只鹿，这人不是',
+    id: 23239
+  },
+  {
+    answer: '五虎将',
+    indexes: 'yxngslbdcw',
+    question: '以下哪个是刘备的称谓',
+    id: 23240
+  },
+  {
+    answer: '玄德',
+    indexes: 'lbdzbs',
+    question: '刘备的字不是',
+    id: 23241
+  },
+  {
+    answer: '袁绍',
+    indexes: 'gy201nccygddzzdbdbsnwjengrn',
+    question: '公元201年，曹操于官渡大战中大败的不是哪位，进而南攻汝南',
+    id: 23242
+  },
+  {
+    answer: '刘胜',
+    indexes: 'lbshdkghdxcbshjdzzzsjwsdhd',
+    question: '刘备，蜀汉的开国皇帝，相传不是汉景帝之子中山靖王谁的后代。',
+    id: 23243
+  },
+  {
+    answer: '韩玄',
+    indexes: 'whjzydhzybssdsx',
+    question: '五虎将之一的黄忠原不是谁的手下',
+    id: 23244
+  },
+  {
+    answer: '207年',
+    indexes: 'lbsgmlqdzgljrdclzddzlfzdgbszgydsn',
+    question: '刘备三顾茅庐请得诸葛亮加入，得出隆中对的战略方针，大概不是在公元多少年',
+    id: 23245
+  },
+  {
+    answer: '项羽射箭－百发百中',
+    indexes: 'xmnjxhyzq',
+    question: '下面哪句歇后语正确',
+    id: 23246
+  },
+  {
+    answer: '声东击西计',
+    indexes: 'ccxbtfzxjgnycbxysccmsbzhjxgczbzjqjzcxbjrczyqjxkdqcysjjjjwzxxsyjzjbs',
+    question:
+      '曹操兴兵讨伐张绣，久攻南阳城不下。于是曹操命士兵做好继续攻城准备，自己却假装从西北角入城。这一切贾诩看得清楚，于是将计就计为张绣献上一计，这计不是',
+    id: 23247
+  },
+  {
+    answer: '韩遂',
+    indexes: 'ljjbsccylljmcysd',
+    question: '离间计不是曹操用来离间马超与谁的',
+    id: 23248
+  },
+  {
+    answer: '翁中捉鳖计',
+    indexes: 'cbzzhccyzzxzjhxmslzspmttxxdysxyxsdjbs',
+    question: '赤壁之战后，曹操一直在寻找机会消灭孙刘，只是怕马腾偷袭许都。于是荀攸献上的计不是',
+    id: 23249
+  },
+  {
+    answer: '何进',
+    indexes: 'dhmnwqyhgzdyqgtnlxlddzbssdsmqjjjjdmlyybj',
+    question:
+      '东汉末年，外戚与宦官争斗，引起宫廷内乱。西凉的董卓不是收到谁命其进京救驾的密令，犹豫不决',
+    id: 23250
+  },
+  {
+    answer: '美人计',
+    indexes: 'stwykddzlbjshsztysqsdbssmjrdcljdzlbcerqfzlrhb',
+    question:
+      '司徒王允看到董卓、吕布皆是好色之徒，于是巧使的不是什么计，让貂蝉离间董卓吕布，从而让其父子两人火并',
+    id: 23251
+  },
+  {
+    answer: '蒋干',
+    indexes: 'yxnwbsddwyszybzyjjjjsccsscmzysjldd',
+    question: '以下哪位不是到东吴游说周瑜，被周瑜将计就计，使曹操杀死蔡瑁张允水军两都督，',
+    id: 23252
+  },
+  {
+    answer: '黄盖',
+    indexes: 'yzyytsykrjdbs',
+    question: '与周瑜一同上演苦肉计的不是',
+    id: 23253
+  },
+  {
+    answer: '曹操',
+    indexes: 'dsjgzdwysptbjltjptbqjs',
+    question: '当时蒋干在东吴遇上庞统，并极力推荐庞统不去见谁',
+    id: 23254
+  },
+  {
+    answer: '连环计',
+    indexes: 'ptyxrdwylbqsxjccrcjjmzcyhlszycbrlpdcjbs',
+    question:
+      '庞统有心让东吴与刘备取胜，献计曹操，让曹军将每只船用环连上，这样曹兵如履平地，此计不是',
+    id: 23255
+  },
+  {
+    answer: '张',
+    indexes: 'zfdbbbxsm',
+    question: '张飞的爸爸不姓什么',
+    id: 23256
+  },
+  {
+    answer: '吕布',
+    indexes: 'mzctrzqzhbssm',
+    question: "'马中赤兔，人中？'其中?号不是什么",
+    id: 23257
+  },
+  {
+    answer: '谡',
+    indexes: 'hlzmSUSUzbygzmx',
+    question: '挥泪斩马SU，SU字不应该怎么写',
+    id: 23258
+  },
+  {
+    answer: '北伐时病死在五丈原',
+    indexes: 'kmbszmsd',
+    question: '孔明不是怎么死的',
+    id: 23259
+  },
+  {
+    answer: '关云',
+    indexes: 'yxzdsgyds',
+    question: '以下指的是关羽的是',
+    id: 23260
+  },
+  {
+    answer: '关云长',
+    indexes: 'shmcwdyzdcqswnfwrygzwtrxrjcqybyzrqgbzgsfxdbss',
+    question:
+      "诗'汉末才无敌，云长独出群，神威能奋武，儒雅更知文，天日心如镜，《春秋》义薄云，昭然千古，不止冠三分'写的不是谁",
+    id: 23261
+  },
+  {
+    answer: '孟德',
+    indexes: 'yxzdszglds',
+    question: '以下指的是诸葛亮的是',
+    id: 23262
+  },
+  {
+    answer: '诸葛圭',
+    indexes: 'zgldfqbj',
+    question: '诸葛亮的父亲不叫',
+    id: 23263
+  },
+  {
+    answer: '关羽',
+    indexes: 'hjzczybswhrss',
+    question: '黄巾贼程志远不是为何人所杀?',
+    id: 23264
+  },
+  {
+    answer: '黄盖',
+    indexes: 'cbzzzxczjccdbs',
+    question: '赤壁之战中，献策诈降曹操的不是',
+    id: 23265
+  },
+  {
+    answer: '铜雀台',
+    indexes: 'ccyrjxyjxwlsdzddjlyzjtqmbs',
+    question: '曹操因人进献一吉祥物，劳师动众的搭建了一座巨台，其名不是',
+    id: 23266
+  },
+  {
+    answer: '曹丕',
+    indexes: 'lsfqzlsbsyzsdqz',
+    question: '「洛神赋」其中洛神不是意指谁的妻子?',
+    id: 23267
+  },
+  {
+    answer: '五丈原',
+    indexes: 'kmzhycbfsbsddfbs',
+    question: '孔明最后一次北伐时病死的地方不是',
+    id: 23268
+  },
+  {
+    answer: '夏侯惇',
+    indexes: 'zzzzyjbljszsfjmxbkqebyjcddbs',
+    question: '在作战中眼睛被流箭射中，说：「父精母血不可弃」而把眼睛吃掉的不是?',
+    id: 23269
+  },
+  {
+    answer: '刘备',
+    indexes: 'sgsqcwddghyxdbss',
+    question: '三国时期，从未得到过汉玉玺的不是谁?',
+    id: 23270
+  },
+  {
+    answer: '祝融',
+    indexes: 'kmznmscqqqzmhmhdfrbj',
+    question: '孔明征南蛮时曾七擒七纵孟获，孟获的夫人不叫？',
+    id: 23271
+  },
+  {
+    answer: '关平',
+    indexes: 'gydyzbss',
+    question: '关羽的养子不是谁?',
+    id: 23272
+  },
+  {
+    answer: '孙坚',
+    indexes: 'nywjzlbyqtk',
+    question: '那一位君主，刘备有去投靠?',
+    id: 23273
+  },
+  {
+    answer: '曹植',
+    indexes: 'qbcsdbs',
+    question: '七步成诗的不是?',
+    id: 23274
+  },
+  {
+    answer: '许贡',
+    indexes: 'yxnwbsxccbgscxqxdzxhbscss',
+    question: '以下哪位不是向曹操报告孙策袭取许都之心，后被孙策所杀?',
+    id: 23275
+  },
+  {
+    answer: '逍遥津之战',
+    indexes: 'szlcmdzygbssm',
+    question: '使张辽成名的战役各不是什么?',
+    id: 23276
+  },
+  {
+    answer: '长板桥之战',
+    indexes: 'szycmdzygbssm',
+    question: '使赵云成名的战役各不是什么?',
+    id: 23277
+  },
+  {
+    answer: '徐庶',
+    indexes: 'qwcjdglbjsddfqsbshr',
+    question: '请问曾经当过刘备军师的「单福」其实不是何人?',
+    id: 23278
+  },
+  {
+    answer: '曹性',
+    indexes: 'xhdbsbssqyy',
+    question: '夏侯惇不是被谁射去一眼?',
+    id: 23279
+  },
+  {
+    answer: '乔国公',
+    indexes: 'zyqdxqbssdne',
+    question: '周瑜娶的小乔不是谁的女儿?',
+    id: 23280
+  },
+  {
+    answer: '严颜',
+    indexes: 'cszydtjjwjjjdsdzhhstjzfdjlbs',
+    question: '称蜀中有断头将军，无降将军，但是到最后还是投降张飞的将领不是?',
+    id: 23281
+  },
+  {
+    answer: '李恢',
+    indexes: 'tlbsjlmcdbs',
+    question: '替刘备说降了马超的不是',
+    id: 23282
+  },
+  {
+    answer: '赵云',
+    indexes: 'qwkmjwdfhbsysjyebgzyprzs',
+    question: '请问孔明借完东风后不是由谁接应，而避过周瑜派人追杀?',
+    id: 23283
+  },
+  {
+    answer: '周瑜',
+    indexes: 'cbzzddgcymzlzcdbs',
+    question: '赤壁之战的大功臣，有「美周郎」之称的不是?',
+    id: 23284
+  },
+  {
+    answer: '赵云',
+    indexes: 'qwzsxrdzjaddbss',
+    question: '请问只身陷入敌阵救阿斗的不是谁?',
+    id: 23285
+  },
+  {
+    answer: '赤兔马',
+    indexes: 'gylccsdzdbs',
+    question: '关羽离曹操时带走的不是?',
+    id: 23286
+  },
+  {
+    answer: '庞统',
+    indexes: 'sdlbrtxdjxdqyzdbs',
+    question: '说动刘备，让他下定决心夺取益州的不是?',
+    id: 23287
+  },
+  {
+    answer: '太丑',
+    indexes: 'ptbbsqzydyybs',
+    question: '庞统不被孙权重用的原因不是',
+    id: 23288
+  },
+  {
+    answer: '夏侯惇',
+    indexes: 'dwbssjsjccd',
+    question: '典韦不是谁介绍给曹操的?',
+    id: 23289
+  },
+  {
+    answer: '徒手搏虎',
+    indexes: 'xlnxbsxcjhcdyy',
+    question: '下列哪些不是许褚叫虎痴的原因',
+    id: 23290
+  },
+  {
+    answer: '蒋琬',
+    indexes: 'zglshsgnzbsysdz',
+    question: '诸葛亮死后，蜀国内政不是由谁代之?',
+    id: 23291
+  },
+  {
+    answer: '三个锦囊',
+    indexes: 'lbdwgqxnszgljtdbs',
+    question: '刘备到吴国「娶新娘」时诸葛亮给他的不是?',
+    id: 23292
+  },
+  {
+    answer: '张飞',
+    indexes: 'qwcyhssdjdbsxmnwjl',
+    question: '请问成语& #39;浑身是胆& #39;将的不是下面哪位将领?',
+    id: 23293
+  },
+  {
+    answer: '徐庶',
+    indexes: 'sgyyzcrdbmjszbsbnwjssp',
+    question: '三国演义中，曹仁的八门金锁阵不是被哪位军师所破?',
+    id: 23294
+  },
+  {
+    answer: '马良',
+    indexes: 'rcmswcbmzlszdbs',
+    question: '人称「马氏五常，白眉最良」所指的不是?',
+    id: 23295
+  },
+  {
+    answer: '是',
+    indexes: 'lsszglhhxdlxtnstnsszdm',
+    question: '历史上,诸葛亮和汉献帝刘协同年生,同年死,是真的吗?',
+    id: 23296
+  },
+  {
+    answer: '是',
+    indexes: 'lssdcsxgdrwzszjzdslbydzdsbstpbdzfjzzydzfmccszdm',
+    question:
+      '历史上貂蝉是虚构的人物,正史中记载的是吕布与董卓的侍婢私通,怕被董卓发觉,最终与董卓反目成仇,是真的吗?',
+    id: 23297
+  },
+  {
+    answer: '是',
+    indexes: 'lsshxdqsbfdtcphdhzszdm',
+    question: '历史上,汉献帝其实比废掉他曹丕活得还长,是真的吗?',
+    id: 23298
+  },
+  {
+    answer: '是',
+    indexes: 'lsssgsqmdsdzeszdyyflsdrszdm',
+    question: '历史上三国时,取名都是单字,而双字多用于犯了事的人,是真的吗?',
+    id: 23299
+  },
+  {
+    answer: '是',
+    indexes: 'lssgydwqbsqlyydywsgshmyzzwqszdm',
+    question: '历史上,关羽的武器不是青龙偃月刀,因为三国时还没有这种武器,是真的吗?',
+    id: 23300
+  },
+  {
+    answer: '是',
+    indexes: 'lssshmjwpqsbhxznrsdzybgsgszdm',
+    question: '历史上,蜀汉名将王平其实不会写字,能认识的字也不过十个,是真的吗?',
+    id: 23301
+  },
+  {
+    answer: '是',
+    indexes: 'lsscccxlddxssqsdszdm',
+    question: '历史上,“曹冲称象”里的大象是孙权送的,是真的吗?',
+    id: 23302
+  },
+  {
+    answer: '是',
+    indexes: 'lsszfdzqxhssdjszzzbzsdxhydynszdm',
+    question: '历史上,张飞的正妻夏侯氏是定军山之战中被斩杀的夏侯渊的养女,是真的吗?',
+    id: 23303
+  },
+  {
+    answer: '是',
+    indexes: 'lssddydbbszfeslbszdm',
+    question: '历史上,打督邮的并不是张飞而是刘备,是真的吗?',
+    id: 23304
+  },
+  {
+    answer: '不是',
+    indexes: 'lsszglhhxdlxtnstnssjdm',
+    question: '历史上,诸葛亮和汉献帝刘协同年生,同年死,是假的吗?',
+    id: 23305
+  },
+  {
+    answer: '不是',
+    indexes: 'lssdcszsdrwlbytstpbdzfjzzydzfmccszdm',
+    question: '历史上貂蝉是真实的人物,吕布与她私通,怕被董卓发觉,最终与董卓反目成仇,是真的吗?',
+    id: 23306
+  },
+  {
+    answer: '不是',
+    indexes: 'lsshxdqsbfdtcphddszdm',
+    question: '历史上,汉献帝其实比废掉他曹丕活得短,是真的吗?',
+    id: 23307
+  },
+  {
+    answer: '不是',
+    indexes: 'lsssgsqmdsszedzdyyflsdrszdm',
+    question: '历史上三国时,取名都是双字,而单字多用于犯了事的人,是真的吗?',
+    id: 23308
+  },
+  {
+    answer: '不是',
+    indexes: 'lssgydwqsqlyydywsgsyzzwqszdm',
+    question: '历史上,关羽的武器是青龙偃月刀,因为三国时有这种武器,是真的吗?',
+    id: 23309
+  },
+  {
+    answer: '不是',
+    indexes: 'lssshmjwpxfwcssydrjszdm',
+    question: '历史上蜀汉名将王平学富五车,是少有的儒将,是真的吗?',
+    id: 23310
+  },
+  {
+    answer: '不是',
+    indexes: 'lsscccxlddxsccsdszdm',
+    question: '历史上,“曹冲称象”里的大象是曹操送的,是真的吗?',
+    id: 23311
+  },
+  {
+    answer: '不是',
+    indexes: 'lsszfdzqxhssdjszzzbzsdxhydmmszdm',
+    question: '历史上,张飞的正妻夏侯氏是定军山之战中被斩杀的夏侯渊的妹妹,是真的吗?',
+    id: 23312
+  },
+  {
+    answer: '不是',
+    indexes: 'lssddydbbszfesgyszdm',
+    question: '历史上,打督邮的并不是张飞而是关羽,是真的吗?',
+    id: 23313
+  },
+  {
+    answer: '是',
+    indexes: 'czyyszdynwiszsdys',
+    question: '“采之欲遗谁”中的“遗”念wi,是赠送的意思。',
+    id: 23314
+  },
+  {
+    answer: '不是',
+    indexes: 'grswssrmphzsymdyjlbxd',
+    question: '古人说闻水声如鸣佩环,这是袁牧的游记里边写的。',
+    id: 23315
+  },
+  {
+    answer: '是',
+    indexes: 'yjtszjcsyjysjxsmdmhzy',
+    question: '“要见天孙织锦成”是叶嘉莹送给学生们的美好祝愿。',
+    id: 23316
+  },
+  {
+    answer: '是',
+    indexes: 'yyxzssxsjsqywhczls',
+    question: '“亦余心之所善兮,虽九死其犹未悔”出自《离骚》。',
+    id: 23317
+  },
+  {
+    answer: '不是',
+    indexes: 'hjjmysntdcsywfgbt',
+    question: '《花间集》没有收南唐的词,是因为风格不同。',
+    id: 23318
+  },
+  {
+    answer: '不是',
+    indexes: 'gmrslhzsblgzcwsdfzc',
+    question: '郭沫若说李后主是“变伶工之词为士大夫之词”。',
+    id: 23319
+  },
+  {
+    answer: '是',
+    indexes: 'qydmrdbdsscddmh',
+    question: '屈原的美人代表的是是才德的美好。',
+    id: 23320
+  },
+  {
+    answer: '是',
+    indexes: 'hjjsgczc',
+    question: '《花间集》是歌辞之词。',
+    id: 23321
+  },
+  {
+    answer: '不是',
+    indexes: 'sdpyjrdzzzeyzbb',
+    question: '苏东坡因卷入党争之中而一再被贬。',
+    id: 23322
+  },
+  {
+    answer: '不是',
+    indexes: 'hcznxnxdzhzjszhnrsfdgq',
+    question: '好词只能写女性的簪花照镜、梳妆、怀念人、思妇的感情。',
+    id: 23323
+  },
+  {
+    answer: '不是',
+    indexes: 'gjqfjbsswzdcj',
+    question: '“过尽千帆皆不是”是韦庄的词句。',
+    id: 23324
+  },
+  {
+    answer: '是',
+    indexes: 'hjjlbddysgcspsm',
+    question: '《花间集》里边的第一首歌词是《菩萨蛮》。',
+    id: 23325
+  },
+  {
+    answer: '秋夜景色',
+    indexes: 'ylwtsmtjfyhdcmzljcmxds',
+    question: '“月落乌啼霜满天,江枫渔火对愁眠。”这两句词描写的是',
+    id: 23326
+  },
+  {
+    answer: '汉朝名将李广',
+    indexes: 'dslcfjzbjhmdyszdlcfjzds',
+    question: '“但使龙城飞将在,不教胡马度阴山”中的“龙城飞将”指的是',
+    id: 23327
+  },
+  {
+    answer: '杜甫',
+    indexes: 'xmswldswgtcjcdsrqzhcssds',
+    question: '下面四位来都是我国唐朝杰出的诗人,其中号称“诗圣”的是',
+    id: 23328
+  },
+  {
+    answer: '庐山',
+    indexes: 'lbbxdflzxsqcysyhljtzdsngfjq',
+    question: '李白笔下的“飞流直下三千尺,疑是银河落九天”指的是哪个风景区?',
+    id: 23329
+  },
+  {
+    answer: '杜牧《秋夕》',
+    indexes: 'tjyslrswkqnznxcz',
+    question: '“天阶夜色凉如水,卧看牵牛织女星。”出自',
+    id: 23330
+  },
+  {
+    answer: '春风又绿江南岸',
+    indexes: 'yxnyjssdsrwasbcgzzdmj',
+    question: '以下哪一句是宋代诗人王安石《泊船瓜洲》中的名句',
+    id: 23331
+  },
+  {
+    answer: '劝君更尽一杯酒',
+    indexes: 'yxznbdsrhlpyyyxbdsjs',
+    question: '以下最能表达诗人和老朋友依依惜别的诗句是',
+    id: 23332
+  },
+  {
+    answer: '母子情深',
+    indexes: 'syccxbdschbddsxgqs',
+    question: '“谁言寸草心,报得三春晖。”表达的思想感情是',
+    id: 23333
+  },
+  {
+    answer: '制度不合理',
+    indexes: 'lsmnszshwxtnfyesjlds',
+    question: '李绅《悯农》诗中“四海无闲田,农夫犹饿死。”揭露的是',
+    id: 23334
+  },
+  {
+    answer: '桂花',
+    indexes: 'hxqbshszshzdylzdhzds',
+    question: '“何须倩碧深红色,自是花中第一流“中的花指的是',
+    id: 23335
+  },
+  {
+    answer: '竹子',
+    indexes: 'ydqsbfslgyzpyzqmwjhjjredxnbfmxdsnzzw',
+    question: '“咬定青山不放松,立根原在破岩中。千磨万击还坚劲,任尔东西南北风。”描写的是哪种植物?',
+    id: 23336
+  },
+  {
+    answer: '合欢花',
+    indexes: 'hhszsyybdsdjxrxnwjrkzdhhzds',
+    question: '“合昏尚知时,鸳鸯不独宿。但见新人笑,那闻旧人哭。”中的“合昏”指的是',
+    id: 23337
+  },
+  {
+    answer: '李清照《武陵春》',
+    indexes: 'wsrfssxyylxlcznwcrnsc',
+    question: '“物是人非事事休,欲语泪先流”出自哪位词人那首词?',
+    id: 23338
+  },
+  {
+    answer: '路上行人欲断魂',
+    indexes: 'qmsjyffdxyjs',
+    question: '“清明时节雨纷纷”的下一句是',
+    id: 23339
+  },
+  {
+    answer: '牧童遥指杏花村',
+    indexes: 'jwjjhcydxyjs',
+    question: '“借问酒家何处有”的下一句是',
+    id: 23340
+  },
+  {
+    answer: '轻烟散入五侯家',
+    indexes: 'rmhgclzdxyjs',
+    question: '“日暮汉宫传蜡烛”的下一句是',
+    id: 23341
+  },
+  {
+    answer: '卢橘杨梅次第新',
+    indexes: 'lfsxsscdxyjs',
+    question: '“罗浮山下四时春”的下一句是',
+    id: 23342
+  },
+  {
+    answer: '不辞长作岭南人',
+    indexes: 'rdlzsbkdxyjs',
+    question: '“日啖荔枝三百颗”的下一句是',
+    id: 23343
+  },
+  {
+    answer: '无限风光尽被占',
+    indexes: 'blpdysjdxyjs',
+    question: '“不论平地与山尖”的下一句是',
+    id: 23344
+  },
+  {
+    answer: '为谁辛苦为谁甜',
+    indexes: 'cdbhcmhdxyjs',
+    question: '“采得百花成蜜后”的下一句是',
+    id: 23345
+  },
+  {
+    answer: '应将性命逐轻车',
+    indexes: 'wdymybzdxyjs',
+    question: '“闻道玉门犹被遮”的下一句是',
+    id: 23346
+  },
+  {
+    answer: '半入江风半入云',
+    indexes: 'jcsgrffdxyjs',
+    question: '“锦城丝管日纷纷”的下一句是',
+    id: 23347
+  },
+  {
+    answer: '人间能得几回闻',
+    indexes: 'cqzytsydxyjssm',
+    question: '“此曲只应天上有”的下一句是什么',
+    id: 23348
+  },
+  {
+    answer: '剪剪轻风阵阵寒',
+    indexes: 'wascyjlxjlscdxyjssm',
+    question: '王安石《春夜》“金炉香尽漏声残”的下一句是什么',
+    id: 23349
+  },
+  {
+    answer: '月移花影上栏杆',
+    indexes: 'csnrmbddxyjssm',
+    question: '“春色恼人眠不得”的下一句是什么',
+    id: 23350
+  },
+  {
+    answer: '有情何似无情',
+    indexes: 'xjzrbjdxyjssm',
+    question: '“相见争如不见”的下一句是什么',
+    id: 23351
+  },
+  {
+    answer: '李白',
+    indexes: 'klhggqgcyjtddwxrdsnwsr',
+    question: '“可怜荒古龚泉骨,曾有惊天动地文”形容的是哪位诗人?',
+    id: 23352
+  },
+  {
+    answer: '火烧赤壁',
+    indexes: 'dfbyzlbtqcsseqzlddfzdssm',
+    question: '“东风不与周郎便,铜雀春深锁二乔”这里的东风指的是什么',
+    id: 23353
+  },
+  {
+    answer: '红星乱紫烟',
+    indexes: 'lhztddxyjssm',
+    question: '“炉火照天地“的下一句是什么',
+    id: 23354
+  },
+  {
+    answer: '白云深处有人家',
+    indexes: 'yshssjxdxjssm',
+    question: '“远上寒山石径斜“的下句是什么',
+    id: 23355
+  },
+  {
+    answer: '把酒问青天',
+    indexes: 'myjsydxjssm',
+    question: '“明月几时有“的下句是什么',
+    id: 23356
+  },
+  {
+    answer: '飞来飞去落谁家',
+    indexes: 'lycdtlhdxyjssm',
+    question: '“洛阳城东桃李花”的下一句是什么',
+    id: 23357
+  },
+  {
+    answer: '坐见落花长叹息',
+    indexes: 'lynexysdxyjssm',
+    question: '“洛阳女儿惜颜色”的下一句是什么',
+    id: 23358
+  },
+  {
+    answer: '独立疏篱趣无穷',
+    indexes: 'hkbbbhcdxyjssm',
+    question: '“花开不并百花丛”的下一句是什么',
+    id: 23359
+  },
+  {
+    answer: '何曾垂落北风中',
+    indexes: 'nkztblhdxyjssm',
+    question: '“宁可枝头抱落花”的下一句是什么',
+    id: 23360
+  },
+  {
+    answer: '三百杯',
+    indexes: 'lbdjjjzhxyydsbn',
+    question: '李白的《将进酒》中“会须一饮”多少杯呢',
+    id: 23361
+  },
+  {
+    answer: '兄妹关系',
+    indexes: 'bfyjrjsedlzdjrhlynssmgx',
+    question: '“北方有佳人,绝世而独立”中的佳人和李延年是什么关系?',
+    id: 23362
+  },
+  {
+    answer: '我言秋日胜春朝',
+    indexes: 'zgfqbjldxyjssm',
+    question: '“自古逢秋悲寂寥”的下一句是什么',
+    id: 23363
+  },
+  {
+    answer: '便引诗情到碧霄',
+    indexes: 'qkyhpysdxyjssm',
+    question: '“晴空一鹤排云上”的下一句是什么',
+    id: 23364
+  },
+  {
+    answer: '玉盘珍羞直万钱',
+    indexes: 'jzqjdsqdxyjssm',
+    question: '“金樽清酒斗十千”的下一句是什么',
+    id: 23365
+  },
+  {
+    answer: '忽复乘舟梦日边',
+    indexes: 'xlcdbxsdxyjssm',
+    question: '“闲来垂钓碧溪上”的下一句是什么',
+    id: 23366
+  },
+  {
+    answer: '弹琴复长啸',
+    indexes: 'dzyhldxyjssm',
+    question: '“独坐幽篁里”的下一句是什么',
+    id: 23367
+  },
+  {
+    answer: '明月来相照',
+    indexes: 'slrbzqjxyj',
+    question: '“深林人不知”请接下一句',
+    id: 23368
+  },
+  {
+    answer: '卧薪尝胆',
+    indexes: 'lbgknyglssjezyzlg',
+    question: '李白感慨哪一个历史事件而作《越中览古》',
+    id: 23369
+  },
+  {
+    answer: '花中气节最高坚',
+    indexes: 'xnfhylrdxyjssm',
+    question: '“雪虐风号愈凛然”的下一句是什么',
+    id: 23370
+  },
+  {
+    answer: '耻向东君更乞怜',
+    indexes: 'gszhplqdxyjssm',
+    question: '“过时自会飘零去”的下一句是什么',
+    id: 23371
+  },
+  {
+    answer: '摩诘',
+    indexes: 'wwrcsftdzs',
+    question: '王维人称“诗佛”,他的字是',
+    id: 23372
+  },
+  {
+    answer: '司马青衫',
+    indexes: 'ppxlyxmngcy',
+    question: '《琵琶行》里有下面哪个成语',
+    id: 23373
+  },
+  {
+    answer: '以观沧海',
+    indexes: 'dljsdxyjssm',
+    question: '“东临碣石”的下一句是什么',
+    id: 23374
+  },
+  {
+    answer: '山岛竦峙',
+    indexes: 'shdddxyjssm',
+    question: '“水何澹澹”的下一句是什么',
+    id: 23375
+  },
+  {
+    answer: '百草丰茂',
+    indexes: 'smcsdxyjssm',
+    question: '“树木丛生”的下一句是什么',
+    id: 23376
+  },
+  {
+    answer: '一把辛酸泪',
+    indexes: 'mzhtydxyjssm',
+    question: '“满纸荒唐言”的下一句是什么',
+    id: 23377
+  },
+  {
+    answer: '欧阳修',
+    indexes: 'zwzzzdsxmnwsr',
+    question: '“醉翁”最早指的是下面哪位诗人',
+    id: 23378
+  },
+  {
+    answer: '千里江陵一日还',
+    indexes: 'ccbdcyjdxyjssm',
+    question: '“朝辞白帝彩云间”的下一句是什么',
+    id: 23379
+  },
+  {
+    answer: '轻舟已过万重山',
+    indexes: 'laystbzdxyjsm',
+    question: '“两岸猿声啼不住”的下一句什么',
+    id: 23380
+  },
+  {
+    answer: '胡天八月即飞雪',
+    indexes: 'bfjdbczdxyjssm',
+    question: '“北风卷地白草折”的下一句是什么',
+    id: 23381
+  },
+  {
+    answer: '千树万树梨花开',
+    indexes: 'hryycflxyjssm',
+    question: '“忽如一夜春风来”下一句是什么',
+    id: 23382
+  },
+  {
+    answer: '狐裘不暖锦衾薄',
+    indexes: 'srzlslmxyjssm',
+    question: '“散入珠帘湿罗幕”下一句是什么',
+    id: 23383
+  },
+  {
+    answer: '都护铁衣冷难着',
+    indexes: 'jjjgbdkdxyjssm',
+    question: '“将军角弓不得控”的下一句是什么',
+    id: 23384
+  },
+  {
+    answer: '愁云惨淡万里凝',
+    indexes: 'hhlgbzbxyjssm',
+    question: '“瀚海阑干百丈冰”下一句是什么',
+    id: 23385
+  },
+  {
+    answer: '胡琴琵琶与羌笛',
+    indexes: 'zjzjygkxjssm',
+    question: '“中军置酒饮归客”下句是什么',
+    id: 23386
+  },
+  {
+    answer: '会面安可知',
+    indexes: 'dlzqzdxyjssm',
+    question: '“道路阻且长”的下一句是什么',
+    id: 23387
+  },
+  {
+    answer: '半江瑟瑟半江红',
+    indexes: 'ydcypszdxyjssm',
+    question: '“一道残阳铺水中”的下一句是什么',
+    id: 23388
+  },
+  {
+    answer: '露似珍珠月似弓',
+    indexes: 'kljycsyqjxyj',
+    question: '可怜九月初三夜,请接下一句',
+    id: 23389
+  },
+  {
+    answer: '画楼西畔桂堂东',
+    indexes: 'zyxczyfqjxyj',
+    question: '昨夜星辰昨夜风,请接下一句',
+    id: 23390
+  },
+  {
+    answer: '心有灵犀一点通',
+    indexes: 'swcfsfyqjxyj',
+    question: '身无彩凤双飞翼,请接下一句',
+    id: 23391
+  },
+  {
+    answer: '分曹射覆腊灯红',
+    indexes: 'gzsgcjnqjxyj',
+    question: '隔座送钩春酒暖,请接下一句',
+    id: 23392
+  },
+  {
+    answer: '夜泊秦淮近酒家',
+    indexes: 'ylhsylsdxyjssm',
+    question: '“烟笼寒水月笼沙”的下一句是什么',
+    id: 23393
+  },
+  {
+    answer: '隔江犹唱后庭花',
+    indexes: 'snbzwghdxyjs',
+    question: '“商女不知亡国恨”的下一句是',
+    id: 23394
+  },
+  {
+    answer: '知向谁边',
+    indexes: 'ypwydbjqjxyj',
+    question: '“一片汪洋都不见”请接下一句',
+    id: 23395
+  },
+  {
+    answer: '东临碣石有遗篇',
+    indexes: 'wsyqnwwhbjxyj',
+    question: '“往事越千年魏武挥鞭”,接下一句',
+    id: 23396
+  },
+  {
+    answer: '换了人间',
+    indexes: 'xsqfjysjxyj',
+    question: '“萧瑟秋风今又是”接下一句',
+    id: 23397
+  },
+  {
+    answer: '惊起鸳鸯出浪花',
+    indexes: 'wdaskfjqjxj',
+    question: '“无端岸上狂风急”请接下句',
+    id: 23398
+  },
+  {
+    answer: '欲饮琵琶马上催',
+    indexes: 'ptmjygbqjxj',
+    question: '“葡萄美酒夜光杯”请接下句',
+    id: 23399
+  },
+  {
+    answer: '月明羌笛戍楼间',
+    indexes: 'xjhtmmhxyjssm',
+    question: '“雪净胡天牧马还”,下一句是什么',
+    id: 23400
+  },
+  {
+    answer: '雪上空留马行处',
+    indexes: 'shlzbjjdxyjssm',
+    question: '“山回路转不见君”的下一句是什么',
+    id: 23401
+  },
+  {
+    answer: '浅草才能没马蹄',
+    indexes: 'lhjymrydxyjssm',
+    question: '“乱花渐欲迷人眼”的下一句是什么',
+    id: 23402
+  },
+  {
+    answer: '当须吕布骑',
+    indexes: 'ctwryjxyj',
+    question: '“赤兔无人用”,接下一句',
+    id: 23403
+  },
+  {
+    answer: '中间多少行人泪',
+    indexes: 'ygtxqjsxyj',
+    question: '“郁孤台下清江水”下一句',
+    id: 23404
+  },
+  {
+    answer: '可怜无数山',
+    indexes: 'xbwzaqjxyj',
+    question: '“西北望长安”,请接下一句',
+    id: 23405
+  },
+  {
+    answer: '语不惊人死不休',
+    indexes: 'wrxpdjjxyj',
+    question: '“为人性癖耽佳句”下一句',
+    id: 23406
+  },
+  {
+    answer: '几家欢乐几家愁',
+    indexes: 'yzwwzjzqjxyj',
+    question: '“月子弯弯照九州”请接下一句',
+    id: 23407
+  },
+  {
+    answer: '风泉满清听',
+    indexes: 'syyslqjxyj',
+    question: '“松月夜生凉”请接下一句',
+    id: 23408
+  },
+  {
+    answer: '用箭当用长',
+    indexes: 'wgdwqqjxyj',
+    question: '“挽弓当挽强”,请接下一句',
+    id: 23409
+  },
+  {
+    answer: '擒贼先擒王',
+    indexes: 'srxsmqjxyj',
+    question: '“射人先射马”请接下一句',
+    id: 23410
+  },
+  {
+    answer: '只缘身在最高层',
+    indexes: 'bwfyzwyqjxyj',
+    question: '“不畏浮云遮望眼”请接下一句',
+    id: 23411
+  },
+  {
+    answer: '春江水暖鸭先知',
+    indexes: 'zwthslzdxyjssm',
+    question: '“竹外桃花三两枝”的下一句是什么',
+    id: 23412
+  },
+  {
+    answer: '芳草萋萋鹦鹉洲',
+    indexes: 'qcllhysdxyjs',
+    question: '“晴川历历汉阳树”的下一句是',
+    id: 23413
+  },
+  {
+    answer: '春风不度玉门关',
+    indexes: 'qdhxyyldxyjs',
+    question: '“羌笛何须怨杨柳”的下一句是',
+    id: 23414
+  },
+  {
+    answer: '各领风骚数百年',
+    indexes: 'jsdycrcdxyjssm',
+    question: '“江山代有才人出”的下一句是什么',
+    id: 23415
+  },
+  {
+    answer: '梦回吹角连营',
+    indexes: 'zltdkjdxyjssm',
+    question: '“醉里挑灯看剑”的下一句是什么',
+    id: 23416
+  },
+  {
+    answer: '谁家新燕啄春泥',
+    indexes: 'jczyznsdxjs',
+    question: '“几处早莺争暖树”的下句是',
+    id: 23417
+  },
+  {
+    answer: '铜雀春深锁二乔',
+    indexes: 'dfbyzlbdxyjssm',
+    question: '“东风不与周郎便”的下一句是什么',
+    id: 23418
+  },
+  {
+    answer: '四喜',
+    indexes: 'jhfgltxygzdfhzyjbtmszssdmzssm',
+    question: '“久旱逢甘霖,他乡遇故知。洞房花烛夜,金榜题名时。”这首诗的名字是什么',
+    id: 23419
+  },
+  {
+    answer: '东风无力百花残',
+    indexes: 'xjsnbynqjxyj',
+    question: '“相见时难别亦难”,请接下一句',
+    id: 23420
+  },
+  {
+    answer: '蜡炬成灰泪始干',
+    indexes: 'ccdssfjqjxyj',
+    question: '“春蚕到死丝方尽”,请接下一句',
+    id: 23421
+  },
+  {
+    answer: '夜吟应觉月光寒',
+    indexes: 'xjdcybgqjxyj',
+    question: '“晓镜但愁云鬓改”,请接下一句',
+    id: 23422
+  },
+  {
+    answer: '青鸟殷勤为探看',
+    indexes: 'pscqwdlqjxyj',
+    question: '“蓬山此去无多路”,请接下一句',
+    id: 23423
+  },
+  {
+    answer: '烈火焚烧若等闲',
+    indexes: 'qcwzcssxyj',
+    question: '“千锤万凿出深山”下一句',
+    id: 23424
+  },
+  {
+    answer: '要留清白在人间',
+    indexes: 'fssghbpxyj',
+    question: '“粉身碎骨浑不怕”下一句',
+    id: 23425
+  },
+  {
+    answer: '豆蔻梢头二月初',
+    indexes: 'ppnnssyxyj',
+    question: '“娉娉袅袅十三余”,下一句',
+    id: 23426
+  },
+  {
+    answer: '夏去秋来',
+    indexes: 'cyqylhczsjtsylxr',
+    question: '成语“七月流火”出自《诗经》,它是用来形容',
+    id: 23427
+  },
+  {
+    answer: '灯火即将熄灭',
+    indexes: 'zlxtqbdmrhsnrqzdhlsczdhlssz',
+    question: '“众里寻她千百度。蓦然回首,那人却在灯火阑珊处”中“灯火阑珊“是指',
+    id: 23428
+  },
+  {
+    answer: '晚春',
+    indexes: 'lqzdrmlldlfhssmxsmjjdjx',
+    question: '李清照的《如梦令》里的“绿肥红瘦”是描写什么季节的景象',
+    id: 23429
+  },
+  {
+    answer: '九月',
+    indexes: 'cjdlxyrjnsdshfsbxdrsxwqwbcwjydyfs',
+    question: '“采菊东篱下,悠然见南山“的生活方式被现代人所向往。请问被称为“菊月“的月份是',
+    id: 23430
+  },
+  {
+    answer: '冬天',
+    indexes: 'sjhryycflqswslhkmxdsngjjdjs',
+    question: '诗句“忽如一夜春风来,千树万树梨花开”描写的是哪个季节的景色',
+    id: 23431
+  },
+  {
+    answer: '寒食节',
+    indexes: 'qmsjyfflsxrydhqwwgdqmjydzdchxlnyzbs',
+    question: '“清明时节雨纷纷,路上行人欲断魂”,请问,我国对清明节有多种的称呼,下列哪一种不是',
+    id: 23432
+  },
+  {
+    answer: '重阳',
+    indexes: 'dzyxwykmfjjbsqyzxddgcbczysyrzsgsmxlwgmjygctjldqjzgctjls',
+    question:
+      '“独在异乡为异客,每逢佳节倍思亲。遥知兄弟登高处,编插茱萸少一人。”这首古诗描写了我国民间一个传统节令的情景。这个传统节令是',
+    id: 23433
+  },
+  {
+    answer: '女子十三四岁',
+    indexes: 'jkczdkcgqlmhnfsqzdkz',
+    question: '姜夔词“纵豆蔻词工,青楼梦好,难赋深情”中“豆蔻”指',
+    id: 23434
+  },
+  {
+    answer: '孔明、张飞、颜良',
+    indexes: 'xlmyzbtgzljwzxmttdyngrwygqxzmdzqdyz',
+    question: '下列谜语“凿壁偷光,嘴里进蚊子,相貌堂堂”都与哪个人物有关?请选择谜底正确的一组',
+    id: 23435
+  },
+  {
+    answer: '雷同、张苞、田丰',
+    indexes: 'xlmyymyytlfcddzdyngrwygqxzmdzqdyz',
+    question: '下列谜语“一模一样,桃李逢春,大地主”都与哪个人物有关?请选择谜底正确的一组。',
+    id: 23436
+  },
+  {
+    answer: '高览、蒋干、徐晃',
+    indexes: 'xlmygsyclpbmmydyngrwygqxzmdzqdyz',
+    question: '下列谜语“更上一层楼,碰杯,慢慢摇”都与哪个人物有关?请选择谜底正确的一组。',
+    id: 23437
+  },
+  {
+    answer: '刘表、法正、周仓',
+    indexes: 'xlmyhcwssffmsmtldyngrwygqxzmdzqdyz',
+    question: '下列谜语“汉朝文书,赏罚分明,四面屯粮”都与哪个人物有关?请选择谜底正确的一组。',
+    id: 23438
+  },
+  {
+    answer: '苦肉计',
+    indexes: 'wylydscddzdgczmyyntjc',
+    question: '王允利用貂禅除掉董卓的过程中没有用哪条计策',
+    id: 23439
+  },
+  {
+    answer: '刘备字玄德,曹操字孟德,张飞字翼德',
+    indexes: 'gysgyyzqdyxs',
+    question: '关于《三国演义》,正确的一项是',
+    id: 23440
+  },
+  {
+    answer: '魏延',
+    indexes: 'lbsbdwhsjmys',
+    question: '刘备身边的五虎上将没有谁',
+    id: 23441
+  },
+  {
+    answer: '关羽',
+    indexes: 'yxssylbsbdwhsj',
+    question: '以下谁属于刘备身边的“五虎上将”',
+    id: 23442
+  },
+  {
+    answer: '马超',
+    indexes: 'yxssylbsbdwhsj',
+    question: '以下谁属于刘备身边的“五虎上将”',
+    id: 23443
+  },
+  {
+    answer: '黄忠',
+    indexes: 'yxssylbsbdwhsj',
+    question: '以下谁属于刘备身边的“五虎上将”',
+    id: 23444
+  },
+  {
+    answer: '张飞',
+    indexes: 'yxssylbsbdwhsj',
+    question: '以下谁属于刘备身边的“五虎上将”',
+    id: 23445
+  },
+  {
+    answer: '赵云',
+    indexes: 'yxssylbsbdwhsj',
+    question: '以下谁属于刘备身边的“五虎上将”',
+    id: 23446
+  },
+  {
+    answer: '司马懿',
+    indexes: 'zglkysfgdssfzsr',
+    question: '诸葛亮困于上方谷的是谁父子三人',
+    id: 23447
+  },
+  {
+    answer: '董卓',
+    indexes: 'qlchqqsrbbdszhr',
+    question: '“千里草,何青青!十日卜,不得生!”指何人',
+    id: 23448
+  },
+  {
+    answer: '张飞',
+    indexes: 'zbpyzzbwjcycwwrddss',
+    question: '长坂坡一战中,被魏将程昱称为“万人敌”的是谁',
+    id: 23449
+  },
+  {
+    answer: '火烧博望坡',
+    indexes: 'zglccmldycycwwzzjsqlzwdzys',
+    question: '诸葛亮初出茅庐第一次“运筹帷幄之中,决胜千里之外”的战役是',
+    id: 23450
+  },
+  {
+    answer: '甘',
+    indexes: 'lbclmslwfrhyyws',
+    question: '刘备除了糜、孙两位夫人,还有一位是',
+    id: 23451
+  },
+  {
+    answer: '赤兔马',
+    indexes: 'gyzlkccswydzdccdzws',
+    question: '关羽在离开曹操时唯一带走的曹操的赠物是',
+    id: 23452
+  },
+  {
+    answer: '刘备',
+    indexes: 'csgxmngqemxdss',
+    question: '“垂手过膝,目能顾其耳。”描写的是谁',
+    id: 23453
+  },
+  {
+    answer: '曲阿',
+    indexes: 'sjzyhc',
+    question: '孙坚葬于何处',
+    id: 23454
+  },
+  {
+    answer: '吕布袭破衮州,使曹操腹背受敌',
+    indexes: 'ccwhfqldycgdxz',
+    question: '曹操为何放弃了第一次攻打徐州?',
+    id: 23455
+  },
+  {
+    answer: '26',
+    indexes: 'scgsdnl',
+    question: '孙策过世的年龄?',
+    id: 23456
+  },
+  {
+    answer: '袁术',
+    indexes: 'zjlyxhlbyjjswjktl',
+    question: '煮酒论英雄后,刘备以截击谁为借口逃离?',
+    id: 23457
+  },
+  {
+    answer: '司马徽',
+    indexes: 'sjxsss',
+    question: '“水镜先生”是谁?',
+    id: 23458
+  },
+  {
+    answer: '孙权',
+    indexes: 'fydkbyzbmxdss',
+    question: '“方颐大口,碧眼紫鬓”描写的是谁',
+    id: 23459
+  },
+  {
+    answer: '王允',
+    indexes: 'wyfdzsxdzbsbmds',
+    question: '?未因废帝之事向董卓表示不满的是?',
+    id: 23460
+  },
+  {
+    answer: '汉献帝',
+    indexes: 'dygcgysmrgdss',
+    question: '第一个称关羽是美髯公的是谁',
+    id: 23461
+  },
+  {
+    answer: '卧牛山',
+    indexes: 'zcpjdstjsmmz',
+    question: '周仓盘踞的山头叫什么名字?',
+    id: 23462
+  },
+  {
+    answer: '曹丕',
+    indexes: 'hsdbhrfc',
+    question: '汉少帝被何人废黜?',
+    id: 23463
+  },
+  {
+    answer: '张武骑着赤兔马对阵赵云',
+    indexes: 'pzzwzsxhedssgzdcbzryybsmqwngsczbscwd',
+    question: '潘璋,张武,张松,夏侯恩都是三国中的“持宝之人”,也因“宝”丧命,请问哪个所持之宝是错误的',
+    id: 23464
+  },
+  {
+    answer: '兀突',
+    indexes: 'tjbdldss',
+    question: '藤甲兵的老大是谁?',
+    id: 23465
+  },
+  {
+    answer: '曹操',
+    indexes: 'njwftxrbjtxrfwsssd',
+    question: '“宁教我负天下人,不叫天下人负我”是谁说的?',
+    id: 23466
+  },
+  {
+    answer: '子恒',
+    indexes: 'cpzsm',
+    question: '曹丕字什么?',
+    id: 23467
+  },
+  {
+    answer: '王修',
+    indexes: 'yxsbssqzmdnr',
+    question: '以下谁不是孙权招募的能人?',
+    id: 23468
+  },
+  {
+    answer: '夏侯惇',
+    indexes: 'nsscsxwyrrqssztywfmxdss',
+    question: '“年十四从师学武,有人辱其师,杀之,逃于外方。”描写的是谁?',
+    id: 23469
+  },
+  {
+    answer: '贾诩',
+    indexes: 'zxzsdqsxtjl',
+    question: '张绣在谁的劝说下投降了?',
+    id: 23470
+  },
+  {
+    answer: '蔡阳',
+    indexes: 'gyfylqhsxccqy',
+    question: '关羽封印离去后,谁向曹操请缨?',
+    id: 23471
+  },
+  {
+    answer: '下邳',
+    indexes: 'bmlznl',
+    question: '白门楼在哪里?',
+    id: 23472
+  },
+  {
+    answer: '左将军',
+    indexes: 'lbzydzsqmsdgxs',
+    question: '刘备在衣带诏上签名时的官衔是?',
+    id: 23473
+  },
+  {
+    answer: '董承',
+    indexes: 'ssslxddydchdfcc',
+    question: '是谁收了献帝的衣带策划对付曹操?',
+    id: 23474
+  },
+  {
+    answer: '关定',
+    indexes: 'gpssdez',
+    question: '关平是谁的儿子?',
+    id: 23475
+  },
+  {
+    answer: '刘表',
+    indexes: 'lbzrndbhtks',
+    question: '刘备在汝南大败后投靠谁?',
+    id: 23476
+  },
+  {
+    answer: '益州',
+    indexes: 'bzglywtfzgds',
+    question: '被诸葛亮誉为“天府之国”的是?',
+    id: 23477
+  },
+  {
+    answer: '袁绍',
+    indexes: 'tfdzlmdmzs',
+    question: '讨伐董卓联盟的盟主是?',
+    id: 23478
+  },
+  {
+    answer: '田丰',
+    indexes: 'wysgdzbhzyzzsdysmsss',
+    question: '闻袁绍官渡战败后,在狱中自杀的袁绍谋士是谁?',
+    id: 23479
+  },
+  {
+    answer: '孔秀,韩福,孟坦,王植,卞喜,秦琪',
+    indexes: 'gygwgzljzdsnlj',
+    question: '关羽过五官斩六将,斩的是哪六将?',
+    id: 23480
+  },
+  {
+    answer: '张辽',
+    indexes: 'ylbgylbtxccds',
+    question: '由刘备、关羽力保投向曹操的是?',
+    id: 23481
+  },
+  {
+    answer: '郭嘉',
+    indexes: 'ccwdldytzbgdss',
+    question: '曹操为定辽东,于途中病故的是谁?',
+    id: 23482
+  },
+  {
+    answer: '张绣',
+    indexes: 'cczwcdbyszldj',
+    question: '曹操在宛城大败于谁,折了大将?',
+    id: 23483
+  },
+  {
+    answer: '曹仁',
+    indexes: 'sywlklxbcqbgd',
+    question: '谁欲为吕旷吕翔报仇起兵攻打?',
+    id: 23484
+  },
+  {
+    answer: '李肃',
+    indexes: 'sstdzsjllb',
+    question: '是谁替董卓说降了吕布?',
+    id: 23485
+  },
+  {
+    answer: '甘宁',
+    indexes: 'xlbssczgjlzssfddjs',
+    question: '下列不是孙策在攻击刘繇时收服的大将是',
+    id: 23486
+  },
+  {
+    answer: '张辽',
+    indexes: 'ccpssflgytj',
+    question: '曹操派谁说服了关羽投降?',
+    id: 23487
+  },
+  {
+    answer: '关羽',
+    indexes: 'szjcmrhzmswcysdfywmyslczdhxzxqpdgxdwfllzdhxds',
+    question:
+      '“身长九尺,面如红枣,眉似卧蚕,一双丹凤眼,威猛有神,两尺长的胡须,在胸前飘荡,更显得威风凛凛。”这段话写的是',
+    id: 23488
+  },
+  {
+    answer: '董卓',
+    indexes: 'ccxqxbdswlsss',
+    question: '曹操献七星宝刀,是为了杀死谁?',
+    id: 23489
+  },
+  {
+    answer: '方天画戟',
+    indexes: 'lbdbqssm',
+    question: '吕布的兵器是什么?',
+    id: 23490
+  },
+  {
+    answer: '刘备和袁绍',
+    indexes: 'ymsjslbswldhshsdzz',
+    question: '辕门射戟时,吕布是为了调和谁和谁的战争?',
+    id: 23491
+  },
+  {
+    answer: '袁绍和曹操',
+    indexes: 'gdzzfszshszj',
+    question: '官渡之战发生在谁和谁之间?',
+    id: 23492
+  },
+  {
+    answer: '刘、孙联军和曹操',
+    indexes: 'cbzzfszshszj',
+    question: '赤壁之战发生在谁和谁之间?',
+    id: 23493
+  },
+  {
+    answer: '赵云、张飞、关羽',
+    indexes: 'ccbzhrdsxhydls',
+    question: '曹操败走华容道时,先后遇到了谁?',
+    id: 23494
+  },
+  {
+    answer: '第一个',
+    indexes: 'zgljzydjnzbzlbqdsfrdsdjg',
+    question: '诸葛亮给赵云的锦囊中,帮助刘备取到孙夫人的是第几个?',
+    id: 23495
+  },
+  {
+    answer: '许邵',
+    indexes: 'sspjccszsznclszjx',
+    question: '是谁评价曹操是“治世之能臣,乱世之奸雄”',
+    id: 23496
+  },
+  {
+    answer: '刘备',
+    indexes: 'lyzsz',
+    question: '刘豫州是指?',
+    id: 23497
+  },
+  {
+    answer: '27',
+    indexes: 'zglcssyddnl',
+    question: '诸葛亮出山时有多大年龄?',
+    id: 23498
+  },
+  {
+    answer: '夏侯惇',
+    indexes: 'bmhxcwwtjjds',
+    question: '被祢衡戏称为“完体将军”的是?',
+    id: 23499
+  },
+  {
+    answer: '凤仪亭',
+    indexes: 'lbdczhcxhbdzzj',
+    question: '吕布、貂婵在何处相会被董卓撞见?',
+    id: 23500
+  },
+  {
+    answer: '马岱',
+    indexes: 'wybhrss',
+    question: '魏延被何人所杀',
+    id: 23501
+  },
+  {
+    answer: '公元200年',
+    indexes: 'sgsgdzzfsz',
+    question: '三国时官渡之战发生在',
+    id: 23502
+  },
+  {
+    answer: '虎牢关',
+    indexes: 'sgyyzsyzlbdgsfsz',
+    question: '《三国演义》中“三英战吕布”的故事发生在',
+    id: 23503
+  },
+  {
+    answer: '桃园三结义',
+    indexes: 'xlsgyydqjzyzglwgdy',
+    question: '下列《三国演义》的情节中,与诸葛亮无关的有',
+    id: 23504
+  },
+  {
+    answer: '诸葛亮',
+    indexes: 'zrydszgdgllbbzjbzybsbzs',
+    question: '在“如鱼得水”这个典故里,刘备把自己比做“鱼”,把谁比作“水”?',
+    id: 23505
+  },
+  {
+    answer: '黄盖',
+    indexes: 'cbzzzjztjyjjcjdwgjls',
+    question: '赤壁之战中假装投降以接近曹军的吴国将领是?',
+    id: 23506
+  },
+  {
+    answer: '庞统',
+    indexes: 'sgyyfcs',
+    question: '《三国演义》凤雏是',
+    id: 23507
+  },
+  {
+    answer: '孙策',
+    indexes: 'sgyyzssbczxbw',
+    question: '《三国演义》中是谁被称作小霸王',
+    id: 23508
+  },
+  {
+    answer: '诸葛亮',
+    indexes: 'sgzbcwzjds',
+    question: '三国中被称为“智绝”的是',
+    id: 23509
+  },
+  {
+    answer: '曹操',
+    indexes: 'sgzbcwjjds',
+    question: '三国中被称为“奸绝”的是',
+    id: 23510
+  },
+  {
+    answer: '甘宁',
+    indexes: 'slbrjcybsybyj',
+    question: '谁率百人劫曹营,不损一兵一将',
+    id: 23511
+  },
+  {
+    answer: '诸葛亮',
+    indexes: 'yztdsfdyjrmlcsmxdsnglsrw',
+    question: '“已知天定三分鼎,犹竭人谋六出师”描写的是哪个历史人物?',
+    id: 23512
+  },
+  {
+    answer: '陆逊',
+    indexes: 'hslyqbldwjss',
+    question: '火烧连营七百里的吴将是谁?',
+    id: 23513
+  },
+  {
+    answer: '彝陵之战、赤壁之战、官渡之战',
+    indexes: 'sgyyzzzydsdzys',
+    question: '《三国演义》中最主要的三大战役是',
+    id: 23514
+  },
+  {
+    answer: '范疆、张达',
+    indexes: 'czfjzejqssds',
+    question: '趁张飞酒醉而将其杀死的是?',
+    id: 23515
+  },
+  {
+    answer: '刘禅',
+    indexes: 'hzzs',
+    question: '后主指谁',
+    id: 23516
+  },
+  {
+    answer: '120',
+    indexes: 'wgsdmzzydsgyygydsh',
+    question: '我国四大名著之一的《三国演义》共有多少回?',
+    id: 23517
+  },
+  {
+    answer: '马谡',
+    indexes: 'zglscfwsyysddysljtegbccd',
+    question: '诸葛亮首次伐魏时由于谁的大意失了街亭而功败垂成的',
+    id: 23518
+  },
+  {
+    answer: '仲颖',
+    indexes: 'dzdzs',
+    question: '董卓的字是',
+    id: 23519
+  },
+  {
+    answer: '孙策',
+    indexes: 'jscslhzhds',
+    question: '箭射陈生、力喝张虎的是',
+    id: 23520
+  },
+  {
+    answer: '祢衡',
+    indexes: 'zcskyzjwysxkydpykmds',
+    question: '自称“上可以致君为尧舜,下可以德配于孔孟”的是',
+    id: 23521
+  },
+  {
+    answer: '程普',
+    indexes: 'bsqfwtcfddds',
+    question: '被孙权封为“讨曹副都督”的是',
+    id: 23522
+  },
+  {
+    answer: '曹操',
+    indexes: 'bmczgegfqpds',
+    question: '被马超追赶而割发弃袍的是',
+    id: 23523
+  },
+  {
+    answer: '秦宓',
+    indexes: 'zyjyzwddtsyxqaq',
+    question: '在宴间与张温对答天事以削其傲气',
+    id: 23524
+  },
+  {
+    answer: '曹真',
+    indexes: 'smybcrgqbqsjsxrt',
+    question: '司马懿被曹睿革去兵权时,仅谁信任他',
+    id: 23525
+  },
+  {
+    answer: '满宠',
+    indexes: 'sstccsjlxh',
+    question: '是谁替曹操说降了徐晃',
+    id: 23526
+  },
+  {
+    answer: '张飞断桥而去',
+    indexes: 'ccchssddzfzzbqsgbyz',
+    question: '曹操从何事上断定张飞在长坂桥是故布疑阵',
+    id: 23527
+  },
+  {
+    answer: '张松',
+    indexes: 'yyzsdgmsblzss',
+    question: '由于张肃的告密,谁被刘璋所杀',
+    id: 23528
+  },
+  {
+    answer: '马良',
+    indexes: 'gyzggldszysyqxq',
+    question: '关羽在刮骨疗毒时,在与谁一起下棋',
+    id: 23529
+  },
+  {
+    answer: '刘晔',
+    indexes: 'jxbncwfsssrjs',
+    question: '建兴八年曹魏伐蜀时,谁任军师',
+    id: 23530
+  },
+  {
+    answer: '长安',
+    indexes: 'dzbtfdjdbhjdqd',
+    question: '董卓被讨伐大军打败后决定迁都',
+    id: 23531
+  },
+  {
+    answer: '仲达',
+    indexes: 'smyzsm',
+    question: '司马懿字什么',
+    id: 23532
+  },
+  {
+    answer: '邓艾',
+    indexes: 'stdlypxdtxlcd',
+    question: '谁偷渡了阴平小道突袭了成都',
+    id: 23533
+  },
+  {
+    answer: '麦城',
+    indexes: 'gyzcsljjjxsljzzhtjddfs',
+    question: '关羽在曹、孙两军夹击下失了荆州,最后退拒的地方是',
+    id: 23534
+  },
+  {
+    answer: '周舫',
+    indexes: 'szjcwydfydcxxredpcjd',
+    question: '谁诈降曹魏,以断发赢得曹休信任而大破曹军的',
+    id: 23535
+  },
+  {
+    answer: '魏延',
+    indexes: 'zglrwssyfxylqyeyz',
+    question: '诸葛亮认为谁素有反相,因怜其勇而用之',
+    id: 23536
+  },
+  {
+    answer: '张允',
+    indexes: 'cczlzyzjwzlssddcmhs',
+    question: '曹操中了周瑜之计误斩了水师都督蔡瑁和谁',
+    id: 23537
+  },
+  {
+    answer: '献帝',
+    indexes: 'dzsldlxsc',
+    question: '董卓所立的刘协史称',
+    id: 23538
+  },
+  {
+    answer: '刘备携夫人逃回荆州',
+    indexes: 'shszceqzy',
+    question: '是何事造成“二气周瑜”',
+    id: 23539
+  },
+  {
+    answer: '关羽',
+    indexes: 'sgzbcwyjds',
+    question: '三国中被称为“义绝”的是',
+    id: 23540
+  },
+  {
+    answer: '三个',
+    indexes: 'mcjghddynjwd',
+    question: '明朝几个皇帝的以南京为都?',
+    id: 23541
+  },
+  {
+    answer: '陈友谅',
+    indexes: 'hjjxshbsss',
+    question: '红巾军徐寿辉被谁杀死?',
+    id: 23542
+  },
+  {
+    answer: '《望海潮》',
+    indexes: 'sqgzslhhczynsc',
+    question: '“三秋桂子,十里荷花”出自于哪首词?',
+    id: 23543
+  },
+  {
+    answer: '姒',
+    indexes: 'yjlxchxsm',
+    question: '禹建立夏朝后姓什么?',
+    id: 23544
+  },
+  {
+    answer: '黎元洪',
+    indexes: 'wcqy1911n10y10rhsbbwhbjzfdd',
+    question: '武昌起义(1911年10月10日)后谁被逼为湖北军政府都督?',
+    id: 23545
+  },
+  {
+    answer: '皇太极',
+    indexes: 'dqdghsnwqchddd',
+    question: '“大清”的国号是哪位清朝皇帝定的?',
+    id: 23546
+  },
+  {
+    answer: '渡江',
+    indexes: '19471949zgrmjfjjxlsnjfzznygbsysdzy',
+    question: '1947—1949中国人民解放军进行了三年解放战争。哪一个不属于三大战役?',
+    id: 23547
+  },
+  {
+    answer: '陆秀夫',
+    indexes: 'bsdxhdsyzzbbycbdztwlbnwdcbzthes',
+    question: '八岁的小皇帝宋幼主赵昺被元朝逼的走投无路,被哪位大臣背着跳海而死?',
+    id: 23548
+  },
+  {
+    answer: '共和',
+    indexes: 'zgzglwzxgtglzwcwsm',
+    question: '召公、周公两位宰相共同管理政务,称为什么?',
+    id: 23549
+  },
+  {
+    answer: '明熹宗',
+    indexes: 'wzxsznghddzqjlz',
+    question: '魏忠贤是在哪个皇帝当政期间乱政?',
+    id: 23550
+  },
+  {
+    answer: '唐文宗',
+    indexes: 'tcnwhdzwqjfslglzb',
+    question: '唐朝哪位皇帝在位期间发生了甘露之变?',
+    id: 23551
+  },
+  {
+    answer: '马嵬驿',
+    indexes: 'ygfszsmdf',
+    question: '杨贵妃死在什么地方?',
+    id: 23552
+  },
+  {
+    answer: '巫蛊案',
+    indexes: 'mgsdabbhnya',
+    question: '明宫三大案不包含哪一案?',
+    id: 23553
+  },
+  {
+    answer: '霍光',
+    indexes: 'hxdksdzcdsdw',
+    question: '汉宣帝靠谁的支持登上帝位?',
+    id: 23554
+  },
+  {
+    answer: '苏角',
+    indexes: 'xypfczsls',
+    question: '项羽破釜沉舟杀了谁?',
+    id: 23555
+  },
+  {
+    answer: '靖康之变',
+    indexes: 'gy1127njgjdgrkfshzsqzbfscsm',
+    question: '公元1127年,金国军队攻入开封,宋徽宗、宋钦宗被俘,史称什么?',
+    id: 23556
+  },
+  {
+    answer: '土藩',
+    indexes: 'tghzzywsdqxjznqcwtdsm',
+    question: '吐谷浑最终因为谁的侵袭举族内迁成为唐的属民?',
+    id: 23557
+  },
+  {
+    answer: '李猪儿',
+    indexes: 'alsszsdsl',
+    question: '安禄山死在谁的手里?',
+    id: 23558
+  },
+  {
+    answer: '安定王',
+    indexes: 'qccndsfzlbbhng',
+    question: '清朝初年的“三藩之乱”不包含哪个?',
+    id: 23559
+  },
+  {
+    answer: '周穆王',
+    indexes: 'snwztzyxyklhwmdcs',
+    question: '是哪位周天子有西游昆仑会王母的传说?',
+    id: 23560
+  },
+  {
+    answer: '王导',
+    indexes: 'wymgtxldwzdss',
+    question: '“王与马,共天下”里的王指的是谁?',
+    id: 23561
+  },
+  {
+    answer: '诗',
+    indexes: 'skqsdnrssfffdaznrflngbsqzdsbfl',
+    question: '《四库全书》的内容是十分丰富的。按照内容分类,哪个不是其中的四部分类?',
+    id: 23562
+  },
+  {
+    answer: '鲁隐公',
+    indexes: 'zcjyclgnwgjks',
+    question: '《左传》纪元从鲁国哪位国君开始?',
+    id: 23563
+  },
+  {
+    answer: '李清照',
+    indexes: 'sdzrjsywgxzjsxybkgjdsssd',
+    question: '生当作人杰,死亦为鬼雄,至今思项羽,不肯过江东。是谁说的?',
+    id: 23564
+  },
+  {
+    answer: '张郃',
+    indexes: 'sgsqmsczjtyzbjnwwgdj',
+    question: '三国时期马谡曾在街亭一战败给哪位魏国大将?',
+    id: 23565
+  },
+  {
+    answer: '儒家思想',
+    indexes: 'grswszzymdghyqddsjszxdnszdjhzyzyzzsysmsx',
+    question:
+      '古人所谓“慎终追远,民德归厚矣”,强调的是祭祀祖先、悼念死者的教化作用。这一主张属于什么思想?',
+    id: 23566
+  },
+  {
+    answer: '唐三彩',
+    indexes: 'tcgjygzkwszcqlhszyldcstqcw',
+    question: '唐朝工匠用各种矿物烧制出青、绿、黄三种艳丽的彩色陶器称为?',
+    id: 23567
+  },
+  {
+    answer: '103',
+    indexes: 'wxbfcxljt',
+    question: '“戊戌变法”持续了几天?',
+    id: 23568
+  },
+  {
+    answer: '北京',
+    indexes: 'zyzjlmchmcddnjhlmczbdcyqdnl',
+    question: '朱元璋建立明朝后,明初定都南京,后来明成祖把都城有迁到那里?',
+    id: 23569
+  },
+  {
+    answer: '多尔衮',
+    indexes: 'qszdnzshwzysddsdzc',
+    question: '清顺治帝能坐上皇位主要是得到谁的支持?',
+    id: 23570
+  },
+  {
+    answer: '琵琶',
+    indexes: 'gdlcdmqsmmfzyynzlqyz',
+    question: '古代流传的名曲“十面埋伏”主要由哪种乐器演奏?',
+    id: 23571
+  },
+  {
+    answer: '清朝',
+    indexes: 'fcztypxxyfwdxcdcyyppjwaxbjyszyqjzshzzkncxyngcd',
+    question:
+      '“番菜争推一品香,西洋风味睹先尝。刀叉耀眼盆盘洁,我爱香槟酒一觞。”这一情景在上海最早可能出现于哪个朝代?',
+    id: 23572
+  },
+  {
+    answer: '秤砣',
+    indexes: 'tqsgdcjdjsqwhlbscwsm',
+    question: '“铜权”是古代常见的金属器物,后来被俗称为什么?',
+    id: 23573
+  },
+  {
+    answer: '李冰',
+    indexes: 'zggdmxslgcxjhddcxlshcrbzjjswhntxwztfdjxgslgcdsjzss',
+    question:
+      '中国古代某项水利工程兴建后,当地出现了“水旱从人,不知饥馑,时无荒年,天下谓之天府”的景象。该水利工程的始建者是谁?',
+    id: 23574
+  },
+  {
+    answer: '三次',
+    indexes: 'sydygjwhcjcqtfgl',
+    question: '隋炀帝(杨广)即位后,曾几次去讨伐高丽?',
+    id: 23575
+  },
+  {
+    answer: '国风',
+    indexes: 'gsfyszdfszsm',
+    question: '古诗“风、雅、颂”中的“风”是指什么?',
+    id: 23576
+  },
+  {
+    answer: '三公',
+    indexes: 'hcdxzbjjgypqjjwdsmysdfwdskflhfrcxbzzsmzdkssx',
+    question:
+      '汉成帝下诏罢将军官,以骠骑将军为大司马,御史大夫为大司空,封列侯,俸如丞相,标志着什么制的开始实行?',
+    id: 23577
+  },
+  {
+    answer: '1842',
+    indexes: 'njtysmshqddnyr',
+    question: '《南京条约》什么时候签定的?(年月日)',
+    id: 23578
+  },
+  {
+    answer: '共和制',
+    indexes: '1915ndlqczyzswgtwtzzbszxxgtzxesyylgctzgtzwlhsjfdzgwywhdgtssmz',
+    question:
+      '1915年底,梁启超在《异哉所谓国体问题者》中表示:“在现行国体之下,而思以言论鼓吹他种国体,则无论何时皆反对之。”该文要维护的“国体”是什么制?',
+    id: 23579
+  },
+  {
+    answer: '阴丽华',
+    indexes: 'dhmddmqjsm',
+    question: '东汉明帝的母亲叫什么?',
+    id: 23580
+  },
+  {
+    answer: '攻守同盟',
+    indexes: 'sqhzyygghzygglhtmbczjsxxclsm',
+    question: '苏秦和张仪一个搞合纵,一个搞连横,他们彼此之间首先行成了什么?',
+    id: 23581
+  },
+  {
+    answer: '隐太子',
+    indexes: 'lsmjwhzfljcwxwsyzgslnwyyzzwsm',
+    question: '李世民继位后,追封李建成为息王,谥“隐”,贞观十六年五月,又追赠为什么?',
+    id: 23582
+  },
+  {
+    answer: '钦宗',
+    indexes: 'bsdzhyghdss',
+    question: '北宋的最后一个皇帝是谁?',
+    id: 23583
+  },
+  {
+    answer: '孔祠',
+    indexes: 'skskzglsdqfsgtsdfdjcbbhyxng',
+    question: '“三孔”是孔子故里山东曲阜三个特殊地方的简称,不包含以下哪个?',
+    id: 23584
+  },
+  {
+    answer: '二十',
+    indexes: 'tdgcyjghdbhwzt',
+    question: '唐代共传有几个皇帝(不含武则天)?',
+    id: 23585
+  },
+  {
+    answer: '叔孙通',
+    indexes: 'sdlbsrswfjlzgdkyzltx',
+    question: '谁对刘邦说:“儒生无法建立战功,但可以治理天下。”',
+    id: 23586
+  },
+  {
+    answer: '契丹',
+    indexes: 'sjtdlhdzhjyyslzgrjs',
+    question: '石敬瑭当了皇帝之后,将燕云十六州割让给谁?',
+    id: 23587
+  },
+  {
+    answer: '宋恭帝',
+    indexes: 'hblxlrscdnwhddxzcj',
+    question: '忽必烈下令让宋朝的哪位皇帝到西藏出家?',
+    id: 23588
+  },
+  {
+    answer: '人与人的关系',
+    indexes: 'kmxszytldsgx',
+    question: '孔孟学说主要讨论的是关系?',
+    id: 23589
+  },
+  {
+    answer: '孙子',
+    indexes: 'zxshddsmr',
+    question: '颛顼是黄帝的什么人?',
+    id: 23590
+  },
+  {
+    answer: '朱全忠',
+    indexes: 'sjsltc',
+    question: '谁结束了唐朝?',
+    id: 23591
+  },
+  {
+    answer: '猪王',
+    indexes: 'smdlybqfdlzyxcwsmw',
+    question: '宋明帝刘彧被前废帝刘子业戏称为什么王?',
+    id: 23592
+  },
+  {
+    answer: '李广',
+    indexes: 'tzwqsdmjbbhs',
+    question: '唐中晚期三大名将不包含谁?',
+    id: 23593
+  },
+  {
+    answer: '唐末帝',
+    indexes: 'sjtjzldslmhtshtdhdss',
+    question: '石敬瑭借助辽的势力灭后唐时,后唐的皇帝是谁?',
+    id: 23594
+  },
+  {
+    answer: '长孙无忌',
+    indexes: 'lyg24gcsjsw',
+    question: '凌烟阁24功臣,谁居首位?',
+    id: 23595
+  },
+  {
+    answer: '豹',
+    indexes: 'bysjbbywszdwwsnszdw',
+    question: '北洋三杰被比喻为三种动物,问是哪三种动物?',
+    id: 23596
+  },
+  {
+    answer: '博尔济吉特氏',
+    indexes: 'qcdzfxsm',
+    question: '清朝的庄妃姓什么?',
+    id: 23597
+  },
+  {
+    answer: '李膺和杜密',
+    indexes: 'dhsqmsfpryqmsjdyldqmsyhhqzldfbzs',
+    question: '东汉时期,名士范滂入狱,其母说:“今得与李杜齐名,死亦何恨?”其中李杜分别指谁?',
+    id: 23598
+  },
+  {
+    answer: '陆羽',
+    indexes: 'zglssdsrzcsss',
+    question: '中国历史上的圣人中,“茶圣”是谁?',
+    id: 23599
+  },
+  {
+    answer: '魏征',
+    indexes: 'ttzpszbss',
+    question: '唐太宗派谁主编《隋书》?',
+    id: 23600
+  },
+  {
+    answer: '刘铭传',
+    indexes: 'twsrxfss',
+    question: '台湾首任巡抚是谁?',
+    id: 23601
+  },
+  {
+    answer: '柳永',
+    indexes: 'sqgzslhhssxxdc',
+    question: '“三秋桂子,十里荷花”是谁写下的词?',
+    id: 23602
+  },
+  {
+    answer: '明武宗',
+    indexes: 'hrsmczmdqgtcsznyghdzznj',
+    question: '海瑞是明朝著名的清官,他出生在哪一个皇帝执政年间?',
+    id: 23603
+  },
+  {
+    answer: '陇西郡公',
+    indexes: 'lhzlytjhstzzgyfcdlydjwywmhgfwsm',
+    question: '李后主(李煜)投降后,宋太宗(赵光义)废除掉李煜的爵位,由违命侯改封为什么?',
+    id: 23604
+  },
+  {
+    answer: '皇太弟',
+    indexes: 'twzlysysmsfjhwd',
+    question: '唐武宗李炎是以什么身份即皇位的?',
+    id: 23605
+  },
+  {
+    answer: '黄初',
+    indexes: 'ccshcpcdddlyjysmnh',
+    question: '曹操死后,曹丕称帝,定都洛阳,建元什么(年号)?',
+    id: 23606
+  },
+  {
+    answer: '唐高宗',
+    indexes: 'xtjmwytcnghdzzsq',
+    question: '西突厥灭亡于唐朝哪个皇帝执政时期?',
+    id: 23607
+  },
+  {
+    answer: '《神农本草经》',
+    indexes: 'wgzzdybywxzzssm',
+    question: '我国最早的一部药物学著作是什么?',
+    id: 23608
+  },
+  {
+    answer: '纪晓岚',
+    indexes: 'skqsdzzgss',
+    question: '《四库全书》的总撰官是谁?',
+    id: 23609
+  },
+  {
+    answer: '司马懿',
+    indexes: 'csssgwgddjjsssltn',
+    question: '曹爽是三国魏国的大将军,是谁杀了他呢?',
+    id: 23610
+  },
+  {
+    answer: '日记体',
+    indexes: 'xxkyjysmxswzdzgdlmz',
+    question: '《徐霞客游记》以什么形式为主的中国地理名著?',
+    id: 23611
+  },
+  {
+    answer: '青苗法',
+    indexes: 'wasbfznyflybczcpjlf',
+    question: '王安石变法中,哪一法令又被称作“常平给敛法”?',
+    id: 23612
+  },
+  {
+    answer: '北周',
+    indexes: 'swdyjbsngzqdhqhjsts',
+    question: '隋文帝杨坚本是哪个政权的皇亲和军事统帅?',
+    id: 23613
+  },
+  {
+    answer: '宋神宗',
+    indexes: 'shzdfqss',
+    question: '宋徽宗的父亲是谁?',
+    id: 23614
+  },
+  {
+    answer: '汉',
+    indexes: 'zgdygqswgdcdsnc',
+    question: '中国第一个强盛稳固的朝代是哪朝?',
+    id: 23615
+  },
+  {
+    answer: '均田免粮',
+    indexes: 'lzcqytcsmkhsdnmyh',
+    question: '李自成起义提出什么口号,深得农民拥护?',
+    id: 23616
+  },
+  {
+    answer: '《茶经》',
+    indexes: 'cslyzysms',
+    question: '“茶圣”陆羽著有什么书?',
+    id: 23617
+  },
+  {
+    answer: '李鸿章',
+    indexes: 'xlrznwccydbqzfqdxcty',
+    question: '下列人中,那位曾参与代表清政府签订《辛丑条约》?',
+    id: 23618
+  },
+  {
+    answer: '八年',
+    indexes: 'ywsgdfddsfzlgjlljn',
+    question: '由吴三桂等发动的“三藩之乱”共经历了几年?',
+    id: 23619
+  },
+  {
+    answer: '庐陵王',
+    indexes: 'tzzlxbqmwztfchsfwsm',
+    question: '唐中宗李显被其母(武则天)废黜后,受封为什么?',
+    id: 23620
+  },
+  {
+    answer: '薛仁贵',
+    indexes: 'tgzsqtjgkprzprszaddhfyswdhdltjewrzfgl',
+    question: '唐高宗时期,唐军攻克平壤,在平壤设置安东督护府,以谁为督护,带领唐军二万人驻防高丽?',
+    id: 23621
+  },
+  {
+    answer: '波斯',
+    indexes: 'ssmgdgyscxzqwdscxzsgdnl',
+    question: '史上蒙古帝国有三次西征,请问第三次西征是攻打哪里?',
+    id: 23622
+  },
+  {
+    answer: '二十四',
+    indexes: 'hqbqssjs',
+    question: '霍去病去世时几岁?',
+    id: 23623
+  },
+  {
+    answer: '兄弟',
+    indexes: 'scysqssmgx',
+    question: '孙策与孙权是什么关系?',
+    id: 23624
+  },
+  {
+    answer: '宋慈',
+    indexes: 'sjdybfyxzzxyjldzzss',
+    question: '世界第一部法医学专著《洗冤集录》的作者是谁?',
+    id: 23625
+  },
+  {
+    answer: '张仲景',
+    indexes: 'zglssdsrzyszdss',
+    question: '中国历史上的圣人中,“医圣”指的是谁?',
+    id: 23626
+  },
+  {
+    answer: '《道德经》',
+    indexes: 'lzsdjxpdcsrlzym',
+    question: '老子是道家学派的创始人。《老子》又名?',
+    id: 23627
+  },
+  {
+    answer: '顾恺之',
+    indexes: 'gdmhlsftdzzss',
+    question: '古代名画“洛神赋图”的作者是谁?',
+    id: 23628
+  },
+  {
+    answer: '209',
+    indexes: 'gyqdsncswgldlycsshddnmqy',
+    question: '公元前多少年,陈胜、吴广领导了一次声势浩大的农民起义?',
+    id: 23629
+  },
+  {
+    answer: '曹操',
+    indexes: 'dzrlyhstzcljbfkcwgdljdyz',
+    question: '董卓入洛阳后,谁逃至陈留聚兵反抗,成为关东联军的一支?',
+    id: 23630
+  },
+  {
+    answer: '《天工开物》',
+    indexes: 'syxsmmymddsrtcbzgyblcqgdszbsssm',
+    question: '宋应星是明末有名的读书人,他曾编纂过一本流传千古的书,这本书是什么?',
+    id: 23631
+  },
+  {
+    answer: '第四',
+    indexes: 'hmdshgwdddjgez',
+    question: '汉明帝是汉光武帝的第几个儿子?',
+    id: 23632
+  },
+  {
+    answer: '太平公主',
+    indexes: 'gy710nlljyslhfdzbylqfldcd',
+    question: '公元710年,李隆基与谁联合发动政变,拥立其父李旦称帝?',
+    id: 23633
+  },
+  {
+    answer: '李斯',
+    indexes: 'qccgyxsdbgzshrsx',
+    question: '秦朝传国玉玺上的八个字是何人所写?',
+    id: 23634
+  },
+  {
+    answer: '和氏璧',
+    indexes: 'cgyxzzgsqycsm',
+    question: '传国玉玺在战国时期又称什么?',
+    id: 23635
+  },
+  {
+    answer: '散文',
+    indexes: 'tsbdjsasmlpdd',
+    question: '“唐宋八大家”是按什么来评定的?',
+    id: 23636
+  },
+  {
+    answer: '李靖',
+    indexes: 'tccnywdjjpdlpfnsddtjtss',
+    question: '唐朝初年,一位大将军平定了频繁闹事的东突厥,他是谁?',
+    id: 23637
+  },
+  {
+    answer: '张旭',
+    indexes: 'zglssdsrzcszdss',
+    question: '中国历史上的圣人中,“草圣”指的是谁?',
+    id: 23638
+  },
+  {
+    answer: '尉迟恭',
+    indexes: 'lsmzxwmslxdhmsdbqxlybg',
+    question: '李世民在玄武门杀了兄弟后,命谁带兵去向李渊逼宫?',
+    id: 23639
+  },
+  {
+    answer: '三十八年',
+    indexes: 'zcgsftwdshlzmzyzdspjldsn',
+    question: '郑成功收复台湾岛时,荷兰殖民者已在岛上盘踞了多少年?',
+    id: 23640
+  },
+  {
+    answer: '《四库全书》',
+    indexes: 'qlhdwlcfsmxfzmdzsltygdjzjzlnbqg',
+    question: '乾隆皇帝为了存放什么效仿著名的藏书楼“天一阁”的建筑建造了南北七阁?',
+    id: 23641
+  },
+  {
+    answer: '16年',
+    indexes: 'lssxjdbwzlcxdj',
+    question: '历史上西晋的“八王之乱”持续多久?',
+    id: 23642
+  },
+  {
+    answer: '李膺',
+    indexes: 'dhhdsqfsldgzhjyswsddrttsbbgdtmdzsjgbdwg',
+    question:
+      '东汉桓帝时期发生了“党锢之祸”,将以谁为首的党人统统搜捕,并规定他们都终身禁锢,不得为官?',
+    id: 23643
+  },
+  {
+    answer: '16岁',
+    indexes: 'hwdlcjsdjwd',
+    question: '汉武帝刘彻几岁登基为帝?',
+    id: 23644
+  },
+  {
+    answer: '褒姒',
+    indexes: 'fhxzhszywwlths',
+    question: '烽火戏诸侯是周幽王为了讨好谁?',
+    id: 23645
+  },
+  {
+    answer: '湘军',
+    indexes: 'cgfsqmdydmjtlldjdjsm',
+    question: '曾国藩是清末的一代名将,他率领的军队叫什么?',
+    id: 23646
+  },
+  {
+    answer: '拖雷',
+    indexes: 'mgdsrdhmgssdez',
+    question: '蒙古第四任大汗蒙哥是谁的儿子?',
+    id: 23647
+  },
+  {
+    answer: '十全老人',
+    indexes: 'qlzwhfmyhdjsdtgzhdhswgyctzxwsm',
+    question: '乾隆在文化方面有很大建树,但他更自豪的还是武功,因此他自诩为什么?',
+    id: 23648
+  },
+  {
+    answer: '《七略》',
+    indexes: 'hcdsqylxlxfzbcdybwgzzdtsflmljsm',
+    question: '汉成帝时期,由刘向、刘歆父子编成的一部我国最早的图书分类目录叫什么?',
+    id: 23649
+  },
+  {
+    answer: '康有为',
+    indexes: 'wxljzbbks',
+    question: '“戊戌六君子”不包括谁?',
+    id: 23650
+  },
+  {
+    answer: '康熙',
+    indexes: 'twynghdzzsqzsbrqcbt',
+    question: '台湾于哪个皇帝执政时期正式并入清朝版图?',
+    id: 23651
+  },
+  {
+    answer: '太真',
+    indexes: 'txzryyhzqcjrjngchwsm',
+    question: '唐玄宗让杨玉环自请出家,入居南宫,赐号为什么?',
+    id: 23652
+  },
+  {
+    answer: '雍正',
+    indexes: 'qcsdjjfhgjjczzsznghdzzqjsld',
+    question: '清朝时的军机房(后改军机处)最早是在哪个皇帝执政期间设立的?',
+    id: 23653
+  },
+  {
+    answer: '编年体',
+    indexes: 'bsrsmgsymzmdzjnmtszdzztjsybysmwxsdlssn',
+    question: '北宋人司马光是一名著名的作家,那么他所著的《资治通鉴》是一部以什么为形式的历史书呢?',
+    id: 23654
+  },
+  {
+    answer: '安史之乱',
+    indexes: 'yypgddljpnsyyqzssmlssj',
+    question: '“渔阳鼙鼓动地来,惊破霓裳羽衣曲”,这是什么历史事件?',
+    id: 23655
+  },
+  {
+    answer: '公元881年',
+    indexes: 'gy875nhcqybynngrza',
+    question: '公元875年,黄巢起义,并于哪年攻入长安?',
+    id: 23656
+  },
+  {
+    answer: '《淮南子》',
+    indexes: 'sfsxyygwjlyzyytdzddyzddyczwgzmdnbzp',
+    question: '“四方上下曰宇,古往今来曰宙,以喻天地”,这段对宇宙的定义,出自我国著名的哪部作品?',
+    id: 23657
+  },
+  {
+    answer: '卫国',
+    indexes: 'cqzgqjdzhgzhygwyqgzsdsng',
+    question: '春秋战国期间的诸侯国最后一个亡于秦国之手的是哪国?',
+    id: 23658
+  },
+  {
+    answer: '五',
+    indexes: 'dtkgesggczfxlpmdj',
+    question: '大唐开国二十国功臣中,房玄龄排名第几?',
+    id: 23659
+  },
+  {
+    answer: '朝鲜',
+    indexes: 'gy1627nhtjpbjmlnlsqcwhjdfsg',
+    question: '公元1627年,皇太极派兵剿灭了哪里,使其成为后金的附属国?',
+    id: 23660
+  },
+  {
+    answer: '煤山',
+    indexes: 'mczhdznlzy',
+    question: '明崇祯皇帝在哪里自缢?',
+    id: 23661
+  },
+  {
+    answer: '大月氏',
+    indexes: 'zjcsxytzcdmdsdbhdgqllnggj',
+    question: '张蹇出使西域,他最初的目的是代表汉帝国去联络哪个国家?',
+    id: 23662
+  },
+  {
+    answer: '西晋灭吴',
+    indexes: 'qxtscjdypjfcstlyxdzjssdsnglssj',
+    question: '“千寻铁索沉江底,一片降帆出石头”。刘禹锡的这句诗说的是哪个历史事件?',
+    id: 23663
+  },
+  {
+    answer: '完颜亮',
+    indexes: 'stdlsqgzslhhdnfmssjdhbnx',
+    question: '谁听到了“三秋桂子,十里荷花”的南方描述,遂决定挥兵南下?',
+    id: 23664
+  },
+  {
+    answer: '苏轼',
+    indexes: 'jmszlssdsj',
+    question: '“寂寞沙洲冷”是谁的诗句?',
+    id: 23665
+  },
+  {
+    answer: '白马寺',
+    indexes: 'hmdmlzlyczjzlzgdyzfjsyqwzzsyjsm',
+    question: '汉明帝命令在洛阳城中建造了中国第一座佛教寺院,请问这座寺院叫什么?',
+    id: 23666
+  },
+  {
+    answer: '郑国渠',
+    indexes: 'zgsntsqdjcsgzpycwwy',
+    question: '战国时哪条水渠的建成使关中平原成为沃野?',
+    id: 23667
+  },
+  {
+    answer: '子路',
+    indexes: 'kzsdbxcffyhsdssnhtyqn',
+    question: '孔子说:道不行,乘桴浮于海,说的是谁能和他一起呢?',
+    id: 23668
+  },
+  {
+    answer: '2年',
+    indexes: 'sqzdljnhd',
+    question: '宋钦宗当了几年皇帝?',
+    id: 23669
+  },
+  {
+    answer: '孙皓',
+    indexes: 'dwzhywhdss',
+    question: '东吴最后一位皇帝是谁?',
+    id: 23670
+  },
+  {
+    answer: '项羽',
+    indexes: 'bwbjsmcgssyxcmdzsxz',
+    question: '“霸王别姬”“四面楚歌”是谁英雄迟暮的真实写照?',
+    id: 23671
+  },
+  {
+    answer: '1587年',
+    indexes: 'hryxszyzmdwlswnqwwlswnsgydsn',
+    question: '黄仁宇先生著有著名的《万历十五年》,请问万历十五年是公元多少年?',
+    id: 23672
+  },
+  {
+    answer: '董卓',
+    indexes: 'hldshhthzzyshjdmmshgzsrlywy',
+    question: '汉灵帝死后,何太后执政,袁绍、何进等密谋杀宦官,招谁入洛阳为援?',
+    id: 23673
+  },
+  {
+    answer: '26',
+    indexes: 'scssdd',
+    question: '孙策死时多大?',
+    id: 23674
+  },
+  {
+    answer: '柳三变',
+    indexes: 'bscrlyymjsm',
+    question: '北宋词人柳永原名叫什么?',
+    id: 23675
+  },
+  {
+    answer: '文王八卦',
+    indexes: 'htbgycsm',
+    question: '后天八卦又称什么?',
+    id: 23676
+  },
+  {
+    answer: '四年',
+    indexes: 'xyhlbwzddwjxljndchzz',
+    question: '项羽和刘邦为争夺帝位,进行了几年的楚汉战争?',
+    id: 23677
+  },
+  {
+    answer: '天可汗',
+    indexes: 'ttzsqjwtjszpdmggynwslfwtcbfzmzzclsmwsm',
+    question: '唐太宗时期将为突厥所支配的蒙古高原纳为势力范围,唐朝北方诸民族专称李世民为什么?',
+    id: 23678
+  },
+  {
+    answer: '《尔雅》',
+    indexes: 'zgzzdcdjsm',
+    question: '中国最早的词典叫什么?',
+    id: 23679
+  },
+  {
+    answer: '宋朝',
+    indexes: 'mxbtdzzsksncr',
+    question: '《梦溪笔谈》的作者沈括是哪朝人?',
+    id: 23680
+  },
+  {
+    answer: '十六年',
+    indexes: 'lhqhgzqdsnswglsswsbddntzzzy',
+    question: '吕后前后共掌权多少年,是我国历史上为数不多的女统治者之一?',
+    id: 23681
+  },
+  {
+    answer: '第三',
+    indexes: 'tszlhstxzddjgez',
+    question: '唐肃宗李亨是唐玄宗的第几个儿子?',
+    id: 23682
+  },
+  {
+    answer: '司马相如',
+    indexes: 'hwddhhcajbdrlgthlyqjqsxlzmf',
+    question: '汉武帝的皇后陈阿娇被打入冷宫,她花了一千金求谁写了《长门赋》?',
+    id: 23683
+  },
+  {
+    answer: '12',
+    indexes: 'jrbslzhsdcywdyxzwbdyndhddhxhygjlljghd',
+    question: '假如不算吕雉和少帝、昌邑王等一些在位不到一年的皇帝的话,西汉一共经历了几个皇帝?',
+    id: 23684
+  },
+  {
+    answer: '夏历',
+    indexes: 'z4000dnqdxcjksyllfsyrmdbzggldctlfjzsm',
+    question: '在4000多年前的夏朝,就开始有了历法,所以人们都把中国古老的传统历法叫做什么?',
+    id: 23685
+  },
+  {
+    answer: '28年',
+    indexes: 'txzlljzzcqqgydlqswydsssckyzzqwkyzgnhcxldsn',
+    question:
+      '唐玄宗李隆基执政初期,全国遇到了前所未有的盛世,史称“开元之治”,请问“开元”这个年号持续了多少年?',
+    id: 23686
+  },
+  {
+    answer: '红巾军',
+    indexes: 'ychqymggzwzdtzjjdgztbshzrmdldhnysfckdzlsmqydbf',
+    question:
+      '元朝后期,以蒙古贵族为主的统治阶级,对各族特别是汉族人民的掠夺和奴役十分残酷,导致了什么起义的爆发?',
+    id: 23687
+  },
+  {
+    answer: '北庭都护府',
+    indexes: '702nwztslsmjgglxtjgd',
+    question: '702年,武则天设立什么机构管理西突厥故地?',
+    id: 23688
+  },
+  {
+    answer: '圣祖',
+    indexes: 'qkxddmhssm',
+    question: '清康熙帝的庙号是什么?',
+    id: 23689
+  },
+  {
+    answer: '毕升',
+    indexes: 'hzyssssfmd',
+    question: '活字印刷术是谁发明的?',
+    id: 23690
+  },
+  {
+    answer: '雍正',
+    indexes: 'tdrmzysxynghdzwsq',
+    question: '摊丁入亩主要实行于哪个皇帝在位时期?',
+    id: 23691
+  },
+  {
+    answer: '唐明皇',
+    indexes: 'txzlljdshssmjc',
+    question: '唐玄宗李隆基的谥号是什么?(简称)',
+    id: 23692
+  },
+  {
+    answer: '金',
+    indexes: 'sxhyhsgzxngcc',
+    question: '“绍兴和议”后,宋高宗向哪国称臣?',
+    id: 23693
+  },
+  {
+    answer: '耶律阿保机',
+    indexes: 'ssjlllc',
+    question: '是谁建立了辽朝?',
+    id: 23694
+  },
+  {
+    answer: '206',
+    indexes: 'gyqdsnqcblblddwzlltfl',
+    question: '公元前多少年,秦朝被刘邦领导的武装力量推翻了?',
+    id: 23695
+  },
+  {
+    answer: '魏、蜀、吴',
+    indexes: 'txsfsztxflwnjg',
+    question: '天下三分是指天下分裂为哪几国',
+    id: 23696
+  },
+  {
+    answer: '望庐山瀑布',
+    indexes: 'yxngslbdzp',
+    question: '以下哪个是李白的作品？',
+    id: 23697
+  },
+  {
+    answer: '晋',
+    indexes: 'ngszgsqjczy',
+    question: '哪个是中国省区简称之一？',
+    id: 23698
+  },
+  {
+    answer: '苏步青',
+    indexes: 'xlnywshrsxj',
+    question: '下列哪一位是华人数学家?',
+    id: 23701
+  },
+  {
+    answer: '克',
+    indexes: 'xlnygdwsyzldw',
+    question: '下列哪一个单位属于质量单位？',
+    id: 23702
+  },
+  {
+    answer: '闪米特族',
+    indexes: 'nygbszgdssmz',
+    question: '哪一个不是中国的少数民族?',
+    id: 23703
+  },
+  {
+    answer: '钊',
+    indexes: 'ngsyppbssdd',
+    question: '哪个属于偏旁部首是刂的？',
+    id: 23704
+  },
+  {
+    answer: '武松',
+    indexes: 'yxngbssgyyzcxgdrw',
+    question: '以下哪个不是《三国演义》中出现过的人物？',
+    id: 23705
+  },
+  {
+    answer: '华盛顿哥伦比亚特区',
+    indexes: 'qzcyxngsmgsd',
+    question: '请指出以下哪个是美国首都？',
+    id: 23706
+  },
+  {
+    answer: '长乐宫',
+    indexes: 'xmnyzshcgd',
+    question: '下面哪一座是汉朝宫殿？',
+    id: 23707
+  },
+  {
+    answer: '稻穗',
+    indexes: 'ngsghdnr',
+    question: '哪个是国徽的内容？',
+    id: 23708
+  },
+  {
+    answer: '倚天屠龙记',
+    indexes: 'qzcjyzpdsnyg',
+    question: '请指出金庸作品的是哪一个?',
+    id: 23709
+  },
+  {
+    answer: '景德镇',
+    indexes: 'xlngsjxsddm',
+    question: '下列哪个是江西省的地名?',
+    id: 23710
+  },
+  {
+    answer: '厦门',
+    indexes: 'xlngstwddm',
+    question: '下列哪个是台湾的地名?',
+    id: 23711
+  },
+  {
+    answer: '岸本齐史',
+    indexes: 'yxnwsmhj',
+    question: '以下哪位是漫画家？',
+    id: 23712
+  },
+  {
+    answer: '青岛',
+    indexes: 'xlngssdsddm',
+    question: '下列哪个是山东省的地名?',
+    id: 23713
+  },
+  {
+    answer: '4',
+    indexes: 'xlnygsqs',
+    question: '下列哪一个是奇数？',
+    id: 23714
+  },
+  {
+    answer: '哈姆雷特',
+    indexes: 'xlnybjdbsyzggddw',
+    question: '下列哪一本经典不属于中国古典读物？',
+    id: 23715
+  },
+  {
+    answer: '手冢治虫',
+    indexes: 'yxnwsmhj',
+    question: '以下哪位是漫画家？',
+    id: 23716
+  },
+  {
+    answer: '14',
+    indexes: '59',
+    question: '5+9=?',
+    id: 23717
+  },
+  {
+    answer: '摩托罗拉',
+    indexes: 'yxsysjppds',
+    question: '以下属于手机品牌的是：',
+    id: 23718
+  },
+  {
+    answer: '轻浮',
+    indexes: 'yxngcsbyc',
+    question: '以下哪个词是贬义词？',
+    id: 23719
+  },
+  {
+    answer: '国',
+    indexes: 'yxhzbsysxjgds',
+    question: '以下汉字不属于上下结构的是：',
+    id: 23720
+  },
+  {
+    answer: '高雄',
+    indexes: 'xlngstwddm',
+    question: '下列哪个是台湾的地名?',
+    id: 23721
+  },
+  {
+    answer: '燕子',
+    indexes: 'xlnygsykyfdn',
+    question: '下列哪一个属于可以飞的鸟？',
+    id: 23722
+  },
+  {
+    answer: '维吾尔族',
+    indexes: 'nygbszgdssmz',
+    question: '哪一个不是中国的少数民族?',
+    id: 23723
+  },
+  {
+    answer: '盘',
+    indexes: 'yxhzbsyzyjgds',
+    question: '以下汉字不属于左右结构的是：',
+    id: 23724
+  },
+  {
+    answer: '侯',
+    indexes: 'ngsyppbssrd',
+    question: '哪个属于偏旁部首是亻的？',
+    id: 23725
+  },
+  {
+    answer: '中国石油',
+    indexes: 'xmngbsITgs',
+    question: '下面哪个不是IT公司？',
+    id: 23726
+  },
+  {
+    answer: '外交学院',
+    indexes: 'yxngdxddzzbj',
+    question: '以下哪个大学的地址在北京？',
+    id: 23727
+  },
+  {
+    answer: '朱由检',
+    indexes: 'xlnwsmchd',
+    question: '下列哪位是明朝皇帝？',
+    id: 23728
+  },
+  {
+    answer: '司马懿',
+    indexes: 'lygessgcbbkxmnw',
+    question: '凌烟阁二十四功臣不包括下面哪位？',
+    id: 23729
+  },
+  {
+    answer: '邵佳一',
+    indexes: 'sszgddyccjsjbjsjddqy',
+    question: '谁是中国队第一次参加世界杯决赛阶段的球员',
+    id: 23730
+  },
+  {
+    answer: '邋遢',
+    indexes: 'ngsbyc',
+    question: '哪个是贬义词？',
+    id: 23731
+  },
+  {
+    answer: '诸葛梓岐',
+    indexes: 'xmsbssgyyzdrw',
+    question: '下面谁不是《三国演义》中的人物？',
+    id: 23732
+  },
+  {
+    answer: '黄山',
+    indexes: 'xmnygjdbzbjsjn',
+    question: '下面哪一个景点不在北京市境内？',
+    id: 23733
+  },
+  {
+    answer: '勇敢',
+    indexes: 'yxngcsbyc',
+    question: '以下哪个词是褒义词？',
+    id: 23734
+  },
+  {
+    answer: '燕子',
+    indexes: 'xlnygsykyfdn',
+    question: '下列哪一个属于可以飞的鸟？',
+    id: 23736
+  },
+  {
+    answer: '六',
+    indexes: 'hzyjbh',
+    question: '“好”字有几笔画？',
+    id: 23737
+  },
+  {
+    answer: '渤海银行',
+    indexes: 'yxngsyyxzdwdx',
+    question: '以下哪个属于银行中的“五大行”？',
+    id: 23738
+  },
+  {
+    answer: '麦克白',
+    indexes: 'xlnybjdbsyzggddw',
+    question: '下列哪一本经典不属于中国古典读物？',
+    id: 23739
+  },
+  {
+    answer: '刘胜',
+    indexes: 'lbshdkghdxcshjdzzzsjwsdhd',
+    question: '刘备，蜀汉的开国皇帝，相传是汉景帝之子中山靖王谁的后代。',
+    id: 23740
+  },
+  {
+    answer: '一只',
+    indexes: 'xhdbcxsqljzy',
+    question: '夏侯惇被曹性射去了几支眼?',
+    id: 23741
+  },
+  {
+    answer: '宋江',
+    indexes: 'nwslshh',
+    question: '哪位是梁山好汉？',
+    id: 23742
+  },
+  {
+    answer: '乌兰巴托',
+    indexes: 'yxngcsbsyzg',
+    question: '以下哪个城市不属于中国？',
+    id: 23743
+  },
+  {
+    answer: '索姆河战役',
+    indexes: 'yxncbsdecsjdzzdzmzy',
+    question: '以下哪场不是第二次世界大战中的著名战役？',
+    id: 23744
+  },
+  {
+    answer: '21级以内',
+    indexes: 'QQsgjtzjsdskyhdzdjfqwjsbdyzjdsjdwjkyhdjfn',
+    question:
+      'QQ三国军团战，击杀对手可以获得战斗积分，请问击杀不低于自己多少级的玩家可以获得积分呢？',
+    id: 23745
+  },
+  {
+    answer: '8',
+    indexes: 'glrwybydsb',
+    question: '国令任务一般有多少步？',
+    id: 23746
+  },
+  {
+    answer: '骗子',
+    indexes: 'zbfzpsrgyrzpdhhkybmfzzbcbdgjwpnmtyds',
+    question:
+      '【装备复制骗术】如果有人在频道喊话，可以帮忙复制装备、翅膀等高级物品，那么他一定是：',
+    id: 23747
+  },
+  {
+    answer: '果断拒绝',
+    indexes: 'zbfzpsyrgsnyffkymffzgjzbnyg',
+    question: '【装备复制骗术】有人告诉你有方法可以免费复制高级装备，你应该：',
+    id: 23748
+  },
+  {
+    answer: '不可以',
+    indexes: 'zbfzpsgjdzbcbdgjwpskytgmxtssdmffzm',
+    question: '【装备复制骗术】高级的装备、翅膀等高级物品时可以通过某些特殊手段免费复制吗？',
+    id: 23749
+  },
+  {
+    answer: '提高警惕，好友的号可能被盗',
+    indexes: 'dhpshytrxnjqjwpzsnyg',
+    question: '【盗号骗术】好友突然向你借钱借物品，这时你应该：',
+    id: 23750
+  },
+  {
+    answer: '提高警惕，好友的号可能被盗，发的是木马',
+    indexes: 'dhpshytrxnfsqgdwjhwlljzsnyg',
+    question: '【盗号骗术】好友突然向你发送奇怪的文件或网络链接，这时你应该：',
+    id: 23751
+  },
+  {
+    answer: '提高警惕，好友的号可能被盗',
+    indexes: 'dhpshyqljbdswxrdrdtmtrxwsygzwps',
+    question: '【盗号骗术】好友、情侣、结拜都是我信任的人，当他们突然想我索要贵重物品时：',
+    id: 23752
+  },
+  {
+    answer: '查看交易时物品和等级是否正确',
+    indexes: 'gfbtpspzwwsyxjdmzjxzplrpz1hpzlksqxsqsygssz1ygszmLdxxydzzqkwmyg',
+    question:
+      '【高仿摆摊骗术】骗子往往使用相近的名字进行诈骗，例如：“骗子1”和“骗子l”，看上去相似，其实一个是数字1，一个是字母L的小写，遇到这种情况，我们应该：',
+    id: 23753
+  },
+  {
+    answer: '再次交易时仔细查看物品是否正确',
+    indexes: 'gfbtpsjysyddqtwwfjyxydyhzjyydzzqkswmyg',
+    question:
+      '【高仿摆摊骗术】交易时，遇到当前摊位无法交易，需要等一会再交易，遇到这种情况时，我们应该：',
+    id: 23754
+  },
+  {
+    answer: '擦亮双眼，仔细查看',
+    indexes: 'gfbtpspzwwydjzdwpmcgjzwpjxjylryxjmmcdxmydzzqkwmyg',
+    question:
+      '【高仿摆摊骗术】骗子往往用低价值的物品，冒充高价值物品进行交易，例如：用橡胶木冒充帝休木，遇到这种情况，我们应该：',
+    id: 23755
+  },
+  {
+    answer: '无论骗子怎么说，都不要丢弃装备',
+    indexes: 'rzbpspztchygzsdpndqgzzbydzzqknyg',
+    question: '【扔装备骗术】骗子通常会以各种手段骗你丢弃贵重装备，遇到这种情况，你应该：',
+    id: 23756
+  },
+  {
+    answer: '购买守护神石进行绑定',
+    indexes: 'rzbpsdgjzbzyxdbhsds',
+    question: '【扔装备骗术】对高级装备最有效的保护手段是：',
+    id: 23757
+  },
+  {
+    answer: '提高警惕，对方可能是骗子',
+    indexes: 'hhjypsjysdftrsxwjxhhydzzqknyg',
+    question: '【换号交易骗术】交易时，对方突然说希望进行换号，遇到这种情况，你应该：',
+    id: 23758
+  },
+  {
+    answer: '要求进行换号交易的大概率是骗子',
+    indexes: 'hhjypsgyhhjysfzqds',
+    question: '【换号交易骗术】关于换号交易说法正确的是：',
+    id: 23759
+  },
+  {
+    answer: '提高警惕，确保自身贵重物品是否绑定',
+    indexes: 'PKpspzhtggzsdhyndkPKydzzqknyg',
+    question: '【PK骗术】骗子会通过各种手段，忽悠你打开PK，遇到这种情况，你应该：',
+    id: 23760
+  },
+  {
+    answer: '自身贵重装备是否绑定',
+    indexes: 'PKpskPKdshxyzy',
+    question: '【PK骗术】开PK的时候需要注意：',
+    id: 23761
+  },
+  {
+    answer: '提高警惕，对方可能是骗子',
+    indexes: 'wlpsyxztrymzjnscdnsfcbydzzqknyg',
+    question: '【网恋骗术】游戏中突然有妹纸加你，声称对你十分崇拜，遇到这种情况，你应该：',
+    id: 23762
+  },
+  {
+    answer: '一个抠脚大汉伪装的',
+    indexes: 'wlpsnxzdjnhybzpyqzsgzxgzpdjnxnsjskns',
+    question: '【网恋骗术】那些主动加你好友，并在朋友圈展示各种性感自拍的靓女型男，实际上可能是：',
+    id: 23763
+  },
+  {
+    answer: '骗子',
+    indexes: 'jmsgdpsjyhwchylxnscsclhzjngddsgdyqzxjyzzqkybs',
+    question:
+      '【寄卖三国点骗术】交易后完成后又联系你，声称算错了，会再给你更多的三国点，要求重新交易。这种情况一般是：',
+    id: 23764
+  },
+  {
+    answer: '该商家名字可能被仿冒，仔细核对后再交易',
+    indexes: 'jmsgdpsysjjysfxgsjdjjdzzqkybs',
+    question: '【寄卖三国点骗术】与商家交易时，发现该商家等级较低。这种情况一般是：',
+    id: 23765
+  },
+  {
+    answer: '提高警惕，客服不会私聊，可能遇到骗子了',
+    indexes: 'jkfpsdyrslnszjsQQsgkfsnyg',
+    question: '【假客服骗术】当有人私聊你，说自己是QQ三国客服时，你应该：',
+    id: 23766
+  },
+  {
+    answer: '提高警惕，核实对方身份后再深入沟通',
+    indexes: 'jkfpsQQyxwywgsdzcskffldyjxysjyzxgmmdczydzzqknyg',
+    question:
+      '【假客服骗术】QQ邮箱无缘无故收到自称是客服发来的邮件，需要手机验证、修改密码等操作。遇到这种情况你应该：',
+    id: 23767
+  },
+  {
+    answer: '下载的是木马文件，会导致自己号被盗',
+    indexes: 'zhpssczjbwyxlyhdhdxzjzsdsxynqwpxzzzqkybs',
+    question:
+      '【赠号骗术】声称自己不玩游戏了，有很多好东西直接赠送，但是需要你去网盘下载。这种情况一般是：',
+    id: 23768
+  },
+  {
+    answer: '查看他的账号等级',
+    indexes: 'gfmzpsyxzjccxyxgfmzmcgjwjzjdyxdbbffs',
+    question: '【高仿名字骗术】游戏中经常出现一些高仿名字冒充高级玩家，最简单有效的辨别方法是：',
+    id: 23769
+  },
+  {
+    answer: '仔细查看对方名字、等级相关信息是否正确',
+    indexes: 'gfmzpsyxzrhbmzygfmzzp',
+    question: '【高仿名字骗术】游戏中如何避免遭遇高仿名字诈骗？',
+    id: 23770
+  },
+  {
+    answer: '仔细查看担保人名字、等级相关信息是否正确',
+    indexes: 'dbjypsscwlaqqjjysxyzygbsymdrjxdbrhzdjyzzqknyg',
+    question:
+      '【担保交易骗术】声称为了安全起见，交易时需要找一个榜上有名的人进行担保，然后组队交易。这种情况你应该：',
+    id: 23771
+  },
+  {
+    answer: '不知道',
+    indexes: 'dbjypsydbrzcdjysfjnwwys',
+    question: '【担保交易骗术】有担保人在场的交易是否就能万无一失？',
+    id: 23772
+  },
+  {
+    answer: '仔细查看物品信息正确后再交易',
+    indexes: 'yjlzpsjxwpjysxmsfzqds',
+    question: '【以假乱真骗术】进行物品交易时，下面说法正确的是：',
+    id: 23773
+  },
+  {
+    answer: '擦亮双眼，仔细查看',
+    indexes: 'yjlzpsyxlmhypznddjwpmcgdjwpjxjywmyd',
+    question: '【以假乱真骗术】游戏里面会有骗子拿低等级物品，冒充高等级物品进行交易，我们应当：',
+    id: 23774
+  },
+  {
+    answer: '遇到骗子了',
+    indexes: 'zspszyxzslnscrsnyjncQbzzqkybs',
+    question: '【装熟骗术】在游戏中私聊你，声称认识你，要给你冲Q币，这种情况一般是：',
+    id: 23775
+  },
+  {
+    answer: '骗子的套路',
+    indexes: 'zspszyxzydxswjscbzdzmbsgdhcsgbxwynjyzzqkybs',
+    question:
+      '【装熟骗术】在游戏中遇到新手玩家，声称不知道怎么把三国点换成三国币，希望与你交易。这种情况一般是：',
+    id: 23776
+  },
+  {
+    answer: '他发的是木马，千万别信他',
+    indexes: 'mcshpszyxzyrzdslnstpyynysdhrntjQQrhjnfwjzzqkybs',
+    question:
+      '【冒充收货骗术】在游戏中，有人主动私聊你，说他朋友有你要收的货，让你添加QQ，然后给你发文件。这种情况一般是：',
+    id: 23777
+  },
+  {
+    answer: '骗子，发的都是木马',
+    indexes: 'mcshpszyxzrgyrxnfsgzwjljnmthykns',
+    question: '【冒充收货骗术】在游戏中，如果有人想你发送各种文件、链接，那么他很有可能是：',
+    id: 23778
+  },
+  {
+    answer: '白切鸡',
+    indexes: 'yxngbscc',
+    question: '以下哪个不是川菜？',
+    id: 23779
+  },
+  {
+    answer: '多情剑客无情剑',
+    indexes: 'qzcnygsgldzp',
+    question: '请指出哪一个是古龙的作品?',
+    id: 23780
+  },
+  {
+    answer: '眼球',
+    indexes: 'rthslbfbzgdqgs',
+    question: '人体含水量百分比最高的器官是？',
+    id: 23781
+  },
+  {
+    answer: '王允',
+    indexes: 'dcdyfss',
+    question: '貂蝉的义父是谁？',
+    id: 23782
+  },
+  {
+    answer: 'O',
+    indexes: 'xlnygsydhxs',
+    question: '下列哪一个是氧的化学式?',
+    id: 23783
+  },
+  {
+    answer: '色当战役',
+    indexes: 'yxncbsdecsjdzzdzmzy',
+    question: '以下哪场不是第二次世界大战中的著名战役?',
+    id: 23784
+  },
+  {
+    answer: '合纵连横',
+    indexes: 'sgyyzxlngsjyzglwg',
+    question: '《三国演义》中，下列哪个事件与诸葛亮无关',
+    id: 23785
+  }
+];

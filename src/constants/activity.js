@@ -1,5 +1,13 @@
 export const activity = [
   {
+    activityName: '勇闯北邙',
+    point: {
+      90: 40
+    },
+    period: [1, 2, 3, 4, 5],
+    difficulty: 1
+  },
+  {
     activityName: '军团战备收集',
     point: {
       90: 24
@@ -142,7 +150,7 @@ export const activity = [
     point: {
       90: 60
     },
-    difficulty: 2,
+    difficulty: 4,
     period: [6, 7],
     times: 2
   }

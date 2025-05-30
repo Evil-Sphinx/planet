@@ -8,7 +8,7 @@ import './index.less';
 const { Group } = Checkbox;
 
 const LEVEL_1 = 180;
-const LEVEL_2 = 300;
+const LEVEL_2 = 270;
 const LEVEL_3 = 350;
 
 const CHECK_BOX_NUM_PER_LINE = 3;
@@ -25,6 +25,8 @@ const Activity = () => {
 
   const dayOfWeek = new Date().getDay();
 
+  // activity.sort((a, b) => a.difficulty - b.difficulty);
+  // console.log('rank', JSON.stringify(activity));
   const todayActivity = activity
     .filter((item) => !item.period || item.period.includes(dayOfWeek))
     .sort((a, b) => a.difficulty - b.difficulty);

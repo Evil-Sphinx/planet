@@ -1,5 +1,6 @@
 {
   "name": "planet",
+  "homepage": "https://evil-sphinx.github.io/planet",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

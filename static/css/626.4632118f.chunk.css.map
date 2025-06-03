@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/626.4632118f.chunk.css","mappings":"AAAA,wBAEI,cAAJ,CAFA,sBAMI,cAAe,CACf,eADJ","sources":["views/question/index.less"],"sourcesContent":[".questionWrap {\n  .question {\n    font-size: 20px;\n  }\n\n  .answer {\n    font-size: 20px;\n    font-weight: bold;\n  }\n}\n\n@primary-color: #1DA57A;"],"names":[],"sourceRoot":""}

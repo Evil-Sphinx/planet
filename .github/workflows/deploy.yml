@@ -20,4 +20,3 @@ jobs:
         with:
           branch: gh-pages # 托管分支
           folder: build # React 打包目录
-          token: ${{ secrets.GITHUB_TOKEN }} # 关键！使用内置 token

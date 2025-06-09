@@ -7,8 +7,8 @@ export const activity = [
   { activityName: '灭鼠靖仓', point: { 90: 10 }, difficulty: 1 },
   { activityName: '谋士大赛', point: { 90: 20 }, difficulty: 1, period: [6] },
   { activityName: '于吉幻境', point: { 90: 40 }, difficulty: 2, period: [2, 4, 6] },
-  { activityName: '夜探西凉', point: { 90: 80 }, difficulty: 2, period: [1, 3, 5, 7], times: 4 },
-  { activityName: '苍龙的试炼', point: { 90: 20 }, difficulty: 2, period: [2, 4, 6, 7] },
+  { activityName: '夜探西凉', point: { 90: 80 }, difficulty: 2, period: [0, 1, 3, 5], times: 4 },
+  { activityName: '苍龙的试炼', point: { 90: 20 }, difficulty: 2, period: [0, 2, 4, 6] },
   { activityName: '击败野外BOSS', point: { 90: 40 }, difficulty: 3 },
   { activityName: '击败野外怪物', point: { 90: 20 }, difficulty: 3 },
   { activityName: '“画容道”拼图', point: { 90: 10 }, difficulty: 3 },
@@ -17,6 +17,6 @@ export const activity = [
   { activityName: '军团战备收集', point: { 90: 24 }, difficulty: 5, times: 2 },
   { activityName: '军团任务', point: { 90: 20 }, difficulty: 5, times: 5 },
   { activityName: '过关斩将', point: { 90: 40 }, difficulty: 6, times: 4 },
-  { activityName: '重镇龙华塔', point: { 90: 60 }, difficulty: 7, period: [6, 7], times: 2 },
+  { activityName: '重镇龙华塔', point: { 90: 60 }, difficulty: 7, period: [0, 6], times: 2 },
   { activityName: '国令募贤', point: { 90: 60 }, difficulty: 100, times: 2 }
 ];
